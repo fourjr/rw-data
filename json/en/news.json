@@ -1,0 +1,20 @@
+[
+    {
+        "name":"Update",
+        "iD":121,
+        "enabled":true,
+        "tID":"TID_NEWS_UPDATE_TITLE",
+        "infoTID":"TID_NEWS_UPDATE_TEXT",
+        "itemSWF":"sc\/ui.sc",
+        "itemExportName":"news_item",
+        "iconSWF":null,
+        "iconExportName":null,
+        "imageSWF":null,
+        "imageExportName":null,
+        "buttonUrl":"http:\/\/clashroyale.com\/blog\/news\/upcoming-balance-changes",
+        "buttonTID":"TID_NEWS_ITEM_BUTTON",
+        "rawTID":"NEWS_UPDATE_TITLE",
+        "rawInfoTID":"NEWS_UPDATE_TEXT",
+        "rawButtonTID":"NEWS_ITEM_BUTTON"
+    }
+]

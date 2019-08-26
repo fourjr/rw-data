@@ -1,0 +1,13 @@
+[
+    {
+        "name":"TeamLevel_1",
+        "tID":"TID_LVL1",
+        "jSON":"npc\/team_1.loc.json",
+        "locationDataForFirstOutpost":null,
+        "chest":null,
+        "noTimer":null,
+        "capture":null,
+        "gold":null,
+        "rawTID":"LVL1"
+    }
+]

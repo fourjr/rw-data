@@ -1,0 +1,22 @@
+[
+    {
+        "name":"SHOP_CYCLE_MANAGEMENT",
+        "objectType":"ShopCycleManagementConfiguration"
+    },
+    {
+        "name":"CARD_RELEASE_V2",
+        "objectType":"CardReleaseV2"
+    },
+    {
+        "name":"KILL_SWITCH",
+        "objectType":"KillSwitch"
+    },
+    {
+        "name":"TUTORIAL_TEST_GROUPS",
+        "objectType":"TutorialTestGroups"
+    },
+    {
+        "name":"CLAN_CHEST",
+        "objectType":"ClanChest"
+    }
+]

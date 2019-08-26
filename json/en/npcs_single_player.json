@@ -1,0 +1,57 @@
+[
+    {
+        "name":"Tutorial_1",
+        "tID":"BASIC TRAINING",
+        "jSON":"npc\/tutorial_1.loc.json",
+        "locationDataForFirstOutpost":null,
+        "chest":"TutorialChest1",
+        "noTimer":true,
+        "capture":null,
+        "gold":15,
+        "rawTID":"NPC_TUTORIAL_1"
+    },
+    {
+        "name":"Tutorial_2",
+        "tID":"EXPLOSIVES TRAINING",
+        "jSON":"npc\/tutorial_2.loc.json",
+        "locationDataForFirstOutpost":null,
+        "chest":"TutorialChest2",
+        "noTimer":true,
+        "capture":null,
+        "gold":15,
+        "rawTID":"NPC_TUTORIAL_2"
+    },
+    {
+        "name":"Tutorial_3",
+        "tID":"AIRDROP TRAINING",
+        "jSON":"npc\/tutorial_3.loc.json",
+        "locationDataForFirstOutpost":null,
+        "chest":"TutorialChest3",
+        "noTimer":true,
+        "capture":null,
+        "gold":15,
+        "rawTID":"NPC_TUTORIAL_3"
+    },
+    {
+        "name":"Tutorial_4",
+        "tID":"ADVANCED TRAINING",
+        "jSON":"npc\/tutorial_4.loc.json",
+        "locationDataForFirstOutpost":"Forest_20",
+        "chest":"TutorialChest4",
+        "noTimer":true,
+        "capture":true,
+        "gold":15,
+        "rawTID":"NPC_TUTORIAL_4"
+    },
+    {
+        "name":"Forest_NPC_1",
+        "tID":"BONUS TRAINING",
+        "jSON":"npc\/forest_npc_1.loc.json",
+        "locationDataForFirstOutpost":null,
+        "chest":"Common",
+        "noTimer":true,
+        "capture":null,
+        "gold":15,
+        "rawTID":"NPC_1_1"
+    }
+]

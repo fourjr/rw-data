@@ -1,0 +1,29 @@
+[
+    {
+        "name":"Gold1",
+        "tID":"BAG OF GOLD",
+        "resource":"Gold",
+        "amount":1000,
+        "iconSWF":"sc\/ui_portraits.sc",
+        "iconExportName":"shop_currency_gold_01",
+        "rawTID":"RESOURCE_PACK_GOLD_SMALL"
+    },
+    {
+        "name":"Gold2",
+        "tID":"BARREL OF GOLD",
+        "resource":"Gold",
+        "amount":10000,
+        "iconSWF":"sc\/ui_portraits.sc",
+        "iconExportName":"shop_currency_gold_02",
+        "rawTID":"RESOURCE_PACK_GOLD_MEDIUM"
+    },
+    {
+        "name":"Gold3",
+        "tID":"TRUCK OF GOLD",
+        "resource":"Gold",
+        "amount":100000,
+        "iconSWF":"sc\/ui_portraits.sc",
+        "iconExportName":"shop_currency_gold_03",
+        "rawTID":"RESOURCE_PACK_GOLD_BIG"
+    }
+]
