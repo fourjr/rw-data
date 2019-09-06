@@ -50132,7 +50132,7 @@
             "triggerEffect":null,
             "groundLayer":null,
             "isTank":null,
-            "scId":50000000,
+            "scId":5000000,
             "rawTID":"BUILDING_MORTAR"
         },
         {
@@ -50359,7 +50359,7 @@
             "triggerEffect":null,
             "groundLayer":null,
             "isTank":null,
-            "scId":50000001,
+            "scId":5000001,
             "rawTID":"BUILDING_MINE"
         },
         {
@@ -50586,7 +50586,7 @@
             "triggerEffect":null,
             "groundLayer":null,
             "isTank":null,
-            "scId":50000002,
+            "scId":5000002,
             "rawTID":"BUILDING_WALL"
         },
         {
@@ -50813,7 +50813,7 @@
             "triggerEffect":null,
             "groundLayer":null,
             "isTank":null,
-            "scId":50000003,
+            "scId":5000003,
             "rawTID":"BUILDING_CANNON"
         },
         {
@@ -51040,7 +51040,7 @@
             "triggerEffect":null,
             "groundLayer":null,
             "isTank":null,
-            "scId":50000004,
+            "scId":5000004,
             "rawTID":"BUILDING_GOLD"
         },
         {
@@ -51267,7 +51267,7 @@
             "triggerEffect":null,
             "groundLayer":null,
             "isTank":null,
-            "scId":50000005,
+            "scId":5000005,
             "rawTID":"BUILDING_STAR_BOX_BIG"
         },
         {
@@ -51494,7 +51494,7 @@
             "triggerEffect":null,
             "groundLayer":null,
             "isTank":null,
-            "scId":50000006,
+            "scId":5000006,
             "rawTID":"BUILDING_STAR_BOX"
         },
         {
@@ -51721,7 +51721,7 @@
             "triggerEffect":"lid pop",
             "groundLayer":true,
             "isTank":null,
-            "scId":50000007,
+            "scId":5000007,
             "rawTID":"BUILDING_PLUMBER_HUT"
         },
         {
@@ -51948,7 +51948,7 @@
             "triggerEffect":null,
             "groundLayer":null,
             "isTank":null,
-            "scId":50000008,
+            "scId":5000008,
             "rawTID":"GENERATE_UNIT_POS"
         },
         {
@@ -52175,7 +52175,7 @@
             "triggerEffect":null,
             "groundLayer":null,
             "isTank":null,
-            "scId":50000009,
+            "scId":5000009,
             "rawTID":"BUILDING_CLUSTER_BOMB"
         },
         {
@@ -52402,7 +52402,7 @@
             "triggerEffect":null,
             "groundLayer":null,
             "isTank":null,
-            "scId":50000010,
+            "scId":5000010,
             "rawTID":"BUILDING_GATLING"
         },
         {
@@ -52629,7 +52629,7 @@
             "triggerEffect":null,
             "groundLayer":null,
             "isTank":null,
-            "scId":50000011,
+            "scId":5000011,
             "rawTID":"BUILDING_BOMB"
         },
         {
@@ -52856,7 +52856,7 @@
             "triggerEffect":null,
             "groundLayer":null,
             "isTank":null,
-            "scId":50000012,
+            "scId":5000012,
             "rawTID":"BUILDING_FREEZE_TRAP"
         },
         {
@@ -53083,7 +53083,7 @@
             "triggerEffect":null,
             "groundLayer":null,
             "isTank":null,
-            "scId":50000013,
+            "scId":5000013,
             "rawTID":"GENERATE_UNIT_POS"
         },
         {
@@ -53310,7 +53310,7 @@
             "triggerEffect":null,
             "groundLayer":null,
             "isTank":null,
-            "scId":50000014,
+            "scId":5000014,
             "rawTID":"BUILDING_PLASMA"
         },
         {
@@ -53537,7 +53537,7 @@
             "triggerEffect":null,
             "groundLayer":null,
             "isTank":null,
-            "scId":50000015,
+            "scId":5000015,
             "rawTID":"BUILDING_BLACK_NINJA_TRAP"
         },
         {
@@ -53764,7 +53764,7 @@
             "triggerEffect":null,
             "groundLayer":null,
             "isTank":null,
-            "scId":50000016,
+            "scId":5000016,
             "rawTID":"BUILDING_TESLA"
         },
         {
@@ -53991,7 +53991,7 @@
             "triggerEffect":null,
             "groundLayer":null,
             "isTank":null,
-            "scId":50000017,
+            "scId":5000017,
             "rawTID":"BUILDING_ROCKET_PLATFORM"
         },
         {
@@ -54218,7 +54218,7 @@
             "triggerEffect":null,
             "groundLayer":null,
             "isTank":null,
-            "scId":50000018,
+            "scId":5000018,
             "rawTID":"BUILDING_DUMMY"
         },
         {
@@ -54445,7 +54445,7 @@
             "triggerEffect":null,
             "groundLayer":null,
             "isTank":null,
-            "scId":50000019,
+            "scId":5000019,
             "rawTID":"BUILDING_BOMB"
         },
         {
@@ -54672,7 +54672,7 @@
             "triggerEffect":null,
             "groundLayer":null,
             "isTank":null,
-            "scId":50000020,
+            "scId":5000020,
             "rawTID":"BUILDING_GOLD"
         },
         {
@@ -54899,7 +54899,7 @@
             "triggerEffect":null,
             "groundLayer":null,
             "isTank":null,
-            "scId":50000021,
+            "scId":5000021,
             "rawTID":"BUILDING_STAR_BOX"
         }
     ],
@@ -62144,7 +62144,7 @@
             "abilityIconFileName":"sc\/ui_portraits.sc",
             "abilityIconExportName":"icon_ability_marine",
             "previewTriggerTime":8500,
-            "scId":48000000,
+            "scId":4800000,
             "rawTID":"COMMNADER_CARD_SOLDIER",
             "rawInfoTID":"COMMNADER_CARD_INFO_SOLDIER"
         },
@@ -62403,7 +62403,7 @@
             "abilityIconFileName":"sc\/ui_portraits.sc",
             "abilityIconExportName":"icon_ability_grenade_mama",
             "previewTriggerTime":3000,
-            "scId":48000001,
+            "scId":4800001,
             "rawTID":"COMMANDER_CARD_GRENADE",
             "rawInfoTID":"COMMANDER_CARD_INFO_GRENADE"
         },
@@ -62662,7 +62662,7 @@
             "abilityIconFileName":"sc\/ui_portraits.sc",
             "abilityIconExportName":"icon_ability_dino",
             "previewTriggerTime":12000,
-            "scId":48000002,
+            "scId":4800002,
             "rawTID":"COMMNADER_CARD_DINO",
             "rawInfoTID":"COMMNADER_CARD_INFO_DINO"
         },
@@ -62921,7 +62921,7 @@
             "abilityIconFileName":"sc\/ui_portraits.sc",
             "abilityIconExportName":"icon_ability_bear",
             "previewTriggerTime":2000,
-            "scId":48000003,
+            "scId":4800003,
             "rawTID":"COMMNADER_CARD_BEARMAN",
             "rawInfoTID":"COMMNADER_CARD_INFO_BEARMAN"
         },
@@ -63180,7 +63180,7 @@
             "abilityIconFileName":"sc\/ui_portraits.sc",
             "abilityIconExportName":"icon_ability_eggtank",
             "previewTriggerTime":1000,
-            "scId":48000004,
+            "scId":4800004,
             "rawTID":"COMMNADER_CARD_EGGMACHINE",
             "rawInfoTID":"COMMNADER_CARD_INFO_EGGMACHINE"
         },
@@ -99900,7 +99900,7 @@
             "editModeOnly":null,
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
-            "scId":49000000,
+            "scId":4900000,
             "rawTID":"CARD_SOLDIER",
             "rawInfoTID":"CARD_INFO_SOLDIER"
         },
@@ -99983,7 +99983,7 @@
             "editModeOnly":null,
             "upgradeLevelFrom":null,
             "levelGenGuide":"BACK",
-            "scId":49000001,
+            "scId":4900001,
             "rawTID":"CARD_GRENADE",
             "rawInfoTID":"CARD_INFO_GRENADE"
         },
@@ -100006,7 +100006,7 @@
             "editModeOnly":null,
             "upgradeLevelFrom":null,
             "levelGenGuide":"FRONT",
-            "scId":49000002,
+            "scId":4900002,
             "rawTID":"CARD_SHIELD",
             "rawInfoTID":"CARD_INFO_SHIELD"
         },
@@ -100049,7 +100049,7 @@
             "editModeOnly":null,
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
-            "scId":49000003,
+            "scId":4900003,
             "rawTID":"CARD_TANK",
             "rawInfoTID":"CARD_INFO_TANK"
         },
@@ -100072,7 +100072,7 @@
             "editModeOnly":null,
             "upgradeLevelFrom":null,
             "levelGenGuide":"BACK",
-            "scId":49000004,
+            "scId":4900004,
             "rawTID":"CARD_BAZOOKA",
             "rawInfoTID":"CARD_INFO_BAZOOKA"
         },
@@ -100095,7 +100095,7 @@
             "editModeOnly":null,
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
-            "scId":49000005,
+            "scId":4900005,
             "rawTID":"CARD_PLUMBER_VAN",
             "rawInfoTID":"CARD_INFO_APC"
         },
@@ -100118,7 +100118,7 @@
             "editModeOnly":null,
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
-            "scId":49000006,
+            "scId":4900006,
             "rawTID":"CARD_JETPACK",
             "rawInfoTID":"CARD_INFO_JETPACK"
         },
@@ -100161,7 +100161,7 @@
             "editModeOnly":null,
             "upgradeLevelFrom":null,
             "levelGenGuide":"FRONT",
-            "scId":49000007,
+            "scId":4900007,
             "rawTID":"CARD_GORILLA",
             "rawInfoTID":"CARD_INFO_GORILLA"
         },
@@ -100184,7 +100184,7 @@
             "editModeOnly":null,
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
-            "scId":49000008,
+            "scId":4900008,
             "rawTID":"CARD_SHOTGUN",
             "rawInfoTID":"CARD_INFO_SHOTGUN"
         },
@@ -100207,7 +100207,7 @@
             "editModeOnly":null,
             "upgradeLevelFrom":null,
             "levelGenGuide":"BACK",
-            "scId":49000009,
+            "scId":4900009,
             "rawTID":"CARD_LASER",
             "rawInfoTID":"CARD_INFO_LASER"
         },
@@ -100230,7 +100230,7 @@
             "editModeOnly":null,
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
-            "scId":49000010,
+            "scId":4900010,
             "rawTID":"CARD_BOXER",
             "rawInfoTID":"CARD_INFO_BOXER"
         },
@@ -100253,7 +100253,7 @@
             "editModeOnly":null,
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
-            "scId":49000011,
+            "scId":4900011,
             "rawTID":"CARD_TAZER",
             "rawInfoTID":"CARD_INFO_TAZER"
         },
@@ -100416,7 +100416,7 @@
             "editModeOnly":null,
             "upgradeLevelFrom":null,
             "levelGenGuide":"BACK",
-            "scId":49000012,
+            "scId":4900012,
             "rawTID":"CARD_HELIPOD",
             "rawInfoTID":"CARD_INFO_HELIPOD"
         },
@@ -100439,7 +100439,7 @@
             "editModeOnly":null,
             "upgradeLevelFrom":null,
             "levelGenGuide":"BACK",
-            "scId":49000013,
+            "scId":4900013,
             "rawTID":"CARD_FLAMETHROWER",
             "rawInfoTID":"CARD_INFO_FLAMETHROWER"
         },
@@ -100462,7 +100462,7 @@
             "editModeOnly":null,
             "upgradeLevelFrom":null,
             "levelGenGuide":"BACK",
-            "scId":49000014,
+            "scId":4900014,
             "rawTID":"CARD_BOMBARDTANK",
             "rawInfoTID":"CARD_INFO_BOMBARDTANK"
         },
@@ -100485,7 +100485,7 @@
             "editModeOnly":null,
             "upgradeLevelFrom":null,
             "levelGenGuide":"BACK",
-            "scId":49000015,
+            "scId":4900015,
             "rawTID":"CARD_KUNGFU",
             "rawInfoTID":"CARD_INFO_KUNGFU"
         },
@@ -100528,7 +100528,7 @@
             "editModeOnly":null,
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
-            "scId":49000016,
+            "scId":4900016,
             "rawTID":"CARD_WHITENINJA",
             "rawInfoTID":"CARD_INFO_WHITE_NINJA"
         }
@@ -101139,247 +101139,247 @@
         {
             "name":"HelicopterLevel",
             "value":null,
-            "scId":1835008
+            "scId":700000
         },
         {
             "name":"SinglePlayerLevel",
             "value":null,
-            "scId":1835009
+            "scId":700001
         },
         {
             "name":"CaptureTutorialOutpost",
             "value":null,
-            "scId":1835010
+            "scId":700002
         },
         {
             "name":"ShouldCaptureOutpost",
             "value":null,
-            "scId":1835011
+            "scId":700003
         },
         {
             "name":"AttackCount",
             "value":null,
-            "scId":1835012
+            "scId":700004
         },
         {
             "name":"AttackWinCount",
             "value":null,
-            "scId":1835013
+            "scId":700005
         },
         {
             "name":"AttackLoseCount",
             "value":null,
-            "scId":1835014
+            "scId":700006
         },
         {
             "name":"DefenceWinCount",
             "value":null,
-            "scId":1835015
+            "scId":700007
         },
         {
             "name":"DefenceLoseCount",
             "value":null,
-            "scId":1835016
+            "scId":700008
         },
         {
             "name":"TutorialWinCount",
             "value":null,
-            "scId":1835017
+            "scId":700009
         },
         {
             "name":"DefenceCount1",
             "value":null,
-            "scId":1835018
+            "scId":700010
         },
         {
             "name":"DefenceStarCount1",
             "value":null,
-            "scId":1835019
+            "scId":700011
         },
         {
             "name":"DefenceChestStarCount",
             "value":null,
-            "scId":1835020
+            "scId":700012
         },
         {
             "name":"DefenceValid",
             "value":null,
-            "scId":1835021
+            "scId":700013
         },
         {
             "name":"ChestStarCount",
             "value":null,
-            "scId":1835022
+            "scId":700014
         },
         {
             "name":"CycleOffset",
             "value":null,
-            "scId":1835023
+            "scId":700015
         },
         {
             "name":"MatchmakeCounter",
             "value":null,
-            "scId":1835024
+            "scId":700016
         },
         {
             "name":"OutpostResourceTimerTicks",
             "value":null,
-            "scId":1835025
+            "scId":700017
         },
         {
             "name":"FreeChestCounter",
             "value":null,
-            "scId":1835026
+            "scId":700018
         },
         {
             "name":"AllianceChatFilter",
             "value":null,
-            "scId":1835027
+            "scId":700019
         },
         {
             "name":"FavouriteCard",
             "value":null,
-            "scId":1835028
+            "scId":700020
         },
         {
             "name":"FavouriteTroop",
             "value":null,
-            "scId":1835029
+            "scId":700021
         },
         {
             "name":"FavouriteAirdrop",
             "value":null,
-            "scId":1835030
+            "scId":700022
         },
         {
             "name":"FavouriteCommander",
             "value":null,
-            "scId":1835031
+            "scId":700023
         },
         {
             "name":"TotalAttackStars",
             "value":null,
-            "scId":1835032
+            "scId":700024
         },
         {
             "name":"TotalDefenceStars",
             "value":null,
-            "scId":1835033
+            "scId":700025
         },
         {
             "name":"DominationAttackCount",
             "value":null,
-            "scId":1835034
+            "scId":700026
         },
         {
             "name":"DominationAttackWinCount",
             "value":null,
-            "scId":1835035
+            "scId":700027
         },
         {
             "name":"DominationAttackLoseCount",
             "value":null,
-            "scId":1835036
+            "scId":700028
         },
         {
             "name":"UnclaimedDominationChest",
             "value":null,
-            "scId":1835037
+            "scId":700029
         },
         {
             "name":"UnclaimedDominationGems",
             "value":null,
-            "scId":1835038
+            "scId":700030
         },
         {
             "name":"UnclaimedDominationGold",
             "value":null,
-            "scId":1835039
+            "scId":700031
         },
         {
             "name":"UnclaimedDominationYourStars",
             "value":null,
-            "scId":1835040
+            "scId":700032
         },
         {
             "name":"UnclaimedDominationEnemyStars",
             "value":null,
-            "scId":1835041
+            "scId":700033
         },
         {
             "name":"UnclaimedDominationResult",
             "value":null,
-            "scId":1835042
+            "scId":700034
         },
         {
             "name":"HasBeenToOutpost",
             "value":null,
-            "scId":1835043
+            "scId":700035
         },
         {
             "name":"ChestsSinceNewCard",
             "value":null,
-            "scId":1835044
+            "scId":700036
         },
         {
             "name":"HasSavedOutpost",
             "value":null,
-            "scId":1835045
+            "scId":700037
         },
         {
             "name":"DominationClanWinCount",
             "value":null,
-            "scId":1835046
+            "scId":700038
         },
         {
             "name":"DominationClanLoseCount",
             "value":null,
-            "scId":1835047
+            "scId":700039
         },
         {
             "name":"DominationTotalGoldLoot",
             "value":null,
-            "scId":1835048
+            "scId":700040
         },
         {
             "name":"DominationTotalStarsReceived",
             "value":null,
-            "scId":1835049
+            "scId":700041
         },
         {
             "name":"TotalDonatedGold",
             "value":null,
-            "scId":1835050
+            "scId":700042
         },
         {
             "name":"TotalGoldLootPvp",
             "value":null,
-            "scId":1835051
+            "scId":700043
         },
         {
             "name":"NextLocationEnvironment",
             "value":null,
-            "scId":1835052
+            "scId":700044
         },
         {
             "name":"SeasonPoints",
             "value":null,
-            "scId":1835053
+            "scId":700045
         },
         {
             "name":"ObstacleCounter",
             "value":null,
-            "scId":1835054
+            "scId":700046
         },
         {
             "name":"ClanRulesShownIDhigh",
             "value":null,
-            "scId":1835055
+            "scId":700047
         },
         {
             "name":"ClanRulesShownIDlow",
             "value":null,
-            "scId":1835056
+            "scId":700048
         }
     ],
     "tid":{
