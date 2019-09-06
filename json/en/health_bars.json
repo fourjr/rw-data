@@ -10,8 +10,7 @@
         "showOwnAlways":null,
         "showEnemyAlways":true,
         "yOffset":null,
-        "showAsShield":null,
-        "id":11
+        "showAsShield":null
     },
     {
         "name":"Medium",
@@ -24,8 +23,7 @@
         "showOwnAlways":null,
         "showEnemyAlways":true,
         "yOffset":null,
-        "showAsShield":null,
-        "id":12
+        "showAsShield":null
     },
     {
         "name":"High",
@@ -38,8 +36,7 @@
         "showOwnAlways":null,
         "showEnemyAlways":true,
         "yOffset":null,
-        "showAsShield":null,
-        "id":13
+        "showAsShield":null
     },
     {
         "name":"Shield",
@@ -52,8 +49,7 @@
         "showOwnAlways":null,
         "showEnemyAlways":true,
         "yOffset":null,
-        "showAsShield":null,
-        "id":14
+        "showAsShield":null
     },
     {
         "name":"Shield_small",
@@ -66,8 +62,7 @@
         "showOwnAlways":null,
         "showEnemyAlways":true,
         "yOffset":null,
-        "showAsShield":null,
-        "id":15
+        "showAsShield":null
     },
     {
         "name":"MediumShield",
@@ -80,7 +75,6 @@
         "showOwnAlways":null,
         "showEnemyAlways":true,
         "yOffset":null,
-        "showAsShield":true,
-        "id":16
+        "showAsShield":true
     }
 ]

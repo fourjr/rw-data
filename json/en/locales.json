@@ -22,8 +22,7 @@
         "boomBoxURL":"https:\/\/inbox.boombeach.com\/",
         "eventsBaseURL":"http:\/\/staging.clashnights.com.s3-website.eu-central-1.amazonaws.com\/",
         "eventsPostURL":"https:\/\/v4zl51s3h3.execute-api.eu-central-1.amazonaws.com\/stag\/",
-        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=en",
-        "id":1
+        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=en"
     },
     {
         "name":"FR",
@@ -48,8 +47,7 @@
         "boomBoxURL":"https:\/\/inbox.boombeach.com\/fr\/",
         "eventsBaseURL":"http:\/\/staging.clashnights.com.s3-website.eu-central-1.amazonaws.com\/",
         "eventsPostURL":"https:\/\/v4zl51s3h3.execute-api.eu-central-1.amazonaws.com\/stag\/",
-        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=fr",
-        "id":2
+        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=fr"
     },
     {
         "name":"DE",
@@ -74,8 +72,7 @@
         "boomBoxURL":"https:\/\/inbox.boombeach.com\/de\/",
         "eventsBaseURL":"http:\/\/staging.clashnights.com.s3-website.eu-central-1.amazonaws.com\/",
         "eventsPostURL":"https:\/\/v4zl51s3h3.execute-api.eu-central-1.amazonaws.com\/stag\/",
-        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=de",
-        "id":3
+        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=de"
     },
     {
         "name":"ES",
@@ -100,8 +97,7 @@
         "boomBoxURL":"https:\/\/inbox.boombeach.com\/es\/",
         "eventsBaseURL":"http:\/\/staging.clashnights.com.s3-website.eu-central-1.amazonaws.com\/",
         "eventsPostURL":"https:\/\/v4zl51s3h3.execute-api.eu-central-1.amazonaws.com\/stag\/",
-        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=es",
-        "id":4
+        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=es"
     },
     {
         "name":"IT",
@@ -126,8 +122,7 @@
         "boomBoxURL":"https:\/\/inbox.boombeach.com\/it\/",
         "eventsBaseURL":"http:\/\/staging.clashnights.com.s3-website.eu-central-1.amazonaws.com\/",
         "eventsPostURL":"https:\/\/v4zl51s3h3.execute-api.eu-central-1.amazonaws.com\/stag\/",
-        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=it",
-        "id":5
+        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=it"
     },
     {
         "name":"NL",
@@ -152,8 +147,7 @@
         "boomBoxURL":"https:\/\/inbox.boombeach.com\/nl\/",
         "eventsBaseURL":"http:\/\/staging.clashnights.com.s3-website.eu-central-1.amazonaws.com\/",
         "eventsPostURL":"https:\/\/v4zl51s3h3.execute-api.eu-central-1.amazonaws.com\/stag\/",
-        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=nl",
-        "id":6
+        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=nl"
     },
     {
         "name":"NO",
@@ -178,8 +172,7 @@
         "boomBoxURL":"https:\/\/inbox.boombeach.com\/no\/",
         "eventsBaseURL":"http:\/\/staging.clashnights.com.s3-website.eu-central-1.amazonaws.com\/",
         "eventsPostURL":"https:\/\/v4zl51s3h3.execute-api.eu-central-1.amazonaws.com\/stag\/",
-        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=no",
-        "id":7
+        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=no"
     },
     {
         "name":"PT",
@@ -204,8 +197,7 @@
         "boomBoxURL":"https:\/\/inbox.boombeach.com\/pt\/",
         "eventsBaseURL":"http:\/\/staging.clashnights.com.s3-website.eu-central-1.amazonaws.com\/",
         "eventsPostURL":"https:\/\/v4zl51s3h3.execute-api.eu-central-1.amazonaws.com\/stag\/",
-        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=pt",
-        "id":8
+        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=pt"
     },
     {
         "name":"TR",
@@ -230,8 +222,7 @@
         "boomBoxURL":"https:\/\/inbox.boombeach.com\/tr\/",
         "eventsBaseURL":"http:\/\/staging.clashnights.com.s3-website.eu-central-1.amazonaws.com\/",
         "eventsPostURL":"https:\/\/v4zl51s3h3.execute-api.eu-central-1.amazonaws.com\/stag\/",
-        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=tr",
-        "id":9
+        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=tr"
     },
     {
         "name":"CN",
@@ -256,8 +247,7 @@
         "boomBoxURL":"https:\/\/bb-inbox.kunlun-cdn.com\/",
         "eventsBaseURL":"http:\/\/staging.clashnights.com.s3-website.eu-central-1.amazonaws.com\/",
         "eventsPostURL":"https:\/\/v4zl51s3h3.execute-api.eu-central-1.amazonaws.com\/stag\/",
-        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=zh",
-        "id":10
+        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=zh"
     },
     {
         "name":"JP",
@@ -282,8 +272,7 @@
         "boomBoxURL":"https:\/\/inbox.boombeach.com\/jp\/",
         "eventsBaseURL":"http:\/\/staging.clashnights.com.s3-website.eu-central-1.amazonaws.com\/",
         "eventsPostURL":"https:\/\/v4zl51s3h3.execute-api.eu-central-1.amazonaws.com\/stag\/",
-        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=jp",
-        "id":11
+        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=jp"
     },
     {
         "name":"KR",
@@ -308,8 +297,7 @@
         "boomBoxURL":"https:\/\/inbox.boombeach.com\/ko\/",
         "eventsBaseURL":"http:\/\/staging.clashnights.com.s3-website.eu-central-1.amazonaws.com\/",
         "eventsPostURL":"https:\/\/v4zl51s3h3.execute-api.eu-central-1.amazonaws.com\/stag\/",
-        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=ko",
-        "id":12
+        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=ko"
     },
     {
         "name":"RU",
@@ -334,8 +322,7 @@
         "boomBoxURL":"https:\/\/inbox.boombeach.com\/ru\/",
         "eventsBaseURL":"http:\/\/staging.clashnights.com.s3-website.eu-central-1.amazonaws.com\/",
         "eventsPostURL":"https:\/\/v4zl51s3h3.execute-api.eu-central-1.amazonaws.com\/stag\/",
-        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=ru",
-        "id":13
+        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=ru"
     },
     {
         "name":"TEXT",
@@ -360,8 +347,7 @@
         "boomBoxURL":"https:\/\/inbox.boombeach.com\/",
         "eventsBaseURL":"http:\/\/staging.clashnights.com.s3-website.eu-central-1.amazonaws.com\/",
         "eventsPostURL":"https:\/\/v4zl51s3h3.execute-api.eu-central-1.amazonaws.com\/stag\/",
-        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=en",
-        "id":14
+        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=en"
     },
     {
         "name":null,
@@ -386,8 +372,7 @@
         "boomBoxURL":null,
         "eventsBaseURL":null,
         "eventsPostURL":null,
-        "helpshiftURL":null,
-        "id":15
+        "helpshiftURL":null
     },
     {
         "name":"WORD",
@@ -412,8 +397,7 @@
         "boomBoxURL":"https:\/\/inbox.boombeach.com\/",
         "eventsBaseURL":"http:\/\/staging.clashnights.com.s3-website.eu-central-1.amazonaws.com\/",
         "eventsPostURL":"https:\/\/v4zl51s3h3.execute-api.eu-central-1.amazonaws.com\/stag\/",
-        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=en",
-        "id":16
+        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=en"
     },
     {
         "name":null,
@@ -438,8 +422,7 @@
         "boomBoxURL":null,
         "eventsBaseURL":null,
         "eventsPostURL":null,
-        "helpshiftURL":null,
-        "id":17
+        "helpshiftURL":null
     },
     {
         "name":"DOUBLE",
@@ -464,8 +447,7 @@
         "boomBoxURL":"https:\/\/inbox.boombeach.com\/",
         "eventsBaseURL":"http:\/\/staging.clashnights.com.s3-website.eu-central-1.amazonaws.com\/",
         "eventsPostURL":"https:\/\/v4zl51s3h3.execute-api.eu-central-1.amazonaws.com\/stag\/",
-        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=en",
-        "id":18
+        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=en"
     },
     {
         "name":"EMPTY",
@@ -490,8 +472,7 @@
         "boomBoxURL":"https:\/\/inbox.boombeach.com\/",
         "eventsBaseURL":"http:\/\/staging.clashnights.com.s3-website.eu-central-1.amazonaws.com\/",
         "eventsPostURL":"https:\/\/v4zl51s3h3.execute-api.eu-central-1.amazonaws.com\/stag\/",
-        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=en",
-        "id":19
+        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=en"
     },
     {
         "name":"CNT",
@@ -516,8 +497,7 @@
         "boomBoxURL":"https:\/\/inbox.boombeach.com\/zh\/",
         "eventsBaseURL":"http:\/\/staging.clashnights.com.s3-website.eu-central-1.amazonaws.com\/",
         "eventsPostURL":"https:\/\/v4zl51s3h3.execute-api.eu-central-1.amazonaws.com\/stag\/",
-        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=zh-hant",
-        "id":20
+        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=zh-hant"
     },
     {
         "name":"AR",
@@ -542,8 +522,7 @@
         "boomBoxURL":"https:\/\/inbox.boombeach.com\/ar\/",
         "eventsBaseURL":"http:\/\/staging.clashnights.com.s3-website.eu-central-1.amazonaws.com\/",
         "eventsPostURL":"https:\/\/v4zl51s3h3.execute-api.eu-central-1.amazonaws.com\/stag\/",
-        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=ar",
-        "id":21
+        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=ar"
     },
     {
         "name":"FA",
@@ -568,8 +547,7 @@
         "boomBoxURL":"https:\/\/inbox.boombeach.com\/",
         "eventsBaseURL":"http:\/\/staging.clashnights.com.s3-website.eu-central-1.amazonaws.com\/",
         "eventsPostURL":"https:\/\/v4zl51s3h3.execute-api.eu-central-1.amazonaws.com\/stag\/",
-        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=fa",
-        "id":22
+        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=fa"
     },
     {
         "name":"MS",
@@ -594,8 +572,7 @@
         "boomBoxURL":"https:\/\/inbox.boombeach.com\/ms\/",
         "eventsBaseURL":"http:\/\/staging.clashnights.com.s3-website.eu-central-1.amazonaws.com\/",
         "eventsPostURL":"https:\/\/v4zl51s3h3.execute-api.eu-central-1.amazonaws.com\/stag\/",
-        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=ms",
-        "id":23
+        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=ms"
     },
     {
         "name":"ID",
@@ -620,8 +597,7 @@
         "boomBoxURL":"https:\/\/inbox.boombeach.com\/id\/",
         "eventsBaseURL":"http:\/\/staging.clashnights.com.s3-website.eu-central-1.amazonaws.com\/",
         "eventsPostURL":"https:\/\/v4zl51s3h3.execute-api.eu-central-1.amazonaws.com\/stag\/",
-        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=id",
-        "id":24
+        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=id"
     },
     {
         "name":"FI",
@@ -646,8 +622,7 @@
         "boomBoxURL":"https:\/\/inbox.boombeach.com\/",
         "eventsBaseURL":"http:\/\/staging.clashnights.com.s3-website.eu-central-1.amazonaws.com\/",
         "eventsPostURL":"https:\/\/v4zl51s3h3.execute-api.eu-central-1.amazonaws.com\/stag\/",
-        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=th",
-        "id":25
+        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=th"
     },
     {
         "name":"TH",
@@ -672,8 +647,7 @@
         "boomBoxURL":"https:\/\/inbox.boombeach.com\/",
         "eventsBaseURL":"http:\/\/staging.clashnights.com.s3-website.eu-central-1.amazonaws.com\/",
         "eventsPostURL":"https:\/\/v4zl51s3h3.execute-api.eu-central-1.amazonaws.com\/stag\/",
-        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=fi",
-        "id":26
+        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=fi"
     },
     {
         "name":"VI",
@@ -698,7 +672,6 @@
         "boomBoxURL":"https:\/\/inbox.boombeach.com\/",
         "eventsBaseURL":"http:\/\/staging.clashnights.com.s3-website.eu-central-1.amazonaws.com\/",
         "eventsPostURL":"https:\/\/v4zl51s3h3.execute-api.eu-central-1.amazonaws.com\/stag\/",
-        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=en",
-        "id":27
+        "helpshiftURL":"https:\/\/supercell.helpshift.com\/a\/rush\/?l=en"
     }
 ]

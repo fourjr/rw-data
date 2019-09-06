@@ -5,9 +5,7 @@
         "environment":"Home",
         "canCapture":null,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":15,
-        "scId":1500000
+        "unlockHQLevel":null
     },
     {
         "name":"EMPTY_SLOT_0",
@@ -15,9 +13,7 @@
         "environment":null,
         "canCapture":null,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":16,
-        "scId":1500001
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_1",
@@ -25,9 +21,7 @@
         "environment":"Forest",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":17,
-        "scId":1500002
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_2",
@@ -35,9 +29,7 @@
         "environment":"Forest",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":18,
-        "scId":1500003
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_3",
@@ -45,9 +37,7 @@
         "environment":"Forest",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":19,
-        "scId":1500004
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_4",
@@ -55,9 +45,7 @@
         "environment":"Forest",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":20,
-        "scId":1500005
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_5",
@@ -65,9 +53,7 @@
         "environment":"Forest",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":21,
-        "scId":1500006
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_6",
@@ -75,9 +61,7 @@
         "environment":"Forest",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":22,
-        "scId":1500007
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_7",
@@ -85,9 +69,7 @@
         "environment":"Forest",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":23,
-        "scId":1500008
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_8",
@@ -95,9 +77,7 @@
         "environment":"Forest",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":24,
-        "scId":1500009
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_9",
@@ -105,9 +85,7 @@
         "environment":"Forest",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":25,
-        "scId":1500010
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_10",
@@ -115,9 +93,7 @@
         "environment":"Forest",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":26,
-        "scId":1500011
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_11",
@@ -125,9 +101,7 @@
         "environment":"Forest",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":27,
-        "scId":1500012
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_12",
@@ -135,9 +109,7 @@
         "environment":"Forest",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":28,
-        "scId":1500013
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_13",
@@ -145,9 +117,7 @@
         "environment":"Forest",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":29,
-        "scId":1500014
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_14",
@@ -155,9 +125,7 @@
         "environment":"Forest",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":30,
-        "scId":1500015
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_15",
@@ -165,9 +133,7 @@
         "environment":"Forest",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":31,
-        "scId":1500016
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_16",
@@ -175,9 +141,7 @@
         "environment":"Forest",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":32,
-        "scId":1500017
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_17",
@@ -185,9 +149,7 @@
         "environment":"Forest",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":33,
-        "scId":1500018
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_18",
@@ -195,9 +157,7 @@
         "environment":"Forest",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":34,
-        "scId":1500019
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_19",
@@ -205,9 +165,7 @@
         "environment":"Forest",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":35,
-        "scId":1500020
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_20",
@@ -215,9 +173,7 @@
         "environment":"Forest",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":36,
-        "scId":1500021
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_Domination_1",
@@ -225,9 +181,7 @@
         "environment":"Forest",
         "canCapture":null,
         "domination":true,
-        "unlockHQLevel":null,
-        "id":37,
-        "scId":1500022
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_Domination_2",
@@ -235,9 +189,7 @@
         "environment":"Forest",
         "canCapture":null,
         "domination":true,
-        "unlockHQLevel":null,
-        "id":38,
-        "scId":1500023
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_Domination_3",
@@ -245,9 +197,7 @@
         "environment":"Forest",
         "canCapture":null,
         "domination":true,
-        "unlockHQLevel":null,
-        "id":39,
-        "scId":1500024
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_Domination_4",
@@ -255,9 +205,7 @@
         "environment":"Forest",
         "canCapture":null,
         "domination":true,
-        "unlockHQLevel":null,
-        "id":40,
-        "scId":1500025
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_Domination_5",
@@ -265,9 +213,7 @@
         "environment":"Forest",
         "canCapture":null,
         "domination":true,
-        "unlockHQLevel":null,
-        "id":41,
-        "scId":1500026
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_Domination_6",
@@ -275,9 +221,7 @@
         "environment":"Forest",
         "canCapture":null,
         "domination":true,
-        "unlockHQLevel":null,
-        "id":42,
-        "scId":1500027
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_Domination_7",
@@ -285,9 +229,7 @@
         "environment":"Forest",
         "canCapture":null,
         "domination":true,
-        "unlockHQLevel":null,
-        "id":43,
-        "scId":1500028
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_Domination_8",
@@ -295,9 +237,7 @@
         "environment":"Forest",
         "canCapture":null,
         "domination":true,
-        "unlockHQLevel":null,
-        "id":44,
-        "scId":1500029
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_Domination_9",
@@ -305,9 +245,7 @@
         "environment":"Forest",
         "canCapture":null,
         "domination":true,
-        "unlockHQLevel":null,
-        "id":45,
-        "scId":1500030
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_Domination_10",
@@ -315,9 +253,7 @@
         "environment":"Forest",
         "canCapture":null,
         "domination":true,
-        "unlockHQLevel":null,
-        "id":46,
-        "scId":1500031
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_Domination_11",
@@ -325,9 +261,7 @@
         "environment":"Forest",
         "canCapture":null,
         "domination":true,
-        "unlockHQLevel":null,
-        "id":47,
-        "scId":1500032
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_Domination_12",
@@ -335,9 +269,7 @@
         "environment":"Forest",
         "canCapture":null,
         "domination":true,
-        "unlockHQLevel":null,
-        "id":48,
-        "scId":1500033
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_Domination_13",
@@ -345,9 +277,7 @@
         "environment":"Forest",
         "canCapture":null,
         "domination":true,
-        "unlockHQLevel":null,
-        "id":49,
-        "scId":1500034
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_Domination_14",
@@ -355,9 +285,7 @@
         "environment":"Forest",
         "canCapture":null,
         "domination":true,
-        "unlockHQLevel":null,
-        "id":50,
-        "scId":1500035
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_Domination_15",
@@ -365,9 +293,7 @@
         "environment":"Forest",
         "canCapture":null,
         "domination":true,
-        "unlockHQLevel":null,
-        "id":51,
-        "scId":1500036
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_Domination_16",
@@ -375,9 +301,7 @@
         "environment":"Forest",
         "canCapture":null,
         "domination":true,
-        "unlockHQLevel":null,
-        "id":52,
-        "scId":1500037
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_Domination_17",
@@ -385,9 +309,7 @@
         "environment":"Forest",
         "canCapture":null,
         "domination":true,
-        "unlockHQLevel":null,
-        "id":53,
-        "scId":1500038
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_Domination_18",
@@ -395,9 +317,7 @@
         "environment":"Forest",
         "canCapture":null,
         "domination":true,
-        "unlockHQLevel":null,
-        "id":54,
-        "scId":1500039
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_Domination_19",
@@ -405,9 +325,7 @@
         "environment":"Forest",
         "canCapture":null,
         "domination":true,
-        "unlockHQLevel":null,
-        "id":55,
-        "scId":1500040
+        "unlockHQLevel":null
     },
     {
         "name":"Forest_Domination_20",
@@ -415,9 +333,7 @@
         "environment":"Forest",
         "canCapture":null,
         "domination":true,
-        "unlockHQLevel":null,
-        "id":56,
-        "scId":1500041
+        "unlockHQLevel":null
     },
     {
         "name":"Megacity_01",
@@ -425,9 +341,7 @@
         "environment":"Megacity",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":57,
-        "scId":1500042
+        "unlockHQLevel":null
     },
     {
         "name":"Megacity_02",
@@ -435,9 +349,7 @@
         "environment":"Megacity",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":58,
-        "scId":1500043
+        "unlockHQLevel":null
     },
     {
         "name":"Megacity_03",
@@ -445,9 +357,7 @@
         "environment":"Megacity",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":59,
-        "scId":1500044
+        "unlockHQLevel":null
     },
     {
         "name":"Desert_1",
@@ -455,9 +365,7 @@
         "environment":"Desert",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":60,
-        "scId":1500045
+        "unlockHQLevel":null
     },
     {
         "name":"Desert_2",
@@ -465,9 +373,7 @@
         "environment":"Desert",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":61,
-        "scId":1500046
+        "unlockHQLevel":null
     },
     {
         "name":"Desert_3",
@@ -475,9 +381,7 @@
         "environment":"Desert",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":62,
-        "scId":1500047
+        "unlockHQLevel":null
     },
     {
         "name":"Megacity_11",
@@ -485,9 +389,7 @@
         "environment":"Megacity",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":63,
-        "scId":1500048
+        "unlockHQLevel":null
     },
     {
         "name":"Megacity_12",
@@ -495,9 +397,7 @@
         "environment":"Megacity",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":64,
-        "scId":1500049
+        "unlockHQLevel":null
     },
     {
         "name":"Megacity_13",
@@ -505,9 +405,7 @@
         "environment":"Megacity",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":65,
-        "scId":1500050
+        "unlockHQLevel":null
     },
     {
         "name":"Desert_4",
@@ -515,9 +413,7 @@
         "environment":"Desert",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":66,
-        "scId":1500051
+        "unlockHQLevel":null
     },
     {
         "name":"Desert_5",
@@ -525,9 +421,7 @@
         "environment":"Desert",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":67,
-        "scId":1500052
+        "unlockHQLevel":null
     },
     {
         "name":"Megacity_14",
@@ -535,9 +429,7 @@
         "environment":"Megacity",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":68,
-        "scId":1500053
+        "unlockHQLevel":null
     },
     {
         "name":"Megacity_15",
@@ -545,9 +437,7 @@
         "environment":"Megacity",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":69,
-        "scId":1500054
+        "unlockHQLevel":null
     },
     {
         "name":"Megacity_16",
@@ -555,9 +445,7 @@
         "environment":"Megacity",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":70,
-        "scId":1500055
+        "unlockHQLevel":null
     },
     {
         "name":"Desert_11",
@@ -565,9 +453,7 @@
         "environment":"Desert",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":71,
-        "scId":1500056
+        "unlockHQLevel":null
     },
     {
         "name":"Desert_6",
@@ -575,9 +461,7 @@
         "environment":"Desert",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":72,
-        "scId":1500057
+        "unlockHQLevel":null
     },
     {
         "name":"Desert_7",
@@ -585,9 +469,7 @@
         "environment":"Desert",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":73,
-        "scId":1500058
+        "unlockHQLevel":null
     },
     {
         "name":"Megacity_04",
@@ -595,9 +477,7 @@
         "environment":"Megacity",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":74,
-        "scId":1500059
+        "unlockHQLevel":null
     },
     {
         "name":"Desert_9",
@@ -605,9 +485,7 @@
         "environment":"Desert",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":75,
-        "scId":1500060
+        "unlockHQLevel":null
     },
     {
         "name":"Desert_12",
@@ -615,9 +493,7 @@
         "environment":"Desert",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":76,
-        "scId":1500061
+        "unlockHQLevel":null
     },
     {
         "name":"Desert_8",
@@ -625,8 +501,6 @@
         "environment":"Desert",
         "canCapture":true,
         "domination":null,
-        "unlockHQLevel":null,
-        "id":77,
-        "scId":1500062
+        "unlockHQLevel":null
     }
 ]

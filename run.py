@@ -74,7 +74,7 @@ if __name__ == '__main__':
 
             sc_id_index = 0
             for n, i in enumerate(data):
-                if fn in config['id']:
+                if fn in config.get('id', []):
                     i['id'] = config['id'][fn] + n
                 if fn in config['scId']:
                     if i.get('name', True):

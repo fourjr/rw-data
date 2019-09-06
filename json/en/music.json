@@ -6,8 +6,7 @@
         "loop":true,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null,
-        "id":12
+        "durationSec":null
     },
     {
         "name":null,
@@ -16,8 +15,7 @@
         "loop":true,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null,
-        "id":13
+        "durationSec":null
     },
     {
         "name":null,
@@ -26,8 +24,7 @@
         "loop":true,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null,
-        "id":14
+        "durationSec":null
     },
     {
         "name":null,
@@ -36,8 +33,7 @@
         "loop":true,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null,
-        "id":15
+        "durationSec":null
     },
     {
         "name":null,
@@ -46,8 +42,7 @@
         "loop":true,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null,
-        "id":16
+        "durationSec":null
     },
     {
         "name":null,
@@ -56,8 +51,7 @@
         "loop":true,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null,
-        "id":17
+        "durationSec":null
     },
     {
         "name":"Deploy",
@@ -66,8 +60,7 @@
         "loop":true,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null,
-        "id":18
+        "durationSec":null
     },
     {
         "name":null,
@@ -76,8 +69,7 @@
         "loop":true,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null,
-        "id":19
+        "durationSec":null
     },
     {
         "name":null,
@@ -86,8 +78,7 @@
         "loop":true,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null,
-        "id":20
+        "durationSec":null
     },
     {
         "name":null,
@@ -96,8 +87,7 @@
         "loop":true,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null,
-        "id":21
+        "durationSec":null
     },
     {
         "name":null,
@@ -106,8 +96,7 @@
         "loop":true,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null,
-        "id":22
+        "durationSec":null
     },
     {
         "name":null,
@@ -116,8 +105,7 @@
         "loop":true,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null,
-        "id":23
+        "durationSec":null
     },
     {
         "name":"Battle",
@@ -126,8 +114,7 @@
         "loop":true,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null,
-        "id":24
+        "durationSec":null
     },
     {
         "name":null,
@@ -136,8 +123,7 @@
         "loop":true,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null,
-        "id":25
+        "durationSec":null
     },
     {
         "name":null,
@@ -146,8 +132,7 @@
         "loop":true,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null,
-        "id":26
+        "durationSec":null
     },
     {
         "name":null,
@@ -156,8 +141,7 @@
         "loop":true,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null,
-        "id":27
+        "durationSec":null
     },
     {
         "name":null,
@@ -166,8 +150,7 @@
         "loop":true,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null,
-        "id":28
+        "durationSec":null
     },
     {
         "name":null,
@@ -176,8 +159,7 @@
         "loop":true,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null,
-        "id":29
+        "durationSec":null
     },
     {
         "name":null,
@@ -186,8 +168,7 @@
         "loop":true,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null,
-        "id":30
+        "durationSec":null
     },
     {
         "name":"Win",
@@ -196,8 +177,7 @@
         "loop":true,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null,
-        "id":31
+        "durationSec":null
     },
     {
         "name":"Lose",
@@ -206,8 +186,7 @@
         "loop":true,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null,
-        "id":32
+        "durationSec":null
     },
     {
         "name":"1_2_Win",
@@ -216,8 +195,7 @@
         "loop":true,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null,
-        "id":33
+        "durationSec":null
     },
     {
         "name":"3_Win",
@@ -226,7 +204,6 @@
         "loop":true,
         "playCount":null,
         "fadeOutTimeSec":null,
-        "durationSec":null,
-        "id":34
+        "durationSec":null
     }
 ]

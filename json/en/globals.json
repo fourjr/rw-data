@@ -5,8 +5,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":3
+        "numberArray":null
     },
     {
         "name":"SPEED_UP_DIAMOND_COST_1_HOUR",
@@ -14,8 +13,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":4
+        "numberArray":null
     },
     {
         "name":"SPEED_UP_DIAMOND_COST_24_HOURS",
@@ -23,8 +21,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":5
+        "numberArray":null
     },
     {
         "name":"SPEED_UP_DIAMOND_COST_1_WEEK",
@@ -32,8 +29,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":6
+        "numberArray":null
     },
     {
         "name":"STARTING_GOLD",
@@ -41,8 +37,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":7
+        "numberArray":null
     },
     {
         "name":"STARTING_MINERAL",
@@ -50,8 +45,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":8
+        "numberArray":null
     },
     {
         "name":"STARTING_DIAMONDS",
@@ -59,8 +53,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":9
+        "numberArray":null
     },
     {
         "name":"STARTING_KEYS",
@@ -68,8 +61,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":10
+        "numberArray":null
     },
     {
         "name":"STARTING_AIRDROP_HOUSING",
@@ -77,8 +69,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":11
+        "numberArray":null
     },
     {
         "name":"STARTING_UNIT_HOUSING",
@@ -86,8 +77,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":12
+        "numberArray":null
     },
     {
         "name":"STARTING_DEFENCE_HOUSING",
@@ -95,8 +85,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":13
+        "numberArray":null
     },
     {
         "name":"START_GOLD_CAPACITY",
@@ -104,8 +93,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":14
+        "numberArray":null
     },
     {
         "name":"START_MINERAL_CAPACITY",
@@ -113,8 +101,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":15
+        "numberArray":null
     },
     {
         "name":"REFILL_KEY_COST",
@@ -122,8 +109,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":16
+        "numberArray":null
     },
     {
         "name":"TRAINING_TROOP_SLOTS",
@@ -131,8 +117,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":17
+        "numberArray":null
     },
     {
         "name":"TRAINING_AIRDROP_SLOTS",
@@ -140,8 +125,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":18
+        "numberArray":null
     },
     {
         "name":"ATTACK_PREPARATION_DURATION_SECONDS",
@@ -149,8 +133,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":19
+        "numberArray":null
     },
     {
         "name":"ATTACK_DURATION_SECONDS",
@@ -158,8 +141,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":20
+        "numberArray":null
     },
     {
         "name":"FREE_COLLECTABLE_SECONDS",
@@ -167,8 +149,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":21
+        "numberArray":null
     },
     {
         "name":"ABILITY_TIME_MODIFIER_PERCENT",
@@ -176,8 +157,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":22
+        "numberArray":null
     },
     {
         "name":"HOME_BUILDING_FOR_HOUSING",
@@ -185,8 +165,7 @@
         "booleanValue":null,
         "textValue":"HOME_Helicopter",
         "stringArray":null,
-        "numberArray":null,
-        "id":23
+        "numberArray":null
     },
     {
         "name":"BATTLE_TIME_SECONDS",
@@ -194,8 +173,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":24
+        "numberArray":null
     },
     {
         "name":"TUTORIAL_NPC_LEVEL_COUNT",
@@ -203,8 +181,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":25
+        "numberArray":null
     },
     {
         "name":"NAME_QUERY_NPC_LEVEL_COUNT",
@@ -212,8 +189,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":26
+        "numberArray":null
     },
     {
         "name":"RESET_CARD_USAGE_STATS_BATTLES",
@@ -221,8 +197,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":27
+        "numberArray":null
     },
     {
         "name":"STAR_THRESHOLD_PERCENT",
@@ -230,8 +205,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":50,
-        "id":28
+        "numberArray":50
     },
     {
         "name":null,
@@ -239,8 +213,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":75,
-        "id":29
+        "numberArray":75
     },
     {
         "name":null,
@@ -248,8 +221,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":100,
-        "id":30
+        "numberArray":100
     },
     {
         "name":"ALLIANCE_CREATE_COST",
@@ -257,8 +229,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":31
+        "numberArray":null
     },
     {
         "name":"BATTLE_END_GOLD_REWARD",
@@ -266,8 +237,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":32
+        "numberArray":null
     },
     {
         "name":"ACHIEVEMENTS_ENABLED",
@@ -275,8 +245,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":33
+        "numberArray":null
     },
     {
         "name":"K_FACTOR",
@@ -284,8 +253,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":60,
-        "id":34
+        "numberArray":60
     },
     {
         "name":"K_FACTOR_THRESHOLDS",
@@ -293,8 +261,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":0,
-        "id":35
+        "numberArray":0
     },
     {
         "name":"K_FACTOR_GAMEROOM",
@@ -302,8 +269,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":60,
-        "id":36
+        "numberArray":60
     },
     {
         "name":"K_FACTOR_GAMEROOM_THRESHOLDS",
@@ -311,8 +277,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":0,
-        "id":37
+        "numberArray":0
     },
     {
         "name":"MINIMUM_CHANGE_FOR_REAL_BATTLE",
@@ -320,8 +285,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":38
+        "numberArray":null
     },
     {
         "name":"TARGET_SCORE",
@@ -329,8 +293,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":39
+        "numberArray":null
     },
     {
         "name":"SHOP_DAILY_PACKS",
@@ -338,8 +301,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"ShopPack1",
-        "numberArray":null,
-        "id":40
+        "numberArray":null
     },
     {
         "name":null,
@@ -347,8 +309,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"ShopPack2",
-        "numberArray":null,
-        "id":41
+        "numberArray":null
     },
     {
         "name":null,
@@ -356,8 +317,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"ShopPack3",
-        "numberArray":null,
-        "id":42
+        "numberArray":null
     },
     {
         "name":"LOSE_SCORE_MILESTONES",
@@ -365,8 +325,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":0,
-        "id":43
+        "numberArray":0
     },
     {
         "name":null,
@@ -374,8 +333,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":400,
-        "id":44
+        "numberArray":400
     },
     {
         "name":null,
@@ -383,8 +341,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":800,
-        "id":45
+        "numberArray":800
     },
     {
         "name":null,
@@ -392,8 +349,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":1200,
-        "id":46
+        "numberArray":1200
     },
     {
         "name":null,
@@ -401,8 +357,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":1600,
-        "id":47
+        "numberArray":1600
     },
     {
         "name":null,
@@ -410,8 +365,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":2000,
-        "id":48
+        "numberArray":2000
     },
     {
         "name":null,
@@ -419,8 +373,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":2500,
-        "id":49
+        "numberArray":2500
     },
     {
         "name":null,
@@ -428,8 +381,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":3000,
-        "id":50
+        "numberArray":3000
     },
     {
         "name":null,
@@ -437,8 +389,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":3300,
-        "id":51
+        "numberArray":3300
     },
     {
         "name":"LOSE_SCORE_PERCENTAGES",
@@ -446,8 +397,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":0,
-        "id":52
+        "numberArray":0
     },
     {
         "name":null,
@@ -455,8 +405,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":35,
-        "id":53
+        "numberArray":35
     },
     {
         "name":null,
@@ -464,8 +413,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":60,
-        "id":54
+        "numberArray":60
     },
     {
         "name":null,
@@ -473,8 +421,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":75,
-        "id":55
+        "numberArray":75
     },
     {
         "name":null,
@@ -482,8 +429,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":83,
-        "id":56
+        "numberArray":83
     },
     {
         "name":null,
@@ -491,8 +437,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":88,
-        "id":57
+        "numberArray":88
     },
     {
         "name":null,
@@ -500,8 +445,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":94,
-        "id":58
+        "numberArray":94
     },
     {
         "name":null,
@@ -509,8 +453,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":98,
-        "id":59
+        "numberArray":98
     },
     {
         "name":null,
@@ -518,8 +461,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":100,
-        "id":60
+        "numberArray":100
     },
     {
         "name":"MINIMUM_SCORE",
@@ -527,8 +469,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":61
+        "numberArray":null
     },
     {
         "name":"PROTECTION_CAP_PERCENTAGE",
@@ -536,8 +477,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":62
+        "numberArray":null
     },
     {
         "name":"MAX_MESSAGE_LENGTH",
@@ -545,8 +485,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":63
+        "numberArray":null
     },
     {
         "name":"MAX_ALLIANCE_MAIL_LENGTH",
@@ -554,8 +493,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":64
+        "numberArray":null
     },
     {
         "name":"RESOURCE_DIAMOND_COST_1",
@@ -563,8 +501,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":65
+        "numberArray":null
     },
     {
         "name":"RESOURCE_DIAMOND_COST_10",
@@ -572,8 +509,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":66
+        "numberArray":null
     },
     {
         "name":"RESOURCE_DIAMOND_COST_100",
@@ -581,8 +517,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":67
+        "numberArray":null
     },
     {
         "name":"RESOURCE_DIAMOND_COST_1000",
@@ -590,8 +525,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":68
+        "numberArray":null
     },
     {
         "name":"RESOURCE_DIAMOND_COST_10000",
@@ -599,8 +533,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":69
+        "numberArray":null
     },
     {
         "name":"RESOURCE_DIAMOND_COST_100000",
@@ -608,8 +541,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":70
+        "numberArray":null
     },
     {
         "name":"RESOURCE_DIAMOND_COST_1000000",
@@ -617,8 +549,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":71
+        "numberArray":null
     },
     {
         "name":"MAX_RESOURCE_PURCHASE_SIZE",
@@ -626,8 +557,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":72
+        "numberArray":null
     },
     {
         "name":"ALLIANCE_SCORE_CONTRIBUTION_PERCENTAGE",
@@ -635,8 +565,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":50,
-        "id":73
+        "numberArray":50
     },
     {
         "name":null,
@@ -644,8 +573,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":25,
-        "id":74
+        "numberArray":25
     },
     {
         "name":null,
@@ -653,8 +581,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":12,
-        "id":75
+        "numberArray":12
     },
     {
         "name":null,
@@ -662,8 +589,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":10,
-        "id":76
+        "numberArray":10
     },
     {
         "name":null,
@@ -671,8 +597,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":3,
-        "id":77
+        "numberArray":3
     },
     {
         "name":"ATTACK_FINISH_TIME_MS",
@@ -680,8 +605,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":78
+        "numberArray":null
     },
     {
         "name":"BATTLE_PING_SAMPLE_SECONDS",
@@ -689,8 +613,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":79
+        "numberArray":null
     },
     {
         "name":"EXTRA_BUFF_RADIUS",
@@ -698,8 +621,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":80
+        "numberArray":null
     },
     {
         "name":"MELEE_RANGE_LIMIT",
@@ -707,8 +629,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":81
+        "numberArray":null
     },
     {
         "name":"LEAVE_ALLIANCE_DONATION_COOLDOWN_MINUTES",
@@ -716,8 +637,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":82
+        "numberArray":null
     },
     {
         "name":"ALLIANCE_UNLOCK_EXP_LEVEL",
@@ -725,8 +645,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":83
+        "numberArray":null
     },
     {
         "name":"ALLIANCE_DONATION_UNLOCK_EXP_LEVEL",
@@ -734,8 +653,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":84
+        "numberArray":null
     },
     {
         "name":"BIG_LIMIT",
@@ -743,8 +661,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":85
+        "numberArray":null
     },
     {
         "name":"SUPER_LIMIT",
@@ -752,8 +669,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":86
+        "numberArray":null
     },
     {
         "name":"TEAM_MAIL_COOLDOWN_SECS",
@@ -761,8 +677,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":87
+        "numberArray":null
     },
     {
         "name":"DEVICE_LINK_CODE_LENGTH",
@@ -770,8 +685,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":88
+        "numberArray":null
     },
     {
         "name":"DEVICE_LINK_CODE_VALID_SECONDS",
@@ -779,8 +693,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":89
+        "numberArray":null
     },
     {
         "name":"DISABLE_COMBAT_COMPONENT_ON_DEATH",
@@ -788,8 +701,7 @@
         "booleanValue":false,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":90
+        "numberArray":null
     },
     {
         "name":"AVOID_WATER_ATTACK_POS",
@@ -797,8 +709,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":91
+        "numberArray":null
     },
     {
         "name":"ALLOW_AOE_ATTACKS_WITHOUT_TARGET",
@@ -806,8 +717,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":92
+        "numberArray":null
     },
     {
         "name":"EXTRA_SIGHT_RANGE_TO_BUILDING",
@@ -815,8 +725,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":93
+        "numberArray":null
     },
     {
         "name":"MAX_BATTLE_REWARDS_PER_DAY",
@@ -824,8 +733,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":94
+        "numberArray":null
     },
     {
         "name":"ADD_CHARACTER_RANGE_TO_RADIUS",
@@ -833,8 +741,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":95
+        "numberArray":null
     },
     {
         "name":"ELDER_KICK_COOLDOWN",
@@ -842,8 +749,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":96
+        "numberArray":null
     },
     {
         "name":"AUTO_RELEASE_STAGGERED_CARDS",
@@ -851,8 +757,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":97
+        "numberArray":null
     },
     {
         "name":"LOGIC_CHARACTER_CONTINUOUS_DAMAGE_ATTACK_CLOSER",
@@ -860,8 +765,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":98
+        "numberArray":null
     },
     {
         "name":"LOGIC_CANCEL_HIT_FROM_LONG_DISTANCE",
@@ -869,8 +773,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":99
+        "numberArray":null
     },
     {
         "name":"LOGIC_CANCEL_HIT_FROM_LONG_DISTANCE_RANGE",
@@ -878,8 +781,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":100
+        "numberArray":null
     },
     {
         "name":"LOGIC_PRESERVE_TARGET_IF_HIT_STARTED",
@@ -887,8 +789,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":101
+        "numberArray":null
     },
     {
         "name":"LOGIC_PENDING_DAMAGE_IGNORE_IF_DURATION_LESS",
@@ -896,8 +797,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":102
+        "numberArray":null
     },
     {
         "name":"LOGIC_LOAD_FIRST_HIT_RESET_TIMER_AFTER_ATTACK",
@@ -905,8 +805,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":103
+        "numberArray":null
     },
     {
         "name":"LOGIC_LOAD_FIRST_HIT_RESET_TIMER_WHEN_ZAPPED",
@@ -914,8 +813,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":104
+        "numberArray":null
     },
     {
         "name":"ALLIANCE_TROPHY_LIMITS",
@@ -923,8 +821,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":0,
-        "id":105
+        "numberArray":0
     },
     {
         "name":null,
@@ -932,8 +829,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":200,
-        "id":106
+        "numberArray":200
     },
     {
         "name":null,
@@ -941,8 +837,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":400,
-        "id":107
+        "numberArray":400
     },
     {
         "name":null,
@@ -950,8 +845,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":600,
-        "id":108
+        "numberArray":600
     },
     {
         "name":null,
@@ -959,8 +853,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":800,
-        "id":109
+        "numberArray":800
     },
     {
         "name":null,
@@ -968,8 +861,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":1000,
-        "id":110
+        "numberArray":1000
     },
     {
         "name":null,
@@ -977,8 +869,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":1200,
-        "id":111
+        "numberArray":1200
     },
     {
         "name":null,
@@ -986,8 +877,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":1400,
-        "id":112
+        "numberArray":1400
     },
     {
         "name":null,
@@ -995,8 +885,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":1600,
-        "id":113
+        "numberArray":1600
     },
     {
         "name":null,
@@ -1004,8 +893,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":1800,
-        "id":114
+        "numberArray":1800
     },
     {
         "name":null,
@@ -1013,8 +901,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":2000,
-        "id":115
+        "numberArray":2000
     },
     {
         "name":null,
@@ -1022,8 +909,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":2200,
-        "id":116
+        "numberArray":2200
     },
     {
         "name":null,
@@ -1031,8 +917,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":2400,
-        "id":117
+        "numberArray":2400
     },
     {
         "name":null,
@@ -1040,8 +925,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":2600,
-        "id":118
+        "numberArray":2600
     },
     {
         "name":null,
@@ -1049,8 +933,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":2800,
-        "id":119
+        "numberArray":2800
     },
     {
         "name":null,
@@ -1058,8 +941,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":3000,
-        "id":120
+        "numberArray":3000
     },
     {
         "name":null,
@@ -1067,8 +949,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":3200,
-        "id":121
+        "numberArray":3200
     },
     {
         "name":null,
@@ -1076,8 +957,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":3400,
-        "id":122
+        "numberArray":3400
     },
     {
         "name":null,
@@ -1085,8 +965,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":3600,
-        "id":123
+        "numberArray":3600
     },
     {
         "name":null,
@@ -1094,8 +973,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":3800,
-        "id":124
+        "numberArray":3800
     },
     {
         "name":null,
@@ -1103,8 +981,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":4000,
-        "id":125
+        "numberArray":4000
     },
     {
         "name":null,
@@ -1112,8 +989,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":4300,
-        "id":126
+        "numberArray":4300
     },
     {
         "name":null,
@@ -1121,8 +997,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":4600,
-        "id":127
+        "numberArray":4600
     },
     {
         "name":"FLY_FROM_GROUND_DURATION",
@@ -1130,8 +1005,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":128
+        "numberArray":null
     },
     {
         "name":"UNIT_ALARM_PROPAGATION_MS_PER_TILE",
@@ -1139,8 +1013,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":129
+        "numberArray":null
     },
     {
         "name":"TRAP_VISIBLE_AT_DISTANCE_TILES",
@@ -1148,8 +1021,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":130
+        "numberArray":null
     },
     {
         "name":"FIXED_DROPS",
@@ -1157,8 +1029,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":131
+        "numberArray":null
     },
     {
         "name":"FIXED_DROP_COUNTERS",
@@ -1166,8 +1037,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":132
+        "numberArray":null
     },
     {
         "name":"DROP_CYCLE",
@@ -1175,8 +1045,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":133
+        "numberArray":null
     },
     {
         "name":null,
@@ -1184,8 +1053,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":134
+        "numberArray":null
     },
     {
         "name":null,
@@ -1193,8 +1061,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":135
+        "numberArray":null
     },
     {
         "name":null,
@@ -1202,8 +1069,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":136
+        "numberArray":null
     },
     {
         "name":null,
@@ -1211,8 +1077,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":137
+        "numberArray":null
     },
     {
         "name":null,
@@ -1220,8 +1085,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":138
+        "numberArray":null
     },
     {
         "name":null,
@@ -1229,8 +1093,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":139
+        "numberArray":null
     },
     {
         "name":null,
@@ -1238,8 +1101,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":140
+        "numberArray":null
     },
     {
         "name":null,
@@ -1247,8 +1109,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":141
+        "numberArray":null
     },
     {
         "name":null,
@@ -1256,8 +1117,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":142
+        "numberArray":null
     },
     {
         "name":null,
@@ -1265,8 +1125,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":143
+        "numberArray":null
     },
     {
         "name":null,
@@ -1274,8 +1133,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Epic",
-        "numberArray":null,
-        "id":144
+        "numberArray":null
     },
     {
         "name":null,
@@ -1283,8 +1141,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":145
+        "numberArray":null
     },
     {
         "name":null,
@@ -1292,44 +1149,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":146
-    },
-    {
-        "name":null,
-        "numberValue":null,
-        "booleanValue":null,
-        "textValue":null,
-        "stringArray":"Rare",
-        "numberArray":null,
-        "id":147
-    },
-    {
-        "name":null,
-        "numberValue":null,
-        "booleanValue":null,
-        "textValue":null,
-        "stringArray":"Common",
-        "numberArray":null,
-        "id":148
-    },
-    {
-        "name":null,
-        "numberValue":null,
-        "booleanValue":null,
-        "textValue":null,
-        "stringArray":"Common",
-        "numberArray":null,
-        "id":149
-    },
-    {
-        "name":null,
-        "numberValue":null,
-        "booleanValue":null,
-        "textValue":null,
-        "stringArray":"Common",
-        "numberArray":null,
-        "id":150
+        "numberArray":null
     },
     {
         "name":null,
@@ -1337,8 +1157,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":151
+        "numberArray":null
     },
     {
         "name":null,
@@ -1346,8 +1165,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":152
+        "numberArray":null
     },
     {
         "name":null,
@@ -1355,8 +1173,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":153
+        "numberArray":null
     },
     {
         "name":null,
@@ -1364,44 +1181,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":154
-    },
-    {
-        "name":null,
-        "numberValue":null,
-        "booleanValue":null,
-        "textValue":null,
-        "stringArray":"Rare",
-        "numberArray":null,
-        "id":155
-    },
-    {
-        "name":null,
-        "numberValue":null,
-        "booleanValue":null,
-        "textValue":null,
-        "stringArray":"Common",
-        "numberArray":null,
-        "id":156
-    },
-    {
-        "name":null,
-        "numberValue":null,
-        "booleanValue":null,
-        "textValue":null,
-        "stringArray":"Common",
-        "numberArray":null,
-        "id":157
-    },
-    {
-        "name":null,
-        "numberValue":null,
-        "booleanValue":null,
-        "textValue":null,
-        "stringArray":"Common",
-        "numberArray":null,
-        "id":158
+        "numberArray":null
     },
     {
         "name":null,
@@ -1409,8 +1189,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":159
+        "numberArray":null
     },
     {
         "name":null,
@@ -1418,8 +1197,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":160
+        "numberArray":null
     },
     {
         "name":null,
@@ -1427,17 +1205,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":161
-    },
-    {
-        "name":null,
-        "numberValue":null,
-        "booleanValue":null,
-        "textValue":null,
-        "stringArray":"Rare",
-        "numberArray":null,
-        "id":162
+        "numberArray":null
     },
     {
         "name":null,
@@ -1445,26 +1213,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":163
-    },
-    {
-        "name":null,
-        "numberValue":null,
-        "booleanValue":null,
-        "textValue":null,
-        "stringArray":"Common",
-        "numberArray":null,
-        "id":164
-    },
-    {
-        "name":null,
-        "numberValue":null,
-        "booleanValue":null,
-        "textValue":null,
-        "stringArray":"Common",
-        "numberArray":null,
-        "id":165
+        "numberArray":null
     },
     {
         "name":null,
@@ -1472,8 +1221,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":166
+        "numberArray":null
     },
     {
         "name":null,
@@ -1481,8 +1229,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":167
+        "numberArray":null
     },
     {
         "name":null,
@@ -1490,8 +1237,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":168
+        "numberArray":null
     },
     {
         "name":null,
@@ -1499,44 +1245,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":169
-    },
-    {
-        "name":null,
-        "numberValue":null,
-        "booleanValue":null,
-        "textValue":null,
-        "stringArray":"Rare",
-        "numberArray":null,
-        "id":170
-    },
-    {
-        "name":null,
-        "numberValue":null,
-        "booleanValue":null,
-        "textValue":null,
-        "stringArray":"Common",
-        "numberArray":null,
-        "id":171
-    },
-    {
-        "name":null,
-        "numberValue":null,
-        "booleanValue":null,
-        "textValue":null,
-        "stringArray":"Common",
-        "numberArray":null,
-        "id":172
-    },
-    {
-        "name":null,
-        "numberValue":null,
-        "booleanValue":null,
-        "textValue":null,
-        "stringArray":"Common",
-        "numberArray":null,
-        "id":173
+        "numberArray":null
     },
     {
         "name":null,
@@ -1544,8 +1253,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":174
+        "numberArray":null
     },
     {
         "name":null,
@@ -1553,8 +1261,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":175
+        "numberArray":null
     },
     {
         "name":null,
@@ -1562,8 +1269,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":176
+        "numberArray":null
     },
     {
         "name":null,
@@ -1571,8 +1277,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":177
+        "numberArray":null
     },
     {
         "name":null,
@@ -1580,8 +1285,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":178
+        "numberArray":null
     },
     {
         "name":null,
@@ -1589,8 +1293,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":179
+        "numberArray":null
     },
     {
         "name":null,
@@ -1598,8 +1301,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":180
+        "numberArray":null
     },
     {
         "name":null,
@@ -1607,8 +1309,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":181
+        "numberArray":null
     },
     {
         "name":null,
@@ -1616,8 +1317,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":182
+        "numberArray":null
     },
     {
         "name":null,
@@ -1625,8 +1325,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":183
+        "numberArray":null
     },
     {
         "name":null,
@@ -1634,8 +1333,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":184
+        "numberArray":null
     },
     {
         "name":null,
@@ -1643,8 +1341,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":185
+        "numberArray":null
     },
     {
         "name":null,
@@ -1652,8 +1349,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":186
+        "numberArray":null
     },
     {
         "name":null,
@@ -1661,8 +1357,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":187
+        "numberArray":null
     },
     {
         "name":null,
@@ -1670,8 +1365,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":188
+        "numberArray":null
     },
     {
         "name":null,
@@ -1679,8 +1373,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":189
+        "numberArray":null
     },
     {
         "name":null,
@@ -1688,8 +1381,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":190
+        "numberArray":null
     },
     {
         "name":null,
@@ -1697,8 +1389,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":191
+        "numberArray":null
     },
     {
         "name":null,
@@ -1706,8 +1397,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":192
+        "numberArray":null
     },
     {
         "name":null,
@@ -1715,8 +1405,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":193
+        "numberArray":null
     },
     {
         "name":null,
@@ -1724,8 +1413,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":194
+        "numberArray":null
     },
     {
         "name":null,
@@ -1733,8 +1421,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":195
+        "numberArray":null
     },
     {
         "name":null,
@@ -1742,8 +1429,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":196
+        "numberArray":null
     },
     {
         "name":null,
@@ -1751,8 +1437,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":197
+        "numberArray":null
     },
     {
         "name":null,
@@ -1760,8 +1445,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":198
+        "numberArray":null
     },
     {
         "name":null,
@@ -1769,8 +1453,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":199
+        "numberArray":null
     },
     {
         "name":null,
@@ -1778,8 +1461,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":200
+        "numberArray":null
     },
     {
         "name":null,
@@ -1787,8 +1469,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":201
+        "numberArray":null
     },
     {
         "name":null,
@@ -1796,8 +1477,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":202
+        "numberArray":null
     },
     {
         "name":null,
@@ -1805,8 +1485,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":203
+        "numberArray":null
     },
     {
         "name":null,
@@ -1814,8 +1493,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":204
+        "numberArray":null
     },
     {
         "name":null,
@@ -1823,8 +1501,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":205
+        "numberArray":null
     },
     {
         "name":null,
@@ -1832,8 +1509,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":206
+        "numberArray":null
     },
     {
         "name":null,
@@ -1841,8 +1517,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":207
+        "numberArray":null
     },
     {
         "name":null,
@@ -1850,8 +1525,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":208
+        "numberArray":null
     },
     {
         "name":null,
@@ -1859,8 +1533,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":209
+        "numberArray":null
     },
     {
         "name":null,
@@ -1868,8 +1541,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":210
+        "numberArray":null
     },
     {
         "name":null,
@@ -1877,8 +1549,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":211
+        "numberArray":null
     },
     {
         "name":null,
@@ -1886,8 +1557,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":212
+        "numberArray":null
     },
     {
         "name":null,
@@ -1895,8 +1565,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":213
+        "numberArray":null
     },
     {
         "name":null,
@@ -1904,8 +1573,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":214
+        "numberArray":null
     },
     {
         "name":null,
@@ -1913,8 +1581,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":215
+        "numberArray":null
     },
     {
         "name":null,
@@ -1922,8 +1589,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":216
+        "numberArray":null
     },
     {
         "name":null,
@@ -1931,8 +1597,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":217
+        "numberArray":null
     },
     {
         "name":null,
@@ -1940,8 +1605,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":218
+        "numberArray":null
     },
     {
         "name":null,
@@ -1949,8 +1613,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":219
+        "numberArray":null
     },
     {
         "name":null,
@@ -1958,8 +1621,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":220
+        "numberArray":null
     },
     {
         "name":null,
@@ -1967,8 +1629,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":221
+        "numberArray":null
     },
     {
         "name":null,
@@ -1976,8 +1637,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":222
+        "numberArray":null
     },
     {
         "name":null,
@@ -1985,8 +1645,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":223
+        "numberArray":null
     },
     {
         "name":null,
@@ -1994,8 +1653,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":224
+        "numberArray":null
     },
     {
         "name":null,
@@ -2003,8 +1661,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":225
+        "numberArray":null
     },
     {
         "name":null,
@@ -2012,8 +1669,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":226
+        "numberArray":null
     },
     {
         "name":null,
@@ -2021,8 +1677,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":227
+        "numberArray":null
     },
     {
         "name":null,
@@ -2030,8 +1685,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":228
+        "numberArray":null
     },
     {
         "name":null,
@@ -2039,8 +1693,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":229
+        "numberArray":null
     },
     {
         "name":null,
@@ -2048,8 +1701,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":230
+        "numberArray":null
     },
     {
         "name":null,
@@ -2057,8 +1709,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":231
+        "numberArray":null
     },
     {
         "name":null,
@@ -2066,8 +1717,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":232
+        "numberArray":null
     },
     {
         "name":null,
@@ -2075,8 +1725,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":233
+        "numberArray":null
     },
     {
         "name":null,
@@ -2084,8 +1733,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":234
+        "numberArray":null
     },
     {
         "name":null,
@@ -2093,8 +1741,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":235
+        "numberArray":null
     },
     {
         "name":null,
@@ -2102,8 +1749,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":236
+        "numberArray":null
     },
     {
         "name":null,
@@ -2111,8 +1757,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":237
+        "numberArray":null
     },
     {
         "name":null,
@@ -2120,8 +1765,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":238
+        "numberArray":null
     },
     {
         "name":null,
@@ -2129,8 +1773,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":239
+        "numberArray":null
     },
     {
         "name":null,
@@ -2138,8 +1781,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":240
+        "numberArray":null
     },
     {
         "name":null,
@@ -2147,8 +1789,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":241
+        "numberArray":null
     },
     {
         "name":null,
@@ -2156,8 +1797,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":242
+        "numberArray":null
     },
     {
         "name":null,
@@ -2165,8 +1805,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":243
+        "numberArray":null
     },
     {
         "name":null,
@@ -2174,8 +1813,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":244
+        "numberArray":null
     },
     {
         "name":null,
@@ -2183,8 +1821,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":245
+        "numberArray":null
     },
     {
         "name":null,
@@ -2192,8 +1829,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":246
+        "numberArray":null
     },
     {
         "name":null,
@@ -2201,8 +1837,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":247
+        "numberArray":null
     },
     {
         "name":null,
@@ -2210,8 +1845,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":248
+        "numberArray":null
     },
     {
         "name":null,
@@ -2219,8 +1853,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":249
+        "numberArray":null
     },
     {
         "name":null,
@@ -2228,8 +1861,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":250
+        "numberArray":null
     },
     {
         "name":null,
@@ -2237,8 +1869,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":251
+        "numberArray":null
     },
     {
         "name":null,
@@ -2246,8 +1877,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":252
+        "numberArray":null
     },
     {
         "name":null,
@@ -2255,8 +1885,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":253
+        "numberArray":null
     },
     {
         "name":null,
@@ -2264,8 +1893,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":254
+        "numberArray":null
     },
     {
         "name":null,
@@ -2273,8 +1901,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":255
+        "numberArray":null
     },
     {
         "name":null,
@@ -2282,8 +1909,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":256
+        "numberArray":null
     },
     {
         "name":null,
@@ -2291,8 +1917,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":257
+        "numberArray":null
     },
     {
         "name":null,
@@ -2300,8 +1925,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":258
+        "numberArray":null
     },
     {
         "name":null,
@@ -2309,8 +1933,127 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":259
+        "numberArray":null
+    },
+    {
+        "name":null,
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":"Rare",
+        "numberArray":null
+    },
+    {
+        "name":null,
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":"Common",
+        "numberArray":null
+    },
+    {
+        "name":null,
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":"Common",
+        "numberArray":null
+    },
+    {
+        "name":null,
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":"Common",
+        "numberArray":null
+    },
+    {
+        "name":null,
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":"Rare",
+        "numberArray":null
+    },
+    {
+        "name":null,
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":"Common",
+        "numberArray":null
+    },
+    {
+        "name":null,
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":"Common",
+        "numberArray":null
+    },
+    {
+        "name":null,
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":"Rare",
+        "numberArray":null
+    },
+    {
+        "name":null,
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":"Common",
+        "numberArray":null
+    },
+    {
+        "name":null,
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":"Common",
+        "numberArray":null
+    },
+    {
+        "name":null,
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":"Common",
+        "numberArray":null
+    },
+    {
+        "name":null,
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":"Rare",
+        "numberArray":null
+    },
+    {
+        "name":null,
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":"Common",
+        "numberArray":null
+    },
+    {
+        "name":null,
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":"Common",
+        "numberArray":null
+    },
+    {
+        "name":null,
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":"Common",
+        "numberArray":null
     },
     {
         "name":null,
@@ -2318,8 +2061,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Epic",
-        "numberArray":null,
-        "id":260
+        "numberArray":null
     },
     {
         "name":null,
@@ -2327,8 +2069,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":261
+        "numberArray":null
     },
     {
         "name":null,
@@ -2336,8 +2077,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":262
+        "numberArray":null
     },
     {
         "name":null,
@@ -2345,8 +2085,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":263
+        "numberArray":null
     },
     {
         "name":null,
@@ -2354,8 +2093,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":264
+        "numberArray":null
     },
     {
         "name":null,
@@ -2363,8 +2101,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":265
+        "numberArray":null
     },
     {
         "name":null,
@@ -2372,8 +2109,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":266
+        "numberArray":null
     },
     {
         "name":null,
@@ -2381,8 +2117,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":267
+        "numberArray":null
     },
     {
         "name":null,
@@ -2390,8 +2125,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":268
+        "numberArray":null
     },
     {
         "name":null,
@@ -2399,8 +2133,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":269
+        "numberArray":null
     },
     {
         "name":null,
@@ -2408,8 +2141,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":270
+        "numberArray":null
     },
     {
         "name":null,
@@ -2417,8 +2149,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":271
+        "numberArray":null
     },
     {
         "name":null,
@@ -2426,8 +2157,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":272
+        "numberArray":null
     },
     {
         "name":null,
@@ -2435,8 +2165,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":273
+        "numberArray":null
     },
     {
         "name":null,
@@ -2444,8 +2173,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":274
+        "numberArray":null
     },
     {
         "name":null,
@@ -2453,8 +2181,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":275
+        "numberArray":null
     },
     {
         "name":null,
@@ -2462,8 +2189,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":276
+        "numberArray":null
     },
     {
         "name":null,
@@ -2471,8 +2197,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":277
+        "numberArray":null
     },
     {
         "name":null,
@@ -2480,8 +2205,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":278
+        "numberArray":null
     },
     {
         "name":null,
@@ -2489,8 +2213,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":279
+        "numberArray":null
     },
     {
         "name":null,
@@ -2498,8 +2221,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":280
+        "numberArray":null
     },
     {
         "name":null,
@@ -2507,8 +2229,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":281
+        "numberArray":null
     },
     {
         "name":null,
@@ -2516,8 +2237,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":282
+        "numberArray":null
     },
     {
         "name":null,
@@ -2525,8 +2245,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":283
+        "numberArray":null
     },
     {
         "name":null,
@@ -2534,8 +2253,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":284
+        "numberArray":null
     },
     {
         "name":null,
@@ -2543,8 +2261,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":285
+        "numberArray":null
     },
     {
         "name":null,
@@ -2552,8 +2269,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":286
+        "numberArray":null
     },
     {
         "name":null,
@@ -2561,8 +2277,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":287
+        "numberArray":null
     },
     {
         "name":null,
@@ -2570,8 +2285,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":288
+        "numberArray":null
     },
     {
         "name":null,
@@ -2579,8 +2293,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":289
+        "numberArray":null
     },
     {
         "name":null,
@@ -2588,8 +2301,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":290
+        "numberArray":null
     },
     {
         "name":null,
@@ -2597,8 +2309,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":291
+        "numberArray":null
     },
     {
         "name":null,
@@ -2606,8 +2317,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":292
+        "numberArray":null
     },
     {
         "name":null,
@@ -2615,8 +2325,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":293
+        "numberArray":null
     },
     {
         "name":null,
@@ -2624,8 +2333,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":294
+        "numberArray":null
     },
     {
         "name":null,
@@ -2633,8 +2341,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":295
+        "numberArray":null
     },
     {
         "name":null,
@@ -2642,8 +2349,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":296
+        "numberArray":null
     },
     {
         "name":null,
@@ -2651,8 +2357,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":297
+        "numberArray":null
     },
     {
         "name":null,
@@ -2660,8 +2365,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":298
+        "numberArray":null
     },
     {
         "name":null,
@@ -2669,8 +2373,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":299
+        "numberArray":null
     },
     {
         "name":null,
@@ -2678,8 +2381,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":300
+        "numberArray":null
     },
     {
         "name":null,
@@ -2687,8 +2389,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":301
+        "numberArray":null
     },
     {
         "name":null,
@@ -2696,8 +2397,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":302
+        "numberArray":null
     },
     {
         "name":null,
@@ -2705,8 +2405,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":303
+        "numberArray":null
     },
     {
         "name":null,
@@ -2714,8 +2413,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":304
+        "numberArray":null
     },
     {
         "name":null,
@@ -2723,8 +2421,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":305
+        "numberArray":null
     },
     {
         "name":null,
@@ -2732,8 +2429,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":306
+        "numberArray":null
     },
     {
         "name":null,
@@ -2741,8 +2437,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":307
+        "numberArray":null
     },
     {
         "name":null,
@@ -2750,8 +2445,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":308
+        "numberArray":null
     },
     {
         "name":null,
@@ -2759,8 +2453,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":309
+        "numberArray":null
     },
     {
         "name":null,
@@ -2768,8 +2461,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":310
+        "numberArray":null
     },
     {
         "name":null,
@@ -2777,8 +2469,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":311
+        "numberArray":null
     },
     {
         "name":null,
@@ -2786,8 +2477,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":312
+        "numberArray":null
     },
     {
         "name":null,
@@ -2795,8 +2485,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":313
+        "numberArray":null
     },
     {
         "name":null,
@@ -2804,8 +2493,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":314
+        "numberArray":null
     },
     {
         "name":null,
@@ -2813,8 +2501,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":315
+        "numberArray":null
     },
     {
         "name":null,
@@ -2822,8 +2509,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":316
+        "numberArray":null
     },
     {
         "name":null,
@@ -2831,8 +2517,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":317
+        "numberArray":null
     },
     {
         "name":null,
@@ -2840,8 +2525,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":318
+        "numberArray":null
     },
     {
         "name":null,
@@ -2849,8 +2533,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":319
+        "numberArray":null
     },
     {
         "name":null,
@@ -2858,8 +2541,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":320
+        "numberArray":null
     },
     {
         "name":null,
@@ -2867,8 +2549,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":321
+        "numberArray":null
     },
     {
         "name":null,
@@ -2876,8 +2557,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":322
+        "numberArray":null
     },
     {
         "name":null,
@@ -2885,8 +2565,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":323
+        "numberArray":null
     },
     {
         "name":null,
@@ -2894,8 +2573,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":324
+        "numberArray":null
     },
     {
         "name":null,
@@ -2903,8 +2581,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":325
+        "numberArray":null
     },
     {
         "name":null,
@@ -2912,8 +2589,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":326
+        "numberArray":null
     },
     {
         "name":null,
@@ -2921,8 +2597,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":327
+        "numberArray":null
     },
     {
         "name":null,
@@ -2930,8 +2605,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":328
+        "numberArray":null
     },
     {
         "name":null,
@@ -2939,8 +2613,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":329
+        "numberArray":null
     },
     {
         "name":null,
@@ -2948,8 +2621,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":330
+        "numberArray":null
     },
     {
         "name":null,
@@ -2957,8 +2629,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":331
+        "numberArray":null
     },
     {
         "name":null,
@@ -2966,8 +2637,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":332
+        "numberArray":null
     },
     {
         "name":null,
@@ -2975,8 +2645,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":333
+        "numberArray":null
     },
     {
         "name":null,
@@ -2984,8 +2653,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":334
+        "numberArray":null
     },
     {
         "name":null,
@@ -2993,8 +2661,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":335
+        "numberArray":null
     },
     {
         "name":null,
@@ -3002,8 +2669,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":336
+        "numberArray":null
     },
     {
         "name":null,
@@ -3011,8 +2677,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":337
+        "numberArray":null
     },
     {
         "name":null,
@@ -3020,8 +2685,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":338
+        "numberArray":null
     },
     {
         "name":null,
@@ -3029,8 +2693,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":339
+        "numberArray":null
     },
     {
         "name":null,
@@ -3038,8 +2701,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":340
+        "numberArray":null
     },
     {
         "name":null,
@@ -3047,8 +2709,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Common",
-        "numberArray":null,
-        "id":341
+        "numberArray":null
     },
     {
         "name":null,
@@ -3056,8 +2717,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Rare",
-        "numberArray":null,
-        "id":342
+        "numberArray":null
     },
     {
         "name":"GIVE_HOME_BUILDINGS_AFTER_N_WINS",
@@ -3065,8 +2725,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":343
+        "numberArray":null
     },
     {
         "name":"LOOT_LIMIT_COOLDOWN_HOURS",
@@ -3074,8 +2733,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":344
+        "numberArray":null
     },
     {
         "name":"LOOT_LIMIT_WINS_PER_DAY",
@@ -3083,8 +2741,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":345
+        "numberArray":null
     },
     {
         "name":"DEFENCE_REWARD_PER_STAR",
@@ -3092,8 +2749,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":346
+        "numberArray":null
     },
     {
         "name":"KEY_GENERATION_TIME_MINS",
@@ -3101,8 +2757,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":347
+        "numberArray":null
     },
     {
         "name":"DEFENCE_CHEST_THRESHOLDS",
@@ -3110,8 +2765,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":100,
-        "id":348
+        "numberArray":100
     },
     {
         "name":"DEFENCE_CHESTS",
@@ -3119,8 +2773,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"Defence",
-        "numberArray":null,
-        "id":349
+        "numberArray":null
     },
     {
         "name":"ALLIANCE_SCORE_LIMIT",
@@ -3128,8 +2781,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":0,
-        "id":350
+        "numberArray":0
     },
     {
         "name":null,
@@ -3137,8 +2789,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":200,
-        "id":351
+        "numberArray":200
     },
     {
         "name":null,
@@ -3146,8 +2797,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":400,
-        "id":352
+        "numberArray":400
     },
     {
         "name":null,
@@ -3155,8 +2805,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":600,
-        "id":353
+        "numberArray":600
     },
     {
         "name":null,
@@ -3164,8 +2813,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":800,
-        "id":354
+        "numberArray":800
     },
     {
         "name":null,
@@ -3173,8 +2821,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":1000,
-        "id":355
+        "numberArray":1000
     },
     {
         "name":null,
@@ -3182,8 +2829,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":1100,
-        "id":356
+        "numberArray":1100
     },
     {
         "name":null,
@@ -3191,8 +2837,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":1200,
-        "id":357
+        "numberArray":1200
     },
     {
         "name":null,
@@ -3200,8 +2845,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":1300,
-        "id":358
+        "numberArray":1300
     },
     {
         "name":null,
@@ -3209,8 +2853,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":1400,
-        "id":359
+        "numberArray":1400
     },
     {
         "name":null,
@@ -3218,8 +2861,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":1500,
-        "id":360
+        "numberArray":1500
     },
     {
         "name":null,
@@ -3227,8 +2869,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":1600,
-        "id":361
+        "numberArray":1600
     },
     {
         "name":null,
@@ -3236,8 +2877,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":1700,
-        "id":362
+        "numberArray":1700
     },
     {
         "name":null,
@@ -3245,8 +2885,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":1800,
-        "id":363
+        "numberArray":1800
     },
     {
         "name":null,
@@ -3254,8 +2893,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":1900,
-        "id":364
+        "numberArray":1900
     },
     {
         "name":null,
@@ -3263,8 +2901,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":2000,
-        "id":365
+        "numberArray":2000
     },
     {
         "name":null,
@@ -3272,8 +2909,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":2100,
-        "id":366
+        "numberArray":2100
     },
     {
         "name":null,
@@ -3281,8 +2917,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":2200,
-        "id":367
+        "numberArray":2200
     },
     {
         "name":null,
@@ -3290,8 +2925,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":2300,
-        "id":368
+        "numberArray":2300
     },
     {
         "name":null,
@@ -3299,8 +2933,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":2400,
-        "id":369
+        "numberArray":2400
     },
     {
         "name":null,
@@ -3308,8 +2941,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":2500,
-        "id":370
+        "numberArray":2500
     },
     {
         "name":null,
@@ -3317,8 +2949,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":2600,
-        "id":371
+        "numberArray":2600
     },
     {
         "name":null,
@@ -3326,8 +2957,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":2700,
-        "id":372
+        "numberArray":2700
     },
     {
         "name":null,
@@ -3335,8 +2965,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":2800,
-        "id":373
+        "numberArray":2800
     },
     {
         "name":null,
@@ -3344,8 +2973,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":2900,
-        "id":374
+        "numberArray":2900
     },
     {
         "name":null,
@@ -3353,8 +2981,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":3000,
-        "id":375
+        "numberArray":3000
     },
     {
         "name":null,
@@ -3362,8 +2989,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":3100,
-        "id":376
+        "numberArray":3100
     },
     {
         "name":null,
@@ -3371,8 +2997,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":3200,
-        "id":377
+        "numberArray":3200
     },
     {
         "name":null,
@@ -3380,8 +3005,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":3300,
-        "id":378
+        "numberArray":3300
     },
     {
         "name":null,
@@ -3389,8 +3013,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":3400,
-        "id":379
+        "numberArray":3400
     },
     {
         "name":null,
@@ -3398,8 +3021,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":3500,
-        "id":380
+        "numberArray":3500
     },
     {
         "name":null,
@@ -3407,8 +3029,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":3600,
-        "id":381
+        "numberArray":3600
     },
     {
         "name":null,
@@ -3416,8 +3037,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":3700,
-        "id":382
+        "numberArray":3700
     },
     {
         "name":null,
@@ -3425,8 +3045,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":3800,
-        "id":383
+        "numberArray":3800
     },
     {
         "name":null,
@@ -3434,8 +3053,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":3900,
-        "id":384
+        "numberArray":3900
     },
     {
         "name":null,
@@ -3443,8 +3061,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":4000,
-        "id":385
+        "numberArray":4000
     },
     {
         "name":null,
@@ -3452,8 +3069,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":4100,
-        "id":386
+        "numberArray":4100
     },
     {
         "name":null,
@@ -3461,8 +3077,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":4200,
-        "id":387
+        "numberArray":4200
     },
     {
         "name":"CAPTURE_COST",
@@ -3470,8 +3085,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":388
+        "numberArray":null
     },
     {
         "name":null,
@@ -3479,8 +3093,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":389
+        "numberArray":null
     },
     {
         "name":"SPAWNER_BUILDING_TOTAL_UNITS_TO_SPAWN",
@@ -3488,8 +3101,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":390
+        "numberArray":null
     },
     {
         "name":"WALLS_FOR_ONE_HOUSING",
@@ -3497,8 +3109,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":391
+        "numberArray":null
     },
     {
         "name":"CLAN_RESEARCH_GOAL",
@@ -3506,8 +3117,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":392
+        "numberArray":null
     },
     {
         "name":"CLAN_RESEARCH_DONATIONS_PER_USER",
@@ -3515,8 +3125,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":393
+        "numberArray":null
     },
     {
         "name":"CLAN_RESEARCH_DURATION_HOURS",
@@ -3524,8 +3133,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":394
+        "numberArray":null
     },
     {
         "name":"CLAN_RESEARCH_MINIMUM_CLAN_SIZE",
@@ -3533,8 +3141,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":395
+        "numberArray":null
     },
     {
         "name":"LIMIT_CARD_LEVELS_BY_HQ_TH",
@@ -3542,8 +3149,7 @@
         "booleanValue":false,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":396
+        "numberArray":null
     },
     {
         "name":"REFRESH_PATH_WHEN_WALKING_TO_WALL_TIME_MIN",
@@ -3551,8 +3157,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":397
+        "numberArray":null
     },
     {
         "name":"REFRESH_PATH_WHEN_WALKING_TO_WALL_TIME_MAX",
@@ -3560,8 +3165,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":398
+        "numberArray":null
     },
     {
         "name":"STARS_FOR_CHEST",
@@ -3569,8 +3173,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":399
+        "numberArray":null
     },
     {
         "name":"STARS_TO_LEADERBOARD",
@@ -3578,8 +3181,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":400
+        "numberArray":null
     },
     {
         "name":"ATTACK_COST_INCREASE_PER_TIME",
@@ -3587,8 +3189,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":100,
-        "id":401
+        "numberArray":100
     },
     {
         "name":null,
@@ -3596,8 +3197,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":150,
-        "id":402
+        "numberArray":150
     },
     {
         "name":null,
@@ -3605,8 +3205,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":200,
-        "id":403
+        "numberArray":200
     },
     {
         "name":null,
@@ -3614,8 +3213,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":275,
-        "id":404
+        "numberArray":275
     },
     {
         "name":null,
@@ -3623,8 +3221,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":350,
-        "id":405
+        "numberArray":350
     },
     {
         "name":null,
@@ -3632,8 +3229,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":425,
-        "id":406
+        "numberArray":425
     },
     {
         "name":null,
@@ -3641,8 +3237,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":500,
-        "id":407
+        "numberArray":500
     },
     {
         "name":null,
@@ -3650,8 +3245,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":600,
-        "id":408
+        "numberArray":600
     },
     {
         "name":null,
@@ -3659,8 +3253,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":750,
-        "id":409
+        "numberArray":750
     },
     {
         "name":null,
@@ -3668,8 +3261,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":900,
-        "id":410
+        "numberArray":900
     },
     {
         "name":null,
@@ -3677,8 +3269,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":1000,
-        "id":411
+        "numberArray":1000
     },
     {
         "name":"RESOURCE_PRODUCTION_LOOT_PERCENTAGE",
@@ -3686,8 +3277,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":412
+        "numberArray":null
     },
     {
         "name":"FREE_CHEST_GEMS",
@@ -3695,8 +3285,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":2,
-        "id":413
+        "numberArray":2
     },
     {
         "name":null,
@@ -3704,8 +3293,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":0,
-        "id":414
+        "numberArray":0
     },
     {
         "name":null,
@@ -3713,8 +3301,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":0,
-        "id":415
+        "numberArray":0
     },
     {
         "name":null,
@@ -3722,8 +3309,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":0,
-        "id":416
+        "numberArray":0
     },
     {
         "name":null,
@@ -3731,8 +3317,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":2,
-        "id":417
+        "numberArray":2
     },
     {
         "name":null,
@@ -3740,8 +3325,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":0,
-        "id":418
+        "numberArray":0
     },
     {
         "name":null,
@@ -3749,8 +3333,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":0,
-        "id":419
+        "numberArray":0
     },
     {
         "name":null,
@@ -3758,8 +3341,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":2,
-        "id":420
+        "numberArray":2
     },
     {
         "name":null,
@@ -3767,8 +3349,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":0,
-        "id":421
+        "numberArray":0
     },
     {
         "name":null,
@@ -3776,8 +3357,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":0,
-        "id":422
+        "numberArray":0
     },
     {
         "name":null,
@@ -3785,8 +3365,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":0,
-        "id":423
+        "numberArray":0
     },
     {
         "name":null,
@@ -3794,8 +3373,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":4,
-        "id":424
+        "numberArray":4
     },
     {
         "name":null,
@@ -3803,8 +3381,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":0,
-        "id":425
+        "numberArray":0
     },
     {
         "name":null,
@@ -3812,8 +3389,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":0,
-        "id":426
+        "numberArray":0
     },
     {
         "name":null,
@@ -3821,8 +3397,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":0,
-        "id":427
+        "numberArray":0
     },
     {
         "name":null,
@@ -3830,8 +3405,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":2,
-        "id":428
+        "numberArray":2
     },
     {
         "name":null,
@@ -3839,8 +3413,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":0,
-        "id":429
+        "numberArray":0
     },
     {
         "name":null,
@@ -3848,8 +3421,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":0,
-        "id":430
+        "numberArray":0
     },
     {
         "name":null,
@@ -3857,8 +3429,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":2,
-        "id":431
+        "numberArray":2
     },
     {
         "name":null,
@@ -3866,8 +3437,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":2,
-        "id":432
+        "numberArray":2
     },
     {
         "name":null,
@@ -3875,8 +3445,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":0,
-        "id":433
+        "numberArray":0
     },
     {
         "name":null,
@@ -3884,8 +3453,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":0,
-        "id":434
+        "numberArray":0
     },
     {
         "name":null,
@@ -3893,8 +3461,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":0,
-        "id":435
+        "numberArray":0
     },
     {
         "name":null,
@@ -3902,8 +3469,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":0,
-        "id":436
+        "numberArray":0
     },
     {
         "name":"DOMINATION_MAX_EXCLUDE_MEMBERS",
@@ -3911,8 +3477,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":437
+        "numberArray":null
     },
     {
         "name":"DOMINATION_PREPARATION_DURATION",
@@ -3920,8 +3485,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":438
+        "numberArray":null
     },
     {
         "name":"DOMINATION_ATTACK_DURATION",
@@ -3929,8 +3493,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":439
+        "numberArray":null
     },
     {
         "name":"DOMINATION_UNLOCK_LEVEL",
@@ -3938,8 +3501,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":440
+        "numberArray":null
     },
     {
         "name":"LIVE_REPLAY_ENABLED",
@@ -3947,8 +3509,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":441
+        "numberArray":null
     },
     {
         "name":"LIVE_REPLAY_UPDATE_FREQUENCY_SECONDS",
@@ -3956,8 +3517,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":442
+        "numberArray":null
     },
     {
         "name":"LIVE_REPLAY_ALLOW_DEBUG_COMMAND",
@@ -3965,8 +3525,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":443
+        "numberArray":null
     },
     {
         "name":"SHARE_REPLAY_COOLDOWN",
@@ -3974,8 +3533,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":444
+        "numberArray":null
     },
     {
         "name":"USE_OLD_CLOSEST_VALID_POSITION",
@@ -3983,8 +3541,7 @@
         "booleanValue":false,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":445
+        "numberArray":null
     },
     {
         "name":"USE_LEADERBOARD_ATTACK_DIRECT",
@@ -3992,8 +3549,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":446
+        "numberArray":null
     },
     {
         "name":"DOMINATION_MAP_COMPLETE_CACHE",
@@ -4001,7 +3557,6 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":447
+        "numberArray":null
     }
 ]

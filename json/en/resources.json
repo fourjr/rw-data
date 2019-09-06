@@ -20,7 +20,6 @@
         "stealEffectMid":null,
         "stealLimitMid":null,
         "stealEffect":null,
-        "id":5,
         "rawTID":"GEMS",
         "rawPopOverTID":"POP_GEM"
     },
@@ -45,7 +44,6 @@
         "stealEffectMid":"steal_gold_mid",
         "stealLimitMid":5,
         "stealEffect":"steal_gold",
-        "id":6,
         "rawTID":"GOLD",
         "rawCapFullTID":"GOLD_CAP_FULL",
         "rawPopOverTID":"POP_GOLD"
@@ -71,7 +69,6 @@
         "stealEffectMid":null,
         "stealLimitMid":null,
         "stealEffect":null,
-        "id":7,
         "rawTID":"GOLD"
     },
     {
@@ -95,7 +92,6 @@
         "stealEffectMid":null,
         "stealLimitMid":null,
         "stealEffect":null,
-        "id":8,
         "rawTID":"MINERAL",
         "rawCapFullTID":"MINERAL_CAP_FULL",
         "rawPopOverTID":"POP_MINERAL"
@@ -121,7 +117,6 @@
         "stealEffectMid":null,
         "stealLimitMid":null,
         "stealEffect":null,
-        "id":9,
         "rawTID":"MINERAL",
         "rawCapFullTID":"MINERAL_CAP_FULL"
     },
@@ -146,7 +141,6 @@
         "stealEffectMid":null,
         "stealLimitMid":null,
         "stealEffect":null,
-        "id":10,
         "rawTID":"CARDS"
     },
     {
@@ -170,7 +164,6 @@
         "stealEffectMid":null,
         "stealLimitMid":null,
         "stealEffect":null,
-        "id":11,
         "rawTID":"KEYS",
         "rawPopOverTID":"POP_KEY"
     },
@@ -195,7 +188,6 @@
         "stealEffectMid":null,
         "stealLimitMid":null,
         "stealEffect":null,
-        "id":12,
         "rawTID":"EXP",
         "rawPopOverTID":"POP_EXP"
     },
@@ -220,7 +212,6 @@
         "stealEffectMid":null,
         "stealLimitMid":null,
         "stealEffect":null,
-        "id":13,
         "rawTID":"STAR",
         "rawPopOverTID":"POP_STAR"
     }

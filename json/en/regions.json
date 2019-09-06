@@ -5,7 +5,6 @@
         "displayName":"Europe",
         "isCountry":false,
         "regionPopup":true,
-        "id":14,
         "rawTID":"EUROPE"
     },
     {
@@ -14,7 +13,6 @@
         "displayName":"North America",
         "isCountry":false,
         "regionPopup":true,
-        "id":15,
         "rawTID":"NORTH_AMERICA"
     },
     {
@@ -23,7 +21,6 @@
         "displayName":"South America",
         "isCountry":false,
         "regionPopup":true,
-        "id":16,
         "rawTID":"SOUTH_AMERICA"
     },
     {
@@ -32,7 +29,6 @@
         "displayName":"Asia",
         "isCountry":false,
         "regionPopup":true,
-        "id":17,
         "rawTID":"ASIA"
     },
     {
@@ -41,7 +37,6 @@
         "displayName":"Australia",
         "isCountry":false,
         "regionPopup":true,
-        "id":18,
         "rawTID":"AUSTRALIA"
     },
     {
@@ -50,7 +45,6 @@
         "displayName":"Africa",
         "isCountry":false,
         "regionPopup":true,
-        "id":19,
         "rawTID":"AFRICA"
     },
     {
@@ -59,7 +53,6 @@
         "displayName":"International",
         "isCountry":false,
         "regionPopup":true,
-        "id":20,
         "rawTID":"INTERNATIONAL"
     },
     {
@@ -68,7 +61,6 @@
         "displayName":"Afghanistan",
         "isCountry":true,
         "regionPopup":true,
-        "id":21,
         "rawTID":"AFGHANISTAN"
     },
     {
@@ -77,7 +69,6 @@
         "displayName":"\u00c5land Islands",
         "isCountry":true,
         "regionPopup":true,
-        "id":22,
         "rawTID":"ALAND_ISLANDS"
     },
     {
@@ -86,7 +77,6 @@
         "displayName":"Albania",
         "isCountry":true,
         "regionPopup":true,
-        "id":23,
         "rawTID":"ALBANIA"
     },
     {
@@ -95,7 +85,6 @@
         "displayName":"Algeria",
         "isCountry":true,
         "regionPopup":true,
-        "id":24,
         "rawTID":"ALGERIA"
     },
     {
@@ -104,7 +93,6 @@
         "displayName":"American Samoa",
         "isCountry":true,
         "regionPopup":true,
-        "id":25,
         "rawTID":"AMERICAN_SAMOA"
     },
     {
@@ -113,7 +101,6 @@
         "displayName":"Andorra",
         "isCountry":true,
         "regionPopup":true,
-        "id":26,
         "rawTID":"ANDORRA"
     },
     {
@@ -122,7 +109,6 @@
         "displayName":"Angola",
         "isCountry":true,
         "regionPopup":true,
-        "id":27,
         "rawTID":"ANGOLA"
     },
     {
@@ -131,7 +117,6 @@
         "displayName":"Anguilla",
         "isCountry":true,
         "regionPopup":true,
-        "id":28,
         "rawTID":"ANGUILLA"
     },
     {
@@ -140,7 +125,6 @@
         "displayName":"Antarctica",
         "isCountry":true,
         "regionPopup":true,
-        "id":29,
         "rawTID":"ANTARCTICA"
     },
     {
@@ -149,7 +133,6 @@
         "displayName":"Antigua and Barbuda",
         "isCountry":true,
         "regionPopup":true,
-        "id":30,
         "rawTID":"ANTIGUA_AND_BARBUDA"
     },
     {
@@ -158,7 +141,6 @@
         "displayName":"Argentina",
         "isCountry":true,
         "regionPopup":true,
-        "id":31,
         "rawTID":"ARGENTINA"
     },
     {
@@ -167,7 +149,6 @@
         "displayName":"Armenia",
         "isCountry":true,
         "regionPopup":true,
-        "id":32,
         "rawTID":"ARMENIA"
     },
     {
@@ -176,7 +157,6 @@
         "displayName":"Aruba",
         "isCountry":true,
         "regionPopup":true,
-        "id":33,
         "rawTID":"ARUBA"
     },
     {
@@ -185,7 +165,6 @@
         "displayName":"Ascension Island",
         "isCountry":true,
         "regionPopup":true,
-        "id":34,
         "rawTID":"ASCENSION_ISLAND"
     },
     {
@@ -194,7 +173,6 @@
         "displayName":"Australia",
         "isCountry":true,
         "regionPopup":true,
-        "id":35,
         "rawTID":"AUSTRALIA"
     },
     {
@@ -203,7 +181,6 @@
         "displayName":"Austria",
         "isCountry":true,
         "regionPopup":true,
-        "id":36,
         "rawTID":"AUSTRIA"
     },
     {
@@ -212,7 +189,6 @@
         "displayName":"Azerbaijan",
         "isCountry":true,
         "regionPopup":true,
-        "id":37,
         "rawTID":"AZERBAIJAN"
     },
     {
@@ -221,7 +197,6 @@
         "displayName":"Bahamas",
         "isCountry":true,
         "regionPopup":true,
-        "id":38,
         "rawTID":"BAHAMAS"
     },
     {
@@ -230,7 +205,6 @@
         "displayName":"Bahrain",
         "isCountry":true,
         "regionPopup":true,
-        "id":39,
         "rawTID":"BAHRAIN"
     },
     {
@@ -239,7 +213,6 @@
         "displayName":"Bangladesh",
         "isCountry":true,
         "regionPopup":true,
-        "id":40,
         "rawTID":"BANGLADESH"
     },
     {
@@ -248,7 +221,6 @@
         "displayName":"Barbados",
         "isCountry":true,
         "regionPopup":true,
-        "id":41,
         "rawTID":"BARBADOS"
     },
     {
@@ -257,7 +229,6 @@
         "displayName":"Belarus",
         "isCountry":true,
         "regionPopup":true,
-        "id":42,
         "rawTID":"BELARUS"
     },
     {
@@ -266,7 +237,6 @@
         "displayName":"Belgium",
         "isCountry":true,
         "regionPopup":true,
-        "id":43,
         "rawTID":"BELGIUM"
     },
     {
@@ -275,7 +245,6 @@
         "displayName":"Belize",
         "isCountry":true,
         "regionPopup":true,
-        "id":44,
         "rawTID":"BELIZE"
     },
     {
@@ -284,7 +253,6 @@
         "displayName":"Benin",
         "isCountry":true,
         "regionPopup":true,
-        "id":45,
         "rawTID":"BENIN"
     },
     {
@@ -293,7 +261,6 @@
         "displayName":"Bermuda",
         "isCountry":true,
         "regionPopup":true,
-        "id":46,
         "rawTID":"BERMUDA"
     },
     {
@@ -302,7 +269,6 @@
         "displayName":"Bhutan",
         "isCountry":true,
         "regionPopup":true,
-        "id":47,
         "rawTID":"BHUTAN"
     },
     {
@@ -311,7 +277,6 @@
         "displayName":"Bolivia",
         "isCountry":true,
         "regionPopup":true,
-        "id":48,
         "rawTID":"BOLIVIA"
     },
     {
@@ -320,7 +285,6 @@
         "displayName":"Bosnia and Herzegovina",
         "isCountry":true,
         "regionPopup":true,
-        "id":49,
         "rawTID":"BOSNIA_AND_HERZEGOVINA"
     },
     {
@@ -329,7 +293,6 @@
         "displayName":"Botswana",
         "isCountry":true,
         "regionPopup":true,
-        "id":50,
         "rawTID":"BOTSWANA"
     },
     {
@@ -338,7 +301,6 @@
         "displayName":"Bouvet Island",
         "isCountry":true,
         "regionPopup":true,
-        "id":51,
         "rawTID":"BOUVET_ISLAND"
     },
     {
@@ -347,7 +309,6 @@
         "displayName":"Brazil",
         "isCountry":true,
         "regionPopup":true,
-        "id":52,
         "rawTID":"BRAZIL"
     },
     {
@@ -356,7 +317,6 @@
         "displayName":"British Indian Ocean Territory",
         "isCountry":true,
         "regionPopup":true,
-        "id":53,
         "rawTID":"BRITISH_INDIAN_OCEAN_TERRITORY"
     },
     {
@@ -365,7 +325,6 @@
         "displayName":"British Virgin Islands",
         "isCountry":true,
         "regionPopup":true,
-        "id":54,
         "rawTID":"BRITISH_VIRGIN_ISLANDS"
     },
     {
@@ -374,7 +333,6 @@
         "displayName":"Brunei",
         "isCountry":true,
         "regionPopup":true,
-        "id":55,
         "rawTID":"BRUNEI"
     },
     {
@@ -383,7 +341,6 @@
         "displayName":"Bulgaria",
         "isCountry":true,
         "regionPopup":true,
-        "id":56,
         "rawTID":"BULGARIA"
     },
     {
@@ -392,7 +349,6 @@
         "displayName":"Burkina Faso",
         "isCountry":true,
         "regionPopup":true,
-        "id":57,
         "rawTID":"BURKINA_FASO"
     },
     {
@@ -401,7 +357,6 @@
         "displayName":"Burundi",
         "isCountry":true,
         "regionPopup":true,
-        "id":58,
         "rawTID":"BURUNDI"
     },
     {
@@ -410,7 +365,6 @@
         "displayName":"Cambodia",
         "isCountry":true,
         "regionPopup":true,
-        "id":59,
         "rawTID":"CAMBODIA"
     },
     {
@@ -419,7 +373,6 @@
         "displayName":"Cameroon",
         "isCountry":true,
         "regionPopup":true,
-        "id":60,
         "rawTID":"CAMEROON"
     },
     {
@@ -428,7 +381,6 @@
         "displayName":"Canada",
         "isCountry":true,
         "regionPopup":true,
-        "id":61,
         "rawTID":"CANADA"
     },
     {
@@ -437,7 +389,6 @@
         "displayName":"Canary Islands",
         "isCountry":true,
         "regionPopup":true,
-        "id":62,
         "rawTID":"CANARY_ISLANDS"
     },
     {
@@ -446,7 +397,6 @@
         "displayName":"Cape Verde",
         "isCountry":true,
         "regionPopup":true,
-        "id":63,
         "rawTID":"CAPE_VERDE"
     },
     {
@@ -455,7 +405,6 @@
         "displayName":"Caribbean Netherlands",
         "isCountry":true,
         "regionPopup":true,
-        "id":64,
         "rawTID":"CARIBBEAN_NETHERLANDS"
     },
     {
@@ -464,7 +413,6 @@
         "displayName":"Cayman Islands",
         "isCountry":true,
         "regionPopup":true,
-        "id":65,
         "rawTID":"CAYMAN_ISLANDS"
     },
     {
@@ -473,7 +421,6 @@
         "displayName":"Central African Republic",
         "isCountry":true,
         "regionPopup":true,
-        "id":66,
         "rawTID":"CENTRAL_AFRICAN_REPUBLIC"
     },
     {
@@ -482,7 +429,6 @@
         "displayName":"Ceuta and Melilla",
         "isCountry":true,
         "regionPopup":true,
-        "id":67,
         "rawTID":"CEUTA_AND_MELILLA"
     },
     {
@@ -491,7 +437,6 @@
         "displayName":"Chad",
         "isCountry":true,
         "regionPopup":true,
-        "id":68,
         "rawTID":"CHAD"
     },
     {
@@ -500,7 +445,6 @@
         "displayName":"Chile",
         "isCountry":true,
         "regionPopup":true,
-        "id":69,
         "rawTID":"CHILE"
     },
     {
@@ -509,7 +453,6 @@
         "displayName":"China",
         "isCountry":true,
         "regionPopup":true,
-        "id":70,
         "rawTID":"CHINA"
     },
     {
@@ -518,7 +461,6 @@
         "displayName":"Christmas Island",
         "isCountry":true,
         "regionPopup":true,
-        "id":71,
         "rawTID":"CHRISTMAS_ISLAND"
     },
     {
@@ -527,7 +469,6 @@
         "displayName":"Cocos (Keeling) Islands",
         "isCountry":true,
         "regionPopup":true,
-        "id":72,
         "rawTID":"COCOS_KEELING_ISLANDS"
     },
     {
@@ -536,7 +477,6 @@
         "displayName":"Colombia",
         "isCountry":true,
         "regionPopup":true,
-        "id":73,
         "rawTID":"COLOMBIA"
     },
     {
@@ -545,7 +485,6 @@
         "displayName":"Comoros",
         "isCountry":true,
         "regionPopup":true,
-        "id":74,
         "rawTID":"COMOROS"
     },
     {
@@ -554,7 +493,6 @@
         "displayName":"Congo (DRC)",
         "isCountry":true,
         "regionPopup":true,
-        "id":75,
         "rawTID":"CONGO_DRC"
     },
     {
@@ -563,7 +501,6 @@
         "displayName":"Congo (Republic)",
         "isCountry":true,
         "regionPopup":true,
-        "id":76,
         "rawTID":"CONGO_REPUBLIC"
     },
     {
@@ -572,7 +509,6 @@
         "displayName":"Cook Islands",
         "isCountry":true,
         "regionPopup":true,
-        "id":77,
         "rawTID":"COOK_ISLANDS"
     },
     {
@@ -581,7 +517,6 @@
         "displayName":"Costa Rica",
         "isCountry":true,
         "regionPopup":true,
-        "id":78,
         "rawTID":"COSTA_RICA"
     },
     {
@@ -590,7 +525,6 @@
         "displayName":"C\u00f4te d\u2019Ivoire",
         "isCountry":true,
         "regionPopup":true,
-        "id":79,
         "rawTID":"COTE_DIVOIRE"
     },
     {
@@ -599,7 +533,6 @@
         "displayName":"Croatia",
         "isCountry":true,
         "regionPopup":true,
-        "id":80,
         "rawTID":"CROATIA"
     },
     {
@@ -608,7 +541,6 @@
         "displayName":"Cuba",
         "isCountry":true,
         "regionPopup":true,
-        "id":81,
         "rawTID":"CUBA"
     },
     {
@@ -617,7 +549,6 @@
         "displayName":"Cura\u00e7ao",
         "isCountry":true,
         "regionPopup":true,
-        "id":82,
         "rawTID":"CURACAO"
     },
     {
@@ -626,7 +557,6 @@
         "displayName":"Cyprus",
         "isCountry":true,
         "regionPopup":true,
-        "id":83,
         "rawTID":"CYPRUS"
     },
     {
@@ -635,7 +565,6 @@
         "displayName":"Czech Republic",
         "isCountry":true,
         "regionPopup":true,
-        "id":84,
         "rawTID":"CZECH_REPUBLIC"
     },
     {
@@ -644,7 +573,6 @@
         "displayName":"Denmark",
         "isCountry":true,
         "regionPopup":true,
-        "id":85,
         "rawTID":"DENMARK"
     },
     {
@@ -653,7 +581,6 @@
         "displayName":"Diego Garcia",
         "isCountry":true,
         "regionPopup":true,
-        "id":86,
         "rawTID":"DIEGO_GARCIA"
     },
     {
@@ -662,7 +589,6 @@
         "displayName":"Djibouti",
         "isCountry":true,
         "regionPopup":true,
-        "id":87,
         "rawTID":"DJIBOUTI"
     },
     {
@@ -671,7 +597,6 @@
         "displayName":"Dominica",
         "isCountry":true,
         "regionPopup":true,
-        "id":88,
         "rawTID":"DOMINICA"
     },
     {
@@ -680,7 +605,6 @@
         "displayName":"Dominican Republic",
         "isCountry":true,
         "regionPopup":true,
-        "id":89,
         "rawTID":"DOMINICAN_REPUBLIC"
     },
     {
@@ -689,7 +613,6 @@
         "displayName":"Ecuador",
         "isCountry":true,
         "regionPopup":true,
-        "id":90,
         "rawTID":"ECUADOR"
     },
     {
@@ -698,7 +621,6 @@
         "displayName":"Egypt",
         "isCountry":true,
         "regionPopup":true,
-        "id":91,
         "rawTID":"EGYPT"
     },
     {
@@ -707,7 +629,6 @@
         "displayName":"El Salvador",
         "isCountry":true,
         "regionPopup":true,
-        "id":92,
         "rawTID":"EL_SALVADOR"
     },
     {
@@ -716,7 +637,6 @@
         "displayName":"Equatorial Guinea",
         "isCountry":true,
         "regionPopup":true,
-        "id":93,
         "rawTID":"EQUATORIAL_GUINEA"
     },
     {
@@ -725,7 +645,6 @@
         "displayName":"Eritrea",
         "isCountry":true,
         "regionPopup":true,
-        "id":94,
         "rawTID":"ERITREA"
     },
     {
@@ -734,7 +653,6 @@
         "displayName":"Estonia",
         "isCountry":true,
         "regionPopup":true,
-        "id":95,
         "rawTID":"ESTONIA"
     },
     {
@@ -743,7 +661,6 @@
         "displayName":"Ethiopia",
         "isCountry":true,
         "regionPopup":true,
-        "id":96,
         "rawTID":"ETHIOPIA"
     },
     {
@@ -752,7 +669,6 @@
         "displayName":"Falkland Islands",
         "isCountry":true,
         "regionPopup":true,
-        "id":97,
         "rawTID":"FALKLAND_ISLANDS"
     },
     {
@@ -761,7 +677,6 @@
         "displayName":"Faroe Islands",
         "isCountry":true,
         "regionPopup":true,
-        "id":98,
         "rawTID":"FAROE_ISLANDS"
     },
     {
@@ -770,7 +685,6 @@
         "displayName":"Fiji",
         "isCountry":true,
         "regionPopup":true,
-        "id":99,
         "rawTID":"FIJI"
     },
     {
@@ -779,7 +693,6 @@
         "displayName":"Finland",
         "isCountry":true,
         "regionPopup":true,
-        "id":100,
         "rawTID":"FINLAND"
     },
     {
@@ -788,7 +701,6 @@
         "displayName":"France",
         "isCountry":true,
         "regionPopup":true,
-        "id":101,
         "rawTID":"FRANCE"
     },
     {
@@ -797,7 +709,6 @@
         "displayName":"French Guiana",
         "isCountry":true,
         "regionPopup":true,
-        "id":102,
         "rawTID":"FRENCH_GUIANA"
     },
     {
@@ -806,7 +717,6 @@
         "displayName":"French Polynesia",
         "isCountry":true,
         "regionPopup":true,
-        "id":103,
         "rawTID":"FRENCH_POLYNESIA"
     },
     {
@@ -815,7 +725,6 @@
         "displayName":"French Southern Territories",
         "isCountry":true,
         "regionPopup":true,
-        "id":104,
         "rawTID":"FRENCH_SOUTHERN_TERRITORIES"
     },
     {
@@ -824,7 +733,6 @@
         "displayName":"Gabon",
         "isCountry":true,
         "regionPopup":true,
-        "id":105,
         "rawTID":"GABON"
     },
     {
@@ -833,7 +741,6 @@
         "displayName":"Gambia",
         "isCountry":true,
         "regionPopup":true,
-        "id":106,
         "rawTID":"GAMBIA"
     },
     {
@@ -842,7 +749,6 @@
         "displayName":"Georgia",
         "isCountry":true,
         "regionPopup":true,
-        "id":107,
         "rawTID":"GEORGIA"
     },
     {
@@ -851,7 +757,6 @@
         "displayName":"Germany",
         "isCountry":true,
         "regionPopup":true,
-        "id":108,
         "rawTID":"GERMANY"
     },
     {
@@ -860,7 +765,6 @@
         "displayName":"Ghana",
         "isCountry":true,
         "regionPopup":true,
-        "id":109,
         "rawTID":"GHANA"
     },
     {
@@ -869,7 +773,6 @@
         "displayName":"Gibraltar",
         "isCountry":true,
         "regionPopup":true,
-        "id":110,
         "rawTID":"GIBRALTAR"
     },
     {
@@ -878,7 +781,6 @@
         "displayName":"Greece",
         "isCountry":true,
         "regionPopup":true,
-        "id":111,
         "rawTID":"GREECE"
     },
     {
@@ -887,7 +789,6 @@
         "displayName":"Greenland",
         "isCountry":true,
         "regionPopup":true,
-        "id":112,
         "rawTID":"GREENLAND"
     },
     {
@@ -896,7 +797,6 @@
         "displayName":"Grenada",
         "isCountry":true,
         "regionPopup":true,
-        "id":113,
         "rawTID":"GRENADA"
     },
     {
@@ -905,7 +805,6 @@
         "displayName":"Guadeloupe",
         "isCountry":true,
         "regionPopup":true,
-        "id":114,
         "rawTID":"GUADELOUPE"
     },
     {
@@ -914,7 +813,6 @@
         "displayName":"Guam",
         "isCountry":true,
         "regionPopup":true,
-        "id":115,
         "rawTID":"GUAM"
     },
     {
@@ -923,7 +821,6 @@
         "displayName":"Guatemala",
         "isCountry":true,
         "regionPopup":true,
-        "id":116,
         "rawTID":"GUATEMALA"
     },
     {
@@ -932,7 +829,6 @@
         "displayName":"Guernsey",
         "isCountry":true,
         "regionPopup":true,
-        "id":117,
         "rawTID":"GUERNSEY"
     },
     {
@@ -941,7 +837,6 @@
         "displayName":"Guinea",
         "isCountry":true,
         "regionPopup":true,
-        "id":118,
         "rawTID":"GUINEA"
     },
     {
@@ -950,7 +845,6 @@
         "displayName":"Guinea-Bissau",
         "isCountry":true,
         "regionPopup":true,
-        "id":119,
         "rawTID":"GUINEA-BISSAU"
     },
     {
@@ -959,7 +853,6 @@
         "displayName":"Guyana",
         "isCountry":true,
         "regionPopup":true,
-        "id":120,
         "rawTID":"GUYANA"
     },
     {
@@ -968,7 +861,6 @@
         "displayName":"Haiti",
         "isCountry":true,
         "regionPopup":true,
-        "id":121,
         "rawTID":"HAITI"
     },
     {
@@ -977,7 +869,6 @@
         "displayName":"Heard & McDonald Islands",
         "isCountry":true,
         "regionPopup":true,
-        "id":122,
         "rawTID":"HEARD_MCDONALD_ISLANDS"
     },
     {
@@ -986,7 +877,6 @@
         "displayName":"Honduras",
         "isCountry":true,
         "regionPopup":true,
-        "id":123,
         "rawTID":"HONDURAS"
     },
     {
@@ -995,7 +885,6 @@
         "displayName":"Hong Kong",
         "isCountry":true,
         "regionPopup":true,
-        "id":124,
         "rawTID":"HONG_KONG"
     },
     {
@@ -1004,7 +893,6 @@
         "displayName":"Hungary",
         "isCountry":true,
         "regionPopup":true,
-        "id":125,
         "rawTID":"HUNGARY"
     },
     {
@@ -1013,7 +901,6 @@
         "displayName":"Iceland",
         "isCountry":true,
         "regionPopup":true,
-        "id":126,
         "rawTID":"ICELAND"
     },
     {
@@ -1022,7 +909,6 @@
         "displayName":"India",
         "isCountry":true,
         "regionPopup":true,
-        "id":127,
         "rawTID":"INDIA"
     },
     {
@@ -1031,7 +917,6 @@
         "displayName":"Indonesia",
         "isCountry":true,
         "regionPopup":true,
-        "id":128,
         "rawTID":"INDONESIA"
     },
     {
@@ -1040,7 +925,6 @@
         "displayName":"Iran",
         "isCountry":true,
         "regionPopup":true,
-        "id":129,
         "rawTID":"IRAN"
     },
     {
@@ -1049,7 +933,6 @@
         "displayName":"Iraq",
         "isCountry":true,
         "regionPopup":true,
-        "id":130,
         "rawTID":"IRAQ"
     },
     {
@@ -1058,7 +941,6 @@
         "displayName":"Ireland",
         "isCountry":true,
         "regionPopup":true,
-        "id":131,
         "rawTID":"IRELAND"
     },
     {
@@ -1067,7 +949,6 @@
         "displayName":"Isle of Man",
         "isCountry":true,
         "regionPopup":true,
-        "id":132,
         "rawTID":"ISLE_OF_MAN"
     },
     {
@@ -1076,7 +957,6 @@
         "displayName":"Israel",
         "isCountry":true,
         "regionPopup":true,
-        "id":133,
         "rawTID":"ISRAEL"
     },
     {
@@ -1085,7 +965,6 @@
         "displayName":"Italy",
         "isCountry":true,
         "regionPopup":true,
-        "id":134,
         "rawTID":"ITALY"
     },
     {
@@ -1094,7 +973,6 @@
         "displayName":"Jamaica",
         "isCountry":true,
         "regionPopup":true,
-        "id":135,
         "rawTID":"JAMAICA"
     },
     {
@@ -1103,7 +981,6 @@
         "displayName":"Japan",
         "isCountry":true,
         "regionPopup":true,
-        "id":136,
         "rawTID":"JAPAN"
     },
     {
@@ -1112,7 +989,6 @@
         "displayName":"Jersey",
         "isCountry":true,
         "regionPopup":true,
-        "id":137,
         "rawTID":"JERSEY"
     },
     {
@@ -1121,7 +997,6 @@
         "displayName":"Jordan",
         "isCountry":true,
         "regionPopup":true,
-        "id":138,
         "rawTID":"JORDAN"
     },
     {
@@ -1130,7 +1005,6 @@
         "displayName":"Kazakhstan",
         "isCountry":true,
         "regionPopup":true,
-        "id":139,
         "rawTID":"KAZAKHSTAN"
     },
     {
@@ -1139,7 +1013,6 @@
         "displayName":"Kenya",
         "isCountry":true,
         "regionPopup":true,
-        "id":140,
         "rawTID":"KENYA"
     },
     {
@@ -1148,7 +1021,6 @@
         "displayName":"Kiribati",
         "isCountry":true,
         "regionPopup":true,
-        "id":141,
         "rawTID":"KIRIBATI"
     },
     {
@@ -1157,7 +1029,6 @@
         "displayName":"Kosovo",
         "isCountry":true,
         "regionPopup":true,
-        "id":142,
         "rawTID":"KOSOVO"
     },
     {
@@ -1166,7 +1037,6 @@
         "displayName":"Kuwait",
         "isCountry":true,
         "regionPopup":true,
-        "id":143,
         "rawTID":"KUWAIT"
     },
     {
@@ -1175,7 +1045,6 @@
         "displayName":"Kyrgyzstan",
         "isCountry":true,
         "regionPopup":true,
-        "id":144,
         "rawTID":"KYRGYZSTAN"
     },
     {
@@ -1184,7 +1053,6 @@
         "displayName":"Laos",
         "isCountry":true,
         "regionPopup":true,
-        "id":145,
         "rawTID":"LAOS"
     },
     {
@@ -1193,7 +1061,6 @@
         "displayName":"Latvia",
         "isCountry":true,
         "regionPopup":true,
-        "id":146,
         "rawTID":"LATVIA"
     },
     {
@@ -1202,7 +1069,6 @@
         "displayName":"Lebanon",
         "isCountry":true,
         "regionPopup":true,
-        "id":147,
         "rawTID":"LEBANON"
     },
     {
@@ -1211,7 +1077,6 @@
         "displayName":"Lesotho",
         "isCountry":true,
         "regionPopup":true,
-        "id":148,
         "rawTID":"LESOTHO"
     },
     {
@@ -1220,7 +1085,6 @@
         "displayName":"Liberia",
         "isCountry":true,
         "regionPopup":true,
-        "id":149,
         "rawTID":"LIBERIA"
     },
     {
@@ -1229,7 +1093,6 @@
         "displayName":"Libya",
         "isCountry":true,
         "regionPopup":true,
-        "id":150,
         "rawTID":"LIBYA"
     },
     {
@@ -1238,7 +1101,6 @@
         "displayName":"Liechtenstein",
         "isCountry":true,
         "regionPopup":true,
-        "id":151,
         "rawTID":"LIECHTENSTEIN"
     },
     {
@@ -1247,7 +1109,6 @@
         "displayName":"Lithuania",
         "isCountry":true,
         "regionPopup":true,
-        "id":152,
         "rawTID":"LITHUANIA"
     },
     {
@@ -1256,7 +1117,6 @@
         "displayName":"Luxembourg",
         "isCountry":true,
         "regionPopup":true,
-        "id":153,
         "rawTID":"LUXEMBOURG"
     },
     {
@@ -1265,7 +1125,6 @@
         "displayName":"Macau",
         "isCountry":true,
         "regionPopup":true,
-        "id":154,
         "rawTID":"MACAU"
     },
     {
@@ -1274,7 +1133,6 @@
         "displayName":"Macedonia (FYROM)",
         "isCountry":true,
         "regionPopup":true,
-        "id":155,
         "rawTID":"MACEDONIA_FYROM"
     },
     {
@@ -1283,7 +1141,6 @@
         "displayName":"Madagascar",
         "isCountry":true,
         "regionPopup":true,
-        "id":156,
         "rawTID":"MADAGASCAR"
     },
     {
@@ -1292,7 +1149,6 @@
         "displayName":"Malawi",
         "isCountry":true,
         "regionPopup":true,
-        "id":157,
         "rawTID":"MALAWI"
     },
     {
@@ -1301,7 +1157,6 @@
         "displayName":"Malaysia",
         "isCountry":true,
         "regionPopup":true,
-        "id":158,
         "rawTID":"MALAYSIA"
     },
     {
@@ -1310,7 +1165,6 @@
         "displayName":"Maldives",
         "isCountry":true,
         "regionPopup":true,
-        "id":159,
         "rawTID":"MALDIVES"
     },
     {
@@ -1319,7 +1173,6 @@
         "displayName":"Mali",
         "isCountry":true,
         "regionPopup":true,
-        "id":160,
         "rawTID":"MALI"
     },
     {
@@ -1328,7 +1181,6 @@
         "displayName":"Malta",
         "isCountry":true,
         "regionPopup":true,
-        "id":161,
         "rawTID":"MALTA"
     },
     {
@@ -1337,7 +1189,6 @@
         "displayName":"Marshall Islands",
         "isCountry":true,
         "regionPopup":true,
-        "id":162,
         "rawTID":"MARSHALL_ISLANDS"
     },
     {
@@ -1346,7 +1197,6 @@
         "displayName":"Martinique",
         "isCountry":true,
         "regionPopup":true,
-        "id":163,
         "rawTID":"MARTINIQUE"
     },
     {
@@ -1355,7 +1205,6 @@
         "displayName":"Mauritania",
         "isCountry":true,
         "regionPopup":true,
-        "id":164,
         "rawTID":"MAURITANIA"
     },
     {
@@ -1364,7 +1213,6 @@
         "displayName":"Mauritius",
         "isCountry":true,
         "regionPopup":true,
-        "id":165,
         "rawTID":"MAURITIUS"
     },
     {
@@ -1373,7 +1221,6 @@
         "displayName":"Mayotte",
         "isCountry":true,
         "regionPopup":true,
-        "id":166,
         "rawTID":"MAYOTTE"
     },
     {
@@ -1382,7 +1229,6 @@
         "displayName":"Mexico",
         "isCountry":true,
         "regionPopup":true,
-        "id":167,
         "rawTID":"MEXICO"
     },
     {
@@ -1391,7 +1237,6 @@
         "displayName":"Micronesia",
         "isCountry":true,
         "regionPopup":true,
-        "id":168,
         "rawTID":"MICRONESIA"
     },
     {
@@ -1400,7 +1245,6 @@
         "displayName":"Moldova",
         "isCountry":true,
         "regionPopup":true,
-        "id":169,
         "rawTID":"MOLDOVA"
     },
     {
@@ -1409,7 +1253,6 @@
         "displayName":"Monaco",
         "isCountry":true,
         "regionPopup":true,
-        "id":170,
         "rawTID":"MONACO"
     },
     {
@@ -1418,7 +1261,6 @@
         "displayName":"Mongolia",
         "isCountry":true,
         "regionPopup":true,
-        "id":171,
         "rawTID":"MONGOLIA"
     },
     {
@@ -1427,7 +1269,6 @@
         "displayName":"Montenegro",
         "isCountry":true,
         "regionPopup":true,
-        "id":172,
         "rawTID":"MONTENEGRO"
     },
     {
@@ -1436,7 +1277,6 @@
         "displayName":"Montserrat",
         "isCountry":true,
         "regionPopup":true,
-        "id":173,
         "rawTID":"MONTSERRAT"
     },
     {
@@ -1445,7 +1285,6 @@
         "displayName":"Morocco",
         "isCountry":true,
         "regionPopup":true,
-        "id":174,
         "rawTID":"MOROCCO"
     },
     {
@@ -1454,7 +1293,6 @@
         "displayName":"Mozambique",
         "isCountry":true,
         "regionPopup":true,
-        "id":175,
         "rawTID":"MOZAMBIQUE"
     },
     {
@@ -1463,7 +1301,6 @@
         "displayName":"Myanmar (Burma)",
         "isCountry":true,
         "regionPopup":true,
-        "id":176,
         "rawTID":"MYANMAR_BURMA"
     },
     {
@@ -1472,7 +1309,6 @@
         "displayName":"Namibia",
         "isCountry":true,
         "regionPopup":true,
-        "id":177,
         "rawTID":"NAMIBIA"
     },
     {
@@ -1481,7 +1317,6 @@
         "displayName":"Nauru",
         "isCountry":true,
         "regionPopup":true,
-        "id":178,
         "rawTID":"NAURU"
     },
     {
@@ -1490,7 +1325,6 @@
         "displayName":"Nepal",
         "isCountry":true,
         "regionPopup":true,
-        "id":179,
         "rawTID":"NEPAL"
     },
     {
@@ -1499,7 +1333,6 @@
         "displayName":"Netherlands",
         "isCountry":true,
         "regionPopup":true,
-        "id":180,
         "rawTID":"NETHERLANDS"
     },
     {
@@ -1508,7 +1341,6 @@
         "displayName":"New Caledonia",
         "isCountry":true,
         "regionPopup":true,
-        "id":181,
         "rawTID":"NEW_CALEDONIA"
     },
     {
@@ -1517,7 +1349,6 @@
         "displayName":"New Zealand",
         "isCountry":true,
         "regionPopup":true,
-        "id":182,
         "rawTID":"NEW_ZEALAND"
     },
     {
@@ -1526,7 +1357,6 @@
         "displayName":"Nicaragua",
         "isCountry":true,
         "regionPopup":true,
-        "id":183,
         "rawTID":"NICARAGUA"
     },
     {
@@ -1535,7 +1365,6 @@
         "displayName":"Niger",
         "isCountry":true,
         "regionPopup":true,
-        "id":184,
         "rawTID":"NIGER"
     },
     {
@@ -1544,7 +1373,6 @@
         "displayName":"Nigeria",
         "isCountry":true,
         "regionPopup":true,
-        "id":185,
         "rawTID":"NIGERIA"
     },
     {
@@ -1553,7 +1381,6 @@
         "displayName":"Niue",
         "isCountry":true,
         "regionPopup":true,
-        "id":186,
         "rawTID":"NIUE"
     },
     {
@@ -1562,7 +1389,6 @@
         "displayName":"Norfolk Island",
         "isCountry":true,
         "regionPopup":true,
-        "id":187,
         "rawTID":"NORFOLK_ISLAND"
     },
     {
@@ -1571,7 +1397,6 @@
         "displayName":"North Korea",
         "isCountry":true,
         "regionPopup":true,
-        "id":188,
         "rawTID":"NORTH_KOREA"
     },
     {
@@ -1580,7 +1405,6 @@
         "displayName":"Northern Mariana Islands",
         "isCountry":true,
         "regionPopup":true,
-        "id":189,
         "rawTID":"NORTHERN_MARIANA_ISLANDS"
     },
     {
@@ -1589,7 +1413,6 @@
         "displayName":"Norway",
         "isCountry":true,
         "regionPopup":true,
-        "id":190,
         "rawTID":"NORWAY"
     },
     {
@@ -1598,7 +1421,6 @@
         "displayName":"Oman",
         "isCountry":true,
         "regionPopup":true,
-        "id":191,
         "rawTID":"OMAN"
     },
     {
@@ -1607,7 +1429,6 @@
         "displayName":"Pakistan",
         "isCountry":true,
         "regionPopup":true,
-        "id":192,
         "rawTID":"PAKISTAN"
     },
     {
@@ -1616,7 +1437,6 @@
         "displayName":"Palau",
         "isCountry":true,
         "regionPopup":true,
-        "id":193,
         "rawTID":"PALAU"
     },
     {
@@ -1625,7 +1445,6 @@
         "displayName":"Palestine",
         "isCountry":true,
         "regionPopup":true,
-        "id":194,
         "rawTID":"PALESTINE"
     },
     {
@@ -1634,7 +1453,6 @@
         "displayName":"Panama",
         "isCountry":true,
         "regionPopup":true,
-        "id":195,
         "rawTID":"PANAMA"
     },
     {
@@ -1643,7 +1461,6 @@
         "displayName":"Papua New Guinea",
         "isCountry":true,
         "regionPopup":true,
-        "id":196,
         "rawTID":"PAPUA_NEW_GUINEA"
     },
     {
@@ -1652,7 +1469,6 @@
         "displayName":"Paraguay",
         "isCountry":true,
         "regionPopup":true,
-        "id":197,
         "rawTID":"PARAGUAY"
     },
     {
@@ -1661,7 +1477,6 @@
         "displayName":"Peru",
         "isCountry":true,
         "regionPopup":true,
-        "id":198,
         "rawTID":"PERU"
     },
     {
@@ -1670,7 +1485,6 @@
         "displayName":"Philippines",
         "isCountry":true,
         "regionPopup":true,
-        "id":199,
         "rawTID":"PHILIPPINES"
     },
     {
@@ -1679,7 +1493,6 @@
         "displayName":"Pitcairn Islands",
         "isCountry":true,
         "regionPopup":true,
-        "id":200,
         "rawTID":"PITCAIRN_ISLANDS"
     },
     {
@@ -1688,7 +1501,6 @@
         "displayName":"Poland",
         "isCountry":true,
         "regionPopup":true,
-        "id":201,
         "rawTID":"POLAND"
     },
     {
@@ -1697,7 +1509,6 @@
         "displayName":"Portugal",
         "isCountry":true,
         "regionPopup":true,
-        "id":202,
         "rawTID":"PORTUGAL"
     },
     {
@@ -1706,7 +1517,6 @@
         "displayName":"Puerto Rico",
         "isCountry":true,
         "regionPopup":true,
-        "id":203,
         "rawTID":"PUERTO_RICO"
     },
     {
@@ -1715,7 +1525,6 @@
         "displayName":"Qatar",
         "isCountry":true,
         "regionPopup":true,
-        "id":204,
         "rawTID":"QATAR"
     },
     {
@@ -1724,7 +1533,6 @@
         "displayName":"R\u00e9union",
         "isCountry":true,
         "regionPopup":true,
-        "id":205,
         "rawTID":"REUNION"
     },
     {
@@ -1733,7 +1541,6 @@
         "displayName":"Romania",
         "isCountry":true,
         "regionPopup":true,
-        "id":206,
         "rawTID":"ROMANIA"
     },
     {
@@ -1742,7 +1549,6 @@
         "displayName":"Russia",
         "isCountry":true,
         "regionPopup":true,
-        "id":207,
         "rawTID":"RUSSIA"
     },
     {
@@ -1751,7 +1557,6 @@
         "displayName":"Rwanda",
         "isCountry":true,
         "regionPopup":true,
-        "id":208,
         "rawTID":"RWANDA"
     },
     {
@@ -1760,7 +1565,6 @@
         "displayName":"Saint Barth\u00e9lemy",
         "isCountry":true,
         "regionPopup":true,
-        "id":209,
         "rawTID":"SAINT_BARTHELEMY"
     },
     {
@@ -1769,7 +1573,6 @@
         "displayName":"Saint Helena",
         "isCountry":true,
         "regionPopup":true,
-        "id":210,
         "rawTID":"SAINT_HELENA"
     },
     {
@@ -1778,7 +1581,6 @@
         "displayName":"Saint Kitts and Nevis",
         "isCountry":true,
         "regionPopup":true,
-        "id":211,
         "rawTID":"SAINT_KITTS_AND_NEVIS"
     },
     {
@@ -1787,7 +1589,6 @@
         "displayName":"Saint Lucia",
         "isCountry":true,
         "regionPopup":true,
-        "id":212,
         "rawTID":"SAINT_LUCIA"
     },
     {
@@ -1796,7 +1597,6 @@
         "displayName":"Saint Martin",
         "isCountry":true,
         "regionPopup":true,
-        "id":213,
         "rawTID":"SAINT_MARTIN"
     },
     {
@@ -1805,7 +1605,6 @@
         "displayName":"Saint Pierre and Miquelon",
         "isCountry":true,
         "regionPopup":true,
-        "id":214,
         "rawTID":"SAINT_PIERRE_AND_MIQUELON"
     },
     {
@@ -1814,7 +1613,6 @@
         "displayName":"Samoa",
         "isCountry":true,
         "regionPopup":true,
-        "id":215,
         "rawTID":"SAMOA"
     },
     {
@@ -1823,7 +1621,6 @@
         "displayName":"San Marino",
         "isCountry":true,
         "regionPopup":true,
-        "id":216,
         "rawTID":"SAN_MARINO"
     },
     {
@@ -1832,7 +1629,6 @@
         "displayName":"S\u00e3o Tom\u00e9 and Pr\u00edncipe",
         "isCountry":true,
         "regionPopup":true,
-        "id":217,
         "rawTID":"SAO_TOME_AND_PRINCIPE"
     },
     {
@@ -1841,7 +1637,6 @@
         "displayName":"Saudi Arabia",
         "isCountry":true,
         "regionPopup":true,
-        "id":218,
         "rawTID":"SAUDI_ARABIA"
     },
     {
@@ -1850,7 +1645,6 @@
         "displayName":"Senegal",
         "isCountry":true,
         "regionPopup":true,
-        "id":219,
         "rawTID":"SENEGAL"
     },
     {
@@ -1859,7 +1653,6 @@
         "displayName":"Serbia",
         "isCountry":true,
         "regionPopup":true,
-        "id":220,
         "rawTID":"SERBIA"
     },
     {
@@ -1868,7 +1661,6 @@
         "displayName":"Seychelles",
         "isCountry":true,
         "regionPopup":true,
-        "id":221,
         "rawTID":"SEYCHELLES"
     },
     {
@@ -1877,7 +1669,6 @@
         "displayName":"Sierra Leone",
         "isCountry":true,
         "regionPopup":true,
-        "id":222,
         "rawTID":"SIERRA_LEONE"
     },
     {
@@ -1886,7 +1677,6 @@
         "displayName":"Singapore",
         "isCountry":true,
         "regionPopup":true,
-        "id":223,
         "rawTID":"SINGAPORE"
     },
     {
@@ -1895,7 +1685,6 @@
         "displayName":"Sint Maarten",
         "isCountry":true,
         "regionPopup":true,
-        "id":224,
         "rawTID":"SINT_MAARTEN"
     },
     {
@@ -1904,7 +1693,6 @@
         "displayName":"Slovakia",
         "isCountry":true,
         "regionPopup":true,
-        "id":225,
         "rawTID":"SLOVAKIA"
     },
     {
@@ -1913,7 +1701,6 @@
         "displayName":"Slovenia",
         "isCountry":true,
         "regionPopup":true,
-        "id":226,
         "rawTID":"SLOVENIA"
     },
     {
@@ -1922,7 +1709,6 @@
         "displayName":"Solomon Islands",
         "isCountry":true,
         "regionPopup":true,
-        "id":227,
         "rawTID":"SOLOMON_ISLANDS"
     },
     {
@@ -1931,7 +1717,6 @@
         "displayName":"Somalia",
         "isCountry":true,
         "regionPopup":true,
-        "id":228,
         "rawTID":"SOMALIA"
     },
     {
@@ -1940,7 +1725,6 @@
         "displayName":"South Africa",
         "isCountry":true,
         "regionPopup":true,
-        "id":229,
         "rawTID":"SOUTH_AFRICA"
     },
     {
@@ -1949,7 +1733,6 @@
         "displayName":"South Korea",
         "isCountry":true,
         "regionPopup":true,
-        "id":230,
         "rawTID":"SOUTH_KOREA"
     },
     {
@@ -1958,7 +1741,6 @@
         "displayName":"South Sudan",
         "isCountry":true,
         "regionPopup":true,
-        "id":231,
         "rawTID":"SOUTH_SUDAN"
     },
     {
@@ -1967,7 +1749,6 @@
         "displayName":"Spain",
         "isCountry":true,
         "regionPopup":true,
-        "id":232,
         "rawTID":"SPAIN"
     },
     {
@@ -1976,7 +1757,6 @@
         "displayName":"Sri Lanka",
         "isCountry":true,
         "regionPopup":true,
-        "id":233,
         "rawTID":"SRI_LANKA"
     },
     {
@@ -1985,7 +1765,6 @@
         "displayName":"St. Vincent & Grenadines",
         "isCountry":true,
         "regionPopup":true,
-        "id":234,
         "rawTID":"ST_VINCENT_GRENADINES"
     },
     {
@@ -1994,7 +1773,6 @@
         "displayName":"Sudan",
         "isCountry":true,
         "regionPopup":true,
-        "id":235,
         "rawTID":"SUDAN"
     },
     {
@@ -2003,7 +1781,6 @@
         "displayName":"Suriname",
         "isCountry":true,
         "regionPopup":true,
-        "id":236,
         "rawTID":"SURINAME"
     },
     {
@@ -2012,7 +1789,6 @@
         "displayName":"Svalbard and Jan Mayen",
         "isCountry":true,
         "regionPopup":true,
-        "id":237,
         "rawTID":"SVALBARD_AND_JAN_MAYEN"
     },
     {
@@ -2021,7 +1797,6 @@
         "displayName":"Swaziland",
         "isCountry":true,
         "regionPopup":true,
-        "id":238,
         "rawTID":"SWAZILAND"
     },
     {
@@ -2030,7 +1805,6 @@
         "displayName":"Sweden",
         "isCountry":true,
         "regionPopup":true,
-        "id":239,
         "rawTID":"SWEDEN"
     },
     {
@@ -2039,7 +1813,6 @@
         "displayName":"Switzerland",
         "isCountry":true,
         "regionPopup":true,
-        "id":240,
         "rawTID":"SWITZERLAND"
     },
     {
@@ -2048,7 +1821,6 @@
         "displayName":"Syria",
         "isCountry":true,
         "regionPopup":true,
-        "id":241,
         "rawTID":"SYRIA"
     },
     {
@@ -2057,7 +1829,6 @@
         "displayName":"Taiwan",
         "isCountry":true,
         "regionPopup":true,
-        "id":242,
         "rawTID":"TAIWAN"
     },
     {
@@ -2066,7 +1837,6 @@
         "displayName":"Tajikistan",
         "isCountry":true,
         "regionPopup":true,
-        "id":243,
         "rawTID":"TAJIKISTAN"
     },
     {
@@ -2075,7 +1845,6 @@
         "displayName":"Tanzania",
         "isCountry":true,
         "regionPopup":true,
-        "id":244,
         "rawTID":"TANZANIA"
     },
     {
@@ -2084,7 +1853,6 @@
         "displayName":"Thailand",
         "isCountry":true,
         "regionPopup":true,
-        "id":245,
         "rawTID":"THAILAND"
     },
     {
@@ -2093,7 +1861,6 @@
         "displayName":"Timor-Leste",
         "isCountry":true,
         "regionPopup":true,
-        "id":246,
         "rawTID":"TIMOR-LESTE"
     },
     {
@@ -2102,7 +1869,6 @@
         "displayName":"Togo",
         "isCountry":true,
         "regionPopup":true,
-        "id":247,
         "rawTID":"TOGO"
     },
     {
@@ -2111,7 +1877,6 @@
         "displayName":"Tokelau",
         "isCountry":true,
         "regionPopup":true,
-        "id":248,
         "rawTID":"TOKELAU"
     },
     {
@@ -2120,7 +1885,6 @@
         "displayName":"Tonga",
         "isCountry":true,
         "regionPopup":true,
-        "id":249,
         "rawTID":"TONGA"
     },
     {
@@ -2129,7 +1893,6 @@
         "displayName":"Trinidad and Tobago",
         "isCountry":true,
         "regionPopup":true,
-        "id":250,
         "rawTID":"TRINIDAD_AND_TOBAGO"
     },
     {
@@ -2138,7 +1901,6 @@
         "displayName":"Tristan da Cunha",
         "isCountry":true,
         "regionPopup":true,
-        "id":251,
         "rawTID":"TRISTAN_DA_CUNHA"
     },
     {
@@ -2147,7 +1909,6 @@
         "displayName":"Tunisia",
         "isCountry":true,
         "regionPopup":true,
-        "id":252,
         "rawTID":"TUNISIA"
     },
     {
@@ -2156,7 +1917,6 @@
         "displayName":"Turkey",
         "isCountry":true,
         "regionPopup":true,
-        "id":253,
         "rawTID":"TURKEY"
     },
     {
@@ -2165,7 +1925,6 @@
         "displayName":"Turkmenistan",
         "isCountry":true,
         "regionPopup":true,
-        "id":254,
         "rawTID":"TURKMENISTAN"
     },
     {
@@ -2174,7 +1933,6 @@
         "displayName":"Turks and Caicos Islands",
         "isCountry":true,
         "regionPopup":true,
-        "id":255,
         "rawTID":"TURKS_AND_CAICOS_ISLANDS"
     },
     {
@@ -2183,7 +1941,6 @@
         "displayName":"Tuvalu",
         "isCountry":true,
         "regionPopup":true,
-        "id":256,
         "rawTID":"TUVALU"
     },
     {
@@ -2192,7 +1949,6 @@
         "displayName":"U.S. Outlying Islands",
         "isCountry":true,
         "regionPopup":true,
-        "id":257,
         "rawTID":"US_OUTLYING_ISLANDS"
     },
     {
@@ -2201,7 +1957,6 @@
         "displayName":"U.S. Virgin Islands",
         "isCountry":true,
         "regionPopup":true,
-        "id":258,
         "rawTID":"US_VIRGIN_ISLANDS"
     },
     {
@@ -2210,7 +1965,6 @@
         "displayName":"Uganda",
         "isCountry":true,
         "regionPopup":true,
-        "id":259,
         "rawTID":"UGANDA"
     },
     {
@@ -2219,7 +1973,6 @@
         "displayName":"Ukraine",
         "isCountry":true,
         "regionPopup":true,
-        "id":260,
         "rawTID":"UKRAINE"
     },
     {
@@ -2228,7 +1981,6 @@
         "displayName":"United Arab Emirates",
         "isCountry":true,
         "regionPopup":true,
-        "id":261,
         "rawTID":"UNITED_ARAB_EMIRATES"
     },
     {
@@ -2237,7 +1989,6 @@
         "displayName":"United Kingdom",
         "isCountry":true,
         "regionPopup":true,
-        "id":262,
         "rawTID":"UNITED_KINGDOM"
     },
     {
@@ -2246,7 +1997,6 @@
         "displayName":"United States",
         "isCountry":true,
         "regionPopup":true,
-        "id":263,
         "rawTID":"UNITED_STATES"
     },
     {
@@ -2255,7 +2005,6 @@
         "displayName":"Uruguay",
         "isCountry":true,
         "regionPopup":true,
-        "id":264,
         "rawTID":"URUGUAY"
     },
     {
@@ -2264,7 +2013,6 @@
         "displayName":"Uzbekistan",
         "isCountry":true,
         "regionPopup":true,
-        "id":265,
         "rawTID":"UZBEKISTAN"
     },
     {
@@ -2273,7 +2021,6 @@
         "displayName":"Vanuatu",
         "isCountry":true,
         "regionPopup":true,
-        "id":266,
         "rawTID":"VANUATU"
     },
     {
@@ -2282,7 +2029,6 @@
         "displayName":"Vatican City",
         "isCountry":true,
         "regionPopup":true,
-        "id":267,
         "rawTID":"VATICAN_CITY"
     },
     {
@@ -2291,7 +2037,6 @@
         "displayName":"Venezuela",
         "isCountry":true,
         "regionPopup":true,
-        "id":268,
         "rawTID":"VENEZUELA"
     },
     {
@@ -2300,7 +2045,6 @@
         "displayName":"Vietnam",
         "isCountry":true,
         "regionPopup":true,
-        "id":269,
         "rawTID":"VIETNAM"
     },
     {
@@ -2309,7 +2053,6 @@
         "displayName":"Wallis and Futuna",
         "isCountry":true,
         "regionPopup":true,
-        "id":270,
         "rawTID":"WALLIS_AND_FUTUNA"
     },
     {
@@ -2318,7 +2061,6 @@
         "displayName":"Western Sahara",
         "isCountry":true,
         "regionPopup":true,
-        "id":271,
         "rawTID":"WESTERN_SAHARA"
     },
     {
@@ -2327,7 +2069,6 @@
         "displayName":"Yemen",
         "isCountry":true,
         "regionPopup":true,
-        "id":272,
         "rawTID":"YEMEN"
     },
     {
@@ -2336,7 +2077,6 @@
         "displayName":"Zambia",
         "isCountry":true,
         "regionPopup":true,
-        "id":273,
         "rawTID":"ZAMBIA"
     },
     {
@@ -2345,7 +2085,6 @@
         "displayName":"Zimbabwe",
         "isCountry":true,
         "regionPopup":true,
-        "id":274,
         "rawTID":"ZIMBABWE"
     }
 ]

@@ -5,8 +5,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":9
+        "numberArray":null
     },
     {
         "name":"UDP_HEARTBEAT_MS",
@@ -14,8 +13,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":10
+        "numberArray":null
     },
     {
         "name":"UDP_DISCONNECTED_SECONDS",
@@ -23,8 +21,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":11
+        "numberArray":null
     },
     {
         "name":"UDP_DESTRUCT_ON_INVALID_CONNECTION",
@@ -32,8 +29,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":12
+        "numberArray":null
     },
     {
         "name":"UNIT_SPEED_1",
@@ -41,8 +37,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":13
+        "numberArray":null
     },
     {
         "name":"UNIT_SPEED_2",
@@ -50,8 +45,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":14
+        "numberArray":null
     },
     {
         "name":"UNIT_SPEED_3",
@@ -59,8 +53,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":15
+        "numberArray":null
     },
     {
         "name":"UNIT_SPEED_4",
@@ -68,8 +61,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":16
+        "numberArray":null
     },
     {
         "name":"UNIT_SPEED_5",
@@ -77,8 +69,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":17
+        "numberArray":null
     },
     {
         "name":"COME_BACK_NOTIFICATION_DELAY_HOURS_SMALL",
@@ -86,8 +77,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":18
+        "numberArray":null
     },
     {
         "name":"COME_BACK_NOTIFICATION_DELAY_HOURS_MEDIUM",
@@ -95,8 +85,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":19
+        "numberArray":null
     },
     {
         "name":"COME_BACK_NOTIFICATION_DELAY_HOURS_LARGE",
@@ -104,8 +93,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":20
+        "numberArray":null
     },
     {
         "name":"GAME_FACEBOOK_URL",
@@ -113,8 +101,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":21
+        "numberArray":null
     },
     {
         "name":"PAYING_USER_EMAIL_ID",
@@ -122,8 +109,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":22
+        "numberArray":null
     },
     {
         "name":"GAME_CENTER_ACHIEVEMENTS_ENABLED",
@@ -131,8 +117,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":23
+        "numberArray":null
     },
     {
         "name":"GAMECENTER_REAUTHORIZE",
@@ -140,8 +125,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":24
+        "numberArray":null
     },
     {
         "name":"GAME_CENTER_CHALLENGES_ENABLED",
@@ -149,8 +133,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":25
+        "numberArray":null
     },
     {
         "name":"SHOW_SEASON_RESET_ON_HOME_ENTER",
@@ -158,8 +141,7 @@
         "booleanValue":false,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":26
+        "numberArray":null
     },
     {
         "name":"FAQ_URL",
@@ -167,8 +149,7 @@
         "booleanValue":null,
         "textValue":0,
         "stringArray":null,
-        "numberArray":null,
-        "id":27
+        "numberArray":null
     },
     {
         "name":"FORUMS_URL",
@@ -176,8 +157,7 @@
         "booleanValue":null,
         "textValue":0,
         "stringArray":null,
-        "numberArray":null,
-        "id":28
+        "numberArray":null
     },
     {
         "name":"FEEDBACK_EMAIL",
@@ -185,8 +165,7 @@
         "booleanValue":null,
         "textValue":0,
         "stringArray":null,
-        "numberArray":null,
-        "id":29
+        "numberArray":null
     },
     {
         "name":"LOW_GFX_DEVICES",
@@ -194,8 +173,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"ipod1",
-        "numberArray":null,
-        "id":30
+        "numberArray":null
     },
     {
         "name":null,
@@ -203,8 +181,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"ipod2",
-        "numberArray":null,
-        "id":31
+        "numberArray":null
     },
     {
         "name":null,
@@ -212,8 +189,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"ipod3",
-        "numberArray":null,
-        "id":32
+        "numberArray":null
     },
     {
         "name":null,
@@ -221,8 +197,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"ipod4",
-        "numberArray":null,
-        "id":33
+        "numberArray":null
     },
     {
         "name":null,
@@ -230,8 +205,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"ipod5",
-        "numberArray":null,
-        "id":34
+        "numberArray":null
     },
     {
         "name":null,
@@ -239,8 +213,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"ipad1",
-        "numberArray":null,
-        "id":35
+        "numberArray":null
     },
     {
         "name":null,
@@ -248,8 +221,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"ipad2",
-        "numberArray":null,
-        "id":36
+        "numberArray":null
     },
     {
         "name":null,
@@ -257,8 +229,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"iphone2",
-        "numberArray":null,
-        "id":37
+        "numberArray":null
     },
     {
         "name":null,
@@ -266,8 +237,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"iphone3",
-        "numberArray":null,
-        "id":38
+        "numberArray":null
     },
     {
         "name":"MED_GFX_DEVICES",
@@ -275,8 +245,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":39
+        "numberArray":null
     },
     {
         "name":"LOW_MEM_DEVICES",
@@ -284,8 +253,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"ipod1",
-        "numberArray":null,
-        "id":40
+        "numberArray":null
     },
     {
         "name":null,
@@ -293,8 +261,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"ipod2",
-        "numberArray":null,
-        "id":41
+        "numberArray":null
     },
     {
         "name":null,
@@ -302,8 +269,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"ipod3",
-        "numberArray":null,
-        "id":42
+        "numberArray":null
     },
     {
         "name":null,
@@ -311,8 +277,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"ipod4",
-        "numberArray":null,
-        "id":43
+        "numberArray":null
     },
     {
         "name":null,
@@ -320,8 +285,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"ipad1",
-        "numberArray":null,
-        "id":44
+        "numberArray":null
     },
     {
         "name":null,
@@ -329,8 +293,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"ipad2",
-        "numberArray":null,
-        "id":45
+        "numberArray":null
     },
     {
         "name":null,
@@ -338,8 +301,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"iphone2",
-        "numberArray":null,
-        "id":46
+        "numberArray":null
     },
     {
         "name":"MED_MEM_DEVICES",
@@ -347,8 +309,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":47
+        "numberArray":null
     },
     {
         "name":"LOW_GFX_DEVICES_ANDROID",
@@ -356,8 +317,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"st25i",
-        "numberArray":null,
-        "id":48
+        "numberArray":null
     },
     {
         "name":null,
@@ -365,8 +325,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"GT-N7000",
-        "numberArray":null,
-        "id":49
+        "numberArray":null
     },
     {
         "name":null,
@@ -374,8 +333,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"GT-i8190N",
-        "numberArray":null,
-        "id":50
+        "numberArray":null
     },
     {
         "name":null,
@@ -383,8 +341,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"U8950",
-        "numberArray":null,
-        "id":51
+        "numberArray":null
     },
     {
         "name":null,
@@ -392,8 +349,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"SM-T211",
-        "numberArray":null,
-        "id":52
+        "numberArray":null
     },
     {
         "name":null,
@@ -401,8 +357,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"i9300",
-        "numberArray":null,
-        "id":53
+        "numberArray":null
     },
     {
         "name":null,
@@ -410,8 +365,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"i8190",
-        "numberArray":null,
-        "id":54
+        "numberArray":null
     },
     {
         "name":null,
@@ -419,8 +373,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"i9305",
-        "numberArray":null,
-        "id":55
+        "numberArray":null
     },
     {
         "name":null,
@@ -428,8 +381,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"i9301",
-        "numberArray":null,
-        "id":56
+        "numberArray":null
     },
     {
         "name":null,
@@ -437,8 +389,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"i8200",
-        "numberArray":null,
-        "id":57
+        "numberArray":null
     },
     {
         "name":null,
@@ -446,8 +397,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"g3812b",
-        "numberArray":null,
-        "id":58
+        "numberArray":null
     },
     {
         "name":null,
@@ -455,8 +405,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"I535",
-        "numberArray":null,
-        "id":59
+        "numberArray":null
     },
     {
         "name":null,
@@ -464,8 +413,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"I747",
-        "numberArray":null,
-        "id":60
+        "numberArray":null
     },
     {
         "name":null,
@@ -473,8 +421,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"L710",
-        "numberArray":null,
-        "id":61
+        "numberArray":null
     },
     {
         "name":null,
@@ -482,8 +429,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"T999",
-        "numberArray":null,
-        "id":62
+        "numberArray":null
     },
     {
         "name":null,
@@ -491,8 +437,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"T210",
-        "numberArray":null,
-        "id":63
+        "numberArray":null
     },
     {
         "name":null,
@@ -500,8 +445,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"P3210",
-        "numberArray":null,
-        "id":64
+        "numberArray":null
     },
     {
         "name":null,
@@ -509,8 +453,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"SC-06D",
-        "numberArray":null,
-        "id":65
+        "numberArray":null
     },
     {
         "name":null,
@@ -518,8 +461,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"SC-03E",
-        "numberArray":null,
-        "id":66
+        "numberArray":null
     },
     {
         "name":null,
@@ -527,8 +469,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"I939",
-        "numberArray":null,
-        "id":67
+        "numberArray":null
     },
     {
         "name":null,
@@ -536,8 +477,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"E210S",
-        "numberArray":null,
-        "id":68
+        "numberArray":null
     },
     {
         "name":null,
@@ -545,8 +485,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"E210L",
-        "numberArray":null,
-        "id":69
+        "numberArray":null
     },
     {
         "name":null,
@@ -554,8 +493,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"E210K",
-        "numberArray":null,
-        "id":70
+        "numberArray":null
     },
     {
         "name":null,
@@ -563,8 +501,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"I9303",
-        "numberArray":null,
-        "id":71
+        "numberArray":null
     },
     {
         "name":null,
@@ -572,8 +509,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"G730A",
-        "numberArray":null,
-        "id":72
+        "numberArray":null
     },
     {
         "name":null,
@@ -581,8 +517,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"G730W8",
-        "numberArray":null,
-        "id":73
+        "numberArray":null
     },
     {
         "name":null,
@@ -590,8 +525,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"M440S",
-        "numberArray":null,
-        "id":74
+        "numberArray":null
     },
     {
         "name":null,
@@ -599,8 +533,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"R530U",
-        "numberArray":null,
-        "id":75
+        "numberArray":null
     },
     {
         "name":null,
@@ -608,8 +541,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"S968C",
-        "numberArray":null,
-        "id":76
+        "numberArray":null
     },
     {
         "name":null,
@@ -617,8 +549,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"SGH-N064",
-        "numberArray":null,
-        "id":77
+        "numberArray":null
     },
     {
         "name":null,
@@ -626,8 +557,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"SGH-N035",
-        "numberArray":null,
-        "id":78
+        "numberArray":null
     },
     {
         "name":null,
@@ -635,8 +565,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"SCH-J021",
-        "numberArray":null,
-        "id":79
+        "numberArray":null
     },
     {
         "name":null,
@@ -644,8 +573,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"SCH-R530",
-        "numberArray":null,
-        "id":80
+        "numberArray":null
     },
     {
         "name":null,
@@ -653,8 +581,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"SCH-S960L",
-        "numberArray":null,
-        "id":81
+        "numberArray":null
     },
     {
         "name":null,
@@ -662,8 +589,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":"I9308",
-        "numberArray":null,
-        "id":82
+        "numberArray":null
     },
     {
         "name":"HIGH_MEMORY_ANDROID",
@@ -671,8 +597,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":83
+        "numberArray":null
     },
     {
         "name":"MEDIUM_MEMORY_ANDROID",
@@ -680,8 +605,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":84
+        "numberArray":null
     },
     {
         "name":"SECTOR_COMMAND_MESSAGE_INTERVAL_SECONDS",
@@ -689,8 +613,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":85
+        "numberArray":null
     },
     {
         "name":"POPUP_SCALE_HORIZONTAL",
@@ -698,8 +621,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":86
+        "numberArray":null
     },
     {
         "name":"POPUP_SCALE_HORIZONTAL_MARGIN",
@@ -707,8 +629,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":87
+        "numberArray":null
     },
     {
         "name":"POPUP_BLUR_ENABLED",
@@ -716,8 +637,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":88
+        "numberArray":null
     },
     {
         "name":"POPUP_BLUR_PERCENT",
@@ -725,8 +645,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":89
+        "numberArray":null
     },
     {
         "name":"POPUP_BLUR_ITERATIONS",
@@ -734,8 +653,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":90
+        "numberArray":null
     },
     {
         "name":"ENABLE_FACEBOOK",
@@ -743,8 +661,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":91
+        "numberArray":null
     },
     {
         "name":"ENABLE_GAMECENTER_FRIENDS",
@@ -752,8 +669,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":92
+        "numberArray":null
     },
     {
         "name":"SWITCH_CONFIRMATION_XP_LEVEL",
@@ -761,8 +677,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":93
+        "numberArray":null
     },
     {
         "name":"PROMPT_GC_SWITCH_MIN_NPC_WINS",
@@ -770,8 +685,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":94
+        "numberArray":null
     },
     {
         "name":"PAYMENT_LIMIT_CONFIRMATION_ENABLED",
@@ -779,8 +693,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":95
+        "numberArray":null
     },
     {
         "name":"PAYMENT_LIMIT_CONFIRMATION_USD",
@@ -788,8 +701,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":96
+        "numberArray":null
     },
     {
         "name":"PAYMENT_LIMIT_CONFIRMATION_TIME",
@@ -797,8 +709,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":97
+        "numberArray":null
     },
     {
         "name":"CONFIRM_WORD_MAX_LENGTH",
@@ -806,8 +717,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":98
+        "numberArray":null
     },
     {
         "name":"DISCONNECT_IN_APPS",
@@ -815,8 +725,7 @@
         "booleanValue":false,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":99
+        "numberArray":null
     },
     {
         "name":"IN_APP_RETRY_LIMIT",
@@ -824,8 +733,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":100
+        "numberArray":null
     },
     {
         "name":"RETRY_PURCHASES_IN_SHOP",
@@ -833,8 +741,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":101
+        "numberArray":null
     },
     {
         "name":"HELPSHIFT_ENABLED",
@@ -842,8 +749,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":102
+        "numberArray":null
     },
     {
         "name":"BRANCH_ENABLED",
@@ -851,8 +757,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":103
+        "numberArray":null
     },
     {
         "name":"DISABLE_HELPSHIFT_CONTACT_US_FROM_NON_PAYING",
@@ -860,8 +765,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":104
+        "numberArray":null
     },
     {
         "name":"USE_HELPSHIFT_SDK_LANGUAGE",
@@ -869,8 +773,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":105
+        "numberArray":null
     },
     {
         "name":"EXTRA_HELPSHIFT_LANGUAGES",
@@ -878,8 +781,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":106
+        "numberArray":null
     },
     {
         "name":"HELPSHIFT_SHOW_CONTACT_UNTIL_EXP_LEVEL",
@@ -887,8 +789,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":107
+        "numberArray":null
     },
     {
         "name":"SEND_GC_ACHIVEMENT_0_PROGRESS",
@@ -896,8 +797,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":108
+        "numberArray":null
     },
     {
         "name":"SEND_GC_ACHIVEMENT_PROGRESS_ONCE",
@@ -905,8 +805,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":109
+        "numberArray":null
     },
     {
         "name":"USE_GC_SEND_ALL_ACHIEVEMENTS",
@@ -914,8 +813,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":110
+        "numberArray":null
     },
     {
         "name":"KEEP_ALIVE_WARNING_MS",
@@ -923,8 +821,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":111
+        "numberArray":null
     },
     {
         "name":"PING_WARNING_MS",
@@ -932,8 +829,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":112
+        "numberArray":null
     },
     {
         "name":"ATTRIBUTION_MAT",
@@ -941,8 +837,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":113
+        "numberArray":null
     },
     {
         "name":"ATTRIBUTION_FB",
@@ -950,8 +845,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":114
+        "numberArray":null
     },
     {
         "name":"ATTRIBUTION_IAD",
@@ -959,8 +853,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":115
+        "numberArray":null
     },
     {
         "name":"APP_RATE_DIALOG_ENABLED",
@@ -968,8 +861,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":116
+        "numberArray":null
     },
     {
         "name":"PURCHASE_DIALOG_ENABLED",
@@ -977,8 +869,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":117
+        "numberArray":null
     },
     {
         "name":"NAME_CHANGE_START_LEVEL",
@@ -986,8 +877,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":118
+        "numberArray":null
     },
     {
         "name":"ENABLE_NAME_CHANGE",
@@ -995,8 +885,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":119
+        "numberArray":null
     },
     {
         "name":"GOOGLE_ACHIEVEMENTS",
@@ -1004,8 +893,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":120
+        "numberArray":null
     },
     {
         "name":"SHADOW_BLUR_DISTANCE",
@@ -1013,8 +901,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":121
+        "numberArray":null
     },
     {
         "name":"CONNECT_IOS_TO_KUNLUN",
@@ -1022,8 +909,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":122
+        "numberArray":null
     },
     {
         "name":"DISABLE_FB_IN_CHINA",
@@ -1031,8 +917,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":123
+        "numberArray":null
     },
     {
         "name":"PEPPER_ENABLED",
@@ -1040,8 +925,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":124
+        "numberArray":null
     },
     {
         "name":"ADMIN_MESSAGE_BUTTON_ENABLED",
@@ -1049,8 +933,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":125
+        "numberArray":null
     },
     {
         "name":"ADMIN_MESSAGES_ENABLED",
@@ -1058,8 +941,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":126
+        "numberArray":null
     },
     {
         "name":"CACHE_MAX_EXTRA_SC_FILES",
@@ -1067,8 +949,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":127
+        "numberArray":null
     },
     {
         "name":"SEND_ACCOUNT_SWITCHED_MESSAGE_FROM_CONFIRM_POPUP",
@@ -1076,8 +957,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":128
+        "numberArray":null
     },
     {
         "name":"NAME_CHANGE_CONFIRM_CASE_SENSITIVE",
@@ -1085,8 +965,7 @@
         "booleanValue":false,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":129
+        "numberArray":null
     },
     {
         "name":"RESET_STATICS_WHEN_CHANGING_ACCOUNT",
@@ -1094,8 +973,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":130
+        "numberArray":null
     },
     {
         "name":"CHINESE_ANDROID_APP_STORE_LOGIN_FAILED_MESSAGE",
@@ -1103,8 +981,7 @@
         "booleanValue":null,
         "textValue":"\u6b64\u5fae\u4fe1\/QQ\u5e10\u53f7\u5df2\u7ecf\u5173\u8054\u4e86\u4ece\u5176\u4ed6\u5b89\u5353\u5e94\u7528\u5546\u5e97\u4e0b\u8f7d\u7684\u76f8\u540c\u6e38\u620f\uff0c\u4e0d\u80fd\u518d\u6b21\u5173\u8054\u3002\u5982\u679c\u60a8\u5e0c\u671b\u4f7f\u7528\u8be5\u5fae\u4fe1\/QQ\u5e10\u53f7\u91cd\u65b0\u5f00\u59cb\u6e38\u620f\uff0c\u8bf7\u4ece\u6e38\u620f\u5185\u8054\u7cfbSupercell\u73a9\u5bb6\u652f\u6301\u56e2\u961f\u3002",
         "stringArray":null,
-        "numberArray":null,
-        "id":131
+        "numberArray":null
     },
     {
         "name":"TUTORIAL_HAND_FADE_IN_MS",
@@ -1112,8 +989,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":132
+        "numberArray":null
     },
     {
         "name":"TUTORIAL_HAND_FADE_IN_AFTER_TARGET_CHANGES",
@@ -1121,8 +997,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":133
+        "numberArray":null
     },
     {
         "name":"LOAD_ASSETS_DURING_LOGIN",
@@ -1130,8 +1005,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":134
+        "numberArray":null
     },
     {
         "name":"CHARACTER_ANGLE_INITIAL_FILTERING",
@@ -1139,8 +1013,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":135
+        "numberArray":null
     },
     {
         "name":"UPDATE_TIER_FROM_SERVER",
@@ -1148,8 +1021,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":136
+        "numberArray":null
     },
     {
         "name":"CONTENT_DOWNLOAD_ENABLED",
@@ -1157,8 +1029,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":137
+        "numberArray":null
     },
     {
         "name":"CONTENT_DOWNLOAD_ENABLED_DURING_BATTLE",
@@ -1166,8 +1037,7 @@
         "booleanValue":false,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":138
+        "numberArray":null
     },
     {
         "name":"CONTENT_DOWNLOAD_ENABLED_DURING_NPC",
@@ -1175,8 +1045,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":139
+        "numberArray":null
     },
     {
         "name":"CHINESE_GIFT",
@@ -1184,8 +1053,7 @@
         "booleanValue":null,
         "textValue":"\u8d60",
         "stringArray":null,
-        "numberArray":null,
-        "id":140
+        "numberArray":null
     },
     {
         "name":"CHINA_REGULATIONS_ENABLED",
@@ -1193,8 +1061,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":141
+        "numberArray":null
     },
     {
         "name":"ENABLE_BLOCK_ENTERING_GAME_FOR_MANDATORY_CONTENT",
@@ -1202,8 +1069,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":142
+        "numberArray":null
     },
     {
         "name":"NO_MONEY_COLOR_RED",
@@ -1211,8 +1077,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":143
+        "numberArray":null
     },
     {
         "name":"NO_MONEY_COLOR_GREEN",
@@ -1220,8 +1085,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":144
+        "numberArray":null
     },
     {
         "name":"NO_MONEY_COLOR_BLUE",
@@ -1229,8 +1093,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":145
+        "numberArray":null
     },
     {
         "name":"AREA_DAMAGE_INDICATOR_DURATION_MS",
@@ -1238,8 +1101,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":146
+        "numberArray":null
     },
     {
         "name":"USE_HELPSHIFT_LINKS",
@@ -1247,8 +1109,7 @@
         "booleanValue":false,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":147
+        "numberArray":null
     },
     {
         "name":"TERMS_AND_CONDITIONS_HELPSHIFT_URL",
@@ -1256,8 +1117,7 @@
         "booleanValue":null,
         "textValue":"https:\/\/supercell.com\/en\/terms-of-service\/",
         "stringArray":null,
-        "numberArray":null,
-        "id":148
+        "numberArray":null
     },
     {
         "name":"IAP_INFO_KOREA_URL",
@@ -1265,8 +1125,7 @@
         "booleanValue":null,
         "textValue":"https:\/\/supercell.helpshift.com\/a\/rush-wars\/?p=web&l=ko&s=privacy-policy-terms-of-service&f=korean-support---player-s-right-to-claim-a-refund",
         "stringArray":null,
-        "numberArray":null,
-        "id":149
+        "numberArray":null
     },
     {
         "name":"TOS_URL",
@@ -1274,8 +1133,7 @@
         "booleanValue":null,
         "textValue":"http:\/\/supercell.com\/en\/terms-of-service\/",
         "stringArray":null,
-        "numberArray":null,
-        "id":150
+        "numberArray":null
     },
     {
         "name":"PRIVACY_POLICY_URL_JP",
@@ -1283,8 +1141,7 @@
         "booleanValue":null,
         "textValue":"http:\/\/supercell.com\/en\/privacy-policy\/jp\/",
         "stringArray":null,
-        "numberArray":null,
-        "id":151
+        "numberArray":null
     },
     {
         "name":"TOS_URL_JP",
@@ -1292,8 +1149,7 @@
         "booleanValue":null,
         "textValue":"http:\/\/supercell.com\/en\/terms-of-service\/jp\/",
         "stringArray":null,
-        "numberArray":null,
-        "id":152
+        "numberArray":null
     },
     {
         "name":"PRIVACY_POLICY_URL_KR",
@@ -1301,8 +1157,7 @@
         "booleanValue":null,
         "textValue":"http:\/\/supercell.com\/en\/privacy-policy\/ko\/",
         "stringArray":null,
-        "numberArray":null,
-        "id":153
+        "numberArray":null
     },
     {
         "name":"TOS_URL_KR",
@@ -1310,8 +1165,7 @@
         "booleanValue":null,
         "textValue":"http:\/\/supercell.com\/en\/terms-of-service\/ko\/",
         "stringArray":null,
-        "numberArray":null,
-        "id":154
+        "numberArray":null
     },
     {
         "name":"GAME_WEIBO_URL",
@@ -1319,8 +1173,7 @@
         "booleanValue":null,
         "textValue":"http:\/\/e.weibo.com\/coc365",
         "stringArray":null,
-        "numberArray":null,
-        "id":155
+        "numberArray":null
     },
     {
         "name":"GAME_APPBANK_URL",
@@ -1328,8 +1181,7 @@
         "booleanValue":null,
         "textValue":"http:\/\/game.appbank.net\/FILL_ME\/",
         "stringArray":null,
-        "numberArray":null,
-        "id":156
+        "numberArray":null
     },
     {
         "name":"GAME_EXTERNAL_URL",
@@ -1337,8 +1189,7 @@
         "booleanValue":null,
         "textValue":"http:\/\/app.famitsu.com\/?p=185000",
         "stringArray":null,
-        "numberArray":null,
-        "id":157
+        "numberArray":null
     },
     {
         "name":"GAME_TWITTER_URL",
@@ -1346,8 +1197,7 @@
         "booleanValue":null,
         "textValue":"https:\/\/twitter.com\/ClashOfClans\/",
         "stringArray":null,
-        "numberArray":null,
-        "id":158
+        "numberArray":null
     },
     {
         "name":"GAME_TWITTER_URL_JP",
@@ -1355,8 +1205,7 @@
         "booleanValue":null,
         "textValue":"https:\/\/twitter.com\/ClashofClansJP",
         "stringArray":null,
-        "numberArray":null,
-        "id":159
+        "numberArray":null
     },
     {
         "name":"PRIVACY_POLICY_URL",
@@ -1364,8 +1213,7 @@
         "booleanValue":null,
         "textValue":"http:\/\/www.supercell.net\/privacy-policy",
         "stringArray":null,
-        "numberArray":null,
-        "id":160
+        "numberArray":null
     },
     {
         "name":"PARENTS_GUIDE_URL",
@@ -1373,8 +1221,7 @@
         "booleanValue":null,
         "textValue":"http:\/\/www.supercell.net\/parents",
         "stringArray":null,
-        "numberArray":null,
-        "id":161
+        "numberArray":null
     },
     {
         "name":"LIVE_REPLAY_PRESIMULATE_MAX_TICKS_PER_FRAME",
@@ -1382,8 +1229,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":162
+        "numberArray":null
     },
     {
         "name":"LIVE_REPLAY_PRESIMULATE_MAX_TICKS_TOTAL",
@@ -1391,8 +1237,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":163
+        "numberArray":null
     },
     {
         "name":"DEBUG_OUT_OF_SYNC",
@@ -1400,8 +1245,7 @@
         "booleanValue":false,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":164
+        "numberArray":null
     },
     {
         "name":"REPLAY_ENABLED",
@@ -1409,8 +1253,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":165
+        "numberArray":null
     },
     {
         "name":"LIVE_REPLAY_ENABLED",
@@ -1418,8 +1261,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":166
+        "numberArray":null
     },
     {
         "name":"ENABLE_CLAN_MAIL",
@@ -1427,8 +1269,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":167
+        "numberArray":null
     },
     {
         "name":"GOOGLE_PLAY_LOGIN_ONLY_WHEN_NOT_LOGGED",
@@ -1436,8 +1277,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":168
+        "numberArray":null
     },
     {
         "name":"USE_SIMPLE_BACKGROUND_ON_LOW_END",
@@ -1445,8 +1285,7 @@
         "booleanValue":false,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":169
+        "numberArray":null
     },
     {
         "name":"FORCE_REQUEST_FRIENDS_IN_HOME",
@@ -1454,8 +1293,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":170
+        "numberArray":null
     },
     {
         "name":"FRIEND_INVITE_TOKEN_ENABLED",
@@ -1463,8 +1301,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":171
+        "numberArray":null
     },
     {
         "name":"FRIEND_INVITE_TOKEN_EXPIRE_TIME_SECONDS",
@@ -1472,8 +1309,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":172
+        "numberArray":null
     },
     {
         "name":"CACHE_FRIENDS_SECONDS",
@@ -1481,8 +1317,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":173
+        "numberArray":null
     },
     {
         "name":"DOMINATION_ENABLED",
@@ -1490,8 +1325,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":174
+        "numberArray":null
     },
     {
         "name":"DEEPLINK_ENABLED",
@@ -1499,8 +1333,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":175
+        "numberArray":null
     },
     {
         "name":"CLAN_INVITE_TOKEN_ENABLED",
@@ -1508,8 +1341,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":176
+        "numberArray":null
     },
     {
         "name":"CLAN_INVITE_TOKEN_EXPIRE_TIME_SECONDS",
@@ -1517,8 +1349,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":177
+        "numberArray":null
     },
     {
         "name":"CHAT_ENABLED",
@@ -1526,8 +1357,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":178
+        "numberArray":null
     },
     {
         "name":"USE_SOCIAL_TAB",
@@ -1535,8 +1365,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":179
+        "numberArray":null
     },
     {
         "name":"OPEN_CARD_INFO_FROM_SHOP_CONFIRM_ENABLED",
@@ -1544,8 +1373,7 @@
         "booleanValue":false,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":180
+        "numberArray":null
     },
     {
         "name":"PHONE_BOOTH_TALK_SEQUENCE",
@@ -1553,8 +1381,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":181
+        "numberArray":null
     },
     {
         "name":"PHONE_BOOTH_TIPS",
@@ -1562,8 +1389,7 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":182
+        "numberArray":null
     },
     {
         "name":"USE_TOS_AND_PP_FIRST_POPUP",
@@ -1571,8 +1397,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":183
+        "numberArray":null
     },
     {
         "name":"SHOW_CONTEXT_MENU_FOR_PLAYER",
@@ -1580,8 +1405,7 @@
         "booleanValue":true,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":184
+        "numberArray":null
     },
     {
         "name":"APP_RATE_XP_REQUIRED",
@@ -1589,7 +1413,6 @@
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
-        "numberArray":null,
-        "id":185
+        "numberArray":null
     }
 ]

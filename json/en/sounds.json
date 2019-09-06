@@ -17,8 +17,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":4
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_soldier_shoot",
@@ -38,8 +37,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":5
+        "padEmpyToEndMs":null
     },
     {
         "name":null,
@@ -59,8 +57,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":6
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_soldier_shoot_v2",
@@ -80,8 +77,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":7
+        "padEmpyToEndMs":null
     },
     {
         "name":null,
@@ -101,8 +97,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":8
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_shield_hit",
@@ -122,8 +117,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":9
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_explosion_grenade",
@@ -143,8 +137,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":10
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_explosion_fireball",
@@ -164,8 +157,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":11
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_collect_outpost",
@@ -185,8 +177,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":12
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_collect_gold",
@@ -206,8 +197,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":13
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_collect_stars",
@@ -227,8 +217,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":14
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_combat_get_1_star",
@@ -248,8 +237,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":15
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_combat_get_2_star",
@@ -269,8 +257,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":16
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_combat_get_3_star",
@@ -290,8 +277,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":17
+        "padEmpyToEndMs":null
     },
     {
         "name":"Button Pressed Down",
@@ -311,8 +297,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":18
+        "padEmpyToEndMs":null
     },
     {
         "name":"Button Press Release",
@@ -332,8 +317,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":19
+        "padEmpyToEndMs":null
     },
     {
         "name":"ButtonClick",
@@ -353,8 +337,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":20
+        "padEmpyToEndMs":null
     },
     {
         "name":"ButtonClick2",
@@ -374,8 +357,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":21
+        "padEmpyToEndMs":null
     },
     {
         "name":"tank_drive_loop",
@@ -395,8 +377,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":22
+        "padEmpyToEndMs":null
     },
     {
         "name":"tank_attack",
@@ -416,8 +397,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":23
+        "padEmpyToEndMs":null
     },
     {
         "name":null,
@@ -437,8 +417,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":24
+        "padEmpyToEndMs":null
     },
     {
         "name":"tank_deploy",
@@ -458,8 +437,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":25
+        "padEmpyToEndMs":null
     },
     {
         "name":null,
@@ -479,8 +457,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":26
+        "padEmpyToEndMs":null
     },
     {
         "name":"tank_die",
@@ -500,8 +477,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":27
+        "padEmpyToEndMs":null
     },
     {
         "name":"shield_deploy",
@@ -521,8 +497,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":28
+        "padEmpyToEndMs":null
     },
     {
         "name":null,
@@ -542,8 +517,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":29
+        "padEmpyToEndMs":null
     },
     {
         "name":"soldier_deploy",
@@ -563,8 +537,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":30
+        "padEmpyToEndMs":null
     },
     {
         "name":"plumber_deploy",
@@ -584,8 +557,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":31
+        "padEmpyToEndMs":null
     },
     {
         "name":"grenade_deploy",
@@ -605,8 +577,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":32
+        "padEmpyToEndMs":null
     },
     {
         "name":"rocket_deploy",
@@ -626,8 +597,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":33
+        "padEmpyToEndMs":null
     },
     {
         "name":"apc_deploy",
@@ -647,8 +617,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":34
+        "padEmpyToEndMs":null
     },
     {
         "name":null,
@@ -668,8 +637,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":35
+        "padEmpyToEndMs":null
     },
     {
         "name":"Get_1_star",
@@ -689,8 +657,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":36
+        "padEmpyToEndMs":null
     },
     {
         "name":"Get_2_star",
@@ -710,8 +677,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":37
+        "padEmpyToEndMs":null
     },
     {
         "name":"Get_3_star",
@@ -731,8 +697,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":38
+        "padEmpyToEndMs":null
     },
     {
         "name":"heli_land",
@@ -752,8 +717,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":39
+        "padEmpyToEndMs":null
     },
     {
         "name":"laser_shoot",
@@ -773,8 +737,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":40
+        "padEmpyToEndMs":null
     },
     {
         "name":"shotgun_shoot",
@@ -794,8 +757,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":41
+        "padEmpyToEndMs":null
     },
     {
         "name":"grenade_throw",
@@ -815,8 +777,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":42
+        "padEmpyToEndMs":null
     },
     {
         "name":"grenade_throw_no_delay",
@@ -836,8 +797,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":43
+        "padEmpyToEndMs":null
     },
     {
         "name":"Chest_preopenland",
@@ -857,8 +817,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":44
+        "padEmpyToEndMs":null
     },
     {
         "name":"Card_popup",
@@ -878,8 +837,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":45
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_loading",
@@ -899,8 +857,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":46
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_ingame_top_star",
@@ -920,8 +877,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":47
+        "padEmpyToEndMs":null
     },
     {
         "name":"Get_coin",
@@ -941,8 +897,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":48
+        "padEmpyToEndMs":null
     },
     {
         "name":"Get_one_5star",
@@ -962,8 +917,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":49
+        "padEmpyToEndMs":null
     },
     {
         "name":"Key_in",
@@ -983,8 +937,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":50
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_text_in",
@@ -1004,8 +957,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":51
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_text_out",
@@ -1025,8 +977,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":52
+        "padEmpyToEndMs":null
     },
     {
         "name":"Starbox_explo",
@@ -1046,8 +997,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":53
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_die",
@@ -1067,8 +1017,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":54
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_chest_down",
@@ -1088,8 +1037,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":55
+        "padEmpyToEndMs":null
     },
     {
         "name":"Mine_explo",
@@ -1109,8 +1057,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":56
+        "padEmpyToEndMs":null
     },
     {
         "name":"Grenade_explo",
@@ -1130,8 +1077,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":57
+        "padEmpyToEndMs":null
     },
     {
         "name":"Airstrike_explo",
@@ -1151,8 +1097,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":58
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_barrel_explo",
@@ -1172,8 +1117,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":59
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_tank_hit_explo",
@@ -1193,8 +1137,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":60
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_mortar_explo",
@@ -1214,8 +1157,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":61
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_rocket_explo",
@@ -1235,8 +1177,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":62
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_gorilla_dep",
@@ -1256,8 +1197,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":63
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_jetpack_dep",
@@ -1277,8 +1217,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":64
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_bninja_dep",
@@ -1298,8 +1237,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":65
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_kungfu_dep",
@@ -1319,8 +1257,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":66
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_shotgun_dep",
@@ -1340,8 +1277,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":67
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_laser_dep",
@@ -1361,8 +1297,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":68
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_minimen_dep",
@@ -1382,8 +1317,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":69
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_flamo_deploy",
@@ -1403,8 +1337,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":70
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_boxer_deploy",
@@ -1424,8 +1357,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":71
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_mortar_fire",
@@ -1445,8 +1377,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":72
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_cannon_fire",
@@ -1466,8 +1397,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":73
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_shieldg_shoot",
@@ -1487,8 +1417,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":74
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_bazooka_fire_01",
@@ -1508,8 +1437,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":75
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_boxer_atk",
@@ -1529,8 +1457,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":76
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_boxer_hit",
@@ -1550,8 +1477,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":77
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_deploy_bomb",
@@ -1571,8 +1497,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":78
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_unused_2_coin",
@@ -1592,8 +1517,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":79
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_slowmo_start",
@@ -1613,8 +1537,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":80
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_slowmo_loop",
@@ -1634,8 +1557,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":81
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_slowmo_end",
@@ -1655,8 +1577,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":82
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_place_cannon",
@@ -1676,8 +1597,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":83
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_place_hole",
@@ -1697,8 +1617,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":84
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_wall_place",
@@ -1718,8 +1637,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":85
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_char_upgrade_seq_01",
@@ -1739,8 +1657,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":86
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_char_upgrade_seq_02",
@@ -1760,8 +1677,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":87
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_char_upgrade_seq_03",
@@ -1781,8 +1697,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":88
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_char_upgrade_stat_count",
@@ -1802,8 +1717,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":89
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_press_upgrade_card",
@@ -1823,8 +1737,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":90
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_deploy_mine",
@@ -1844,8 +1757,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":91
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_drop_arcade",
@@ -1865,8 +1777,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":92
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_arcade_explo",
@@ -1886,8 +1797,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":93
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_heal",
@@ -1907,8 +1817,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":94
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_invis",
@@ -1928,8 +1837,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":95
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_ghost_deploy",
@@ -1949,8 +1857,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":96
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_use_key_chest",
@@ -1970,8 +1877,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":97
+        "padEmpyToEndMs":null
     },
     {
         "name":"Get_gem",
@@ -1991,8 +1897,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":98
+        "padEmpyToEndMs":null
     },
     {
         "name":"Get_card",
@@ -2012,8 +1917,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":99
+        "padEmpyToEndMs":null
     },
     {
         "name":"Get_exp",
@@ -2033,8 +1937,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":100
+        "padEmpyToEndMs":null
     },
     {
         "name":"Get_star",
@@ -2054,8 +1957,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":101
+        "padEmpyToEndMs":null
     },
     {
         "name":"Gain_xp_level",
@@ -2075,8 +1977,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":102
+        "padEmpyToEndMs":null
     },
     {
         "name":"Heli_takeoff",
@@ -2096,8 +1997,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":103
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_upgrade_building",
@@ -2117,8 +2017,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":104
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_collect_goldmine",
@@ -2138,8 +2037,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":105
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_chest_fall_from_sky",
@@ -2159,8 +2057,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":106
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_get_unknown_card",
@@ -2180,8 +2077,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":107
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_tazer_gang_atk",
@@ -2201,8 +2097,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":108
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_kung_fu_atk",
@@ -2222,8 +2117,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":109
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_kung_fu_dep",
@@ -2243,8 +2137,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":110
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_plasma_fire",
@@ -2264,8 +2157,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":111
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_gatlin_fire",
@@ -2285,8 +2177,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":112
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_freezer",
@@ -2306,8 +2197,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":113
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_freeze_trap",
@@ -2327,8 +2217,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":114
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_jetpackshoot",
@@ -2348,8 +2237,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":115
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_rage",
@@ -2369,8 +2257,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":116
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_rocket_truck_fire",
@@ -2390,8 +2277,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":117
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_tesla_deploy",
@@ -2411,8 +2297,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":118
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_tesla_atk",
@@ -2432,8 +2317,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":119
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_para",
@@ -2453,8 +2337,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":120
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_heli_deploy",
@@ -2474,8 +2357,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":121
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_sattelite_drop",
@@ -2495,8 +2377,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":122
+        "padEmpyToEndMs":null
     },
     {
         "name":"Grass_Pop",
@@ -2516,8 +2397,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":123
+        "padEmpyToEndMs":null
     },
     {
         "name":null,
@@ -2537,8 +2417,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":124
+        "padEmpyToEndMs":null
     },
     {
         "name":null,
@@ -2558,8 +2437,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":125
+        "padEmpyToEndMs":null
     },
     {
         "name":null,
@@ -2579,8 +2457,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":126
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_break_wood",
@@ -2600,8 +2477,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":127
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_trap_showup",
@@ -2621,8 +2497,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":128
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_damage_laser",
@@ -2642,8 +2517,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":129
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_heli_attack",
@@ -2663,8 +2537,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":130
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_bear_berserk",
@@ -2684,8 +2557,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":131
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_bearman_atk",
@@ -2705,8 +2577,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":132
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_dino_laser",
@@ -2726,8 +2597,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":133
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_dino_jump",
@@ -2747,8 +2617,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":134
+        "padEmpyToEndMs":null
     },
     {
         "name":"Eggtank_deploy",
@@ -2768,8 +2637,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":135
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_generic_die",
@@ -2789,8 +2657,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":136
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_dummy_lose_hat",
@@ -2810,8 +2677,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":137
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_dummy_take_dmg",
@@ -2831,8 +2697,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":138
+        "padEmpyToEndMs":null
     },
     {
         "name":null,
@@ -2852,8 +2717,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":139
+        "padEmpyToEndMs":null
     },
     {
         "name":null,
@@ -2873,8 +2737,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":140
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_tap_building",
@@ -2894,8 +2757,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":141
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_defence_star_count",
@@ -2915,8 +2777,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":142
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_plumber_atk",
@@ -2936,8 +2797,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":143
+        "padEmpyToEndMs":null
     },
     {
         "name":"CardPack1_open",
@@ -2957,8 +2817,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":144
+        "padEmpyToEndMs":null
     },
     {
         "name":"CardPack2_open",
@@ -2978,8 +2837,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":145
+        "padEmpyToEndMs":null
     },
     {
         "name":"CardPack3_open",
@@ -2999,8 +2857,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":146
+        "padEmpyToEndMs":null
     },
     {
         "name":"Common_open",
@@ -3020,8 +2877,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":147
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rare_open",
@@ -3041,8 +2897,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":148
+        "padEmpyToEndMs":null
     },
     {
         "name":"Epic_open",
@@ -3062,8 +2917,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":149
+        "padEmpyToEndMs":null
     },
     {
         "name":"Mega_open",
@@ -3083,8 +2937,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":150
+        "padEmpyToEndMs":null
     },
     {
         "name":"Free_open",
@@ -3104,8 +2957,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":151
+        "padEmpyToEndMs":null
     },
     {
         "name":"Defence_open",
@@ -3125,8 +2977,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":152
+        "padEmpyToEndMs":null
     },
     {
         "name":"Domination1_open",
@@ -3146,8 +2997,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":153
+        "padEmpyToEndMs":null
     },
     {
         "name":"Domination2_open",
@@ -3167,8 +3017,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":154
+        "padEmpyToEndMs":null
     },
     {
         "name":"Domination3_open",
@@ -3188,8 +3037,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":155
+        "padEmpyToEndMs":null
     },
     {
         "name":"Get_key",
@@ -3209,8 +3057,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":156
+        "padEmpyToEndMs":null
     },
     {
         "name":"Building_upgrade_stat",
@@ -3230,8 +3077,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":157
+        "padEmpyToEndMs":null
     },
     {
         "name":"Card_unlock",
@@ -3251,8 +3097,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":158
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_new_league",
@@ -3272,8 +3117,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":159
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_season_end",
@@ -3293,8 +3137,7 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":160
+        "padEmpyToEndMs":null
     },
     {
         "name":"Rush_phone_ring",
@@ -3314,7 +3157,6 @@
         "playOnlyWhenInView":null,
         "maxVolumeScaleLimit":null,
         "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null,
-        "id":161
+        "padEmpyToEndMs":null
     }
 ]

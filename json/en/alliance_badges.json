@@ -2,157 +2,131 @@
     {
         "name":1,
         "iconSWF":"sc\/ui.sc",
-        "iconExportName":"clan_badge_001",
-        "id":8
+        "iconExportName":"clan_badge_001"
     },
     {
         "name":2,
         "iconSWF":"sc\/ui.sc",
-        "iconExportName":"clan_badge_002",
-        "id":9
+        "iconExportName":"clan_badge_002"
     },
     {
         "name":3,
         "iconSWF":"sc\/ui.sc",
-        "iconExportName":"clan_badge_003",
-        "id":10
+        "iconExportName":"clan_badge_003"
     },
     {
         "name":4,
         "iconSWF":"sc\/ui.sc",
-        "iconExportName":"clan_badge_004",
-        "id":11
+        "iconExportName":"clan_badge_004"
     },
     {
         "name":5,
         "iconSWF":"sc\/ui.sc",
-        "iconExportName":"clan_badge_005",
-        "id":12
+        "iconExportName":"clan_badge_005"
     },
     {
         "name":6,
         "iconSWF":"sc\/ui.sc",
-        "iconExportName":"clan_badge_006",
-        "id":13
+        "iconExportName":"clan_badge_006"
     },
     {
         "name":7,
         "iconSWF":"sc\/ui.sc",
-        "iconExportName":"clan_badge_007",
-        "id":14
+        "iconExportName":"clan_badge_007"
     },
     {
         "name":8,
         "iconSWF":"sc\/ui.sc",
-        "iconExportName":"clan_badge_008",
-        "id":15
+        "iconExportName":"clan_badge_008"
     },
     {
         "name":9,
         "iconSWF":"sc\/ui.sc",
-        "iconExportName":"clan_badge_009",
-        "id":16
+        "iconExportName":"clan_badge_009"
     },
     {
         "name":10,
         "iconSWF":"sc\/ui.sc",
-        "iconExportName":"clan_badge_010",
-        "id":17
+        "iconExportName":"clan_badge_010"
     },
     {
         "name":11,
         "iconSWF":"sc\/ui.sc",
-        "iconExportName":"clan_badge_011",
-        "id":18
+        "iconExportName":"clan_badge_011"
     },
     {
         "name":12,
         "iconSWF":"sc\/ui.sc",
-        "iconExportName":"clan_badge_012",
-        "id":19
+        "iconExportName":"clan_badge_012"
     },
     {
         "name":13,
         "iconSWF":"sc\/ui.sc",
-        "iconExportName":"clan_badge_013",
-        "id":20
+        "iconExportName":"clan_badge_013"
     },
     {
         "name":14,
         "iconSWF":"sc\/ui.sc",
-        "iconExportName":"clan_badge_014",
-        "id":21
+        "iconExportName":"clan_badge_014"
     },
     {
         "name":15,
         "iconSWF":"sc\/ui.sc",
-        "iconExportName":"clan_badge_015",
-        "id":22
+        "iconExportName":"clan_badge_015"
     },
     {
         "name":16,
         "iconSWF":"sc\/ui.sc",
-        "iconExportName":"clan_badge_016",
-        "id":23
+        "iconExportName":"clan_badge_016"
     },
     {
         "name":17,
         "iconSWF":"sc\/ui.sc",
-        "iconExportName":"clan_badge_017",
-        "id":24
+        "iconExportName":"clan_badge_017"
     },
     {
         "name":18,
         "iconSWF":"sc\/ui.sc",
-        "iconExportName":"clan_badge_018",
-        "id":25
+        "iconExportName":"clan_badge_018"
     },
     {
         "name":19,
         "iconSWF":"sc\/ui.sc",
-        "iconExportName":"clan_badge_019",
-        "id":26
+        "iconExportName":"clan_badge_019"
     },
     {
         "name":20,
         "iconSWF":"sc\/ui.sc",
-        "iconExportName":"clan_badge_020",
-        "id":27
+        "iconExportName":"clan_badge_020"
     },
     {
         "name":21,
         "iconSWF":"sc\/ui.sc",
-        "iconExportName":"clan_badge_021",
-        "id":28
+        "iconExportName":"clan_badge_021"
     },
     {
         "name":22,
         "iconSWF":"sc\/ui.sc",
-        "iconExportName":"clan_badge_022",
-        "id":29
+        "iconExportName":"clan_badge_022"
     },
     {
         "name":23,
         "iconSWF":"sc\/ui.sc",
-        "iconExportName":"clan_badge_023",
-        "id":30
+        "iconExportName":"clan_badge_023"
     },
     {
         "name":24,
         "iconSWF":"sc\/ui.sc",
-        "iconExportName":"clan_badge_024",
-        "id":31
+        "iconExportName":"clan_badge_024"
     },
     {
         "name":25,
         "iconSWF":"sc\/ui.sc",
-        "iconExportName":"clan_badge_025",
-        "id":32
+        "iconExportName":"clan_badge_025"
     },
     {
         "name":26,
         "iconSWF":"sc\/ui.sc",
-        "iconExportName":"clan_badge_026",
-        "id":33
+        "iconExportName":"clan_badge_026"
     }
 ]

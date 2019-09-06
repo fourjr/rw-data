@@ -9,8 +9,7 @@
         "canAcceptJoinRequest":false,
         "canKick":null,
         "canBePromotedToLeader":null,
-        "canPromoteToOwnLevel":null,
-        "id":25
+        "canPromoteToOwnLevel":null
     },
     {
         "name":"Member",
@@ -23,7 +22,6 @@
         "canKick":false,
         "canBePromotedToLeader":null,
         "canPromoteToOwnLevel":null,
-        "id":26,
         "rawTID":"ALLIANCE_ROLE_MEMBER"
     },
     {
@@ -37,7 +35,6 @@
         "canKick":true,
         "canBePromotedToLeader":true,
         "canPromoteToOwnLevel":null,
-        "id":27,
         "rawTID":"ALLIANCE_ROLE_LEADER"
     },
     {
@@ -51,7 +48,6 @@
         "canKick":true,
         "canBePromotedToLeader":null,
         "canPromoteToOwnLevel":null,
-        "id":28,
         "rawTID":"ALLIANCE_ROLE_ELDER"
     },
     {
@@ -65,7 +61,6 @@
         "canKick":true,
         "canBePromotedToLeader":true,
         "canPromoteToOwnLevel":true,
-        "id":29,
         "rawTID":"ALLIANCE_ROLE_CO_LEADER"
     }
 ]

@@ -20,7 +20,6 @@
         "chronosOfferName":null,
         "redeemMax":null,
         "campaignId":null,
-        "id":2,
         "rawTID":"DIAMOND_PACK_0"
     },
     {
@@ -44,7 +43,6 @@
         "chronosOfferName":null,
         "redeemMax":null,
         "campaignId":null,
-        "id":3,
         "rawTID":"DIAMOND_PACK_1"
     },
     {
@@ -68,7 +66,6 @@
         "chronosOfferName":null,
         "redeemMax":null,
         "campaignId":null,
-        "id":4,
         "rawTID":"DIAMOND_PACK_2"
     },
     {
@@ -92,7 +89,6 @@
         "chronosOfferName":null,
         "redeemMax":null,
         "campaignId":null,
-        "id":5,
         "rawTID":"DIAMOND_PACK_3"
     },
     {
@@ -116,7 +112,6 @@
         "chronosOfferName":null,
         "redeemMax":null,
         "campaignId":null,
-        "id":6,
         "rawTID":"DIAMOND_PACK_4"
     },
     {
@@ -140,7 +135,6 @@
         "chronosOfferName":null,
         "redeemMax":null,
         "campaignId":null,
-        "id":7,
         "rawTID":"DIAMOND_PACK_5"
     }
 ]

@@ -223,8 +223,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "id":16,
-        "scId":1600000,
         "rawTID":"CHARACTER_SOLDIER"
     },
     {
@@ -451,8 +449,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "id":17,
-        "scId":1600001,
         "rawTID":"CHARACTER_SHIELD"
     },
     {
@@ -679,8 +675,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "id":18,
-        "scId":1600002,
         "rawTID":"CHARACTER_GRENADE"
     },
     {
@@ -907,8 +901,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":true,
-        "id":19,
-        "scId":1600003,
         "rawTID":"CHARACTER_TANK"
     },
     {
@@ -1135,8 +1127,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "id":20,
-        "scId":1600004,
         "rawTID":"CHARACTER_BAZOOKA"
     },
     {
@@ -1363,8 +1353,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":true,
-        "id":21,
-        "scId":1600005,
         "rawTID":"CHARACTER_APC"
     },
     {
@@ -1591,8 +1579,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "id":22,
-        "scId":1600006,
         "rawTID":"CHARACTER_DINOSAUR"
     },
     {
@@ -1819,8 +1805,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "id":23,
-        "scId":1600007,
         "rawTID":"CHARACTER_JETPACK"
     },
     {
@@ -2047,8 +2031,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "id":24,
-        "scId":1600008,
         "rawTID":"CHARACTER_GORILLA"
     },
     {
@@ -2275,8 +2257,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "id":25,
-        "scId":1600009,
         "rawTID":"CHARACTER_SHOTGUN"
     },
     {
@@ -2503,8 +2483,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "id":26,
-        "scId":1600010,
         "rawTID":"CHARACTER_LASER"
     },
     {
@@ -2731,8 +2709,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "id":27,
-        "scId":1600011,
         "rawTID":"CHARACTER_BEARMAN"
     },
     {
@@ -2959,8 +2935,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":true,
-        "id":28,
-        "scId":1600012,
         "rawTID":"CHARACTER_EGGMACHINE"
     },
     {
@@ -3187,8 +3161,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "id":29,
-        "scId":1600013,
         "rawTID":"CHARACTER_COMMNADER_SOLDIER"
     },
     {
@@ -3415,8 +3387,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "id":30,
-        "scId":1600014,
         "rawTID":"CHARACTER_COMMANDER_GRENADE"
     },
     {
@@ -3643,8 +3613,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "id":31,
-        "scId":1600015,
         "rawTID":"CHARACTER_PLUMBER"
     },
     {
@@ -3871,8 +3839,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "id":32,
-        "scId":1600016,
         "rawTID":"CHARACTER_BOXER"
     },
     {
@@ -4099,8 +4065,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "id":33,
-        "scId":1600017,
         "rawTID":"CHARACTER_BLACK_NINJA"
     },
     {
@@ -4327,8 +4291,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "id":34,
-        "scId":1600018,
         "rawTID":"CHARACTER_TAZER"
     },
     {
@@ -4555,8 +4517,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "id":35,
-        "scId":1600019,
         "rawTID":"CHARACTER_HELIPOD"
     },
     {
@@ -4783,8 +4743,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "id":36,
-        "scId":1600020,
         "rawTID":"CHARACTER_FLAMETHROWER"
     },
     {
@@ -5011,8 +4969,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":true,
-        "id":37,
-        "scId":1600021,
         "rawTID":"CHARACTER_BOMBARD_TANK"
     },
     {
@@ -5239,8 +5195,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "id":38,
-        "scId":1600022,
         "rawTID":"CHARACTER_KUNGFU"
     },
     {
@@ -5467,8 +5421,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "id":39,
-        "scId":1600023,
         "rawTID":"CHARACTER_WHITE_NINJA"
     },
     {
@@ -5695,8 +5647,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "id":40,
-        "scId":1600024,
         "rawTID":"CHARACTER_ROOSTER"
     },
     {
@@ -5923,8 +5873,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "id":41,
-        "scId":1600025,
         "rawTID":"CHARACTER_PARATROOPER"
     }
 ]

@@ -69,8 +69,7 @@
         "dragBackSpeed":null,
         "dragMargin":null,
         "targettedEffect":null,
-        "layer":"Above",
-        "id":6
+        "layer":"Above"
     },
     {
         "name":"SoldierProjectile",
@@ -142,8 +141,7 @@
         "dragBackSpeed":null,
         "dragMargin":null,
         "targettedEffect":null,
-        "layer":"Above",
-        "id":7
+        "layer":"Above"
     },
     {
         "name":"ShieldProjectile",
@@ -215,8 +213,7 @@
         "dragBackSpeed":null,
         "dragMargin":null,
         "targettedEffect":null,
-        "layer":"Above",
-        "id":8
+        "layer":"Above"
     },
     {
         "name":"TankProjectile",
@@ -288,8 +285,7 @@
         "dragBackSpeed":null,
         "dragMargin":null,
         "targettedEffect":null,
-        "layer":"Above",
-        "id":9
+        "layer":"Above"
     },
     {
         "name":"Grenade",
@@ -361,8 +357,7 @@
         "dragBackSpeed":null,
         "dragMargin":null,
         "targettedEffect":null,
-        "layer":"Above",
-        "id":10
+        "layer":"Above"
     },
     {
         "name":"MortarProjectile",
@@ -434,8 +429,7 @@
         "dragBackSpeed":null,
         "dragMargin":null,
         "targettedEffect":null,
-        "layer":"Above",
-        "id":11
+        "layer":"Above"
     },
     {
         "name":"CannonProjectile",
@@ -507,8 +501,7 @@
         "dragBackSpeed":null,
         "dragMargin":null,
         "targettedEffect":null,
-        "layer":"Above",
-        "id":12
+        "layer":"Above"
     },
     {
         "name":"MoonSpell",
@@ -580,8 +573,7 @@
         "dragBackSpeed":null,
         "dragMargin":null,
         "targettedEffect":null,
-        "layer":"Topmost",
-        "id":13
+        "layer":"Topmost"
     },
     {
         "name":"BazookaProjectile",
@@ -653,8 +645,7 @@
         "dragBackSpeed":null,
         "dragMargin":null,
         "targettedEffect":null,
-        "layer":"Above",
-        "id":14
+        "layer":"Above"
     },
     {
         "name":"JetpackProjectile",
@@ -726,8 +717,7 @@
         "dragBackSpeed":null,
         "dragMargin":null,
         "targettedEffect":null,
-        "layer":"Above",
-        "id":15
+        "layer":"Above"
     },
     {
         "name":"ShotgunProjectile",
@@ -799,8 +789,7 @@
         "dragBackSpeed":null,
         "dragMargin":null,
         "targettedEffect":null,
-        "layer":"Above",
-        "id":16
+        "layer":"Above"
     },
     {
         "name":"LaserProjectile",
@@ -872,8 +861,7 @@
         "dragBackSpeed":null,
         "dragMargin":null,
         "targettedEffect":null,
-        "layer":"Above",
-        "id":17
+        "layer":"Above"
     },
     {
         "name":"ClusterGrenade",
@@ -946,7 +934,6 @@
         "dragMargin":null,
         "targettedEffect":null,
         "layer":"Above",
-        "id":18,
         "rawTID":"PROJECTILE_CAKE_GRENADE"
     },
     {
@@ -1019,8 +1006,7 @@
         "dragBackSpeed":null,
         "dragMargin":null,
         "targettedEffect":null,
-        "layer":"Above",
-        "id":19
+        "layer":"Above"
     },
     {
         "name":"DinoProjectile",
@@ -1092,8 +1078,7 @@
         "dragBackSpeed":null,
         "dragMargin":null,
         "targettedEffect":null,
-        "layer":"Above",
-        "id":20
+        "layer":"Above"
     },
     {
         "name":"ArcadeDropProjectile",
@@ -1165,8 +1150,7 @@
         "dragBackSpeed":null,
         "dragMargin":null,
         "targettedEffect":null,
-        "layer":"Above",
-        "id":21
+        "layer":"Above"
     },
     {
         "name":"PlasmagunProjectile",
@@ -1238,8 +1222,7 @@
         "dragBackSpeed":null,
         "dragMargin":null,
         "targettedEffect":null,
-        "layer":"Above",
-        "id":22
+        "layer":"Above"
     },
     {
         "name":"FridgeDropProjectile",
@@ -1311,8 +1294,7 @@
         "dragBackSpeed":null,
         "dragMargin":null,
         "targettedEffect":null,
-        "layer":"Above",
-        "id":23
+        "layer":"Above"
     },
     {
         "name":"HeliProjectile",
@@ -1384,8 +1366,7 @@
         "dragBackSpeed":null,
         "dragMargin":null,
         "targettedEffect":null,
-        "layer":"Object",
-        "id":24
+        "layer":"Object"
     },
     {
         "name":"RocketPlatformProjectile",
@@ -1458,7 +1439,6 @@
         "dragMargin":null,
         "targettedEffect":null,
         "layer":"Above",
-        "id":25,
         "rawTID":"PROJECTILE_ROCKET_PLATFORM"
     },
     {
@@ -1531,8 +1511,7 @@
         "dragBackSpeed":null,
         "dragMargin":null,
         "targettedEffect":null,
-        "layer":"Above",
-        "id":26
+        "layer":"Above"
     },
     {
         "name":"EliteSoldierProjectile",
@@ -1604,8 +1583,7 @@
         "dragBackSpeed":null,
         "dragMargin":null,
         "targettedEffect":null,
-        "layer":"Above",
-        "id":27
+        "layer":"Above"
     },
     {
         "name":"EliteGrenadeProjectile",
@@ -1677,8 +1655,7 @@
         "dragBackSpeed":null,
         "dragMargin":null,
         "targettedEffect":null,
-        "layer":"Above",
-        "id":28
+        "layer":"Above"
     },
     {
         "name":"EggmachineProjectile",
@@ -1750,7 +1727,6 @@
         "dragBackSpeed":null,
         "dragMargin":null,
         "targettedEffect":null,
-        "layer":"Above",
-        "id":29
+        "layer":"Above"
     }
 ]

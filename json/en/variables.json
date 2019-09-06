@@ -1,198 +1,247 @@
 [
     {
         "name":"HelicopterLevel",
-        "value":null
+        "value":null,
+        "scId":1835008
     },
     {
         "name":"SinglePlayerLevel",
-        "value":null
+        "value":null,
+        "scId":1835009
     },
     {
         "name":"CaptureTutorialOutpost",
-        "value":null
+        "value":null,
+        "scId":1835010
     },
     {
         "name":"ShouldCaptureOutpost",
-        "value":null
+        "value":null,
+        "scId":1835011
     },
     {
         "name":"AttackCount",
-        "value":null
+        "value":null,
+        "scId":1835012
     },
     {
         "name":"AttackWinCount",
-        "value":null
+        "value":null,
+        "scId":1835013
     },
     {
         "name":"AttackLoseCount",
-        "value":null
+        "value":null,
+        "scId":1835014
     },
     {
         "name":"DefenceWinCount",
-        "value":null
+        "value":null,
+        "scId":1835015
     },
     {
         "name":"DefenceLoseCount",
-        "value":null
+        "value":null,
+        "scId":1835016
     },
     {
         "name":"TutorialWinCount",
-        "value":null
+        "value":null,
+        "scId":1835017
     },
     {
         "name":"DefenceCount1",
-        "value":null
+        "value":null,
+        "scId":1835018
     },
     {
         "name":"DefenceStarCount1",
-        "value":null
+        "value":null,
+        "scId":1835019
     },
     {
         "name":"DefenceChestStarCount",
-        "value":null
+        "value":null,
+        "scId":1835020
     },
     {
         "name":"DefenceValid",
-        "value":null
+        "value":null,
+        "scId":1835021
     },
     {
         "name":"ChestStarCount",
-        "value":null
+        "value":null,
+        "scId":1835022
     },
     {
         "name":"CycleOffset",
-        "value":null
+        "value":null,
+        "scId":1835023
     },
     {
         "name":"MatchmakeCounter",
-        "value":null
+        "value":null,
+        "scId":1835024
     },
     {
         "name":"OutpostResourceTimerTicks",
-        "value":null
+        "value":null,
+        "scId":1835025
     },
     {
         "name":"FreeChestCounter",
-        "value":null
+        "value":null,
+        "scId":1835026
     },
     {
         "name":"AllianceChatFilter",
-        "value":null
+        "value":null,
+        "scId":1835027
     },
     {
         "name":"FavouriteCard",
-        "value":null
+        "value":null,
+        "scId":1835028
     },
     {
         "name":"FavouriteTroop",
-        "value":null
+        "value":null,
+        "scId":1835029
     },
     {
         "name":"FavouriteAirdrop",
-        "value":null
+        "value":null,
+        "scId":1835030
     },
     {
         "name":"FavouriteCommander",
-        "value":null
+        "value":null,
+        "scId":1835031
     },
     {
         "name":"TotalAttackStars",
-        "value":null
+        "value":null,
+        "scId":1835032
     },
     {
         "name":"TotalDefenceStars",
-        "value":null
+        "value":null,
+        "scId":1835033
     },
     {
         "name":"DominationAttackCount",
-        "value":null
+        "value":null,
+        "scId":1835034
     },
     {
         "name":"DominationAttackWinCount",
-        "value":null
+        "value":null,
+        "scId":1835035
     },
     {
         "name":"DominationAttackLoseCount",
-        "value":null
+        "value":null,
+        "scId":1835036
     },
     {
         "name":"UnclaimedDominationChest",
-        "value":null
+        "value":null,
+        "scId":1835037
     },
     {
         "name":"UnclaimedDominationGems",
-        "value":null
+        "value":null,
+        "scId":1835038
     },
     {
         "name":"UnclaimedDominationGold",
-        "value":null
+        "value":null,
+        "scId":1835039
     },
     {
         "name":"UnclaimedDominationYourStars",
-        "value":null
+        "value":null,
+        "scId":1835040
     },
     {
         "name":"UnclaimedDominationEnemyStars",
-        "value":null
+        "value":null,
+        "scId":1835041
     },
     {
         "name":"UnclaimedDominationResult",
-        "value":null
+        "value":null,
+        "scId":1835042
     },
     {
         "name":"HasBeenToOutpost",
-        "value":null
+        "value":null,
+        "scId":1835043
     },
     {
         "name":"ChestsSinceNewCard",
-        "value":null
+        "value":null,
+        "scId":1835044
     },
     {
         "name":"HasSavedOutpost",
-        "value":null
+        "value":null,
+        "scId":1835045
     },
     {
         "name":"DominationClanWinCount",
-        "value":null
+        "value":null,
+        "scId":1835046
     },
     {
         "name":"DominationClanLoseCount",
-        "value":null
+        "value":null,
+        "scId":1835047
     },
     {
         "name":"DominationTotalGoldLoot",
-        "value":null
+        "value":null,
+        "scId":1835048
     },
     {
         "name":"DominationTotalStarsReceived",
-        "value":null
+        "value":null,
+        "scId":1835049
     },
     {
         "name":"TotalDonatedGold",
-        "value":null
+        "value":null,
+        "scId":1835050
     },
     {
         "name":"TotalGoldLootPvp",
-        "value":null
+        "value":null,
+        "scId":1835051
     },
     {
         "name":"NextLocationEnvironment",
-        "value":null
+        "value":null,
+        "scId":1835052
     },
     {
         "name":"SeasonPoints",
-        "value":null
+        "value":null,
+        "scId":1835053
     },
     {
         "name":"ObstacleCounter",
-        "value":null
+        "value":null,
+        "scId":1835054
     },
     {
         "name":"ClanRulesShownIDhigh",
-        "value":null
+        "value":null,
+        "scId":1835055
     },
     {
         "name":"ClanRulesShownIDlow",
-        "value":null
+        "value":null,
+        "scId":1835056
     }
 ]

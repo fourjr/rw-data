@@ -1,97 +1,78 @@
 [
     {
         "name":"John Cipriani",
-        "0":null,
-        "id":13
+        "0":null
     },
     {
         "name":"Patrick Corander",
-        "0":null,
-        "id":14
+        "0":null
     },
     {
         "name":"Rick Crane",
-        "0":null,
-        "id":15
+        "0":null
     },
     {
         "name":"Chih-Han Hsu",
-        "0":null,
-        "id":16
+        "0":null
     },
     {
         "name":"Rauli Laatikainen",
-        "0":null,
-        "id":17
+        "0":null
     },
     {
         "name":"Jimmy Lee",
-        "0":null,
-        "id":18
+        "0":null
     },
     {
         "name":"Juha Leinonen",
-        "0":null,
-        "id":19
+        "0":null
     },
     {
         "name":"Jarkko Luoma",
-        "0":null,
-        "id":20
+        "0":null
     },
     {
         "name":"Diana Nedelcu",
-        "0":null,
-        "id":21
+        "0":null
     },
     {
         "name":"Ilya Pavlenkov",
-        "0":null,
-        "id":22
+        "0":null
     },
     {
         "name":"Diego Ruiz Pomares",
-        "0":null,
-        "id":23
+        "0":null
     },
     {
         "name":"Martin Schj\u00f8ler",
-        "0":null,
-        "id":24
+        "0":null
     },
     {
         "name":"Timothy Smith",
-        "0":null,
-        "id":25
+        "0":null
     },
     {
         "name":"Ewan Thonger",
-        "0":null,
-        "id":26
+        "0":null
     },
     {
         "name":"Antti Varila",
-        "0":null,
-        "id":27
+        "0":null
     },
     {
         "name":"_",
-        "0":null,
-        "id":28
+        "0":null
     },
     {
         "name":"Michael Gurman",
-        "0":null,
-        "id":29
+        "0":null
     },
     {
         "name":"Brianne Limber",
-        "0":null,
-        "id":30
+        "0":null
     },
     {
         "name":"Erik Reimer",
-        "0":null,
-        "id":31
+        "0":null
     }
 ]
