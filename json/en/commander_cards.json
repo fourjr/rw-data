@@ -30,7 +30,7 @@
         "abilityIconFileName":"sc\/ui_portraits.sc",
         "abilityIconExportName":"icon_ability_marine",
         "previewTriggerTime":8500,
-        "scId":4800000,
+        "scId":48000000,
         "rawTID":"COMMNADER_CARD_SOLDIER",
         "rawInfoTID":"COMMNADER_CARD_INFO_SOLDIER"
     },
@@ -289,7 +289,7 @@
         "abilityIconFileName":"sc\/ui_portraits.sc",
         "abilityIconExportName":"icon_ability_grenade_mama",
         "previewTriggerTime":3000,
-        "scId":4800001,
+        "scId":48000001,
         "rawTID":"COMMANDER_CARD_GRENADE",
         "rawInfoTID":"COMMANDER_CARD_INFO_GRENADE"
     },
@@ -548,7 +548,7 @@
         "abilityIconFileName":"sc\/ui_portraits.sc",
         "abilityIconExportName":"icon_ability_dino",
         "previewTriggerTime":12000,
-        "scId":4800002,
+        "scId":48000002,
         "rawTID":"COMMNADER_CARD_DINO",
         "rawInfoTID":"COMMNADER_CARD_INFO_DINO"
     },
@@ -807,7 +807,7 @@
         "abilityIconFileName":"sc\/ui_portraits.sc",
         "abilityIconExportName":"icon_ability_bear",
         "previewTriggerTime":2000,
-        "scId":4800003,
+        "scId":48000003,
         "rawTID":"COMMNADER_CARD_BEARMAN",
         "rawInfoTID":"COMMNADER_CARD_INFO_BEARMAN"
     },
@@ -1066,7 +1066,7 @@
         "abilityIconFileName":"sc\/ui_portraits.sc",
         "abilityIconExportName":"icon_ability_eggtank",
         "previewTriggerTime":1000,
-        "scId":4800004,
+        "scId":48000004,
         "rawTID":"COMMNADER_CARD_EGGMACHINE",
         "rawInfoTID":"COMMNADER_CARD_INFO_EGGMACHINE"
     },

@@ -18,7 +18,7 @@
         "editModeOnly":null,
         "upgradeLevelFrom":null,
         "levelGenGuide":null,
-        "scId":4900000,
+        "scId":49000000,
         "rawTID":"CARD_SOLDIER",
         "rawInfoTID":"CARD_INFO_SOLDIER"
     },
@@ -101,7 +101,7 @@
         "editModeOnly":null,
         "upgradeLevelFrom":null,
         "levelGenGuide":"BACK",
-        "scId":4900001,
+        "scId":49000001,
         "rawTID":"CARD_GRENADE",
         "rawInfoTID":"CARD_INFO_GRENADE"
     },
@@ -124,7 +124,7 @@
         "editModeOnly":null,
         "upgradeLevelFrom":null,
         "levelGenGuide":"FRONT",
-        "scId":4900002,
+        "scId":49000002,
         "rawTID":"CARD_SHIELD",
         "rawInfoTID":"CARD_INFO_SHIELD"
     },
@@ -167,7 +167,7 @@
         "editModeOnly":null,
         "upgradeLevelFrom":null,
         "levelGenGuide":null,
-        "scId":4900003,
+        "scId":49000003,
         "rawTID":"CARD_TANK",
         "rawInfoTID":"CARD_INFO_TANK"
     },
@@ -190,7 +190,7 @@
         "editModeOnly":null,
         "upgradeLevelFrom":null,
         "levelGenGuide":"BACK",
-        "scId":4900004,
+        "scId":49000004,
         "rawTID":"CARD_BAZOOKA",
         "rawInfoTID":"CARD_INFO_BAZOOKA"
     },
@@ -213,7 +213,7 @@
         "editModeOnly":null,
         "upgradeLevelFrom":null,
         "levelGenGuide":null,
-        "scId":4900005,
+        "scId":49000005,
         "rawTID":"CARD_PLUMBER_VAN",
         "rawInfoTID":"CARD_INFO_APC"
     },
@@ -236,7 +236,7 @@
         "editModeOnly":null,
         "upgradeLevelFrom":null,
         "levelGenGuide":null,
-        "scId":4900006,
+        "scId":49000006,
         "rawTID":"CARD_JETPACK",
         "rawInfoTID":"CARD_INFO_JETPACK"
     },
@@ -279,7 +279,7 @@
         "editModeOnly":null,
         "upgradeLevelFrom":null,
         "levelGenGuide":"FRONT",
-        "scId":4900007,
+        "scId":49000007,
         "rawTID":"CARD_GORILLA",
         "rawInfoTID":"CARD_INFO_GORILLA"
     },
@@ -302,7 +302,7 @@
         "editModeOnly":null,
         "upgradeLevelFrom":null,
         "levelGenGuide":null,
-        "scId":4900008,
+        "scId":49000008,
         "rawTID":"CARD_SHOTGUN",
         "rawInfoTID":"CARD_INFO_SHOTGUN"
     },
@@ -325,7 +325,7 @@
         "editModeOnly":null,
         "upgradeLevelFrom":null,
         "levelGenGuide":"BACK",
-        "scId":4900009,
+        "scId":49000009,
         "rawTID":"CARD_LASER",
         "rawInfoTID":"CARD_INFO_LASER"
     },
@@ -348,7 +348,7 @@
         "editModeOnly":null,
         "upgradeLevelFrom":null,
         "levelGenGuide":null,
-        "scId":4900010,
+        "scId":49000010,
         "rawTID":"CARD_BOXER",
         "rawInfoTID":"CARD_INFO_BOXER"
     },
@@ -371,7 +371,7 @@
         "editModeOnly":null,
         "upgradeLevelFrom":null,
         "levelGenGuide":null,
-        "scId":4900011,
+        "scId":49000011,
         "rawTID":"CARD_TAZER",
         "rawInfoTID":"CARD_INFO_TAZER"
     },
@@ -534,7 +534,7 @@
         "editModeOnly":null,
         "upgradeLevelFrom":null,
         "levelGenGuide":"BACK",
-        "scId":4900012,
+        "scId":49000012,
         "rawTID":"CARD_HELIPOD",
         "rawInfoTID":"CARD_INFO_HELIPOD"
     },
@@ -557,7 +557,7 @@
         "editModeOnly":null,
         "upgradeLevelFrom":null,
         "levelGenGuide":"BACK",
-        "scId":4900013,
+        "scId":49000013,
         "rawTID":"CARD_FLAMETHROWER",
         "rawInfoTID":"CARD_INFO_FLAMETHROWER"
     },
@@ -580,7 +580,7 @@
         "editModeOnly":null,
         "upgradeLevelFrom":null,
         "levelGenGuide":"BACK",
-        "scId":4900014,
+        "scId":49000014,
         "rawTID":"CARD_BOMBARDTANK",
         "rawInfoTID":"CARD_INFO_BOMBARDTANK"
     },
@@ -603,7 +603,7 @@
         "editModeOnly":null,
         "upgradeLevelFrom":null,
         "levelGenGuide":"BACK",
-        "scId":4900015,
+        "scId":49000015,
         "rawTID":"CARD_KUNGFU",
         "rawInfoTID":"CARD_INFO_KUNGFU"
     },
@@ -646,7 +646,7 @@
         "editModeOnly":null,
         "upgradeLevelFrom":null,
         "levelGenGuide":null,
-        "scId":4900016,
+        "scId":49000016,
         "rawTID":"CARD_WHITENINJA",
         "rawInfoTID":"CARD_INFO_WHITE_NINJA"
     }

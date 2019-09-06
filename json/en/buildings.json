@@ -223,7 +223,7 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":5000000,
+        "scId":50000000,
         "rawTID":"BUILDING_MORTAR"
     },
     {
@@ -450,7 +450,7 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":5000001,
+        "scId":50000001,
         "rawTID":"BUILDING_MINE"
     },
     {
@@ -677,7 +677,7 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":5000002,
+        "scId":50000002,
         "rawTID":"BUILDING_WALL"
     },
     {
@@ -904,7 +904,7 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":5000003,
+        "scId":50000003,
         "rawTID":"BUILDING_CANNON"
     },
     {
@@ -1131,7 +1131,7 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":5000004,
+        "scId":50000004,
         "rawTID":"BUILDING_GOLD"
     },
     {
@@ -1358,7 +1358,7 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":5000005,
+        "scId":50000005,
         "rawTID":"BUILDING_STAR_BOX_BIG"
     },
     {
@@ -1585,7 +1585,7 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":5000006,
+        "scId":50000006,
         "rawTID":"BUILDING_STAR_BOX"
     },
     {
@@ -1812,7 +1812,7 @@
         "triggerEffect":"lid pop",
         "groundLayer":true,
         "isTank":null,
-        "scId":5000007,
+        "scId":50000007,
         "rawTID":"BUILDING_PLUMBER_HUT"
     },
     {
@@ -2039,7 +2039,7 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":5000008,
+        "scId":50000008,
         "rawTID":"GENERATE_UNIT_POS"
     },
     {
@@ -2266,7 +2266,7 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":5000009,
+        "scId":50000009,
         "rawTID":"BUILDING_CLUSTER_BOMB"
     },
     {
@@ -2493,7 +2493,7 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":5000010,
+        "scId":50000010,
         "rawTID":"BUILDING_GATLING"
     },
     {
@@ -2720,7 +2720,7 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":5000011,
+        "scId":50000011,
         "rawTID":"BUILDING_BOMB"
     },
     {
@@ -2947,7 +2947,7 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":5000012,
+        "scId":50000012,
         "rawTID":"BUILDING_FREEZE_TRAP"
     },
     {
@@ -3174,7 +3174,7 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":5000013,
+        "scId":50000013,
         "rawTID":"GENERATE_UNIT_POS"
     },
     {
@@ -3401,7 +3401,7 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":5000014,
+        "scId":50000014,
         "rawTID":"BUILDING_PLASMA"
     },
     {
@@ -3628,7 +3628,7 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":5000015,
+        "scId":50000015,
         "rawTID":"BUILDING_BLACK_NINJA_TRAP"
     },
     {
@@ -3855,7 +3855,7 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":5000016,
+        "scId":50000016,
         "rawTID":"BUILDING_TESLA"
     },
     {
@@ -4082,7 +4082,7 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":5000017,
+        "scId":50000017,
         "rawTID":"BUILDING_ROCKET_PLATFORM"
     },
     {
@@ -4309,7 +4309,7 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":5000018,
+        "scId":50000018,
         "rawTID":"BUILDING_DUMMY"
     },
     {
@@ -4536,7 +4536,7 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":5000019,
+        "scId":50000019,
         "rawTID":"BUILDING_BOMB"
     },
     {
@@ -4763,7 +4763,7 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":5000020,
+        "scId":50000020,
         "rawTID":"BUILDING_GOLD"
     },
     {
@@ -4990,7 +4990,7 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":5000021,
+        "scId":50000021,
         "rawTID":"BUILDING_STAR_BOX"
     }
 ]

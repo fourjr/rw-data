@@ -25,6 +25,7 @@
         "editModeOnly":null,
         "upgradeLevelFrom":null,
         "levelGenGuide":null,
+        "scId":46000000,
         "rawTID":"ABILITY_RAGE",
         "rawInfoTID":"ABILITY_INFO_RAGE"
     },
@@ -54,6 +55,7 @@
         "editModeOnly":null,
         "upgradeLevelFrom":null,
         "levelGenGuide":null,
+        "scId":46000001,
         "rawTID":"ABILITY_HEAL",
         "rawInfoTID":"ABILITY_INFO_HEAL"
     },
@@ -83,6 +85,7 @@
         "editModeOnly":null,
         "upgradeLevelFrom":null,
         "levelGenGuide":null,
+        "scId":46000002,
         "rawTID":"ABILITY_BOX_DROP",
         "rawInfoTID":"ABILITY_INFO_BOX_DROP"
     },
@@ -112,6 +115,7 @@
         "editModeOnly":null,
         "upgradeLevelFrom":null,
         "levelGenGuide":null,
+        "scId":46000003,
         "rawTID":"ABILITY_INVISIBILITY",
         "rawInfoTID":"ABILITY_INFO_INVISIBILITY"
     },
@@ -141,6 +145,7 @@
         "editModeOnly":null,
         "upgradeLevelFrom":null,
         "levelGenGuide":null,
+        "scId":46000004,
         "rawTID":"ABILITY_PARATROOPER",
         "rawInfoTID":"ABILITY_INFO_PARATROOPER"
     },
@@ -170,6 +175,7 @@
         "editModeOnly":null,
         "upgradeLevelFrom":null,
         "levelGenGuide":null,
+        "scId":46000005,
         "rawTID":"ABILITY_BOMBARD",
         "rawInfoTID":"ABILITY_INFO_BOMBARD"
     },
@@ -199,6 +205,7 @@
         "editModeOnly":null,
         "upgradeLevelFrom":null,
         "levelGenGuide":null,
+        "scId":46000006,
         "rawTID":"ABILITY_FRIDGE",
         "rawInfoTID":"ABILITY_INFO_FRIDGE"
     }
