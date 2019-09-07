@@ -155,3 +155,22 @@ if __name__ == '__main__':
             json.dump(all_data[i], f, indent=4)
         if args.language:
             break
+
+    # scid.json
+
+    for i in TID:
+        if args.language:
+            i = args.language
+        with open(f'json/{i}/scid.json', 'w+') as f:
+            print('R', f'json/{i}/scid.json')
+            tid_data = {}
+            for key in all_data[i]:
+                try:
+                    if 'scId' in all_data[i][key][0].keys():
+                        tid_data[key] = all_data[i][key]
+                except (IndexError, KeyError):
+                    continue
+
+            json.dump(tid_data, f, indent=4)
+        if args.language:
+            break
