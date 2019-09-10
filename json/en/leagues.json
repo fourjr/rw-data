@@ -13,6 +13,7 @@
         "goldReward":null,
         "seasonReset":null,
         "starEXP":1,
+        "hqLimit":1,
         "rawTID":"NO_LEAGUE"
     },
     {
@@ -29,6 +30,7 @@
         "goldReward":null,
         "seasonReset":null,
         "starEXP":1,
+        "hqLimit":1,
         "rawTID":"LEAGUE1_1"
     },
     {
@@ -45,6 +47,7 @@
         "goldReward":100,
         "seasonReset":null,
         "starEXP":1,
+        "hqLimit":1,
         "rawTID":"LEAGUE1_2"
     },
     {
@@ -61,6 +64,7 @@
         "goldReward":100,
         "seasonReset":null,
         "starEXP":1,
+        "hqLimit":1,
         "rawTID":"LEAGUE1_3"
     },
     {
@@ -77,6 +81,7 @@
         "goldReward":null,
         "seasonReset":null,
         "starEXP":2,
+        "hqLimit":1,
         "rawTID":"LEAGUE2_1"
     },
     {
@@ -93,6 +98,7 @@
         "goldReward":200,
         "seasonReset":null,
         "starEXP":2,
+        "hqLimit":1,
         "rawTID":"LEAGUE2_2"
     },
     {
@@ -109,6 +115,7 @@
         "goldReward":200,
         "seasonReset":null,
         "starEXP":2,
+        "hqLimit":1,
         "rawTID":"LEAGUE2_3"
     },
     {
@@ -125,6 +132,7 @@
         "goldReward":null,
         "seasonReset":null,
         "starEXP":3,
+        "hqLimit":1,
         "rawTID":"LEAGUE3_1"
     },
     {
@@ -141,6 +149,7 @@
         "goldReward":300,
         "seasonReset":null,
         "starEXP":3,
+        "hqLimit":1,
         "rawTID":"LEAGUE3_2"
     },
     {
@@ -157,6 +166,7 @@
         "goldReward":300,
         "seasonReset":null,
         "starEXP":3,
+        "hqLimit":1,
         "rawTID":"LEAGUE3_3"
     },
     {
@@ -173,6 +183,7 @@
         "goldReward":null,
         "seasonReset":null,
         "starEXP":4,
+        "hqLimit":2,
         "rawTID":"LEAGUE4_1"
     },
     {
@@ -189,6 +200,7 @@
         "goldReward":400,
         "seasonReset":null,
         "starEXP":4,
+        "hqLimit":2,
         "rawTID":"LEAGUE4_2"
     },
     {
@@ -205,6 +217,7 @@
         "goldReward":400,
         "seasonReset":null,
         "starEXP":4,
+        "hqLimit":2,
         "rawTID":"LEAGUE4_3"
     },
     {
@@ -221,6 +234,7 @@
         "goldReward":null,
         "seasonReset":null,
         "starEXP":5,
+        "hqLimit":2,
         "rawTID":"LEAGUE5_1"
     },
     {
@@ -237,6 +251,7 @@
         "goldReward":500,
         "seasonReset":null,
         "starEXP":5,
+        "hqLimit":2,
         "rawTID":"LEAGUE5_2"
     },
     {
@@ -253,6 +268,7 @@
         "goldReward":500,
         "seasonReset":null,
         "starEXP":5,
+        "hqLimit":2,
         "rawTID":"LEAGUE5_3"
     },
     {
@@ -269,6 +285,7 @@
         "goldReward":null,
         "seasonReset":null,
         "starEXP":6,
+        "hqLimit":3,
         "rawTID":"LEAGUE6_1"
     },
     {
@@ -285,6 +302,7 @@
         "goldReward":500,
         "seasonReset":null,
         "starEXP":6,
+        "hqLimit":3,
         "rawTID":"LEAGUE6_2"
     },
     {
@@ -301,6 +319,7 @@
         "goldReward":500,
         "seasonReset":null,
         "starEXP":6,
+        "hqLimit":3,
         "rawTID":"LEAGUE6_3"
     },
     {
@@ -317,6 +336,7 @@
         "goldReward":null,
         "seasonReset":50,
         "starEXP":7,
+        "hqLimit":3,
         "rawTID":"LEAGUE7_1"
     },
     {
@@ -333,6 +353,7 @@
         "goldReward":500,
         "seasonReset":50,
         "starEXP":7,
+        "hqLimit":3,
         "rawTID":"LEAGUE7_2"
     },
     {
@@ -349,6 +370,7 @@
         "goldReward":500,
         "seasonReset":50,
         "starEXP":7,
+        "hqLimit":3,
         "rawTID":"LEAGUE7_3"
     },
     {
@@ -365,6 +387,7 @@
         "goldReward":null,
         "seasonReset":50,
         "starEXP":8,
+        "hqLimit":4,
         "rawTID":"LEAGUE8_1"
     },
     {
@@ -381,6 +404,7 @@
         "goldReward":500,
         "seasonReset":50,
         "starEXP":8,
+        "hqLimit":4,
         "rawTID":"LEAGUE8_2"
     },
     {
@@ -397,6 +421,7 @@
         "goldReward":500,
         "seasonReset":50,
         "starEXP":8,
+        "hqLimit":4,
         "rawTID":"LEAGUE8_3"
     },
     {
@@ -413,6 +438,7 @@
         "goldReward":null,
         "seasonReset":50,
         "starEXP":9,
+        "hqLimit":5,
         "rawTID":"LEAGUE9_1"
     },
     {
@@ -429,6 +455,7 @@
         "goldReward":500,
         "seasonReset":50,
         "starEXP":9,
+        "hqLimit":5,
         "rawTID":"LEAGUE9_2"
     },
     {
@@ -445,6 +472,7 @@
         "goldReward":500,
         "seasonReset":50,
         "starEXP":9,
+        "hqLimit":5,
         "rawTID":"LEAGUE9_3"
     },
     {
@@ -461,6 +489,7 @@
         "goldReward":null,
         "seasonReset":50,
         "starEXP":10,
+        "hqLimit":7,
         "rawTID":"LEAGUE10_1"
     },
     {
@@ -477,6 +506,7 @@
         "goldReward":500,
         "seasonReset":50,
         "starEXP":10,
+        "hqLimit":7,
         "rawTID":"LEAGUE10_2"
     },
     {
@@ -493,6 +523,7 @@
         "goldReward":500,
         "seasonReset":50,
         "starEXP":10,
+        "hqLimit":7,
         "rawTID":"LEAGUE10_3"
     },
     {
@@ -509,6 +540,7 @@
         "goldReward":null,
         "seasonReset":50,
         "starEXP":11,
+        "hqLimit":10,
         "rawTID":"LEAGUE11_1"
     },
     {
@@ -525,6 +557,7 @@
         "goldReward":500,
         "seasonReset":50,
         "starEXP":11,
+        "hqLimit":10,
         "rawTID":"LEAGUE11_2"
     },
     {
@@ -541,6 +574,7 @@
         "goldReward":500,
         "seasonReset":50,
         "starEXP":11,
+        "hqLimit":10,
         "rawTID":"LEAGUE11_3"
     },
     {
@@ -557,6 +591,7 @@
         "goldReward":null,
         "seasonReset":50,
         "starEXP":12,
+        "hqLimit":10,
         "rawTID":"LEAGUE12"
     }
 ]

@@ -10,7 +10,7 @@
         "triggerTime":null,
         "speed":null,
         "hitpoints":500,
-        "hitSpeed":2900,
+        "hitSpeed":3200,
         "newTargetHitSpeed":null,
         "loadTime":4000,
         "loadFirstHit":null,
@@ -223,7 +223,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":50000000,
         "rawTID":"BUILDING_MORTAR"
     },
     {
@@ -233,8 +232,8 @@
         "range":3500,
         "sightRange":3500,
         "deployTime":100,
-        "triggerRadius":2500,
-        "triggerTime":1000,
+        "triggerRadius":2250,
+        "triggerTime":1300,
         "speed":null,
         "hitpoints":null,
         "hitSpeed":null,
@@ -297,12 +296,12 @@
         "pushback":null,
         "ignorePushback":null,
         "scale":140,
-        "collisionRadius":250,
-        "collisionW":1000,
-        "collisionH":1000,
+        "collisionRadius":null,
+        "collisionW":null,
+        "collisionH":null,
         "noCollisionWithOwnTeam":true,
-        "deployTileW":null,
-        "deployTileH":null,
+        "deployTileW":1,
+        "deployTileH":1,
         "mass":null,
         "areaBuff":null,
         "areaBuffTime":null,
@@ -450,7 +449,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":50000001,
         "rawTID":"BUILDING_MINE"
     },
     {
@@ -677,7 +675,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":50000002,
         "rawTID":"BUILDING_WALL"
     },
     {
@@ -904,7 +901,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":50000003,
         "rawTID":"BUILDING_CANNON"
     },
     {
@@ -1131,7 +1127,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":50000004,
         "rawTID":"BUILDING_GOLD"
     },
     {
@@ -1358,7 +1353,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":50000005,
         "rawTID":"BUILDING_STAR_BOX_BIG"
     },
     {
@@ -1585,7 +1579,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":50000006,
         "rawTID":"BUILDING_STAR_BOX"
     },
     {
@@ -1812,7 +1805,6 @@
         "triggerEffect":"lid pop",
         "groundLayer":true,
         "isTank":null,
-        "scId":50000007,
         "rawTID":"BUILDING_PLUMBER_HUT"
     },
     {
@@ -2039,7 +2031,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":50000008,
         "rawTID":"GENERATE_UNIT_POS"
     },
     {
@@ -2113,12 +2104,12 @@
         "pushback":null,
         "ignorePushback":null,
         "scale":200,
-        "collisionRadius":500,
-        "collisionW":1000,
-        "collisionH":1000,
+        "collisionRadius":null,
+        "collisionW":null,
+        "collisionH":null,
         "noCollisionWithOwnTeam":null,
-        "deployTileW":null,
-        "deployTileH":null,
+        "deployTileW":1,
+        "deployTileH":1,
         "mass":null,
         "areaBuff":null,
         "areaBuffTime":null,
@@ -2266,7 +2257,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":50000009,
         "rawTID":"BUILDING_CLUSTER_BOMB"
     },
     {
@@ -2493,7 +2483,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":50000010,
         "rawTID":"BUILDING_GATLING"
     },
     {
@@ -2567,12 +2556,12 @@
         "pushback":null,
         "ignorePushback":null,
         "scale":100,
-        "collisionRadius":250,
-        "collisionW":1000,
-        "collisionH":1000,
+        "collisionRadius":null,
+        "collisionW":null,
+        "collisionH":null,
         "noCollisionWithOwnTeam":true,
-        "deployTileW":null,
-        "deployTileH":null,
+        "deployTileW":1,
+        "deployTileH":1,
         "mass":null,
         "areaBuff":null,
         "areaBuffTime":null,
@@ -2720,7 +2709,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":50000011,
         "rawTID":"BUILDING_BOMB"
     },
     {
@@ -2794,12 +2782,12 @@
         "pushback":null,
         "ignorePushback":null,
         "scale":80,
-        "collisionRadius":500,
-        "collisionW":1000,
-        "collisionH":1000,
+        "collisionRadius":null,
+        "collisionW":null,
+        "collisionH":null,
         "noCollisionWithOwnTeam":true,
-        "deployTileW":null,
-        "deployTileH":null,
+        "deployTileW":1,
+        "deployTileH":1,
         "mass":null,
         "areaBuff":null,
         "areaBuffTime":null,
@@ -2947,7 +2935,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":50000012,
         "rawTID":"BUILDING_FREEZE_TRAP"
     },
     {
@@ -3174,7 +3161,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":50000013,
         "rawTID":"GENERATE_UNIT_POS"
     },
     {
@@ -3401,7 +3387,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":50000014,
         "rawTID":"BUILDING_PLASMA"
     },
     {
@@ -3475,12 +3460,12 @@
         "pushback":null,
         "ignorePushback":null,
         "scale":100,
-        "collisionRadius":500,
-        "collisionW":1000,
-        "collisionH":1000,
+        "collisionRadius":null,
+        "collisionW":null,
+        "collisionH":null,
         "noCollisionWithOwnTeam":true,
-        "deployTileW":null,
-        "deployTileH":null,
+        "deployTileW":1,
+        "deployTileH":1,
         "mass":null,
         "areaBuff":null,
         "areaBuffTime":null,
@@ -3628,7 +3613,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":50000015,
         "rawTID":"BUILDING_BLACK_NINJA_TRAP"
     },
     {
@@ -3855,7 +3839,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":50000016,
         "rawTID":"BUILDING_TESLA"
     },
     {
@@ -3929,12 +3912,12 @@
         "pushback":null,
         "ignorePushback":null,
         "scale":100,
-        "collisionRadius":500,
+        "collisionRadius":null,
         "collisionW":null,
         "collisionH":null,
         "noCollisionWithOwnTeam":true,
-        "deployTileW":null,
-        "deployTileH":null,
+        "deployTileW":1,
+        "deployTileH":1,
         "mass":null,
         "areaBuff":null,
         "areaBuffTime":null,
@@ -4082,7 +4065,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":50000017,
         "rawTID":"BUILDING_ROCKET_PLATFORM"
     },
     {
@@ -4309,7 +4291,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":50000018,
         "rawTID":"BUILDING_DUMMY"
     },
     {
@@ -4536,7 +4517,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":50000019,
         "rawTID":"BUILDING_BOMB"
     },
     {
@@ -4763,7 +4743,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":50000020,
         "rawTID":"BUILDING_GOLD"
     },
     {
@@ -4990,7 +4969,6 @@
         "triggerEffect":null,
         "groundLayer":null,
         "isTank":null,
-        "scId":50000021,
         "rawTID":"BUILDING_STAR_BOX"
     }
 ]

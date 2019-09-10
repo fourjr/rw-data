@@ -1,6 +1,6 @@
 "Name","TID","InfoTID","Rarity","TrainingCost","UnlockLevel","CardFileName","CardExportName","HousingSpace","SpawnCount","SpawnCharacters","SpawnTileOffsetX","SpawnTileOffsetY","SpawnLevelIndex","MaxDeployCount","EditModeOnly","UpgradeLevelFrom","LevelGenGuide","Ability","AbilityCooldown","AbilityOneUse"
 "string","string","string","string","int","int","string","string","int","int","string","int","int","int","int","boolean","String","String","String","int","boolean"
-"Mortar","TID_CARD_MORTAR","TID_CARD_INFO_MORTAR","Common",,2,"sc/ui_portraits.sc","portrait_defense_mortar",2,1,"Mortar",3,3,0,1,,,"BACK",,,
+"Mortar","TID_CARD_MORTAR","TID_CARD_INFO_MORTAR","Common",,3,"sc/ui_portraits.sc","portrait_defense_mortar",2,1,"Mortar",3,3,0,1,,,"BACK",,,
 "Mine","TID_CARD_MINE","TID_CARD_INFO_MINE","Common",,2,"sc/ui_portraits.sc","portrait_defense_mines",1,2,"Mine",1,1,0,1,,,,,,
 ,,,,,,,,,,,1,5,0,,,,,,,
 "Wall","TID_CARD_WALL","TID_CARD_INFO_WALL","Common",,4,"sc/ui_portraits.sc","portrait_defense_wall",1,1,"Wall",1,1,0,10,,,"NOT_AVAILABLE",,,

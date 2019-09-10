@@ -1,29 +1,29 @@
 [
     {
         "name":"Gold1",
-        "tID":"BAG OF GOLD",
+        "tID":"FILL BY 10%",
         "resource":"Gold",
-        "amount":1000,
+        "capacityPercent":25,
         "iconSWF":"sc\/ui_portraits.sc",
-        "iconExportName":"shop_currency_gold_01",
+        "iconExportName":"shop_currency_gold_01_large",
         "rawTID":"RESOURCE_PACK_GOLD_SMALL"
     },
     {
         "name":"Gold2",
-        "tID":"BARREL OF GOLD",
+        "tID":"FILL BY HALF",
         "resource":"Gold",
-        "amount":10000,
+        "capacityPercent":50,
         "iconSWF":"sc\/ui_portraits.sc",
-        "iconExportName":"shop_currency_gold_02",
+        "iconExportName":"shop_currency_gold_02_large",
         "rawTID":"RESOURCE_PACK_GOLD_MEDIUM"
     },
     {
         "name":"Gold3",
-        "tID":"TRUCK OF GOLD",
+        "tID":"FILL STORAGE",
         "resource":"Gold",
-        "amount":100000,
+        "capacityPercent":100,
         "iconSWF":"sc\/ui_portraits.sc",
-        "iconExportName":"shop_currency_gold_03",
+        "iconExportName":"shop_currency_gold_03_large",
         "rawTID":"RESOURCE_PACK_GOLD_BIG"
     }
 ]

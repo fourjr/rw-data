@@ -24,7 +24,8 @@
         "cloudMaxSpeed":null,
         "cloudMinAlpha":null,
         "cloudMaxAlpha":null,
-        "cloudCount":null
+        "cloudCount":null,
+        "scId":16000000
     },
     {
         "name":"Forest",
@@ -52,6 +53,7 @@
         "cloudMinAlpha":null,
         "cloudMaxAlpha":null,
         "cloudCount":null,
+        "scId":16000001,
         "rawTID":"ENVIRONMENT_FOREST"
     },
     {
@@ -79,7 +81,8 @@
         "cloudMaxSpeed":90,
         "cloudMinAlpha":70,
         "cloudMaxAlpha":100,
-        "cloudCount":4
+        "cloudCount":4,
+        "scId":16000002
     },
     {
         "name":"Megacity",
@@ -107,6 +110,7 @@
         "cloudMinAlpha":null,
         "cloudMaxAlpha":null,
         "cloudCount":null,
+        "scId":16000003,
         "rawTID":"ENVIRONMENT_MEGACITY"
     },
     {
@@ -135,6 +139,36 @@
         "cloudMinAlpha":null,
         "cloudMaxAlpha":null,
         "cloudCount":null,
+        "scId":16000004,
         "rawTID":"ENVIRONMENT_DESERT"
+    },
+    {
+        "name":"Arctic",
+        "tID":"TID_ENVIRONMENT_ARCTIC",
+        "shadowR":30,
+        "shadowG":30,
+        "shadowB":255,
+        "shadowA":50,
+        "shadowOffsetX":100,
+        "shadowOffsetY":100,
+        "fileName":"sc\/level_arctic.sc",
+        "exportName":"env_arctic_background",
+        "tilesW":72,
+        "tilesH":36,
+        "waterTileSet":"ArcticWater",
+        "cameraMarginTilesX":2,
+        "cameraMarginTilesY":null,
+        "cloudFileName":null,
+        "cloudExportName":null,
+        "cloudRandomFlip":null,
+        "cloudMinScale":null,
+        "cloudMaxScale":null,
+        "cloudMinSpeed":null,
+        "cloudMaxSpeed":null,
+        "cloudMinAlpha":null,
+        "cloudMaxAlpha":null,
+        "cloudCount":null,
+        "scId":0,
+        "rawTID":"ENVIRONMENT_ARCTIC"
     }
 ]

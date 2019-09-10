@@ -6,14 +6,12 @@ Generate data JSON from APK CSV source.
 import copy
 import csv
 import os
-import sys
 try:
     import ujson as json
 except ImportError:
     import json
 
 import glob
-import requests
 import yaml
 from argparse import ArgumentParser
 
@@ -74,13 +72,31 @@ if __name__ == '__main__':
 
             sc_id_index = 0
             for n, i in enumerate(data):
+                i_keys = list(i.keys())
+                if not i.get('name', True):
+                    for j in i_keys:
+                        if i[j]:
+                            offset = 0
+                            for k in range(1, n):
+                                if data[n - k].get('name'):
+                                    offset = k
+                                    break
+                            if isinstance(data[n - offset][j], list):
+                                data[n - offset][j].append(i[j])
+                            else:
+                                data[n - offset][j] = [data[n - 1][j], i[j]]
+                            i[j] = None
+
                 if fn in config.get('id', []):
                     i['id'] = config['id'][fn] + n
+
                 if fn in config['scId']:
-                    if i.get('name', True):
+                    if not i.get('tID') or TID['en'].get(i['tID']):
                         i['scId'] = config['scId'][fn] + sc_id_index
                         sc_id_index += 1
-                i_keys = list(i.keys())
+                    else:
+                        i['scId'] = 0
+
                 for j in i_keys:
                     if isinstance(i[j], str):
                         # Typing
@@ -115,8 +131,14 @@ if __name__ == '__main__':
             for lang in TID:
                 if args.language:
                     lang = args.language
-                change_data = copy.deepcopy(data)  # might be able to remove
-                for n, i in enumerate(change_data):
+                change_data = []
+                for i in data:
+                    if i.get('name', True):
+                        change_data.append(copy.deepcopy(i))
+                    else:
+                        continue
+
+                    i = change_data[-1]
                     i_keys = list(i.keys())
                     for j in i_keys:
                         if isinstance(i[j], str) and i[j].startswith('TID_'):

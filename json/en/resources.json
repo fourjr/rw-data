@@ -164,19 +164,19 @@
         "textGreen":255,
         "textBlue":255,
         "cap":5,
-        "popOverTID":"Keys are required to receive box from battle!\\n\\nNext Key:\\n<time>",
+        "popOverTID":"Keys are required to get boxes from battle!\\n\\nNext Key:\\n<time>",
         "stealEffectBig":null,
         "stealLimitBig":null,
         "stealEffectMid":null,
         "stealLimitMid":null,
         "stealEffect":null,
-        "scId":5000006,
+        "scId":0,
         "rawTID":"KEYS",
         "rawPopOverTID":"POP_KEY"
     },
     {
         "name":"Exp",
-        "tID":"EXP",
+        "tID":"XP",
         "iconSWF":"sc\/ui.sc",
         "iconExportName":"mineral_icon",
         "cardExportName":"mineral_icon",
@@ -195,7 +195,7 @@
         "stealEffectMid":null,
         "stealLimitMid":null,
         "stealEffect":null,
-        "scId":5000007,
+        "scId":5000006,
         "rawTID":"EXP",
         "rawPopOverTID":"POP_EXP"
     },
@@ -220,7 +220,7 @@
         "stealEffectMid":null,
         "stealLimitMid":null,
         "stealEffect":null,
-        "scId":5000008,
+        "scId":0,
         "rawTID":"STAR",
         "rawPopOverTID":"POP_STAR"
     }

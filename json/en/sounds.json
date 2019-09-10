@@ -1,7 +1,7 @@
 [
     {
         "name":"Rush_start",
-        "fileNames":"sfx\/rush_start_01.wav",
+        "fileNames":"sfx\/rush_start_01.ogg",
         "minVolume":70,
         "maxVolume":70,
         "minPitch":100,
@@ -21,34 +21,38 @@
     },
     {
         "name":"Rush_soldier_shoot",
-        "fileNames":"sfx\/gi_mike_atk_03.wav",
-        "minVolume":1,
-        "maxVolume":1,
-        "minPitch":93,
-        "maxPitch":107,
-        "priority":5,
-        "maximumByType":20,
-        "maxRepeatMs":30,
-        "loop":null,
-        "playVariationsInSequence":null,
-        "playVariationsInSequenceManualReset":null,
-        "startDelayMinMs":null,
-        "startDelayMaxMs":null,
-        "playOnlyWhenInView":null,
-        "maxVolumeScaleLimit":null,
-        "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null
-    },
-    {
-        "name":null,
-        "fileNames":"sfx\/gi_mike_atk_02.wav",
-        "minVolume":1,
-        "maxVolume":1,
-        "minPitch":93,
-        "maxPitch":107,
-        "priority":5,
-        "maximumByType":20,
-        "maxRepeatMs":30,
+        "fileNames":[
+            "sfx\/gi_mike_atk_03.ogg",
+            "sfx\/gi_mike_atk_02.ogg"
+        ],
+        "minVolume":[
+            1,
+            "1"
+        ],
+        "maxVolume":[
+            1,
+            "1"
+        ],
+        "minPitch":[
+            93,
+            "93"
+        ],
+        "maxPitch":[
+            107,
+            "107"
+        ],
+        "priority":[
+            5,
+            "5"
+        ],
+        "maximumByType":[
+            20,
+            "20"
+        ],
+        "maxRepeatMs":[
+            30,
+            "30"
+        ],
         "loop":null,
         "playVariationsInSequence":null,
         "playVariationsInSequenceManualReset":null,
@@ -61,34 +65,38 @@
     },
     {
         "name":"Rush_soldier_shoot_v2",
-        "fileNames":"sfx\/gi_mike_atk_03.wav",
-        "minVolume":25,
-        "maxVolume":40,
-        "minPitch":93,
-        "maxPitch":107,
-        "priority":5,
-        "maximumByType":20,
-        "maxRepeatMs":30,
-        "loop":null,
-        "playVariationsInSequence":null,
-        "playVariationsInSequenceManualReset":null,
-        "startDelayMinMs":null,
-        "startDelayMaxMs":null,
-        "playOnlyWhenInView":null,
-        "maxVolumeScaleLimit":null,
-        "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null
-    },
-    {
-        "name":null,
-        "fileNames":"sfx\/gi_mike_atk_02.wav",
-        "minVolume":25,
-        "maxVolume":40,
-        "minPitch":93,
-        "maxPitch":107,
-        "priority":5,
-        "maximumByType":20,
-        "maxRepeatMs":30,
+        "fileNames":[
+            "sfx\/gi_mike_atk_03.ogg",
+            "sfx\/gi_mike_atk_02.ogg"
+        ],
+        "minVolume":[
+            25,
+            "25"
+        ],
+        "maxVolume":[
+            40,
+            "40"
+        ],
+        "minPitch":[
+            93,
+            "93"
+        ],
+        "maxPitch":[
+            107,
+            "107"
+        ],
+        "priority":[
+            5,
+            "5"
+        ],
+        "maximumByType":[
+            20,
+            "20"
+        ],
+        "maxRepeatMs":[
+            30,
+            "30"
+        ],
         "loop":null,
         "playVariationsInSequence":null,
         "playVariationsInSequenceManualReset":null,
@@ -101,7 +109,7 @@
     },
     {
         "name":"Rush_shield_hit",
-        "fileNames":"sfx\/Shield_hit_01.wav",
+        "fileNames":"sfx\/Shield_hit_01.ogg",
         "minVolume":15,
         "maxVolume":30,
         "minPitch":80,
@@ -121,7 +129,7 @@
     },
     {
         "name":"Rush_explosion_grenade",
-        "fileNames":"sfx\/rush_grenade_explosion_01.wav",
+        "fileNames":"sfx\/rush_grenade_explosion_01.ogg",
         "minVolume":40,
         "maxVolume":50,
         "minPitch":90,
@@ -141,7 +149,7 @@
     },
     {
         "name":"Rush_explosion_fireball",
-        "fileNames":"sfx\/rush_explosion_01.wav",
+        "fileNames":"sfx\/rush_explosion_01.ogg",
         "minVolume":70,
         "maxVolume":90,
         "minPitch":90,
@@ -161,7 +169,7 @@
     },
     {
         "name":"Rush_collect_outpost",
-        "fileNames":"sfx\/rush_collect_outpost_02.wav",
+        "fileNames":"sfx\/rush_collect_outpost_02.ogg",
         "minVolume":70,
         "maxVolume":70,
         "minPitch":100,
@@ -181,7 +189,7 @@
     },
     {
         "name":"Rush_collect_gold",
-        "fileNames":"sfx\/collect_coins_01.wav",
+        "fileNames":"sfx\/collect_coins_01.ogg",
         "minVolume":70,
         "maxVolume":70,
         "minPitch":100,
@@ -201,7 +209,7 @@
     },
     {
         "name":"Rush_collect_stars",
-        "fileNames":"sfx\/collect_stars_01.wav",
+        "fileNames":"sfx\/collect_stars_01.ogg",
         "minVolume":70,
         "maxVolume":70,
         "minPitch":100,
@@ -221,7 +229,7 @@
     },
     {
         "name":"Rush_combat_get_1_star",
-        "fileNames":"sfx\/get_1_star.wav",
+        "fileNames":"sfx\/get_1_star.ogg",
         "minVolume":70,
         "maxVolume":70,
         "minPitch":100,
@@ -241,7 +249,7 @@
     },
     {
         "name":"Rush_combat_get_2_star",
-        "fileNames":"sfx\/get_2_star.wav",
+        "fileNames":"sfx\/get_2_star.ogg",
         "minVolume":70,
         "maxVolume":70,
         "minPitch":100,
@@ -261,7 +269,7 @@
     },
     {
         "name":"Rush_combat_get_3_star",
-        "fileNames":"sfx\/get_3_star.wav",
+        "fileNames":"sfx\/get_3_star.ogg",
         "minVolume":70,
         "maxVolume":70,
         "minPitch":100,
@@ -281,7 +289,7 @@
     },
     {
         "name":"Button Pressed Down",
-        "fileNames":"sfx\/menu_click_02v2.wav",
+        "fileNames":"sfx\/menu_click_02v2.ogg",
         "minVolume":46,
         "maxVolume":46,
         "minPitch":98,
@@ -301,7 +309,7 @@
     },
     {
         "name":"Button Press Release",
-        "fileNames":"sfx\/menu_click_03v2.wav",
+        "fileNames":"sfx\/menu_click_03v2.ogg",
         "minVolume":46,
         "maxVolume":46,
         "minPitch":98,
@@ -321,7 +329,7 @@
     },
     {
         "name":"ButtonClick",
-        "fileNames":"sfx\/button_click_02.wav",
+        "fileNames":"sfx\/button_click_02.ogg",
         "minVolume":60,
         "maxVolume":60,
         "minPitch":100,
@@ -341,7 +349,7 @@
     },
     {
         "name":"ButtonClick2",
-        "fileNames":"sfx\/menu_click_01.wav",
+        "fileNames":"sfx\/menu_click_02v2.ogg",
         "minVolume":50,
         "maxVolume":50,
         "minPitch":100,
@@ -361,7 +369,7 @@
     },
     {
         "name":"tank_drive_loop",
-        "fileNames":"sfx\/tank_drive_loop_02v2.wav",
+        "fileNames":"sfx\/tank_drive_loop_02v2.ogg",
         "minVolume":0,
         "maxVolume":30,
         "minPitch":95,
@@ -381,33 +389,34 @@
     },
     {
         "name":"tank_attack",
-        "fileNames":"sfx\/tank_fire_01.wav",
-        "minVolume":70,
-        "maxVolume":70,
-        "minPitch":95,
-        "maxPitch":105,
-        "priority":1,
-        "maximumByType":4,
-        "maxRepeatMs":null,
-        "loop":null,
-        "playVariationsInSequence":null,
-        "playVariationsInSequenceManualReset":null,
-        "startDelayMinMs":null,
-        "startDelayMaxMs":null,
-        "playOnlyWhenInView":null,
-        "maxVolumeScaleLimit":null,
-        "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null
-    },
-    {
-        "name":null,
-        "fileNames":"sfx\/tank_fire_02.wav",
-        "minVolume":70,
-        "maxVolume":70,
-        "minPitch":95,
-        "maxPitch":105,
-        "priority":1,
-        "maximumByType":4,
+        "fileNames":[
+            "sfx\/tank_fire_01.ogg",
+            "sfx\/tank_fire_02.ogg"
+        ],
+        "minVolume":[
+            70,
+            "70"
+        ],
+        "maxVolume":[
+            70,
+            "70"
+        ],
+        "minPitch":[
+            95,
+            "95"
+        ],
+        "maxPitch":[
+            105,
+            "105"
+        ],
+        "priority":[
+            1,
+            "1"
+        ],
+        "maximumByType":[
+            4,
+            "4"
+        ],
         "maxRepeatMs":null,
         "loop":null,
         "playVariationsInSequence":null,
@@ -421,33 +430,34 @@
     },
     {
         "name":"tank_deploy",
-        "fileNames":"sfx\/tank_deploy_01.wav",
-        "minVolume":65,
-        "maxVolume":65,
-        "minPitch":95,
-        "maxPitch":105,
-        "priority":2,
-        "maximumByType":4,
-        "maxRepeatMs":null,
-        "loop":null,
-        "playVariationsInSequence":null,
-        "playVariationsInSequenceManualReset":null,
-        "startDelayMinMs":null,
-        "startDelayMaxMs":null,
-        "playOnlyWhenInView":null,
-        "maxVolumeScaleLimit":null,
-        "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null
-    },
-    {
-        "name":null,
-        "fileNames":"sfx\/tank_deploy_02.wav",
-        "minVolume":65,
-        "maxVolume":65,
-        "minPitch":95,
-        "maxPitch":105,
-        "priority":2,
-        "maximumByType":4,
+        "fileNames":[
+            "sfx\/tank_deploy_01.ogg",
+            "sfx\/tank_deploy_02.ogg"
+        ],
+        "minVolume":[
+            65,
+            "65"
+        ],
+        "maxVolume":[
+            65,
+            "65"
+        ],
+        "minPitch":[
+            95,
+            "95"
+        ],
+        "maxPitch":[
+            105,
+            "105"
+        ],
+        "priority":[
+            2,
+            "2"
+        ],
+        "maximumByType":[
+            4,
+            "4"
+        ],
         "maxRepeatMs":null,
         "loop":null,
         "playVariationsInSequence":null,
@@ -461,7 +471,7 @@
     },
     {
         "name":"tank_die",
-        "fileNames":"sfx\/explosion_02.wav",
+        "fileNames":"sfx\/explosion_02.ogg",
         "minVolume":50,
         "maxVolume":50,
         "minPitch":95,
@@ -481,33 +491,34 @@
     },
     {
         "name":"shield_deploy",
-        "fileNames":"sfx\/shieldguy_deploy_01.wav",
-        "minVolume":70,
-        "maxVolume":70,
-        "minPitch":95,
-        "maxPitch":105,
-        "priority":1,
-        "maximumByType":4,
-        "maxRepeatMs":null,
-        "loop":null,
-        "playVariationsInSequence":null,
-        "playVariationsInSequenceManualReset":null,
-        "startDelayMinMs":null,
-        "startDelayMaxMs":null,
-        "playOnlyWhenInView":null,
-        "maxVolumeScaleLimit":null,
-        "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null
-    },
-    {
-        "name":null,
-        "fileNames":"sfx\/shieldguy_deploy_02.wav",
-        "minVolume":70,
-        "maxVolume":70,
-        "minPitch":95,
-        "maxPitch":105,
-        "priority":1,
-        "maximumByType":4,
+        "fileNames":[
+            "sfx\/shieldguy_deploy_01.ogg",
+            "sfx\/shieldguy_deploy_02.ogg"
+        ],
+        "minVolume":[
+            70,
+            "70"
+        ],
+        "maxVolume":[
+            70,
+            "70"
+        ],
+        "minPitch":[
+            95,
+            "95"
+        ],
+        "maxPitch":[
+            105,
+            "105"
+        ],
+        "priority":[
+            1,
+            "1"
+        ],
+        "maximumByType":[
+            4,
+            "4"
+        ],
         "maxRepeatMs":null,
         "loop":null,
         "playVariationsInSequence":null,
@@ -521,7 +532,7 @@
     },
     {
         "name":"soldier_deploy",
-        "fileNames":"sfx\/soldier_deploy_02.wav",
+        "fileNames":"sfx\/soldier_deploy_02.ogg",
         "minVolume":70,
         "maxVolume":70,
         "minPitch":95,
@@ -541,7 +552,7 @@
     },
     {
         "name":"plumber_deploy",
-        "fileNames":"sfx\/plumber_deploy_01.wav",
+        "fileNames":"sfx\/plumber_deploy_01.ogg",
         "minVolume":40,
         "maxVolume":60,
         "minPitch":95,
@@ -561,7 +572,7 @@
     },
     {
         "name":"grenade_deploy",
-        "fileNames":"sfx\/grenade_deploy_01.wav",
+        "fileNames":"sfx\/grenade_deploy_01.ogg",
         "minVolume":70,
         "maxVolume":70,
         "minPitch":95,
@@ -581,7 +592,7 @@
     },
     {
         "name":"rocket_deploy",
-        "fileNames":"sfx\/bazooka_dep_01.wav",
+        "fileNames":"sfx\/bazooka_dep_01.ogg",
         "minVolume":50,
         "maxVolume":60,
         "minPitch":90,
@@ -601,33 +612,34 @@
     },
     {
         "name":"apc_deploy",
-        "fileNames":"sfx\/tank_deploy_01.wav",
-        "minVolume":65,
-        "maxVolume":65,
-        "minPitch":95,
-        "maxPitch":105,
-        "priority":2,
-        "maximumByType":4,
-        "maxRepeatMs":null,
-        "loop":null,
-        "playVariationsInSequence":null,
-        "playVariationsInSequenceManualReset":null,
-        "startDelayMinMs":null,
-        "startDelayMaxMs":null,
-        "playOnlyWhenInView":null,
-        "maxVolumeScaleLimit":null,
-        "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null
-    },
-    {
-        "name":null,
-        "fileNames":"sfx\/tank_deploy_02.wav",
-        "minVolume":65,
-        "maxVolume":65,
-        "minPitch":95,
-        "maxPitch":105,
-        "priority":2,
-        "maximumByType":4,
+        "fileNames":[
+            "sfx\/tank_deploy_01.ogg",
+            "sfx\/tank_deploy_02.ogg"
+        ],
+        "minVolume":[
+            65,
+            "65"
+        ],
+        "maxVolume":[
+            65,
+            "65"
+        ],
+        "minPitch":[
+            95,
+            "95"
+        ],
+        "maxPitch":[
+            105,
+            "105"
+        ],
+        "priority":[
+            2,
+            "2"
+        ],
+        "maximumByType":[
+            4,
+            "4"
+        ],
         "maxRepeatMs":null,
         "loop":null,
         "playVariationsInSequence":null,
@@ -641,7 +653,7 @@
     },
     {
         "name":"Get_1_star",
-        "fileNames":"sfx\/victory_1st_star_02.wav",
+        "fileNames":"sfx\/victory_1st_star_02.ogg",
         "minVolume":70,
         "maxVolume":70,
         "minPitch":100,
@@ -661,7 +673,7 @@
     },
     {
         "name":"Get_2_star",
-        "fileNames":"sfx\/victory_2nd_star_02.wav",
+        "fileNames":"sfx\/victory_2nd_star_02.ogg",
         "minVolume":70,
         "maxVolume":70,
         "minPitch":100,
@@ -681,7 +693,7 @@
     },
     {
         "name":"Get_3_star",
-        "fileNames":"sfx\/victory_3rd_star_02.wav",
+        "fileNames":"sfx\/victory_3rd_star_02.ogg",
         "minVolume":70,
         "maxVolume":70,
         "minPitch":100,
@@ -701,7 +713,7 @@
     },
     {
         "name":"heli_land",
-        "fileNames":"sfx\/rush_heli_land_01.wav",
+        "fileNames":"sfx\/rush_heli_land_01.ogg",
         "minVolume":70,
         "maxVolume":70,
         "minPitch":100,
@@ -721,7 +733,7 @@
     },
     {
         "name":"laser_shoot",
-        "fileNames":"sfx\/laser_cannon_05.wav",
+        "fileNames":"sfx\/laser_cannon_05.ogg",
         "minVolume":70,
         "maxVolume":70,
         "minPitch":95,
@@ -741,7 +753,7 @@
     },
     {
         "name":"shotgun_shoot",
-        "fileNames":"sfx\/soldier_attack_01.wav",
+        "fileNames":"sfx\/soldier_attack_01.ogg",
         "minVolume":70,
         "maxVolume":70,
         "minPitch":95,
@@ -761,7 +773,7 @@
     },
     {
         "name":"grenade_throw",
-        "fileNames":"sfx\/throw_grenadegirl_02.wav",
+        "fileNames":"sfx\/throw_grenadegirl_02.ogg",
         "minVolume":50,
         "maxVolume":50,
         "minPitch":95,
@@ -781,7 +793,7 @@
     },
     {
         "name":"grenade_throw_no_delay",
-        "fileNames":"sfx\/throw_grenadegirl_02.wav",
+        "fileNames":"sfx\/throw_grenadegirl_02.ogg",
         "minVolume":50,
         "maxVolume":50,
         "minPitch":95,
@@ -801,7 +813,7 @@
     },
     {
         "name":"Chest_preopenland",
-        "fileNames":"sfx\/rush_chestland_01.wav",
+        "fileNames":"sfx\/rush_chestland_01.ogg",
         "minVolume":90,
         "maxVolume":90,
         "minPitch":100,
@@ -821,7 +833,7 @@
     },
     {
         "name":"Card_popup",
-        "fileNames":"sfx\/rush_cardpopup_01.wav",
+        "fileNames":"sfx\/rush_cardpopup_01.ogg",
         "minVolume":80,
         "maxVolume":80,
         "minPitch":100,
@@ -841,7 +853,7 @@
     },
     {
         "name":"Rush_loading",
-        "fileNames":"sfx\/rush_loading_01.wav",
+        "fileNames":"sfx\/rush_loading_01.ogg",
         "minVolume":50,
         "maxVolume":50,
         "minPitch":100,
@@ -861,7 +873,7 @@
     },
     {
         "name":"Rush_ingame_top_star",
-        "fileNames":"sfx\/rush_top_star_01.wav",
+        "fileNames":"sfx\/rush_top_star_01.ogg",
         "minVolume":50,
         "maxVolume":50,
         "minPitch":100,
@@ -881,7 +893,7 @@
     },
     {
         "name":"Get_coin",
-        "fileNames":"sfx\/coin1.wav",
+        "fileNames":"sfx\/coin1.ogg",
         "minVolume":30,
         "maxVolume":30,
         "minPitch":100,
@@ -901,7 +913,7 @@
     },
     {
         "name":"Get_one_5star",
-        "fileNames":"sfx\/5star_getone_01.wav",
+        "fileNames":"sfx\/5star_getone_01.ogg",
         "minVolume":60,
         "maxVolume":60,
         "minPitch":100,
@@ -921,7 +933,7 @@
     },
     {
         "name":"Key_in",
-        "fileNames":"sfx\/rush_key_in_01.wav",
+        "fileNames":"sfx\/rush_key_in_01.ogg",
         "minVolume":60,
         "maxVolume":60,
         "minPitch":100,
@@ -941,7 +953,7 @@
     },
     {
         "name":"Rush_text_in",
-        "fileNames":"sfx\/rush_text_in_01.wav",
+        "fileNames":"sfx\/rush_text_in_01.ogg",
         "minVolume":50,
         "maxVolume":50,
         "minPitch":100,
@@ -961,7 +973,7 @@
     },
     {
         "name":"Rush_text_out",
-        "fileNames":"sfx\/rush_text_out_01.wav",
+        "fileNames":"sfx\/rush_text_out_01.ogg",
         "minVolume":40,
         "maxVolume":40,
         "minPitch":100,
@@ -981,7 +993,7 @@
     },
     {
         "name":"Starbox_explo",
-        "fileNames":"sfx\/rush_starbox_explo_01.wav",
+        "fileNames":"sfx\/rush_starbox_explo_01.ogg",
         "minVolume":80,
         "maxVolume":80,
         "minPitch":97,
@@ -1001,7 +1013,7 @@
     },
     {
         "name":"Rush_die",
-        "fileNames":"sfx\/rush_die_01.wav",
+        "fileNames":"sfx\/rush_die_01.ogg",
         "minVolume":20,
         "maxVolume":40,
         "minPitch":90,
@@ -1021,7 +1033,7 @@
     },
     {
         "name":"Rush_chest_down",
-        "fileNames":"sfx\/rush_chest_down_01.wav",
+        "fileNames":"sfx\/rush_chest_down_01.ogg",
         "minVolume":60,
         "maxVolume":60,
         "minPitch":100,
@@ -1041,7 +1053,7 @@
     },
     {
         "name":"Mine_explo",
-        "fileNames":"sfx\/rush_mine_explo_01.wav",
+        "fileNames":"sfx\/rush_mine_explo_01.ogg",
         "minVolume":50,
         "maxVolume":70,
         "minPitch":90,
@@ -1061,7 +1073,7 @@
     },
     {
         "name":"Grenade_explo",
-        "fileNames":"sfx\/rush_grenade_explo_01.wav",
+        "fileNames":"sfx\/rush_grenade_explo_01.ogg",
         "minVolume":50,
         "maxVolume":70,
         "minPitch":90,
@@ -1081,7 +1093,7 @@
     },
     {
         "name":"Airstrike_explo",
-        "fileNames":"sfx\/rush_rocket_explo_01.wav",
+        "fileNames":"sfx\/rush_rocket_explo_01.ogg",
         "minVolume":60,
         "maxVolume":80,
         "minPitch":90,
@@ -1101,7 +1113,7 @@
     },
     {
         "name":"Rush_barrel_explo",
-        "fileNames":"sfx\/rush_barrel_explo_01.wav",
+        "fileNames":"sfx\/rush_barrel_explo_01.ogg",
         "minVolume":40,
         "maxVolume":60,
         "minPitch":90,
@@ -1121,7 +1133,7 @@
     },
     {
         "name":"Rush_tank_hit_explo",
-        "fileNames":"sfx\/tank_hit_explo_01.wav",
+        "fileNames":"sfx\/tank_hit_explo_01.ogg",
         "minVolume":50,
         "maxVolume":70,
         "minPitch":95,
@@ -1141,7 +1153,7 @@
     },
     {
         "name":"Rush_mortar_explo",
-        "fileNames":"sfx\/mortar_explo_01.wav",
+        "fileNames":"sfx\/mortar_explo_01.ogg",
         "minVolume":50,
         "maxVolume":70,
         "minPitch":95,
@@ -1161,7 +1173,7 @@
     },
     {
         "name":"Rush_rocket_explo",
-        "fileNames":"sfx\/rocket_explo_01.wav",
+        "fileNames":"sfx\/rocket_explo_01.ogg",
         "minVolume":50,
         "maxVolume":70,
         "minPitch":95,
@@ -1181,7 +1193,7 @@
     },
     {
         "name":"Rush_gorilla_dep",
-        "fileNames":"sfx\/gorilla_dep_01.wav",
+        "fileNames":"sfx\/gorilla_dep_01.ogg",
         "minVolume":50,
         "maxVolume":70,
         "minPitch":95,
@@ -1201,7 +1213,7 @@
     },
     {
         "name":"Rush_jetpack_dep",
-        "fileNames":"sfx\/jetpack_dep_01.wav",
+        "fileNames":"sfx\/jetpack_dep_01.ogg",
         "minVolume":50,
         "maxVolume":70,
         "minPitch":95,
@@ -1221,7 +1233,7 @@
     },
     {
         "name":"Rush_bninja_dep",
-        "fileNames":"sfx\/nunchuck_dp_01.wav",
+        "fileNames":"sfx\/nunchuck_dp_01.ogg",
         "minVolume":50,
         "maxVolume":70,
         "minPitch":95,
@@ -1241,7 +1253,7 @@
     },
     {
         "name":"Rush_kungfu_dep",
-        "fileNames":"sfx\/kungfu_dep_01.wav",
+        "fileNames":"sfx\/kungfu_dep_01.ogg",
         "minVolume":50,
         "maxVolume":70,
         "minPitch":95,
@@ -1261,7 +1273,7 @@
     },
     {
         "name":"Rush_shotgun_dep",
-        "fileNames":"sfx\/shotgun_dep_01.wav",
+        "fileNames":"sfx\/shotgun_dep_01.ogg",
         "minVolume":50,
         "maxVolume":70,
         "minPitch":95,
@@ -1281,7 +1293,7 @@
     },
     {
         "name":"Rush_laser_dep",
-        "fileNames":"sfx\/laser_dep_01.wav",
+        "fileNames":"sfx\/laser_dep_01.ogg",
         "minVolume":50,
         "maxVolume":70,
         "minPitch":100,
@@ -1301,7 +1313,7 @@
     },
     {
         "name":"Rush_minimen_dep",
-        "fileNames":"sfx\/minimen_dep_02.wav",
+        "fileNames":"sfx\/minimen_dep_02.ogg",
         "minVolume":50,
         "maxVolume":70,
         "minPitch":98,
@@ -1321,7 +1333,7 @@
     },
     {
         "name":"Rush_flamo_deploy",
-        "fileNames":"sfx\/flamo_dep_01.wav",
+        "fileNames":"sfx\/flamo_dep_01.ogg",
         "minVolume":50,
         "maxVolume":70,
         "minPitch":98,
@@ -1341,7 +1353,7 @@
     },
     {
         "name":"Rush_boxer_deploy",
-        "fileNames":"sfx\/boxer_deploy_01.wav",
+        "fileNames":"sfx\/boxer_deploy_01.ogg",
         "minVolume":50,
         "maxVolume":70,
         "minPitch":98,
@@ -1361,7 +1373,7 @@
     },
     {
         "name":"Rush_mortar_fire",
-        "fileNames":"sfx\/rush_mortar_fire_02.wav",
+        "fileNames":"sfx\/rush_mortar_fire_02.ogg",
         "minVolume":50,
         "maxVolume":60,
         "minPitch":98,
@@ -1381,7 +1393,7 @@
     },
     {
         "name":"Rush_cannon_fire",
-        "fileNames":"sfx\/rush_cannon_fire_02.wav",
+        "fileNames":"sfx\/rush_cannon_fire_02.ogg",
         "minVolume":50,
         "maxVolume":60,
         "minPitch":98,
@@ -1401,7 +1413,7 @@
     },
     {
         "name":"Rush_shieldg_shoot",
-        "fileNames":"sfx\/shield_shoot_01.wav",
+        "fileNames":"sfx\/shield_shoot_01.ogg",
         "minVolume":40,
         "maxVolume":60,
         "minPitch":95,
@@ -1421,7 +1433,7 @@
     },
     {
         "name":"Rush_bazooka_fire_01",
-        "fileNames":"sfx\/bazooka_bill_fire_01.wav",
+        "fileNames":"sfx\/bazooka_bill_fire_01.ogg",
         "minVolume":50,
         "maxVolume":70,
         "minPitch":98,
@@ -1441,7 +1453,7 @@
     },
     {
         "name":"Rush_boxer_atk",
-        "fileNames":"sfx\/boxer_atk_01.wav",
+        "fileNames":"sfx\/boxer_atk_01.ogg",
         "minVolume":60,
         "maxVolume":70,
         "minPitch":98,
@@ -1461,7 +1473,7 @@
     },
     {
         "name":"Rush_boxer_hit",
-        "fileNames":"sfx\/boxer_hit_01.wav",
+        "fileNames":"sfx\/boxer_hit_01.ogg",
         "minVolume":70,
         "maxVolume":80,
         "minPitch":95,
@@ -1481,7 +1493,7 @@
     },
     {
         "name":"Rush_deploy_bomb",
-        "fileNames":"sfx\/rush_bomb_deploy_01.wav",
+        "fileNames":"sfx\/rush_bomb_deploy_01.ogg",
         "minVolume":70,
         "maxVolume":70,
         "minPitch":96,
@@ -1501,7 +1513,7 @@
     },
     {
         "name":"Rush_unused_2_coin",
-        "fileNames":"sfx\/unused_2_coin_01.wav",
+        "fileNames":"sfx\/unused_2_coin_01.ogg",
         "minVolume":60,
         "maxVolume":60,
         "minPitch":100,
@@ -1521,7 +1533,7 @@
     },
     {
         "name":"Rush_slowmo_start",
-        "fileNames":"sfx\/rush_slowdown_04.wav",
+        "fileNames":"sfx\/rush_slowdown_04.ogg",
         "minVolume":60,
         "maxVolume":60,
         "minPitch":100,
@@ -1541,7 +1553,7 @@
     },
     {
         "name":"Rush_slowmo_loop",
-        "fileNames":"sfx\/rush_slow_mo_01.wav",
+        "fileNames":"sfx\/rush_slow_mo_01.ogg",
         "minVolume":40,
         "maxVolume":40,
         "minPitch":100,
@@ -1561,7 +1573,7 @@
     },
     {
         "name":"Rush_slowmo_end",
-        "fileNames":"sfx\/rush_speedup_04.wav",
+        "fileNames":"sfx\/rush_speedup_04.ogg",
         "minVolume":1,
         "maxVolume":1,
         "minPitch":100,
@@ -1581,7 +1593,7 @@
     },
     {
         "name":"Rush_place_cannon",
-        "fileNames":"sfx\/place_cannon_01.wav",
+        "fileNames":"sfx\/place_cannon_01.ogg",
         "minVolume":60,
         "maxVolume":60,
         "minPitch":98,
@@ -1601,7 +1613,7 @@
     },
     {
         "name":"Rush_place_hole",
-        "fileNames":"sfx\/place_shelter_01.wav",
+        "fileNames":"sfx\/place_shelter_01.ogg",
         "minVolume":60,
         "maxVolume":60,
         "minPitch":98,
@@ -1621,7 +1633,7 @@
     },
     {
         "name":"Rush_wall_place",
-        "fileNames":"sfx\/rush_wall_place_01.wav",
+        "fileNames":"sfx\/rush_wall_place_01.ogg",
         "minVolume":60,
         "maxVolume":60,
         "minPitch":98,
@@ -1641,7 +1653,7 @@
     },
     {
         "name":"Rush_char_upgrade_seq_01",
-        "fileNames":"sfx\/rush_char_upgrade_seq_1.wav",
+        "fileNames":"sfx\/rush_char_upgrade_seq_1.ogg",
         "minVolume":70,
         "maxVolume":70,
         "minPitch":100,
@@ -1661,7 +1673,7 @@
     },
     {
         "name":"Rush_char_upgrade_seq_02",
-        "fileNames":"sfx\/rush_char_upgrade_seq_2.wav",
+        "fileNames":"sfx\/rush_char_upgrade_seq_2.ogg",
         "minVolume":60,
         "maxVolume":60,
         "minPitch":100,
@@ -1681,7 +1693,7 @@
     },
     {
         "name":"Rush_char_upgrade_seq_03",
-        "fileNames":"sfx\/rush_char_upgrade_seq_3.wav",
+        "fileNames":"sfx\/rush_char_upgrade_seq_3.ogg",
         "minVolume":60,
         "maxVolume":60,
         "minPitch":100,
@@ -1701,7 +1713,7 @@
     },
     {
         "name":"Rush_char_upgrade_stat_count",
-        "fileNames":"sfx\/rush_stat_counter_04.wav",
+        "fileNames":"sfx\/rush_stat_counter_04.ogg",
         "minVolume":20,
         "maxVolume":20,
         "minPitch":100,
@@ -1721,7 +1733,7 @@
     },
     {
         "name":"Rush_press_upgrade_card",
-        "fileNames":"sfx\/press_upgrade_card_01.wav",
+        "fileNames":"sfx\/press_upgrade_card_01.ogg",
         "minVolume":70,
         "maxVolume":70,
         "minPitch":100,
@@ -1741,7 +1753,7 @@
     },
     {
         "name":"Rush_deploy_mine",
-        "fileNames":"sfx\/rush_place_mine_01.wav",
+        "fileNames":"sfx\/rush_place_mine_01.ogg",
         "minVolume":70,
         "maxVolume":70,
         "minPitch":100,
@@ -1761,7 +1773,7 @@
     },
     {
         "name":"Rush_drop_arcade",
-        "fileNames":"sfx\/rush_arcade_cabinet_drop_02.wav",
+        "fileNames":"sfx\/rush_arcade_cabinet_drop_02.ogg",
         "minVolume":50,
         "maxVolume":50,
         "minPitch":100,
@@ -1781,7 +1793,7 @@
     },
     {
         "name":"Rush_arcade_explo",
-        "fileNames":"sfx\/rush_arcade_explo_01.wav",
+        "fileNames":"sfx\/rush_arcade_explo_01.ogg",
         "minVolume":70,
         "maxVolume":70,
         "minPitch":95,
@@ -1801,7 +1813,7 @@
     },
     {
         "name":"Rush_heal",
-        "fileNames":"sfx\/rush_heal_01.wav",
+        "fileNames":"sfx\/rush_heal_01.ogg",
         "minVolume":50,
         "maxVolume":50,
         "minPitch":100,
@@ -1821,7 +1833,7 @@
     },
     {
         "name":"Rush_invis",
-        "fileNames":"sfx\/rush_invis_03.wav",
+        "fileNames":"sfx\/rush_invis_03.ogg",
         "minVolume":55,
         "maxVolume":55,
         "minPitch":100,
@@ -1841,7 +1853,7 @@
     },
     {
         "name":"Rush_ghost_deploy",
-        "fileNames":"sfx\/rush_ghostgirl_dep_01.wav",
+        "fileNames":"sfx\/rush_ghostgirl_dep_01.ogg",
         "minVolume":50,
         "maxVolume":50,
         "minPitch":100,
@@ -1861,7 +1873,7 @@
     },
     {
         "name":"Rush_use_key_chest",
-        "fileNames":"sfx\/rush_use_key_chest_01.wav",
+        "fileNames":"sfx\/rush_use_key_chest_01.ogg",
         "minVolume":70,
         "maxVolume":70,
         "minPitch":100,
@@ -1881,7 +1893,7 @@
     },
     {
         "name":"Get_gem",
-        "fileNames":"sfx\/rush_get_gem_02.wav",
+        "fileNames":"sfx\/rush_get_gem_02.ogg",
         "minVolume":30,
         "maxVolume":30,
         "minPitch":100,
@@ -1901,7 +1913,7 @@
     },
     {
         "name":"Get_card",
-        "fileNames":"sfx\/rush_get_card_01.wav",
+        "fileNames":"sfx\/rush_get_card_01.ogg",
         "minVolume":30,
         "maxVolume":30,
         "minPitch":100,
@@ -1921,7 +1933,7 @@
     },
     {
         "name":"Get_exp",
-        "fileNames":"sfx\/rush_get_xp_02.wav",
+        "fileNames":"sfx\/rush_get_xp_02.ogg",
         "minVolume":30,
         "maxVolume":30,
         "minPitch":100,
@@ -1941,7 +1953,7 @@
     },
     {
         "name":"Get_star",
-        "fileNames":"sfx\/rush_get_star_01.wav",
+        "fileNames":"sfx\/rush_get_star_01.ogg",
         "minVolume":30,
         "maxVolume":30,
         "minPitch":100,
@@ -1961,7 +1973,7 @@
     },
     {
         "name":"Gain_xp_level",
-        "fileNames":"sfx\/rush_gain_xp_level_01.wav",
+        "fileNames":"sfx\/rush_gain_xp_level_01.ogg",
         "minVolume":40,
         "maxVolume":40,
         "minPitch":100,
@@ -1981,7 +1993,7 @@
     },
     {
         "name":"Heli_takeoff",
-        "fileNames":"sfx\/rush_heli_take_off_01.wav",
+        "fileNames":"sfx\/rush_heli_take_off_01.ogg",
         "minVolume":60,
         "maxVolume":60,
         "minPitch":100,
@@ -2001,7 +2013,7 @@
     },
     {
         "name":"Rush_upgrade_building",
-        "fileNames":"sfx\/rush_upgrade_building_01.wav",
+        "fileNames":"sfx\/rush_upgrade_building_01.ogg",
         "minVolume":60,
         "maxVolume":60,
         "minPitch":100,
@@ -2021,7 +2033,7 @@
     },
     {
         "name":"Rush_collect_goldmine",
-        "fileNames":"sfx\/rush_collect_gold_01.wav",
+        "fileNames":"sfx\/rush_collect_gold_01.ogg",
         "minVolume":50,
         "maxVolume":50,
         "minPitch":100,
@@ -2041,7 +2053,7 @@
     },
     {
         "name":"Rush_chest_fall_from_sky",
-        "fileNames":"sfx\/rush_chest_drop_sky_01.wav",
+        "fileNames":"sfx\/rush_chest_drop_sky_01.ogg",
         "minVolume":60,
         "maxVolume":60,
         "minPitch":100,
@@ -2061,7 +2073,7 @@
     },
     {
         "name":"Rush_get_unknown_card",
-        "fileNames":"sfx\/rush_new_card_01.wav",
+        "fileNames":"sfx\/rush_new_card_01.ogg",
         "minVolume":70,
         "maxVolume":70,
         "minPitch":100,
@@ -2081,7 +2093,7 @@
     },
     {
         "name":"Rush_tazer_gang_atk",
-        "fileNames":"sfx\/tazer_gang_zap_01.wav",
+        "fileNames":"sfx\/tazer_gang_zap_01.ogg",
         "minVolume":20,
         "maxVolume":30,
         "minPitch":90,
@@ -2101,7 +2113,7 @@
     },
     {
         "name":"Rush_kung_fu_atk",
-        "fileNames":"sfx\/kungfu_atk_01.wav",
+        "fileNames":"sfx\/kungfu_atk_01.ogg",
         "minVolume":30,
         "maxVolume":40,
         "minPitch":90,
@@ -2121,7 +2133,7 @@
     },
     {
         "name":"Rush_kung_fu_dep",
-        "fileNames":"sfx\/kungfu_dep_01.wav",
+        "fileNames":"sfx\/kungfu_dep_01.ogg",
         "minVolume":50,
         "maxVolume":50,
         "minPitch":98,
@@ -2141,7 +2153,7 @@
     },
     {
         "name":"Rush_plasma_fire",
-        "fileNames":"sfx\/rush_plasma_fire_01.wav",
+        "fileNames":"sfx\/rush_plasma_fire_01.ogg",
         "minVolume":60,
         "maxVolume":60,
         "minPitch":98,
@@ -2161,7 +2173,7 @@
     },
     {
         "name":"Rush_gatlin_fire",
-        "fileNames":"sfx\/gatlin_fire_01.wav",
+        "fileNames":"sfx\/gatlin_fire_01.ogg",
         "minVolume":20,
         "maxVolume":35,
         "minPitch":80,
@@ -2181,7 +2193,7 @@
     },
     {
         "name":"Rush_freezer",
-        "fileNames":"sfx\/rush_freezer_02.wav",
+        "fileNames":"sfx\/rush_freezer_02.ogg",
         "minVolume":50,
         "maxVolume":50,
         "minPitch":100,
@@ -2201,7 +2213,7 @@
     },
     {
         "name":"Rush_freeze_trap",
-        "fileNames":"sfx\/rush_freeze_trap.wav",
+        "fileNames":"sfx\/rush_freeze_trap.ogg",
         "minVolume":50,
         "maxVolume":50,
         "minPitch":100,
@@ -2221,7 +2233,7 @@
     },
     {
         "name":"Rush_jetpackshoot",
-        "fileNames":"sfx\/rush_jetpackshoot_01.wav",
+        "fileNames":"sfx\/rush_jetpackshoot_01.ogg",
         "minVolume":40,
         "maxVolume":50,
         "minPitch":95,
@@ -2241,7 +2253,7 @@
     },
     {
         "name":"Rush_rage",
-        "fileNames":"sfx\/rush_rage_01.wav",
+        "fileNames":"sfx\/rush_rage_01.ogg",
         "minVolume":70,
         "maxVolume":70,
         "minPitch":100,
@@ -2261,7 +2273,7 @@
     },
     {
         "name":"Rush_rocket_truck_fire",
-        "fileNames":"sfx\/rocket_truck_fire_01.wav",
+        "fileNames":"sfx\/rocket_truck_fire_01.ogg",
         "minVolume":50,
         "maxVolume":70,
         "minPitch":95,
@@ -2281,7 +2293,7 @@
     },
     {
         "name":"Rush_tesla_deploy",
-        "fileNames":"sfx\/deploy_tesla_01.wav",
+        "fileNames":"sfx\/deploy_tesla_01.ogg",
         "minVolume":65,
         "maxVolume":65,
         "minPitch":100,
@@ -2301,7 +2313,7 @@
     },
     {
         "name":"Rush_tesla_atk",
-        "fileNames":"sfx\/tesla_atk_01.wav",
+        "fileNames":"sfx\/tesla_atk_01.ogg",
         "minVolume":40,
         "maxVolume":50,
         "minPitch":95,
@@ -2321,7 +2333,7 @@
     },
     {
         "name":"Rush_para",
-        "fileNames":"sfx\/rush_para_01.wav",
+        "fileNames":"sfx\/rush_para_01.ogg",
         "minVolume":75,
         "maxVolume":75,
         "minPitch":100,
@@ -2341,7 +2353,7 @@
     },
     {
         "name":"Rush_heli_deploy",
-        "fileNames":"sfx\/heli_deploy_01.wav",
+        "fileNames":"sfx\/heli_deploy_01.ogg",
         "minVolume":70,
         "maxVolume":70,
         "minPitch":100,
@@ -2361,7 +2373,7 @@
     },
     {
         "name":"Rush_sattelite_drop",
-        "fileNames":"sfx\/sattelite_drop_01.wav",
+        "fileNames":"sfx\/sattelite_drop_01.ogg",
         "minVolume":75,
         "maxVolume":75,
         "minPitch":100,
@@ -2381,73 +2393,48 @@
     },
     {
         "name":"Grass_Pop",
-        "fileNames":"sfx\/grass_pop_04.wav",
-        "minVolume":40,
-        "maxVolume":60,
-        "minPitch":90,
-        "maxPitch":110,
-        "priority":1,
-        "maximumByType":3,
-        "maxRepeatMs":null,
-        "loop":null,
-        "playVariationsInSequence":null,
-        "playVariationsInSequenceManualReset":null,
-        "startDelayMinMs":null,
-        "startDelayMaxMs":null,
-        "playOnlyWhenInView":null,
-        "maxVolumeScaleLimit":null,
-        "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null
-    },
-    {
-        "name":null,
-        "fileNames":"sfx\/grass_pop_05.wav",
-        "minVolume":40,
-        "maxVolume":60,
-        "minPitch":90,
-        "maxPitch":110,
-        "priority":1,
-        "maximumByType":3,
-        "maxRepeatMs":null,
-        "loop":null,
-        "playVariationsInSequence":null,
-        "playVariationsInSequenceManualReset":null,
-        "startDelayMinMs":null,
-        "startDelayMaxMs":null,
-        "playOnlyWhenInView":null,
-        "maxVolumeScaleLimit":null,
-        "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null
-    },
-    {
-        "name":null,
-        "fileNames":"sfx\/grass_pop_06.wav",
-        "minVolume":40,
-        "maxVolume":60,
-        "minPitch":90,
-        "maxPitch":110,
-        "priority":1,
-        "maximumByType":3,
-        "maxRepeatMs":null,
-        "loop":null,
-        "playVariationsInSequence":null,
-        "playVariationsInSequenceManualReset":null,
-        "startDelayMinMs":null,
-        "startDelayMaxMs":null,
-        "playOnlyWhenInView":null,
-        "maxVolumeScaleLimit":null,
-        "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null
-    },
-    {
-        "name":null,
-        "fileNames":"sfx\/grass_pop_07.wav",
-        "minVolume":40,
-        "maxVolume":60,
-        "minPitch":90,
-        "maxPitch":110,
-        "priority":1,
-        "maximumByType":3,
+        "fileNames":[
+            "sfx\/grass_pop_04.ogg",
+            "sfx\/grass_pop_05.ogg",
+            "sfx\/grass_pop_06.ogg",
+            "sfx\/grass_pop_07.ogg"
+        ],
+        "minVolume":[
+            40,
+            "40",
+            "40",
+            "40"
+        ],
+        "maxVolume":[
+            60,
+            "60",
+            "60",
+            "60"
+        ],
+        "minPitch":[
+            90,
+            "90",
+            "90",
+            "90"
+        ],
+        "maxPitch":[
+            110,
+            "110",
+            "110",
+            "110"
+        ],
+        "priority":[
+            1,
+            "1",
+            "1",
+            "1"
+        ],
+        "maximumByType":[
+            3,
+            "3",
+            "3",
+            "3"
+        ],
         "maxRepeatMs":null,
         "loop":null,
         "playVariationsInSequence":null,
@@ -2461,7 +2448,7 @@
     },
     {
         "name":"Rush_break_wood",
-        "fileNames":"sfx\/rush_break_wood.wav",
+        "fileNames":"sfx\/rush_break_wood.ogg",
         "minVolume":40,
         "maxVolume":60,
         "minPitch":90,
@@ -2481,7 +2468,7 @@
     },
     {
         "name":"Rush_trap_showup",
-        "fileNames":"sfx\/rush_trap_showup.wav",
+        "fileNames":"sfx\/rush_trap_showup.ogg",
         "minVolume":40,
         "maxVolume":50,
         "minPitch":100,
@@ -2501,7 +2488,7 @@
     },
     {
         "name":"Rush_damage_laser",
-        "fileNames":"sfx\/rush_damage_laser.wav",
+        "fileNames":"sfx\/rush_damage_laser.ogg",
         "minVolume":40,
         "maxVolume":60,
         "minPitch":95,
@@ -2521,7 +2508,7 @@
     },
     {
         "name":"Rush_heli_attack",
-        "fileNames":"sfx\/heli_atk_01.wav",
+        "fileNames":"sfx\/heli_atk_01.ogg",
         "minVolume":75,
         "maxVolume":75,
         "minPitch":100,
@@ -2541,7 +2528,7 @@
     },
     {
         "name":"Rush_bear_berserk",
-        "fileNames":"sfx\/bear_berserk.wav",
+        "fileNames":"sfx\/bear_berserk.ogg",
         "minVolume":85,
         "maxVolume":85,
         "minPitch":100,
@@ -2561,7 +2548,7 @@
     },
     {
         "name":"Rush_bearman_atk",
-        "fileNames":"sfx\/bear_atk.wav",
+        "fileNames":"sfx\/bear_atk.ogg",
         "minVolume":50,
         "maxVolume":65,
         "minPitch":95,
@@ -2581,7 +2568,7 @@
     },
     {
         "name":"Rush_dino_laser",
-        "fileNames":"sfx\/dino_laser.wav",
+        "fileNames":"sfx\/dino_laser.ogg",
         "minVolume":50,
         "maxVolume":50,
         "minPitch":100,
@@ -2601,7 +2588,7 @@
     },
     {
         "name":"Rush_dino_jump",
-        "fileNames":"sfx\/dino_jump.wav",
+        "fileNames":"sfx\/dino_jump.ogg",
         "minVolume":75,
         "maxVolume":75,
         "minPitch":100,
@@ -2621,7 +2608,7 @@
     },
     {
         "name":"Eggtank_deploy",
-        "fileNames":"sfx\/eggtank_deploy_units.wav",
+        "fileNames":"sfx\/eggtank_deploy_units.ogg",
         "minVolume":75,
         "maxVolume":75,
         "minPitch":100,
@@ -2641,7 +2628,7 @@
     },
     {
         "name":"Rush_generic_die",
-        "fileNames":"sfx\/rush_generic_die_2.wav",
+        "fileNames":"sfx\/rush_generic_die_2.ogg",
         "minVolume":30,
         "maxVolume":50,
         "minPitch":90,
@@ -2661,7 +2648,7 @@
     },
     {
         "name":"Rush_dummy_lose_hat",
-        "fileNames":"sfx\/rush_target_dummy_lose_hat.wav",
+        "fileNames":"sfx\/rush_target_dummy_lose_hat.ogg",
         "minVolume":75,
         "maxVolume":75,
         "minPitch":100,
@@ -2681,54 +2668,46 @@
     },
     {
         "name":"Rush_dummy_take_dmg",
-        "fileNames":"sfx\/rush_target_dummy_take_damage.wav",
-        "minVolume":40,
-        "maxVolume":55,
-        "minPitch":95,
-        "maxPitch":105,
-        "priority":1,
-        "maximumByType":3,
-        "maxRepeatMs":300,
-        "loop":null,
-        "playVariationsInSequence":null,
-        "playVariationsInSequenceManualReset":null,
-        "startDelayMinMs":null,
-        "startDelayMaxMs":null,
-        "playOnlyWhenInView":null,
-        "maxVolumeScaleLimit":null,
-        "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null
-    },
-    {
-        "name":null,
-        "fileNames":"sfx\/rush_target_dummy_take_damage2.wav",
-        "minVolume":40,
-        "maxVolume":55,
-        "minPitch":95,
-        "maxPitch":105,
-        "priority":1,
-        "maximumByType":3,
-        "maxRepeatMs":300,
-        "loop":null,
-        "playVariationsInSequence":null,
-        "playVariationsInSequenceManualReset":null,
-        "startDelayMinMs":null,
-        "startDelayMaxMs":null,
-        "playOnlyWhenInView":null,
-        "maxVolumeScaleLimit":null,
-        "noSoundScaleLimit":null,
-        "padEmpyToEndMs":null
-    },
-    {
-        "name":null,
-        "fileNames":"sfx\/rush_target_dummy_take_damage3.wav",
-        "minVolume":40,
-        "maxVolume":55,
-        "minPitch":95,
-        "maxPitch":105,
-        "priority":1,
-        "maximumByType":3,
-        "maxRepeatMs":300,
+        "fileNames":[
+            "sfx\/rush_target_dummy_take_damage.ogg",
+            "sfx\/rush_target_dummy_take_damage2.ogg",
+            "sfx\/rush_target_dummy_take_damage3.ogg"
+        ],
+        "minVolume":[
+            40,
+            "40",
+            "40"
+        ],
+        "maxVolume":[
+            55,
+            "55",
+            "55"
+        ],
+        "minPitch":[
+            95,
+            "95",
+            "95"
+        ],
+        "maxPitch":[
+            105,
+            "105",
+            "105"
+        ],
+        "priority":[
+            1,
+            "1",
+            "1"
+        ],
+        "maximumByType":[
+            3,
+            "3",
+            "3"
+        ],
+        "maxRepeatMs":[
+            300,
+            "300",
+            "300"
+        ],
         "loop":null,
         "playVariationsInSequence":null,
         "playVariationsInSequenceManualReset":null,
@@ -2741,7 +2720,7 @@
     },
     {
         "name":"Rush_tap_building",
-        "fileNames":"sfx\/rush_tap_building_01.wav",
+        "fileNames":"sfx\/rush_tap_building_01.ogg",
         "minVolume":50,
         "maxVolume":50,
         "minPitch":100,
@@ -2761,7 +2740,7 @@
     },
     {
         "name":"Rush_defence_star_count",
-        "fileNames":"sfx\/rush_defence_star_count_01.wav",
+        "fileNames":"sfx\/rush_defence_star_count_01.ogg",
         "minVolume":20,
         "maxVolume":20,
         "minPitch":100,
@@ -2781,7 +2760,7 @@
     },
     {
         "name":"Rush_plumber_atk",
-        "fileNames":"sfx\/plumber_attack_01.wav",
+        "fileNames":"sfx\/plumber_attack_01.ogg",
         "minVolume":20,
         "maxVolume":40,
         "minPitch":90,
@@ -2801,7 +2780,7 @@
     },
     {
         "name":"CardPack1_open",
-        "fileNames":"sfx\/rush_chest_open_02.wav",
+        "fileNames":"sfx\/rush_chest_open_02.ogg",
         "minVolume":80,
         "maxVolume":80,
         "minPitch":100,
@@ -2821,7 +2800,7 @@
     },
     {
         "name":"CardPack2_open",
-        "fileNames":"sfx\/rush_chest_open_02.wav",
+        "fileNames":"sfx\/rush_chest_open_02.ogg",
         "minVolume":80,
         "maxVolume":80,
         "minPitch":100,
@@ -2841,7 +2820,7 @@
     },
     {
         "name":"CardPack3_open",
-        "fileNames":"sfx\/rush_chest_open_02.wav",
+        "fileNames":"sfx\/rush_chest_open_02.ogg",
         "minVolume":80,
         "maxVolume":80,
         "minPitch":100,
@@ -2861,7 +2840,7 @@
     },
     {
         "name":"Common_open",
-        "fileNames":"sfx\/rush_chest_open_01.wav",
+        "fileNames":"sfx\/rush_chest_open_01.ogg",
         "minVolume":80,
         "maxVolume":80,
         "minPitch":100,
@@ -2881,7 +2860,7 @@
     },
     {
         "name":"Rare_open",
-        "fileNames":"sfx\/rush_chest_open_01.wav",
+        "fileNames":"sfx\/rush_chest_open_01.ogg",
         "minVolume":80,
         "maxVolume":80,
         "minPitch":100,
@@ -2901,7 +2880,7 @@
     },
     {
         "name":"Epic_open",
-        "fileNames":"sfx\/rush_chest_open_01.wav",
+        "fileNames":"sfx\/rush_chest_open_01.ogg",
         "minVolume":80,
         "maxVolume":80,
         "minPitch":100,
@@ -2921,7 +2900,7 @@
     },
     {
         "name":"Mega_open",
-        "fileNames":"sfx\/rush_chest_open_01.wav",
+        "fileNames":"sfx\/rush_chest_open_01.ogg",
         "minVolume":80,
         "maxVolume":80,
         "minPitch":100,
@@ -2941,7 +2920,7 @@
     },
     {
         "name":"Free_open",
-        "fileNames":"sfx\/rush_chest_open_01.wav",
+        "fileNames":"sfx\/rush_chest_open_01.ogg",
         "minVolume":80,
         "maxVolume":80,
         "minPitch":100,
@@ -2961,7 +2940,7 @@
     },
     {
         "name":"Defence_open",
-        "fileNames":"sfx\/rush_chest_open_01.wav",
+        "fileNames":"sfx\/rush_chest_open_01.ogg",
         "minVolume":80,
         "maxVolume":80,
         "minPitch":100,
@@ -2981,7 +2960,7 @@
     },
     {
         "name":"Domination1_open",
-        "fileNames":"sfx\/rush_chest_open_01.wav",
+        "fileNames":"sfx\/rush_chest_open_01.ogg",
         "minVolume":80,
         "maxVolume":80,
         "minPitch":100,
@@ -3001,7 +2980,7 @@
     },
     {
         "name":"Domination2_open",
-        "fileNames":"sfx\/rush_chest_open_01.wav",
+        "fileNames":"sfx\/rush_chest_open_01.ogg",
         "minVolume":80,
         "maxVolume":80,
         "minPitch":100,
@@ -3021,7 +3000,7 @@
     },
     {
         "name":"Domination3_open",
-        "fileNames":"sfx\/rush_chest_open_01.wav",
+        "fileNames":"sfx\/rush_chest_open_01.ogg",
         "minVolume":80,
         "maxVolume":80,
         "minPitch":100,
@@ -3041,7 +3020,7 @@
     },
     {
         "name":"Get_key",
-        "fileNames":"sfx\/rush_get_key_01.wav",
+        "fileNames":"sfx\/rush_get_key_01.ogg",
         "minVolume":60,
         "maxVolume":60,
         "minPitch":100,
@@ -3061,7 +3040,7 @@
     },
     {
         "name":"Building_upgrade_stat",
-        "fileNames":"sfx\/rush_char_upgrade_seq_2.wav",
+        "fileNames":"sfx\/rush_char_upgrade_seq_2.ogg",
         "minVolume":60,
         "maxVolume":60,
         "minPitch":100,
@@ -3081,7 +3060,7 @@
     },
     {
         "name":"Card_unlock",
-        "fileNames":"sfx\/rush_new_cards_01.wav",
+        "fileNames":"sfx\/rush_new_cards_01.ogg",
         "minVolume":60,
         "maxVolume":60,
         "minPitch":100,
@@ -3101,7 +3080,7 @@
     },
     {
         "name":"Rush_new_league",
-        "fileNames":"sfx\/rush_new_league.wav",
+        "fileNames":"sfx\/rush_new_league.ogg",
         "minVolume":70,
         "maxVolume":70,
         "minPitch":100,
@@ -3121,7 +3100,7 @@
     },
     {
         "name":"Rush_season_end",
-        "fileNames":"sfx\/rush_season_end_01.wav",
+        "fileNames":"sfx\/rush_season_end_01.ogg",
         "minVolume":70,
         "maxVolume":70,
         "minPitch":100,
@@ -3141,7 +3120,7 @@
     },
     {
         "name":"Rush_phone_ring",
-        "fileNames":"sfx\/phone_ring_01.wav",
+        "fileNames":"sfx\/phone_ring_01.ogg",
         "minVolume":50,
         "maxVolume":50,
         "minPitch":100,

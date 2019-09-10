@@ -1800,8 +1800,8 @@
         "rawTID":"ERROR_POP_UP_PURCHASE_FAILED_BUTTON"
     },
     {
-        "tID":"Player is under DOMINATION cooldown!",
-        "eN":"Player is under DOMINATION cooldown!",
+        "tID":"Player is on DOMINATION cooldown!",
+        "eN":"Player is on DOMINATION cooldown!",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -4025,8 +4025,8 @@
         "rawTID":"CARD_INFO_TANK"
     },
     {
-        "tID":"Long range, area damage to both air and ground units, plus extra damage to Tanks and buildings! Previously a world champion arm wrestler.",
-        "eN":"Long range, area damage to both air and ground units, plus extra damage to Tanks and buildings! Previously a world champion arm wrestler.",
+        "tID":"Deals long range, area damage to both air and ground units \u2013 plus extra damage to buildings! Previously a world champion arm wrestler.",
+        "eN":"Deals long range, area damage to both air and ground units \u2013 plus extra damage to buildings! Previously a world champion arm wrestler.",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -7500,8 +7500,8 @@
         "rawTID":"BUILT"
     },
     {
-        "tID":"Deco",
-        "eN":"Deco",
+        "tID":"Obstacle",
+        "eN":"Obstacle",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -8350,6 +8350,31 @@
         "rawTID":"ATTRIBUTE_COUNT_VALUE"
     },
     {
+        "tID":"BUILDING DAMAGE",
+        "eN":"BUILDING DAMAGE",
+        "fR":null,
+        "dE":null,
+        "eS":null,
+        "iT":null,
+        "nL":null,
+        "nO":null,
+        "tR":null,
+        "jP":null,
+        "kR":null,
+        "rU":null,
+        "aR":null,
+        "pT":null,
+        "cN":null,
+        "cNT":null,
+        "fA":null,
+        "iD":null,
+        "mS":null,
+        "tH":null,
+        "fI":null,
+        "vI":null,
+        "rawTID":"ATTRIBUTE_BUILDING_DAMAGE"
+    },
+    {
         "tID":"<FULL>.<DECIMAL>",
         "eN":"<FULL>.<DECIMAL>",
         "fR":null,
@@ -8675,8 +8700,8 @@
         "rawTID":"CATEGORY_BUILDINGS"
     },
     {
-        "tID":"Decorations",
-        "eN":"Decorations",
+        "tID":"Obstacles",
+        "eN":"Obstacles",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -10100,8 +10125,8 @@
         "rawTID":"CATEGORY_ATTACKS"
     },
     {
-        "tID":"Your keys have replenished. Time to get more loot!",
-        "eN":"Your keys have replenished. Time to get more loot!",
+        "tID":"KEYS replenished! Time to get more loot.",
+        "eN":"KEYS replenished! Time to get more loot.",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -10125,8 +10150,8 @@
         "rawTID":"NOTIF_KEY_TIMER_RESET"
     },
     {
-        "tID":"Your GOLD MINE is out of resources.",
-        "eN":"Your GOLD MINE is out of resources.",
+        "tID":"GOLD MINE expired! Restart your gold production now.",
+        "eN":"GOLD MINE expired! Restart your gold production now.",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -10150,8 +10175,8 @@
         "rawTID":"NOTIF_OUTPOST_TIMER_RESET"
     },
     {
-        "tID":"FREE BOX has been delivered to your camp!",
-        "eN":"FREE BOX has been delivered to your camp!",
+        "tID":"FREE BOX delivered! Collect it from your camp now.",
+        "eN":"FREE BOX delivered! Collect it from your camp now.",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -10175,8 +10200,8 @@
         "rawTID":"NOTIF_SUPPLY_BOX_RECEIVED"
     },
     {
-        "tID":"DOMINATION is available!",
-        "eN":"DOMINATION is available!",
+        "tID":"DOMINATION available! Take your Team into battle.",
+        "eN":"DOMINATION available! Take your Team into battle.",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -10200,8 +10225,8 @@
         "rawTID":"NOTIF_NEW_DOMINATION_AVAILABLE"
     },
     {
-        "tID":"Your COMMANDER has healed! Time to battle!",
-        "eN":"Your COMMANDER has healed! Time to battle!",
+        "tID":"COMMANDER healed! Time to battle.",
+        "eN":"COMMANDER healed! Time to battle.",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -10675,8 +10700,8 @@
         "rawTID":"CHANGE_ABILITIES"
     },
     {
-        "tID":"Keys: <num>\\nMax: <max>\\nNew every <time>\\n\\nKeys are required to get loot from combat",
-        "eN":"Keys: <num>\\nMax: <max>\\nNew every <time>\\n\\nKeys are required to get loot from combat",
+        "tID":"Keys: <num>\\nMax: <max>\\nNew every <time>\\n\\nKeys are required to get boxes from battle",
+        "eN":"Keys: <num>\\nMax: <max>\\nNew every <time>\\n\\nKeys are required to get boxes from battle",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -14449,8 +14474,8 @@
         "rawTID":"POP_GEM"
     },
     {
-        "tID":"Keys are required to receive box from battle!\\n\\nNext Key:\\n<time>",
-        "eN":"Keys are required to receive box from battle!\\n\\nNext Key:\\n<time>",
+        "tID":"Keys are required to get boxes from battle!\\n\\nNext Key:\\n<time>",
+        "eN":"Keys are required to get boxes from battle!\\n\\nNext Key:\\n<time>",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -15424,8 +15449,8 @@
         "rawTID":"MULTIPLAYER_BATTLE"
     },
     {
-        "tID":"You need keys to earn BATTLE BOXES!",
-        "eN":"You need keys to earn BATTLE BOXES!",
+        "tID":"You need Keys to earn BATTLE BOXES!",
+        "eN":"You need Keys to earn BATTLE BOXES!",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -16274,8 +16299,8 @@
         "rawTID":"START_RESEARCH"
     },
     {
-        "tID":"Replace Team Research Item?",
-        "eN":"Replace Team Research Item?",
+        "tID":"Replace Bonus Defense",
+        "eN":"Replace Bonus Defense",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -16299,8 +16324,8 @@
         "rawTID":"CONFIRM_PLACE_SECOND_CLAN_RESEARCH_TITLE"
     },
     {
-        "tID":"You will lose your current Team Research Item. Are you sure you want to place new one?",
-        "eN":"You will lose your current Team Research Item. Are you sure you want to place new one?",
+        "tID":"Replace your current bonus defense with this new one?",
+        "eN":"Replace your current bonus defense with this new one?",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -16324,8 +16349,8 @@
         "rawTID":"CONFIRM_PLACE_SECOND_CLAN_RESEARCH_CONTENT"
     },
     {
-        "tID":"Remove Team Research Item",
-        "eN":"Remove Team Research Item",
+        "tID":"Remove Bonus Defense",
+        "eN":"Remove Bonus Defense",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -16349,8 +16374,8 @@
         "rawTID":"CONFIRM_REMOVE_CLAN_RESEARCH_TITLE"
     },
     {
-        "tID":"You will lose your old Team Research Item. Are you sure you want to remove it?",
-        "eN":"You will lose your old Team Research Item. Are you sure you want to remove it?",
+        "tID":"You will lose your bonus defense. Are you sure?",
+        "eN":"You will lose your bonus defense. Are you sure?",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -16374,8 +16399,8 @@
         "rawTID":"CONFIRM_REMOVE_CLAN_RESEARCH_CONTENT"
     },
     {
-        "tID":"Speed up previous clearing",
-        "eN":"Speed up previous clearing",
+        "tID":"Speed Up Obstacle Clearing",
+        "eN":"Speed Up Obstacle Clearing",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -16399,8 +16424,8 @@
         "rawTID":"CONFIRM_CLEAR_OBSTACLE_TITLE"
     },
     {
-        "tID":"Previous obstacle clearing is ongoing. Speed it up to start new one?",
-        "eN":"Previous obstacle clearing is ongoing. Speed it up to start new one?",
+        "tID":"Previous obstacle clearing is ongoing. Speed it up to start a new one?",
+        "eN":"Previous obstacle clearing is ongoing. Speed it up to start a new one?",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -16424,8 +16449,8 @@
         "rawTID":"CONFIRM_CLEAR_OBSTACLE_TEXT"
     },
     {
-        "tID":"TEAM ITEM",
-        "eN":"TEAM ITEM",
+        "tID":"BONUS DEFENSE",
+        "eN":"BONUS DEFENSE",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -17524,8 +17549,8 @@
         "rawTID":"HELI_UNLOCK_TO_HQ"
     },
     {
-        "tID":"Buy <count> keys?",
-        "eN":"Buy <count> keys?",
+        "tID":"Buy <count> Keys?",
+        "eN":"Buy <count> Keys?",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -18874,8 +18899,8 @@
         "rawTID":"CLAN_RESEARCH_CLAIMED"
     },
     {
-        "tID":"Tap a Card to change (<num> tries left)",
-        "eN":"Tap a Card to change (<num> tries left)",
+        "tID":"Tap a card to change it (<num> tries left)",
+        "eN":"Tap a card to change it (<num> tries left)",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -18924,8 +18949,8 @@
         "rawTID":"SCOUT"
     },
     {
-        "tID":"ATTACK",
-        "eN":"ATTACK",
+        "tID":"ATTACKS",
+        "eN":"ATTACKS",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -20399,8 +20424,8 @@
         "rawTID":"DOMINATION_TIME_LEFT_TIP"
     },
     {
-        "tID":"You have <num> attack housing left to use on this map",
-        "eN":"You have <num> attack housing left to use on this map",
+        "tID":"You have <num> troops left to use in this DOMINATION",
+        "eN":"You have <num> troops left to use in this DOMINATION",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -22024,8 +22049,8 @@
         "rawTID":"LEAGUE_PROGRESS"
     },
     {
-        "tID":"Reach this LEAGUE DIVISION to collect the reward",
-        "eN":"Reach this LEAGUE DIVISION to collect the reward",
+        "tID":"Get more Stars to collect this reward!",
+        "eN":"Get more Stars to collect this reward!",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -22074,8 +22099,8 @@
         "rawTID":"LEAGUE_REWARD_ALREADY_COLLECTED"
     },
     {
-        "tID":"EXP LEVEL",
-        "eN":"EXP LEVEL",
+        "tID":"XP LEVEL",
+        "eN":"XP LEVEL",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -22174,8 +22199,8 @@
         "rawTID":"BATTLE_BOX_INCREASE"
     },
     {
-        "tID":"EXP",
-        "eN":"EXP",
+        "tID":"XP",
+        "eN":"XP",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -22324,8 +22349,8 @@
         "rawTID":"DOMINATION_SIZE"
     },
     {
-        "tID":"Use the IN\/OUT button to add or remove participants from the DOMINATION",
-        "eN":"Use the IN\/OUT button to add or remove participants from the DOMINATION",
+        "tID":"Use the IN\/OUT button to add or remove participants",
+        "eN":"Use the IN\/OUT button to add or remove participants",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -22399,8 +22424,8 @@
         "rawTID":"OUT"
     },
     {
-        "tID":"Select DOMINATION Participants",
-        "eN":"Select DOMINATION Participants",
+        "tID":"SELECT DOMINATION PARTICIPANTS",
+        "eN":"SELECT DOMINATION PARTICIPANTS",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -22599,8 +22624,8 @@
         "rawTID":"DOMINATION_WELCOME_TEXT"
     },
     {
-        "tID":"Ask your Team Leader to start the DOMINATION!",
-        "eN":"Ask your Team Leader to start the DOMINATION!",
+        "tID":"Ask your Team Leader to start a DOMINATION!",
+        "eN":"Ask your Team Leader to start a DOMINATION!",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -22724,8 +22749,8 @@
         "rawTID":"HQ_POPUP_SUPPLY_BOX_LEVEL_INCREASE"
     },
     {
-        "tID":"HQ is the heart of your camp. Upgrade to find new CARDS, level up your FREE BOX, and improve your DEFENSES!",
-        "eN":"HQ is the heart of your camp. Upgrade to find new CARDS, level up your FREE BOX, and improve your DEFENSES!",
+        "tID":"HQ is the heart of your camp. Upgrade to find new CARDS, level up your FREE BOX, and improve your GOLD PRODUCTION!",
+        "eN":"HQ is the heart of your camp. Upgrade to find new CARDS, level up your FREE BOX, and improve your GOLD PRODUCTION!",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -22749,8 +22774,8 @@
         "rawTID":"HQ_POPUP_INFO"
     },
     {
-        "tID":"DEFENSE PRODUCTION",
-        "eN":"DEFENSE PRODUCTION",
+        "tID":"GOLD PRODUCTION",
+        "eN":"GOLD PRODUCTION",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -22849,8 +22874,8 @@
         "rawTID":"HQ_POPUP_GOLD_STORAGE"
     },
     {
-        "tID":"Last Active <num> ago",
-        "eN":"Last Active <num> ago",
+        "tID":"Last active <num> ago",
+        "eN":"Last active <num> ago",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -22874,8 +22899,8 @@
         "rawTID":"LAST_ACTIVE"
     },
     {
-        "tID":"Inactive for a week or more",
-        "eN":"Inactive for a week or more",
+        "tID":"Last active over 1 w ago",
+        "eN":"Last active over 1 w ago",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -22899,8 +22924,8 @@
         "rawTID":"LAST_ACTIVE_WEEK_AGO"
     },
     {
-        "tID":"Last Active Today",
-        "eN":"Last Active Today",
+        "tID":"Last active today",
+        "eN":"Last active today",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -23124,8 +23149,8 @@
         "rawTID":"HEAL_NOW"
     },
     {
-        "tID":"Player is not part of your team",
-        "eN":"Player is not part of your team",
+        "tID":"Player is not part of your Team",
+        "eN":"Player is not part of your Team",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -23249,8 +23274,8 @@
         "rawTID":"DOMINATION_VISIT_FAILED_INCORRECT_STATE"
     },
     {
-        "tID":"Viewing failed. You are not in domination.",
-        "eN":"Viewing failed. You are not in domination.",
+        "tID":"Viewing failed. You are not in a DOMINATION.",
+        "eN":"Viewing failed. You are not in a DOMINATION.",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -23296,7 +23321,7 @@
         "tH":null,
         "fI":null,
         "vI":null,
-        "rawTID":"DOMINATION_ATTACK_FAIL_DATA_NOT_FOUND"
+        "rawTID":"DOMINATION_ATTACK_FAIL_FAILURE_DATA_NOT_FOUND"
     },
     {
         "tID":"Attack failed \u2013 data no available",
@@ -23321,7 +23346,7 @@
         "tH":null,
         "fI":null,
         "vI":null,
-        "rawTID":"DOMINATION_ATTACK_FAIL_DATA_NOT_AVAILABLE"
+        "rawTID":"DOMINATION_ATTACK_FAIL_FAILURE_DATA_NOT_AVAILABLE"
     },
     {
         "tID":"Attack failed \u2013 member not part of the DOMINATION",
@@ -23346,7 +23371,7 @@
         "tH":null,
         "fI":null,
         "vI":null,
-        "rawTID":"DOMINATION_ATTACK_FAIL_MEMBER_NOT_PART_OF_THE_WAR"
+        "rawTID":"DOMINATION_ATTACK_FAIL_FAILURE_MEMBER_NOT_PART_OF_THE_WAR"
     },
     {
         "tID":"Attack failed \u2013 invalid target",
@@ -23374,8 +23399,8 @@
         "rawTID":"DOMINATION_ATTACK_FAIL_FAILURE_INVALID_TARGET"
     },
     {
-        "tID":"Target is already under attack",
-        "eN":"Target is already under attack",
+        "tID":"Cannot attack \u2013 someone else is attacking this base!",
+        "eN":"Cannot attack \u2013 someone else is attacking this base!",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -23396,7 +23421,7 @@
         "tH":null,
         "fI":null,
         "vI":null,
-        "rawTID":"DOMINATION_ATTACK_FAIL_TARGET_UNDER_ATTACK"
+        "rawTID":"DOMINATION_ATTACK_FAIL_FAILURE_TARGET_UNDER_ATTACK"
     },
     {
         "tID":"Attack failed \u2013 internal error",
@@ -23421,7 +23446,7 @@
         "tH":null,
         "fI":null,
         "vI":null,
-        "rawTID":"DOMINATION_ATTACK_FAIL_INTERVAL_ERROR"
+        "rawTID":"DOMINATION_ATTACK_FAIL_FAILURE_INTERVAL_ERROR"
     },
     {
         "tID":"Attack failed \u2013 server busy",
@@ -23446,7 +23471,7 @@
         "tH":null,
         "fI":null,
         "vI":null,
-        "rawTID":"DOMINATION_ATTACK_FAIL_SERVER_BUSY"
+        "rawTID":"DOMINATION_ATTACK_FAIL_FAILURE_SERVER_BUSY"
     },
     {
         "tID":"Defender has left the team",
@@ -23471,7 +23496,7 @@
         "tH":null,
         "fI":null,
         "vI":null,
-        "rawTID":"DOMINATION_ATTACK_FAIL_DEFENDER_LEFT_THE_CLAN"
+        "rawTID":"DOMINATION_ATTACK_FAIL_FAILURE_DEFENDER_LEFT_THE_CLAN"
     },
     {
         "tID":"Attacker has left the team",
@@ -23496,7 +23521,7 @@
         "tH":null,
         "fI":null,
         "vI":null,
-        "rawTID":"DOMINATION_ATTACK_FAIL_ATTACKER_LEFT_THE_CLAN"
+        "rawTID":"DOMINATION_ATTACK_FAIL_FAILURE_ATTACKER_LEFT_THE_CLAN"
     },
     {
         "tID":"Attack failed. Multiple players are attacking same target",
@@ -23521,7 +23546,7 @@
         "tH":null,
         "fI":null,
         "vI":null,
-        "rawTID":"DOMINATION_ATTACK_FAIL_ATTACKING_SAME_TARGET"
+        "rawTID":"DOMINATION_ATTACK_FAIL_FAILURE_ATTACKING_SAME_TARGET"
     },
     {
         "tID":"DOMINATION is about to end \u2013 you can't attack anymore",
@@ -23546,7 +23571,7 @@
         "tH":null,
         "fI":null,
         "vI":null,
-        "rawTID":"DOMINATION_ATTACK_FAIL_WAR_IS_ENDING"
+        "rawTID":"DOMINATION_ATTACK_FAIL_FAILURE_WAR_IS_ENDING"
     },
     {
         "tID":"Server is going down for maintenance \u2013 you can't attack anymore",
@@ -23699,8 +23724,8 @@
         "rawTID":"WAR_DETAILS"
     },
     {
-        "tID":"EVENTS",
-        "eN":"EVENTS",
+        "tID":"BATTLES",
+        "eN":"BATTLES",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -23774,8 +23799,8 @@
         "rawTID":"WAR_ENEMY_TEAM"
     },
     {
-        "tID":"DOMINATION Details",
-        "eN":"DOMINATION Details",
+        "tID":"DOMINATION DETAILS",
+        "eN":"DOMINATION DETAILS",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -23799,8 +23824,8 @@
         "rawTID":"DOMINATION_DETAILS_TITLE"
     },
     {
-        "tID":"DOMINATION Events will appear here during battle day!",
-        "eN":"DOMINATION Events will appear here during battle day!",
+        "tID":"Battle replays will appear here!",
+        "eN":"Battle replays will appear here!",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -31324,8 +31349,8 @@
         "rawTID":"PLAYER_PROFILE"
     },
     {
-        "tID":"EXP",
-        "eN":"EXP",
+        "tID":"XP",
+        "eN":"XP",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -31474,8 +31499,8 @@
         "rawTID":"HQ_LOCK_TOOLTIP"
     },
     {
-        "tID":"Locked by EXP Level!\\nUpgrade your Cards and play Battles to gain EXP!",
-        "eN":"Locked by EXP Level!\\nUpgrade your Cards and play Battles to gain EXP!",
+        "tID":"Locked by XP Level!\\nUpgrade your cards and battle to gain XP!",
+        "eN":"Locked by XP Level!\\nUpgrade your cards and battle to gain XP!",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -31499,8 +31524,8 @@
         "rawTID":"EXP_LOCK_TOOLTIP"
     },
     {
-        "tID":"Locked by EXP Level!\\nUpgrade your Cards and play Battles to gain EXP!\\n<c000000>EXP NEEDED: <num><\/c>",
-        "eN":"Locked by EXP Level!\\nUpgrade your Cards and play Battles to gain EXP!\\n<c000000>EXP NEEDED: <num><\/c>",
+        "tID":"Locked by XP Level!\\nUpgrade your cards and battle to gain XP!\\n<c000000>XP NEEDED: <num><\/c>",
+        "eN":"Locked by XP Level!\\nUpgrade your cards and battle to gain XP!\\n<c000000>XP NEEDED: <num><\/c>",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -32349,8 +32374,8 @@
         "rawTID":"SHOP_TAB_BILLING_PACKAGES"
     },
     {
-        "tID":"Ask your TEAM LEADER to start Research",
-        "eN":"Ask your TEAM LEADER to start Research",
+        "tID":"Ask your Team Leader to start a Team Research",
+        "eN":"Ask your Team Leader to start a Team Research",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -32674,8 +32699,8 @@
         "rawTID":"DOMINATION_3_STAR_ATTACKS"
     },
     {
-        "tID":"ATTACK HOUSING LEFT",
-        "eN":"ATTACK HOUSING LEFT",
+        "tID":"TROOPS REMAINING",
+        "eN":"TROOPS REMAINING",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -33174,8 +33199,8 @@
         "rawTID":"PROFILE_TAB_PROFILE"
     },
     {
-        "tID":"EVENTS",
-        "eN":"EVENTS",
+        "tID":"MESSAGES",
+        "eN":"MESSAGES",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -33199,8 +33224,8 @@
         "rawTID":"PROFILE_TAB_EVENTS"
     },
     {
-        "tID":"SOCIAL",
-        "eN":"SOCIAL",
+        "tID":"FRIENDS",
+        "eN":"FRIENDS",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -33224,8 +33249,8 @@
         "rawTID":"PROFILE_TAB_SOCIAL"
     },
     {
-        "tID":"FRIENDS",
-        "eN":"FRIENDS",
+        "tID":"LEADERBOARD",
+        "eN":"LEADERBOARD",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -33274,8 +33299,8 @@
         "rawTID":"PROFILE_TAB_SEARCH"
     },
     {
-        "tID":"Game Center and Facebook Friends automatically appear once you've logged in.",
-        "eN":"Game Center and Facebook Friends automatically appear once you've logged in.",
+        "tID":"Game Center and Facebook Friends automatically appear once you've logged in",
+        "eN":"Game Center and Facebook Friends automatically appear once you've logged in",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -33299,8 +33324,8 @@
         "rawTID":"FB_FRIENDS_WILL_APPEAR"
     },
     {
-        "tID":"Facebook Friends automatically appear once you've logged in.",
-        "eN":"Facebook Friends automatically appear once you've logged in.",
+        "tID":"Facebook Friends automatically appear once you've logged in",
+        "eN":"Facebook Friends automatically appear once you've logged in",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -33349,8 +33374,8 @@
         "rawTID":"FACEBOOK_CONNECT_BUTTON"
     },
     {
-        "tID":"Search for Player:",
-        "eN":"Search for Player:",
+        "tID":"Player Tag:",
+        "eN":"Player Tag:",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -33374,8 +33399,8 @@
         "rawTID":"SEARCH_FOR_PLAYER"
     },
     {
-        "tID":"Type the player tag of the player you want to find.",
-        "eN":"Type the player tag of the player you want to find.",
+        "tID":"Type the player tag of the player you want to find",
+        "eN":"Type the player tag of the player you want to find",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -34324,8 +34349,8 @@
         "rawTID":"DIAMOND_PACK_5"
     },
     {
-        "tID":"BAG OF GOLD",
-        "eN":"BAG OF GOLD",
+        "tID":"FILL BY 10%",
+        "eN":"FILL BY 10%",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -34349,8 +34374,8 @@
         "rawTID":"RESOURCE_PACK_GOLD_SMALL"
     },
     {
-        "tID":"BARREL OF GOLD",
-        "eN":"BARREL OF GOLD",
+        "tID":"FILL BY HALF",
+        "eN":"FILL BY HALF",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -34374,8 +34399,8 @@
         "rawTID":"RESOURCE_PACK_GOLD_MEDIUM"
     },
     {
-        "tID":"TRUCK OF GOLD",
-        "eN":"TRUCK OF GOLD",
+        "tID":"FILL STORAGE",
+        "eN":"FILL STORAGE",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -34524,8 +34549,8 @@
         "rawTID":"DOMINATION_MATCHMAKE_CANCEL_FAILED_ALREADY_STARTED"
     },
     {
-        "tID":"DOMINATION Ended",
-        "eN":"DOMINATION Ended",
+        "tID":"DOMINATION ENDED",
+        "eN":"DOMINATION ENDED",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -34549,8 +34574,8 @@
         "rawTID":"DOMINATION_ENDED_TITLE"
     },
     {
-        "tID":"You have been banned from this team",
-        "eN":"You have been banned from this team",
+        "tID":"You have been banned from this Team",
+        "eN":"You have been banned from this Team",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -35124,8 +35149,8 @@
         "rawTID":"ATTACKER_HAS_DISCONNECTED"
     },
     {
-        "tID":"Attacker conceded!",
-        "eN":"Attacker conceded!",
+        "tID":"Attacker surrendered!",
+        "eN":"Attacker surrendered!",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -35549,8 +35574,8 @@
         "rawTID":"FIND_TEAM"
     },
     {
-        "tID":"YOUR POST",
-        "eN":"YOUR POST",
+        "tID":"YOUR BASE",
+        "eN":"YOUR BASE",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -35574,8 +35599,8 @@
         "rawTID":"YOUR_OUTPOST"
     },
     {
-        "tID":"TEAMMATES POST",
-        "eN":"TEAMMATES POST",
+        "tID":"TEAMMATE'S BASE",
+        "eN":"TEAMMATE'S BASE",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -35599,8 +35624,8 @@
         "rawTID":"TEAM_MATES_OUTPOST"
     },
     {
-        "tID":"tap to continue",
-        "eN":"tap to continue",
+        "tID":"Tap to continue",
+        "eN":"Tap to continue",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -35749,8 +35774,8 @@
         "rawTID":"BOUND_TO_OTHER_ACCOUNT_WITHOUT_NAME"
     },
     {
-        "tID":"DOMINATION is about to end",
-        "eN":"DOMINATION is about to end",
+        "tID":"TEAM DOMINATION ends soon. Check the results!",
+        "eN":"TEAM DOMINATION ends soon. Check the results!",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -35774,8 +35799,8 @@
         "rawTID":"LOCAL_NOTIFICATION_DOMINATION_ENDS"
     },
     {
-        "tID":"DOMINATION preparation is about to end",
-        "eN":"DOMINATION preparation is about to end",
+        "tID":"TEAM DOMINATION preparation ends soon. Are your bases ready?",
+        "eN":"TEAM DOMINATION preparation ends soon. Are your bases ready?",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -35974,8 +35999,8 @@
         "rawTID":"DOMINATION_JOIN_TEAM_TO_PLAY"
     },
     {
-        "tID":"DOMINATION has begun!",
-        "eN":"DOMINATION has begun!",
+        "tID":"TEAM DOMINATION has begun!",
+        "eN":"TEAM DOMINATION has begun!",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -35999,8 +36024,8 @@
         "rawTID":"PUSH_NOTIFICATION_DOMINATION_BEGINS_TITLE"
     },
     {
-        "tID":"Your Team will compete against <opponent>",
-        "eN":"Your Team will compete against <opponent>",
+        "tID":"It's your Team vs. <opponent>!",
+        "eN":"It's your Team vs. <opponent>!",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -37024,8 +37049,8 @@
         "rawTID":"LEAGUE_SEASONS_BEGIN_FROM"
     },
     {
-        "tID":"Finish Draft?",
-        "eN":"Finish Draft?",
+        "tID":"Finish Draft",
+        "eN":"Finish Draft",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -37049,8 +37074,8 @@
         "rawTID":"CONFIRM_DRAFT_USES_LEFT_TITLE"
     },
     {
-        "tID":"You will use the selected units during battle day!\\n\\nAre you sure you want to continue?",
-        "eN":"You will use the selected units during battle day!\\n\\nAre you sure you want to continue?",
+        "tID":"You will use the selected troops on battle day!\\n\\nAre you sure you want to continue?",
+        "eN":"You will use the selected troops on battle day!\\n\\nAre you sure you want to continue?",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -37524,8 +37549,8 @@
         "rawTID":"HELP"
     },
     {
-        "tID":"Upgrade your Cards and play Battles to gain EXP!",
-        "eN":"Upgrade your Cards and play Battles to gain EXP!",
+        "tID":"Upgrade your cards and battle to gain XP!",
+        "eN":"Upgrade your cards and battle to gain XP!",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -38049,8 +38074,8 @@
         "rawTID":"SCORE_AFTER_SEASON_RESET"
     },
     {
-        "tID":"This set of cards will be used during the DOMINATION battles.\\n\\nTap a card to change it.",
-        "eN":"This set of cards will be used during the DOMINATION battles.\\n\\nTap a card to change it.",
+        "tID":"This set of cards will be used during your DOMINATION battles.\\n\\nTap a card to change it.",
+        "eN":"This set of cards will be used during your DOMINATION battles.\\n\\nTap a card to change it.",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -38074,8 +38099,8 @@
         "rawTID":"DOMINATION_DRAFT_TOOLTIP"
     },
     {
-        "tID":"The more stars your Team collects the better the chest gets.\\n\\nThe reward chests also gets better as you upgrade your HQ.",
-        "eN":"The more stars your Team collects the better the chest gets.\\n\\nThe reward chests also gets better as you upgrade your HQ.",
+        "tID":"The more Stars your Team earns, the better this box gets!\\n\\nThis box also gets better as you upgrade your HQ.",
+        "eN":"The more Stars your Team earns, the better this box gets!\\n\\nThis box also gets better as you upgrade your HQ.",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -38099,8 +38124,8 @@
         "rawTID":"DOMINATION_REWARD_CHEST_TOOLTIP"
     },
     {
-        "tID":"Collect 100 Stars to receive DEFENSE BOX!",
-        "eN":"Collect 100 Stars to receive DEFENSE BOX!",
+        "tID":"Collect 100 Stars to receive a DEFENSE BOX!",
+        "eN":"Collect 100 Stars to receive a DEFENSE BOX!",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -38149,8 +38174,8 @@
         "rawTID":"CLAN_RESEARCH_TOOLTIP"
     },
     {
-        "tID":"One League Season lasts for 2 weeks. After every season you can collect all rewards again",
-        "eN":"One League Season lasts for 2 weeks. After every season you can collect all rewards again",
+        "tID":"A League Season lasts 2 weeks.\\n\\nAt the end of each League Season you lose 50% of your Stars above 3000.\\n\\nThroughout the League Season you can collect all rewards above 3000 again!",
+        "eN":"A League Season lasts 2 weeks.\\n\\nAt the end of each League Season you lose 50% of your Stars above 3000.\\n\\nThroughout the League Season you can collect all rewards above 3000 again!",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -38874,8 +38899,8 @@
         "rawTID":"CLAN_JOIN_FAIL_TOO_MANY_PENDING_REQUESTS"
     },
     {
-        "tID":"Unable to join. Too low EXP",
-        "eN":"Unable to join. Too low EXP",
+        "tID":"Unable to join, XP Level too low.",
+        "eN":"Unable to join, XP Level too low.",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -38897,31 +38922,6 @@
         "fI":null,
         "vI":null,
         "rawTID":"CLAN_JOIN_FAIL_NOT_ENOUGH_XP"
-    },
-    {
-        "tID":"Player is already in Team",
-        "eN":"Unable to join. Already in clan",
-        "fR":null,
-        "dE":null,
-        "eS":null,
-        "iT":null,
-        "nL":null,
-        "nO":null,
-        "tR":null,
-        "jP":null,
-        "kR":null,
-        "rU":null,
-        "aR":null,
-        "pT":null,
-        "cN":null,
-        "cNT":null,
-        "fA":null,
-        "iD":null,
-        "mS":null,
-        "tH":null,
-        "fI":null,
-        "vI":null,
-        "rawTID":"CLAN_JOIN_FAILED_TARGET_ALREADY_IN_CLAN"
     },
     {
         "tID":"EXTRA GOLD",
@@ -39299,8 +39299,8 @@
         "rawTID":"CLAN_JOIN_FAILED_SCORE_TOO_LOW"
     },
     {
-        "tID":"Player is already in Team",
-        "eN":"Player is already in Team",
+        "tID":"Player is already in a Team",
+        "eN":"Player is already in a Team",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -39424,8 +39424,8 @@
         "rawTID":"NEW_OUTPOST"
     },
     {
-        "tID":"You've got Team Mail from <name>!",
-        "eN":"You've got Team Mail from <name>!",
+        "tID":"TEAM MAIL received. It's from <name>!",
+        "eN":"TEAM MAIL received. It's from <name>!",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -39649,8 +39649,8 @@
         "rawTID":"TIP_STORY1"
     },
     {
-        "tID":"Hello again. You wanna get mega rich, huh? We can help. Just sign here.. We'll take your silence as a non-verbal agreement.",
-        "eN":"Hello again. You wanna get mega rich, huh? We can help. Just sign here.. We'll take your silence as a non-verbal agreement.",
+        "tID":"Hello again. You wanna get mega rich, huh? We can help. Just sign here \u2026 We'll take your silence as a non-verbal agreement.",
+        "eN":"Hello again. You wanna get mega rich, huh? We can help. Just sign here \u2026 We'll take your silence as a non-verbal agreement.",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -39674,8 +39674,8 @@
         "rawTID":"TIP_STORY2"
     },
     {
-        "tID":"What's more valuable than gold? LOTS of gold. There's a global gold rush happening and you do not want to miss out.",
-        "eN":"What's more valuable than gold? LOTS of gold. There's a global gold rush happening and you do not want to miss out.",
+        "tID":"What's more valuable than gold? LOTS of gold. There's a global gold rush happening and you don't want to miss out.",
+        "eN":"What's more valuable than gold? LOTS of gold. There's a global gold rush happening and you don't want to miss out.",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -39724,8 +39724,8 @@
         "rawTID":"TIP_STORY4"
     },
     {
-        "tID":"Firstly, be a good Teammate. Chatty, friendly, etc. Earn their trust, ya know?",
-        "eN":"Firstly, be a good Teammate. Chatty, friendly, etc. Earn their trust, ya know?",
+        "tID":"Firstly, be a good Teammate \u2013 chatty, friendly, etc. Earn their trust, ya know?",
+        "eN":"Firstly, be a good Teammate \u2013 chatty, friendly, etc. Earn their trust, ya know?",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -39849,8 +39849,8 @@
         "rawTID":"TIP_STORY9"
     },
     {
-        "tID":"Just a peanut and some floss? \u2026",
-        "eN":"We've found the manuscript. There's jam on it. Probably Bearman. Find out what else he took. Check his pockets.",
+        "tID":"We've found the manuscript. There's jam on it. Probably Bearman. Find out what else he took; check his pockets.",
+        "eN":"We've found the manuscript. There's jam on it. Probably Bearman. Find out what else he took; check his pockets.",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -39896,11 +39896,11 @@
         "tH":null,
         "fI":null,
         "vI":null,
-        "rawTID":"TIP_STORY10"
+        "rawTID":"TIP_STORY11"
     },
     {
-        "tID":"Hello, taxi? ... sorry, wrong number.",
-        "eN":"Hello, taxi? ... sorry, wrong number.",
+        "tID":"Hello, taxi? ... Sorry, wrong number.",
+        "eN":"Hello, taxi? ... Sorry, wrong number.",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -39949,8 +39949,8 @@
         "rawTID":"TIP"
     },
     {
-        "tID":"At the end of a battle, unused cards get turned into bonus gold!",
-        "eN":"At the end of a battle, unused cards get turned into bonus gold!",
+        "tID":"At the end of a 3-Star battle, unused cards get turned into bonus gold!",
+        "eN":"At the end of a 3-Star battle, unused cards get turned into bonus gold!",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -39974,8 +39974,8 @@
         "rawTID":"TIP1"
     },
     {
-        "tID":"Join a Team to face off against other Teams from around the globe in a Domination!",
-        "eN":"Join a Team to face off against other Teams from around the globe in a Domination!",
+        "tID":"Join a Team to face off against other Teams from around the globe in Domination!",
+        "eN":"Join a Team to face off against other Teams from around the globe in Domination!",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -39999,8 +39999,8 @@
         "rawTID":"TIP2"
     },
     {
-        "tID":"When you flee from a wolf, you run into a bear.",
-        "eN":"When you flee from a wolf, you run into a bear.",
+        "tID":"When you flee from a wolf, you run into a Bearman.",
+        "eN":"When you flee from a wolf, you run into a Bearman.",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -40024,8 +40024,8 @@
         "rawTID":"TIP3"
     },
     {
-        "tID":"You can research a bonus defense if you're in a Team.",
-        "eN":"You can research a bonus defense if you're in a Team.",
+        "tID":"You can research a bonus defense if you're in a Team!",
+        "eN":"You can research a bonus defense if you're in a Team!",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -40049,8 +40049,8 @@
         "rawTID":"TIP4"
     },
     {
-        "tID":"Exploding barrels don't damage your own troops. Phew!",
-        "eN":"Exploding barrels don't damage your own troops. Phew!",
+        "tID":"Exploding barrels don't damage attacking troops.",
+        "eN":"Exploding barrels don't damage attacking troops.",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -40074,8 +40074,8 @@
         "rawTID":"TIP5"
     },
     {
-        "tID":"Airdrops don't damage your own troops.",
-        "eN":"Airdrops don't damage your own troops.",
+        "tID":"Airdrops don't damage attacking troops.",
+        "eN":"Airdrops don't damage attacking troops.",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -40124,8 +40124,8 @@
         "rawTID":"TIP7"
     },
     {
-        "tID":"Free Boxes are delivered to your camp every few hours. Sweet!",
-        "eN":"Free Boxes are delivered to your camp every few hours. Sweet!",
+        "tID":"Free Boxes are delivered to your camp every few hours!",
+        "eN":"Free Boxes are delivered to your camp every few hours!",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -40299,8 +40299,8 @@
         "rawTID":"TIP14"
     },
     {
-        "tID":"Have you noticed those suspicious looking hazmat dudes hanging around?",
-        "eN":"Have you noticed those suspicious looking hazmat dudes hanging around?",
+        "tID":"Beware of suspicious-looking hazmat dudes.",
+        "eN":"Beware of suspicious-looking hazmat dudes.",
         "fR":null,
         "dE":null,
         "eS":null,
@@ -40447,6 +40447,231 @@
         "fI":null,
         "vI":null,
         "rawTID":"TIP20"
+    },
+    {
+        "tID":"Rumor is... the Dummy's mustache is actually a croissant.",
+        "eN":"Rumor is... the Dummy's mustache is actually a croissant.",
+        "fR":null,
+        "dE":null,
+        "eS":null,
+        "iT":null,
+        "nL":null,
+        "nO":null,
+        "tR":null,
+        "jP":null,
+        "kR":null,
+        "rU":null,
+        "aR":null,
+        "pT":null,
+        "cN":null,
+        "cNT":null,
+        "fA":null,
+        "iD":null,
+        "mS":null,
+        "tH":null,
+        "fI":null,
+        "vI":null,
+        "rawTID":"TIP21"
+    },
+    {
+        "tID":"Be excellent to each other.",
+        "eN":"Be excellent to each other.",
+        "fR":null,
+        "dE":null,
+        "eS":null,
+        "iT":null,
+        "nL":null,
+        "nO":null,
+        "tR":null,
+        "jP":null,
+        "kR":null,
+        "rU":null,
+        "aR":null,
+        "pT":null,
+        "cN":null,
+        "cNT":null,
+        "fA":null,
+        "iD":null,
+        "mS":null,
+        "tH":null,
+        "fI":null,
+        "vI":null,
+        "rawTID":"TIP22"
+    },
+    {
+        "tID":"In Team Domination you can attack as many times as you have troops left to use!",
+        "eN":"In Team Domination you can attack as many times as you have troops left to use!",
+        "fR":null,
+        "dE":null,
+        "eS":null,
+        "iT":null,
+        "nL":null,
+        "nO":null,
+        "tR":null,
+        "jP":null,
+        "kR":null,
+        "rU":null,
+        "aR":null,
+        "pT":null,
+        "cN":null,
+        "cNT":null,
+        "fA":null,
+        "iD":null,
+        "mS":null,
+        "tH":null,
+        "fI":null,
+        "vI":null,
+        "rawTID":"TIP23"
+    },
+    {
+        "tID":"In Team Domination, the key to victory is being efficient with how many troops you use per attack.",
+        "eN":"In Team Domination, the key to victory is being efficient with how many troops you use per attack.",
+        "fR":null,
+        "dE":null,
+        "eS":null,
+        "iT":null,
+        "nL":null,
+        "nO":null,
+        "tR":null,
+        "jP":null,
+        "kR":null,
+        "rU":null,
+        "aR":null,
+        "pT":null,
+        "cN":null,
+        "cNT":null,
+        "fA":null,
+        "iD":null,
+        "mS":null,
+        "tH":null,
+        "fI":null,
+        "vI":null,
+        "rawTID":"TIP24"
+    },
+    {
+        "tID":"Get to the Chopper!",
+        "eN":"Get to the Chopper!",
+        "fR":null,
+        "dE":null,
+        "eS":null,
+        "iT":null,
+        "nL":null,
+        "nO":null,
+        "tR":null,
+        "jP":null,
+        "kR":null,
+        "rU":null,
+        "aR":null,
+        "pT":null,
+        "cN":null,
+        "cNT":null,
+        "fA":null,
+        "iD":null,
+        "mS":null,
+        "tH":null,
+        "fI":null,
+        "vI":null,
+        "rawTID":"TIP25"
+    },
+    {
+        "tID":"You can store a second bonus defense, ready to be placed, while you still have one active in your Gold Mine.",
+        "eN":"You can store a second bonus defense, ready to be placed, while you still have one active in your Gold Mine.",
+        "fR":null,
+        "dE":null,
+        "eS":null,
+        "iT":null,
+        "nL":null,
+        "nO":null,
+        "tR":null,
+        "jP":null,
+        "kR":null,
+        "rU":null,
+        "aR":null,
+        "pT":null,
+        "cN":null,
+        "cNT":null,
+        "fA":null,
+        "iD":null,
+        "mS":null,
+        "tH":null,
+        "fI":null,
+        "vI":null,
+        "rawTID":"TIP26"
+    },
+    {
+        "tID":"Every bit of damage you deal to a Star Building adds to the gold you get at the end of the battle!",
+        "eN":"Every bit of damage you deal to a Star Building adds to the gold you get at the end of the battle!",
+        "fR":null,
+        "dE":null,
+        "eS":null,
+        "iT":null,
+        "nL":null,
+        "nO":null,
+        "tR":null,
+        "jP":null,
+        "kR":null,
+        "rU":null,
+        "aR":null,
+        "pT":null,
+        "cN":null,
+        "cNT":null,
+        "fA":null,
+        "iD":null,
+        "mS":null,
+        "tH":null,
+        "fI":null,
+        "vI":null,
+        "rawTID":"TIP27"
+    },
+    {
+        "tID":"You can remove obstacles, such as exploding barrels, from your Gold Mine and Domination bases.",
+        "eN":"You can remove obstacles, such as exploding barrels, from your Gold Mine and Domination bases.",
+        "fR":null,
+        "dE":null,
+        "eS":null,
+        "iT":null,
+        "nL":null,
+        "nO":null,
+        "tR":null,
+        "jP":null,
+        "kR":null,
+        "rU":null,
+        "aR":null,
+        "pT":null,
+        "cN":null,
+        "cNT":null,
+        "fA":null,
+        "iD":null,
+        "mS":null,
+        "tH":null,
+        "fI":null,
+        "vI":null,
+        "rawTID":"TIP28"
+    },
+    {
+        "tID":"When removing obstacles from your Gold Mine or Domination bases, sometimes you'll find Gems!",
+        "eN":"When removing obstacles from your Gold Mine or Domination bases, sometimes you'll find Gems!",
+        "fR":null,
+        "dE":null,
+        "eS":null,
+        "iT":null,
+        "nL":null,
+        "nO":null,
+        "tR":null,
+        "jP":null,
+        "kR":null,
+        "rU":null,
+        "aR":null,
+        "pT":null,
+        "cN":null,
+        "cNT":null,
+        "fA":null,
+        "iD":null,
+        "mS":null,
+        "tH":null,
+        "fI":null,
+        "vI":null,
+        "rawTID":"TIP29"
     },
     {
         "tID":"In-App Purchases",
@@ -40799,106 +41024,6 @@
         "rawTID":"BUTTON_RATE_APP_NEVER"
     },
     {
-        "tID":"Report",
-        "eN":"Report",
-        "fR":null,
-        "dE":null,
-        "eS":null,
-        "iT":null,
-        "nL":null,
-        "nO":null,
-        "tR":null,
-        "jP":null,
-        "kR":null,
-        "rU":null,
-        "aR":null,
-        "pT":null,
-        "cN":null,
-        "cNT":null,
-        "fA":null,
-        "iD":null,
-        "mS":null,
-        "tH":null,
-        "fI":null,
-        "vI":null,
-        "rawTID":"REPORT_PLAYER_BUTTON"
-    },
-    {
-        "tID":"Player reported!",
-        "eN":"Player reported!",
-        "fR":null,
-        "dE":null,
-        "eS":null,
-        "iT":null,
-        "nL":null,
-        "nO":null,
-        "tR":null,
-        "jP":null,
-        "kR":null,
-        "rU":null,
-        "aR":null,
-        "pT":null,
-        "cN":null,
-        "cNT":null,
-        "fA":null,
-        "iD":null,
-        "mS":null,
-        "tH":null,
-        "fI":null,
-        "vI":null,
-        "rawTID":"PLAYER_REPORTED_SUCCESSFULLY"
-    },
-    {
-        "tID":"Report <name>",
-        "eN":"Report <name>",
-        "fR":null,
-        "dE":null,
-        "eS":null,
-        "iT":null,
-        "nL":null,
-        "nO":null,
-        "tR":null,
-        "jP":null,
-        "kR":null,
-        "rU":null,
-        "aR":null,
-        "pT":null,
-        "cN":null,
-        "cNT":null,
-        "fA":null,
-        "iD":null,
-        "mS":null,
-        "tH":null,
-        "fI":null,
-        "vI":null,
-        "rawTID":"CHAT_REPORT_CONFIRMATION_TITLE"
-    },
-    {
-        "tID":"Report <name> for inappropriate behavior?",
-        "eN":"Report <name> for inappropriate behavior?",
-        "fR":null,
-        "dE":null,
-        "eS":null,
-        "iT":null,
-        "nL":null,
-        "nO":null,
-        "tR":null,
-        "jP":null,
-        "kR":null,
-        "rU":null,
-        "aR":null,
-        "pT":null,
-        "cN":null,
-        "cNT":null,
-        "fA":null,
-        "iD":null,
-        "mS":null,
-        "tH":null,
-        "fI":null,
-        "vI":null,
-        "rawTID":"CHAT_REPORT_CONFIRMATION"
-    },
-    {
         "tID":"Please wait before sending another report",
         "eN":"Please wait before sending another report",
         "fR":null,
@@ -41022,5 +41147,430 @@
         "fI":null,
         "vI":null,
         "rawTID":"I_UNDERSTAND"
+    },
+    {
+        "tID":"Cannot attack \u2013 someone else is attacking this base!",
+        "eN":"Cannot attack \u2013 someone else is attacking this base!",
+        "fR":null,
+        "dE":null,
+        "eS":null,
+        "iT":null,
+        "nL":null,
+        "nO":null,
+        "tR":null,
+        "jP":null,
+        "kR":null,
+        "rU":null,
+        "aR":null,
+        "pT":null,
+        "cN":null,
+        "cNT":null,
+        "fA":null,
+        "iD":null,
+        "mS":null,
+        "tH":null,
+        "fI":null,
+        "vI":null,
+        "rawTID":"CANT_ATTACK_BASE_UNDER_ATTACK"
+    },
+    {
+        "tID":"Go to Shop",
+        "eN":"Go to Shop",
+        "fR":null,
+        "dE":null,
+        "eS":null,
+        "iT":null,
+        "nL":null,
+        "nO":null,
+        "tR":null,
+        "jP":null,
+        "kR":null,
+        "rU":null,
+        "aR":null,
+        "pT":null,
+        "cN":null,
+        "cNT":null,
+        "fA":null,
+        "iD":null,
+        "mS":null,
+        "tH":null,
+        "fI":null,
+        "vI":null,
+        "rawTID":"CONFIRM_BUTTON_GOTO_SHOP"
+    },
+    {
+        "tID":"Not enough Gems!",
+        "eN":"Not enough Gems!",
+        "fR":null,
+        "dE":null,
+        "eS":null,
+        "iT":null,
+        "nL":null,
+        "nO":null,
+        "tR":null,
+        "jP":null,
+        "kR":null,
+        "rU":null,
+        "aR":null,
+        "pT":null,
+        "cN":null,
+        "cNT":null,
+        "fA":null,
+        "iD":null,
+        "mS":null,
+        "tH":null,
+        "fI":null,
+        "vI":null,
+        "rawTID":"CONFIRM_GO_SHOP_TITLE"
+    },
+    {
+        "tID":"You're out of Gems. Visit the Shop to get some more!",
+        "eN":"You're out of Gems. Visit the Shop to get some more!",
+        "fR":null,
+        "dE":null,
+        "eS":null,
+        "iT":null,
+        "nL":null,
+        "nO":null,
+        "tR":null,
+        "jP":null,
+        "kR":null,
+        "rU":null,
+        "aR":null,
+        "pT":null,
+        "cN":null,
+        "cNT":null,
+        "fA":null,
+        "iD":null,
+        "mS":null,
+        "tH":null,
+        "fI":null,
+        "vI":null,
+        "rawTID":"CONFIRM_GO_SHOP_TEXT"
+    },
+    {
+        "tID":"Rush Wars is closing for a short maintenance break in 5 minutes \u2013 attacking is disabled during the break",
+        "eN":"Rush Wars is closing for a short maintenance break in 5 minutes \u2013 attacking is disabled during the break",
+        "fR":null,
+        "dE":null,
+        "eS":null,
+        "iT":null,
+        "nL":null,
+        "nO":null,
+        "tR":null,
+        "jP":null,
+        "kR":null,
+        "rU":null,
+        "aR":null,
+        "pT":null,
+        "cN":null,
+        "cNT":null,
+        "fA":null,
+        "iD":null,
+        "mS":null,
+        "tH":null,
+        "fI":null,
+        "vI":null,
+        "rawTID":"SHUTDOWN_STARTED"
+    },
+    {
+        "tID":"INVITE FRIEND",
+        "eN":"INVITE FRIEND",
+        "fR":null,
+        "dE":null,
+        "eS":null,
+        "iT":null,
+        "nL":null,
+        "nO":null,
+        "tR":null,
+        "jP":null,
+        "kR":null,
+        "rU":null,
+        "aR":null,
+        "pT":null,
+        "cN":null,
+        "cNT":null,
+        "fA":null,
+        "iD":null,
+        "mS":null,
+        "tH":null,
+        "fI":null,
+        "vI":null,
+        "rawTID":"INVITE_FRIEND"
+    },
+    {
+        "tID":"Click this link to add as friend in Rush Wars!",
+        "eN":"Click this link to add as friend in Rush Wars!",
+        "fR":null,
+        "dE":null,
+        "eS":null,
+        "iT":null,
+        "nL":null,
+        "nO":null,
+        "tR":null,
+        "jP":null,
+        "kR":null,
+        "rU":null,
+        "aR":null,
+        "pT":null,
+        "cN":null,
+        "cNT":null,
+        "fA":null,
+        "iD":null,
+        "mS":null,
+        "tH":null,
+        "fI":null,
+        "vI":null,
+        "rawTID":"FRIEND_INVITE_POST_MESSAGE"
+    },
+    {
+        "tID":"Invite a friend!",
+        "eN":"Invite a friend!",
+        "fR":null,
+        "dE":null,
+        "eS":null,
+        "iT":null,
+        "nL":null,
+        "nO":null,
+        "tR":null,
+        "jP":null,
+        "kR":null,
+        "rU":null,
+        "aR":null,
+        "pT":null,
+        "cN":null,
+        "cNT":null,
+        "fA":null,
+        "iD":null,
+        "mS":null,
+        "tH":null,
+        "fI":null,
+        "vI":null,
+        "rawTID":"FRIEND_INVITE_POST_TITLE"
+    },
+    {
+        "tID":"Invite link copied to clipboard!",
+        "eN":"Invite link copied to clipboard!",
+        "fR":null,
+        "dE":null,
+        "eS":null,
+        "iT":null,
+        "nL":null,
+        "nO":null,
+        "tR":null,
+        "jP":null,
+        "kR":null,
+        "rU":null,
+        "aR":null,
+        "pT":null,
+        "cN":null,
+        "cNT":null,
+        "fA":null,
+        "iD":null,
+        "mS":null,
+        "tH":null,
+        "fI":null,
+        "vI":null,
+        "rawTID":"INVITE_COPIED_TO_CLIPBOARD"
+    },
+    {
+        "tID":"OK",
+        "eN":"OK",
+        "fR":null,
+        "dE":null,
+        "eS":null,
+        "iT":null,
+        "nL":null,
+        "nO":null,
+        "tR":null,
+        "jP":null,
+        "kR":null,
+        "rU":null,
+        "aR":null,
+        "pT":null,
+        "cN":null,
+        "cNT":null,
+        "fA":null,
+        "iD":null,
+        "mS":null,
+        "tH":null,
+        "fI":null,
+        "vI":null,
+        "rawTID":"INVITE_COPIED_TO_CLIPBOARD_CONFIRM"
+    },
+    {
+        "tID":"Battle Speed",
+        "eN":"Battle Speed",
+        "fR":null,
+        "dE":null,
+        "eS":null,
+        "iT":null,
+        "nL":null,
+        "nO":null,
+        "tR":null,
+        "jP":null,
+        "kR":null,
+        "rU":null,
+        "aR":null,
+        "pT":null,
+        "cN":null,
+        "cNT":null,
+        "fA":null,
+        "iD":null,
+        "mS":null,
+        "tH":null,
+        "fI":null,
+        "vI":null,
+        "rawTID":"PLAYBACK_SPEED"
+    },
+    {
+        "tID":"Remove",
+        "eN":"Remove",
+        "fR":null,
+        "dE":null,
+        "eS":null,
+        "iT":null,
+        "nL":null,
+        "nO":null,
+        "tR":null,
+        "jP":null,
+        "kR":null,
+        "rU":null,
+        "aR":null,
+        "pT":null,
+        "cN":null,
+        "cNT":null,
+        "fA":null,
+        "iD":null,
+        "mS":null,
+        "tH":null,
+        "fI":null,
+        "vI":null,
+        "rawTID":"REMOVE"
+    },
+    {
+        "tID":"Remove <name>",
+        "eN":"Remove <name>",
+        "fR":null,
+        "dE":null,
+        "eS":null,
+        "iT":null,
+        "nL":null,
+        "nO":null,
+        "tR":null,
+        "jP":null,
+        "kR":null,
+        "rU":null,
+        "aR":null,
+        "pT":null,
+        "cN":null,
+        "cNT":null,
+        "fA":null,
+        "iD":null,
+        "mS":null,
+        "tH":null,
+        "fI":null,
+        "vI":null,
+        "rawTID":"REMOVE_FRIEND_CONFIRMATION_TITLE"
+    },
+    {
+        "tID":"Remove <name> from your friends list?",
+        "eN":"Remove <name> from your friends list?",
+        "fR":null,
+        "dE":null,
+        "eS":null,
+        "iT":null,
+        "nL":null,
+        "nO":null,
+        "tR":null,
+        "jP":null,
+        "kR":null,
+        "rU":null,
+        "aR":null,
+        "pT":null,
+        "cN":null,
+        "cNT":null,
+        "fA":null,
+        "iD":null,
+        "mS":null,
+        "tH":null,
+        "fI":null,
+        "vI":null,
+        "rawTID":"REMOVE_FRIEND_CONFIRMATION"
+    },
+    {
+        "tID":"GOLD STORAGE FULL!",
+        "eN":"GOLD STORAGE FULL!",
+        "fR":null,
+        "dE":null,
+        "eS":null,
+        "iT":null,
+        "nL":null,
+        "nO":null,
+        "tR":null,
+        "jP":null,
+        "kR":null,
+        "rU":null,
+        "aR":null,
+        "pT":null,
+        "cN":null,
+        "cNT":null,
+        "fA":null,
+        "iD":null,
+        "mS":null,
+        "tH":null,
+        "fI":null,
+        "vI":null,
+        "rawTID":"SHOP_GOLD_STORAGE_FULL"
+    },
+    {
+        "tID":"I'd like to join your awesome Team please!",
+        "eN":"I'd like to join your awesome Team please!",
+        "fR":null,
+        "dE":null,
+        "eS":null,
+        "iT":null,
+        "nL":null,
+        "nO":null,
+        "tR":null,
+        "jP":null,
+        "kR":null,
+        "rU":null,
+        "aR":null,
+        "pT":null,
+        "cN":null,
+        "cNT":null,
+        "fA":null,
+        "iD":null,
+        "mS":null,
+        "tH":null,
+        "fI":null,
+        "vI":null,
+        "rawTID":"JOIN_REQUEST_NO_MESSAGE"
+    },
+    {
+        "tID":"FREE BOX delivery coming soon!",
+        "eN":"FREE BOX delivery coming soon!",
+        "fR":null,
+        "dE":null,
+        "eS":null,
+        "iT":null,
+        "nL":null,
+        "nO":null,
+        "tR":null,
+        "jP":null,
+        "kR":null,
+        "rU":null,
+        "aR":null,
+        "pT":null,
+        "cN":null,
+        "cNT":null,
+        "fA":null,
+        "iD":null,
+        "mS":null,
+        "tH":null,
+        "fI":null,
+        "vI":null,
+        "rawTID":"FREE_SUPPLY_NOT_UNLOCKED"
     }
 ]

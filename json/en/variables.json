@@ -243,5 +243,10 @@
         "name":"ClanRulesShownIDlow",
         "value":null,
         "scId":7000048
+    },
+    {
+        "name":"LootLimitCounter",
+        "value":null,
+        "scId":7000049
     }
 ]

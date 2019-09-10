@@ -26,17 +26,11 @@
         "attackHousing":6,
         "airdropHousing":1,
         "defenceHousing":7,
-        "locations":"Forest",
+        "locations":[
+            "Forest",
+            "Megacity"
+        ],
         "rawTID":"HELICOPTER_LEVEL_3"
-    },
-    {
-        "name":null,
-        "tID":null,
-        "upgradeGold":null,
-        "attackHousing":null,
-        "airdropHousing":null,
-        "defenceHousing":null,
-        "locations":"Megacity"
     },
     {
         "name":4,
@@ -45,17 +39,11 @@
         "attackHousing":6,
         "airdropHousing":1,
         "defenceHousing":9,
-        "locations":"Forest",
+        "locations":[
+            "Forest",
+            "Megacity"
+        ],
         "rawTID":"HELICOPTER_LEVEL_4"
-    },
-    {
-        "name":null,
-        "tID":null,
-        "upgradeGold":null,
-        "attackHousing":null,
-        "airdropHousing":null,
-        "defenceHousing":null,
-        "locations":"Megacity"
     },
     {
         "name":5,
@@ -64,17 +52,11 @@
         "attackHousing":7,
         "airdropHousing":2,
         "defenceHousing":10,
-        "locations":"Forest",
+        "locations":[
+            "Forest",
+            "Megacity"
+        ],
         "rawTID":"HELICOPTER_LEVEL_5"
-    },
-    {
-        "name":null,
-        "tID":null,
-        "upgradeGold":null,
-        "attackHousing":null,
-        "airdropHousing":null,
-        "defenceHousing":null,
-        "locations":"Megacity"
     },
     {
         "name":6,
@@ -83,26 +65,12 @@
         "attackHousing":8,
         "airdropHousing":2,
         "defenceHousing":11,
-        "locations":"Forest",
+        "locations":[
+            "Forest",
+            "Megacity",
+            "Desert"
+        ],
         "rawTID":"HELICOPTER_LEVEL_6"
-    },
-    {
-        "name":null,
-        "tID":null,
-        "upgradeGold":null,
-        "attackHousing":null,
-        "airdropHousing":null,
-        "defenceHousing":null,
-        "locations":"Megacity"
-    },
-    {
-        "name":null,
-        "tID":null,
-        "upgradeGold":null,
-        "attackHousing":null,
-        "airdropHousing":null,
-        "defenceHousing":null,
-        "locations":"Desert"
     },
     {
         "name":7,
@@ -111,26 +79,12 @@
         "attackHousing":9,
         "airdropHousing":2,
         "defenceHousing":12,
-        "locations":"Forest",
+        "locations":[
+            "Forest",
+            "Megacity",
+            "Desert"
+        ],
         "rawTID":"HELICOPTER_LEVEL_7"
-    },
-    {
-        "name":null,
-        "tID":null,
-        "upgradeGold":null,
-        "attackHousing":null,
-        "airdropHousing":null,
-        "defenceHousing":null,
-        "locations":"Megacity"
-    },
-    {
-        "name":null,
-        "tID":null,
-        "upgradeGold":null,
-        "attackHousing":null,
-        "airdropHousing":null,
-        "defenceHousing":null,
-        "locations":"Desert"
     },
     {
         "name":8,
@@ -139,25 +93,11 @@
         "attackHousing":10,
         "airdropHousing":2,
         "defenceHousing":13,
-        "locations":"Forest",
+        "locations":[
+            "Forest",
+            "Megacity",
+            "Desert"
+        ],
         "rawTID":"HELICOPTER_LEVEL_8"
-    },
-    {
-        "name":null,
-        "tID":null,
-        "upgradeGold":null,
-        "attackHousing":null,
-        "airdropHousing":null,
-        "defenceHousing":null,
-        "locations":"Megacity"
-    },
-    {
-        "name":null,
-        "tID":null,
-        "upgradeGold":null,
-        "attackHousing":null,
-        "airdropHousing":null,
-        "defenceHousing":null,
-        "locations":"Desert"
     }
 ]

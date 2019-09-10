@@ -18,7 +18,7 @@
         "crownTowerDamagePercent":null,
         "hitBiggestTargets":null,
         "buff":"Rage",
-        "buffTime":2000,
+        "buffTime":500,
         "buffTimeIncreasePerLevel":null,
         "buffTimeIncreaseAfterTournamentCap":null,
         "capBuffTimeToAreaEffectTime":true,

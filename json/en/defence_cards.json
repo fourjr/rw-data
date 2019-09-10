@@ -5,7 +5,7 @@
         "infoTID":"Deals area damage at very long range. Fun.",
         "rarity":"Common",
         "trainingCost":null,
-        "unlockLevel":2,
+        "unlockLevel":3,
         "cardFileName":"sc\/ui_portraits.sc",
         "cardExportName":"portrait_defense_mortar",
         "housingSpace":2,
@@ -21,6 +21,7 @@
         "ability":null,
         "abilityCooldown":null,
         "abilityOneUse":null,
+        "scId":50000000,
         "rawTID":"CARD_MORTAR",
         "rawInfoTID":"CARD_INFO_MORTAR"
     },
@@ -36,9 +37,18 @@
         "housingSpace":1,
         "spawnCount":2,
         "spawnCharacters":"Mine",
-        "spawnTileOffsetX":1,
-        "spawnTileOffsetY":1,
-        "spawnLevelIndex":0,
+        "spawnTileOffsetX":[
+            1,
+            "1"
+        ],
+        "spawnTileOffsetY":[
+            1,
+            "5"
+        ],
+        "spawnLevelIndex":[
+            0,
+            "0"
+        ],
         "maxDeployCount":1,
         "editModeOnly":null,
         "upgradeLevelFrom":null,
@@ -46,31 +56,9 @@
         "ability":null,
         "abilityCooldown":null,
         "abilityOneUse":null,
+        "scId":50000001,
         "rawTID":"CARD_MINE",
         "rawInfoTID":"CARD_INFO_MINE"
-    },
-    {
-        "name":null,
-        "tID":null,
-        "infoTID":null,
-        "rarity":null,
-        "trainingCost":null,
-        "unlockLevel":null,
-        "cardFileName":null,
-        "cardExportName":null,
-        "housingSpace":null,
-        "spawnCount":null,
-        "spawnCharacters":null,
-        "spawnTileOffsetX":1,
-        "spawnTileOffsetY":5,
-        "spawnLevelIndex":0,
-        "maxDeployCount":null,
-        "editModeOnly":null,
-        "upgradeLevelFrom":null,
-        "levelGenGuide":null,
-        "ability":null,
-        "abilityCooldown":null,
-        "abilityOneUse":null
     },
     {
         "name":"Wall",
@@ -94,6 +82,7 @@
         "ability":null,
         "abilityCooldown":null,
         "abilityOneUse":null,
+        "scId":50000003,
         "rawTID":"CARD_WALL",
         "rawInfoTID":"CARD_INFO_WALL"
     },
@@ -119,6 +108,7 @@
         "ability":null,
         "abilityCooldown":null,
         "abilityOneUse":null,
+        "scId":50000004,
         "rawTID":"CARD_WALL",
         "rawInfoTID":"CARD_INFO_WALL"
     },
@@ -144,6 +134,7 @@
         "ability":null,
         "abilityCooldown":null,
         "abilityOneUse":null,
+        "scId":50000005,
         "rawTID":"CARD_CANNON",
         "rawInfoTID":"CARD_INFO_CANNON"
     },
@@ -169,6 +160,7 @@
         "ability":null,
         "abilityCooldown":null,
         "abilityOneUse":null,
+        "scId":50000006,
         "rawTID":"CARD_PLUMBER_HUT",
         "rawInfoTID":"CARD_INFO_PLUMBER_HUT"
     },
@@ -194,6 +186,7 @@
         "ability":null,
         "abilityCooldown":null,
         "abilityOneUse":null,
+        "scId":0,
         "rawTID":"CARD_RANDOM",
         "rawInfoTID":"CARD_INFO_RANDOM"
     },
@@ -219,6 +212,7 @@
         "ability":null,
         "abilityCooldown":null,
         "abilityOneUse":null,
+        "scId":50000007,
         "rawTID":"CARD_CAKE",
         "rawInfoTID":"CARD_INFO_CAKE"
     },
@@ -244,6 +238,7 @@
         "ability":null,
         "abilityCooldown":null,
         "abilityOneUse":null,
+        "scId":50000008,
         "rawTID":"CARD_GATLING",
         "rawInfoTID":"CARD_INFO_GATLING"
     },
@@ -269,6 +264,7 @@
         "ability":null,
         "abilityCooldown":null,
         "abilityOneUse":null,
+        "scId":50000009,
         "rawTID":"CARD_BOMB",
         "rawInfoTID":"CARD_INFO_BOMB"
     },
@@ -294,6 +290,7 @@
         "ability":null,
         "abilityCooldown":null,
         "abilityOneUse":null,
+        "scId":50000010,
         "rawTID":"CARD_FREEZE_TRAP",
         "rawInfoTID":"CARD_INFO_FREEZE_TRAP"
     },
@@ -319,6 +316,7 @@
         "ability":null,
         "abilityCooldown":null,
         "abilityOneUse":null,
+        "scId":0,
         "rawTID":"CARD_RANDOM",
         "rawInfoTID":"CARD_INFO_RANDOM"
     },
@@ -344,6 +342,7 @@
         "ability":null,
         "abilityCooldown":null,
         "abilityOneUse":null,
+        "scId":50000011,
         "rawTID":"CARD_PLASMAGUN",
         "rawInfoTID":"CARD_INFO_PLASMAGUN"
     },
@@ -369,6 +368,7 @@
         "ability":null,
         "abilityCooldown":null,
         "abilityOneUse":null,
+        "scId":50000012,
         "rawTID":"CARD_BLACK_NINJA",
         "rawInfoTID":"CARD_INFO_BLACK_NINJA"
     },
@@ -394,6 +394,7 @@
         "ability":null,
         "abilityCooldown":null,
         "abilityOneUse":null,
+        "scId":50000013,
         "rawTID":"CARD_TESLA",
         "rawInfoTID":"CARD_INFO_TESLA"
     },
@@ -419,6 +420,7 @@
         "ability":null,
         "abilityCooldown":null,
         "abilityOneUse":null,
+        "scId":50000014,
         "rawTID":"CARD_ROCKET_PLATFORM",
         "rawInfoTID":"CARD_INFO_ROCKET_PLATFORM"
     },
@@ -444,6 +446,7 @@
         "ability":null,
         "abilityCooldown":null,
         "abilityOneUse":null,
+        "scId":50000015,
         "rawTID":"CARD_DUMMY",
         "rawInfoTID":"CARD_INFO_DUMMY"
     }

@@ -502,5 +502,45 @@
         "canCapture":true,
         "domination":null,
         "unlockHQLevel":null
+    },
+    {
+        "name":"Megacity_05",
+        "fileName":"locations\/megacity_05.loc.json",
+        "environment":"Megacity",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Megacity_06",
+        "fileName":"locations\/megacity_06.loc.json",
+        "environment":"Megacity",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Megacity_07",
+        "fileName":"locations\/megacity_07.loc.json",
+        "environment":"Megacity",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Megacity_08",
+        "fileName":"locations\/megacity_08.loc.json",
+        "environment":"Megacity",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Megacity_09",
+        "fileName":"locations\/megacity_09.loc.json",
+        "environment":"Megacity",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
     }
 ]
