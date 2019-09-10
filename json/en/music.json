@@ -1,9 +1,30 @@
 [
     {
         "name":"Home",
-        "fileName":"music\/rush_home_test_06.ogg",
-        "volume":35,
-        "loop":true,
+        "fileName":[
+            "music\/rush_home_test_06.ogg",
+            "music\/rush_home_test_07.ogg",
+            "music\/rushtown02.ogg",
+            "music\/rushbase04.ogg",
+            "music\/rush_morehome01.ogg",
+            "music\/rushhomebase01.ogg"
+        ],
+        "volume":[
+            35,
+            35,
+            35,
+            35,
+            35,
+            35
+        ],
+        "loop":[
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
         "playCount":null,
         "fadeOutTimeSec":null,
         "durationSec":null
@@ -20,19 +41,19 @@
         ],
         "volume":[
             35,
-            "35",
-            "35",
-            "35",
-            "35",
-            "35"
+            35,
+            35,
+            35,
+            35,
+            35
         ],
         "loop":[
             true,
-            "TRUE",
-            "TRUE",
-            "TRUE",
-            "TRUE",
-            "TRUE"
+            true,
+            true,
+            true,
+            true,
+            true
         ],
         "playCount":null,
         "fadeOutTimeSec":null,
@@ -51,21 +72,21 @@
         ],
         "volume":[
             35,
-            "35",
-            "35",
-            "35",
-            "35",
-            "35",
-            "35"
+            35,
+            35,
+            35,
+            35,
+            35,
+            35
         ],
         "loop":[
             true,
-            "TRUE",
-            "TRUE",
-            "TRUE",
-            "TRUE",
-            "TRUE",
-            "TRUE"
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
         ],
         "playCount":null,
         "fadeOutTimeSec":null,

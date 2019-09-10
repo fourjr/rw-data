@@ -62,8 +62,8 @@
         ],
         "forcedCounts":[
             1,
-            "1",
-            "1"
+            1,
+            1
         ],
         "randomForcedCard":null,
         "randomForcedCounts":null,
@@ -96,9 +96,9 @@
         ],
         "randomForcedCounts":[
             1,
-            "1",
-            "1",
-            "1"
+            1,
+            1,
+            1
         ],
         "openSWF":"sc\/ui_boxes.sc",
         "openExportName":"box_01_battle_open",

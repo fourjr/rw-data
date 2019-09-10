@@ -296,7 +296,16 @@
             "idleExportName":"commander_marine_hud_01",
             "happyExportName":"commander_marine_hud_02",
             "sadExportName":"commander_marine_hud_03",
-            "regenerationTimeMinutes":20,
+            "regenerationTimeMinutes":[
+                20,
+                24,
+                28,
+                32,
+                36,
+                40,
+                44,
+                48
+            ],
             "housingSpace":null,
             "spawnCount":1,
             "spawnCharacters":"EliteSoldier",
@@ -333,13 +342,13 @@
             "sadExportName":"commander_grenademama_hud_03",
             "regenerationTimeMinutes":[
                 20,
-                "24",
-                "28",
-                "32",
-                "36",
-                "40",
-                "44",
-                "48"
+                24,
+                28,
+                32,
+                36,
+                40,
+                44,
+                48
             ],
             "housingSpace":null,
             "spawnCount":1,
@@ -377,13 +386,13 @@
             "sadExportName":"commander_dino_hud_03",
             "regenerationTimeMinutes":[
                 20,
-                "24",
-                "28",
-                "32",
-                "36",
-                "40",
-                "44",
-                "48"
+                24,
+                28,
+                32,
+                36,
+                40,
+                44,
+                48
             ],
             "housingSpace":null,
             "spawnCount":1,
@@ -421,13 +430,13 @@
             "sadExportName":"commander_bear_hud_03",
             "regenerationTimeMinutes":[
                 20,
-                "24",
-                "28",
-                "32",
-                "36",
-                "40",
-                "44",
-                "48"
+                24,
+                28,
+                32,
+                36,
+                40,
+                44,
+                48
             ],
             "housingSpace":null,
             "spawnCount":1,
@@ -465,13 +474,13 @@
             "sadExportName":"commander_egg_tank_hud_03",
             "regenerationTimeMinutes":[
                 20,
-                "24",
-                "28",
-                "32",
-                "36",
-                "40",
-                "44",
-                "48"
+                24,
+                28,
+                32,
+                36,
+                40,
+                44,
+                48
             ],
             "housingSpace":null,
             "spawnCount":1,
@@ -536,16 +545,13 @@
             "spawnCharacters":"Mine",
             "spawnTileOffsetX":[
                 1,
-                "1"
+                1
             ],
             "spawnTileOffsetY":[
                 1,
-                "5"
+                5
             ],
-            "spawnLevelIndex":[
-                0,
-                "0"
-            ],
+            "spawnLevelIndex":0,
             "maxDeployCount":1,
             "editModeOnly":null,
             "upgradeLevelFrom":null,
@@ -1362,8 +1368,18 @@
             "housingSpace":1,
             "spawnCount":4,
             "spawnCharacters":"Soldier",
-            "spawnTileOffsetX":1,
-            "spawnTileOffsetY":1,
+            "spawnTileOffsetX":[
+                1,
+                1,
+                3,
+                3
+            ],
+            "spawnTileOffsetY":[
+                1,
+                3,
+                1,
+                3
+            ],
             "spawnLevelIndex":0,
             "maxDeployCount":null,
             "editModeOnly":null,
@@ -1410,11 +1426,11 @@
             "spawnCharacters":"Shield",
             "spawnTileOffsetX":[
                 1,
-                "1"
+                1
             ],
             "spawnTileOffsetY":[
                 1,
-                "3"
+                3
             ],
             "spawnLevelIndex":0,
             "maxDeployCount":null,
@@ -1508,11 +1524,11 @@
             "spawnCharacters":"Jetpack",
             "spawnTileOffsetX":[
                 1,
-                "1"
+                1
             ],
             "spawnTileOffsetY":[
                 1,
-                "3"
+                3
             ],
             "spawnLevelIndex":0,
             "maxDeployCount":null,
@@ -1629,23 +1645,23 @@
             "spawnCharacters":"Tazer",
             "spawnTileOffsetX":[
                 1,
-                "1",
-                "1",
-                "1",
-                "3",
-                "3",
-                "3",
-                "3"
+                1,
+                1,
+                1,
+                3,
+                3,
+                3,
+                3
             ],
             "spawnTileOffsetY":[
                 1,
-                "3",
-                "5",
-                "7",
-                "1",
-                "3",
-                "5",
-                "7"
+                3,
+                5,
+                7,
+                1,
+                3,
+                5,
+                7
             ],
             "spawnLevelIndex":0,
             "maxDeployCount":null,
@@ -1739,11 +1755,11 @@
             "spawnCharacters":"KungFu",
             "spawnTileOffsetX":[
                 1,
-                "1"
+                1
             ],
             "spawnTileOffsetY":[
                 1,
-                "3"
+                3
             ],
             "spawnLevelIndex":0,
             "maxDeployCount":null,

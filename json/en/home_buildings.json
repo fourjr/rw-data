@@ -4,8 +4,26 @@
         "tID":"HQ",
         "infoTID":"",
         "fileName":"sc\/home_buildings.sc",
-        "exportName":"b_hq_t1_01",
-        "exportNameShadow":"hq_shadow",
+        "exportName":[
+            "b_hq_t1_01",
+            "b_hq_t2_01",
+            "b_hq_t3_01",
+            "b_hq_t4_01",
+            "b_hq_t5_01",
+            "b_hq_t6_01",
+            "b_hq_t7_01",
+            "b_hq_t8_01"
+        ],
+        "exportNameShadow":[
+            "hq_shadow",
+            "hq_shadow",
+            "hq_shadow",
+            "hq_shadow",
+            "hq_shadow",
+            "hq_shadow",
+            "hq_shadow",
+            "hq_shadow"
+        ],
         "exportNameConstruction":null,
         "onWater":null,
         "width":12,
@@ -18,7 +36,16 @@
         "shadowY":null,
         "shadowSkew":null,
         "shadowRotate":null,
-        "maxStoredGold":1000,
+        "maxStoredGold":[
+            1000,
+            2000,
+            10000,
+            40000,
+            80000,
+            120000,
+            200000,
+            300000
+        ],
         "rawTID":"BUILDING_HQ",
         "rawInfoTID":"BUILDING_INFO_HQ"
     },
@@ -92,25 +119,25 @@
         "onWater":null,
         "width":[
             null,
-            "16",
-            "16"
+            16,
+            16
         ],
         "height":11,
         "scale":100,
         "offsetY":[
             null,
-            "15",
-            "16"
+            15,
+            16
         ],
         "shadowScaleX":[
             null,
-            "5000",
-            "5000"
+            5000,
+            5000
         ],
         "shadowScaleY":[
             null,
-            "-105",
-            "-105"
+            -105,
+            -105
         ],
         "shadowX":null,
         "shadowY":null,

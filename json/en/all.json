@@ -4428,9 +4428,30 @@
     "music":[
         {
             "name":"Home",
-            "fileName":"music\/rush_home_test_06.ogg",
-            "volume":35,
-            "loop":true,
+            "fileName":[
+                "music\/rush_home_test_06.ogg",
+                "music\/rush_home_test_07.ogg",
+                "music\/rushtown02.ogg",
+                "music\/rushbase04.ogg",
+                "music\/rush_morehome01.ogg",
+                "music\/rushhomebase01.ogg"
+            ],
+            "volume":[
+                35,
+                35,
+                35,
+                35,
+                35,
+                35
+            ],
+            "loop":[
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+            ],
             "playCount":null,
             "fadeOutTimeSec":null,
             "durationSec":null
@@ -4447,19 +4468,19 @@
             ],
             "volume":[
                 35,
-                "35",
-                "35",
-                "35",
-                "35",
-                "35"
+                35,
+                35,
+                35,
+                35,
+                35
             ],
             "loop":[
                 true,
-                "TRUE",
-                "TRUE",
-                "TRUE",
-                "TRUE",
-                "TRUE"
+                true,
+                true,
+                true,
+                true,
+                true
             ],
             "playCount":null,
             "fadeOutTimeSec":null,
@@ -4478,21 +4499,21 @@
             ],
             "volume":[
                 35,
-                "35",
-                "35",
-                "35",
-                "35",
-                "35",
-                "35"
+                35,
+                35,
+                35,
+                35,
+                35,
+                35
             ],
             "loop":[
                 true,
-                "TRUE",
-                "TRUE",
-                "TRUE",
-                "TRUE",
-                "TRUE",
-                "TRUE"
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
             ],
             "playCount":null,
             "fadeOutTimeSec":null,
@@ -4587,31 +4608,31 @@
             ],
             "minVolume":[
                 1,
-                "1"
+                1
             ],
             "maxVolume":[
                 1,
-                "1"
+                1
             ],
             "minPitch":[
                 93,
-                "93"
+                93
             ],
             "maxPitch":[
                 107,
-                "107"
+                107
             ],
             "priority":[
                 5,
-                "5"
+                5
             ],
             "maximumByType":[
                 20,
-                "20"
+                20
             ],
             "maxRepeatMs":[
                 30,
-                "30"
+                30
             ],
             "loop":null,
             "playVariationsInSequence":null,
@@ -4631,31 +4652,31 @@
             ],
             "minVolume":[
                 25,
-                "25"
+                25
             ],
             "maxVolume":[
                 40,
-                "40"
+                40
             ],
             "minPitch":[
                 93,
-                "93"
+                93
             ],
             "maxPitch":[
                 107,
-                "107"
+                107
             ],
             "priority":[
                 5,
-                "5"
+                5
             ],
             "maximumByType":[
                 20,
-                "20"
+                20
             ],
             "maxRepeatMs":[
                 30,
-                "30"
+                30
             ],
             "loop":null,
             "playVariationsInSequence":null,
@@ -4955,27 +4976,27 @@
             ],
             "minVolume":[
                 70,
-                "70"
+                70
             ],
             "maxVolume":[
                 70,
-                "70"
+                70
             ],
             "minPitch":[
                 95,
-                "95"
+                95
             ],
             "maxPitch":[
                 105,
-                "105"
+                105
             ],
             "priority":[
                 1,
-                "1"
+                1
             ],
             "maximumByType":[
                 4,
-                "4"
+                4
             ],
             "maxRepeatMs":null,
             "loop":null,
@@ -4996,27 +5017,27 @@
             ],
             "minVolume":[
                 65,
-                "65"
+                65
             ],
             "maxVolume":[
                 65,
-                "65"
+                65
             ],
             "minPitch":[
                 95,
-                "95"
+                95
             ],
             "maxPitch":[
                 105,
-                "105"
+                105
             ],
             "priority":[
                 2,
-                "2"
+                2
             ],
             "maximumByType":[
                 4,
-                "4"
+                4
             ],
             "maxRepeatMs":null,
             "loop":null,
@@ -5057,27 +5078,27 @@
             ],
             "minVolume":[
                 70,
-                "70"
+                70
             ],
             "maxVolume":[
                 70,
-                "70"
+                70
             ],
             "minPitch":[
                 95,
-                "95"
+                95
             ],
             "maxPitch":[
                 105,
-                "105"
+                105
             ],
             "priority":[
                 1,
-                "1"
+                1
             ],
             "maximumByType":[
                 4,
-                "4"
+                4
             ],
             "maxRepeatMs":null,
             "loop":null,
@@ -5178,27 +5199,27 @@
             ],
             "minVolume":[
                 65,
-                "65"
+                65
             ],
             "maxVolume":[
                 65,
-                "65"
+                65
             ],
             "minPitch":[
                 95,
-                "95"
+                95
             ],
             "maxPitch":[
                 105,
-                "105"
+                105
             ],
             "priority":[
                 2,
-                "2"
+                2
             ],
             "maximumByType":[
                 4,
-                "4"
+                4
             ],
             "maxRepeatMs":null,
             "loop":null,
@@ -6961,39 +6982,39 @@
             ],
             "minVolume":[
                 40,
-                "40",
-                "40",
-                "40"
+                40,
+                40,
+                40
             ],
             "maxVolume":[
                 60,
-                "60",
-                "60",
-                "60"
+                60,
+                60,
+                60
             ],
             "minPitch":[
                 90,
-                "90",
-                "90",
-                "90"
+                90,
+                90,
+                90
             ],
             "maxPitch":[
                 110,
-                "110",
-                "110",
-                "110"
+                110,
+                110,
+                110
             ],
             "priority":[
                 1,
-                "1",
-                "1",
-                "1"
+                1,
+                1,
+                1
             ],
             "maximumByType":[
                 3,
-                "3",
-                "3",
-                "3"
+                3,
+                3,
+                3
             ],
             "maxRepeatMs":null,
             "loop":null,
@@ -7235,38 +7256,38 @@
             ],
             "minVolume":[
                 40,
-                "40",
-                "40"
+                40,
+                40
             ],
             "maxVolume":[
                 55,
-                "55",
-                "55"
+                55,
+                55
             ],
             "minPitch":[
                 95,
-                "95",
-                "95"
+                95,
+                95
             ],
             "maxPitch":[
                 105,
-                "105",
-                "105"
+                105,
+                105
             ],
             "priority":[
                 1,
-                "1",
-                "1"
+                1,
+                1
             ],
             "maximumByType":[
                 3,
-                "3",
-                "3"
+                3,
+                3
             ],
             "maxRepeatMs":[
                 300,
-                "300",
-                "300"
+                300,
+                300
             ],
             "loop":null,
             "playVariationsInSequence":null,
@@ -61649,8 +61670,8 @@
             ],
             "forcedCounts":[
                 1,
-                "1",
-                "1"
+                1,
+                1
             ],
             "randomForcedCard":null,
             "randomForcedCounts":null,
@@ -61683,9 +61704,9 @@
             ],
             "randomForcedCounts":[
                 1,
-                "1",
-                "1",
-                "1"
+                1,
+                1,
+                1
             ],
             "openSWF":"sc\/ui_boxes.sc",
             "openExportName":"box_01_battle_open",
@@ -62062,7 +62083,16 @@
             "idleExportName":"commander_marine_hud_01",
             "happyExportName":"commander_marine_hud_02",
             "sadExportName":"commander_marine_hud_03",
-            "regenerationTimeMinutes":20,
+            "regenerationTimeMinutes":[
+                20,
+                24,
+                28,
+                32,
+                36,
+                40,
+                44,
+                48
+            ],
             "housingSpace":null,
             "spawnCount":1,
             "spawnCharacters":"EliteSoldier",
@@ -62099,13 +62129,13 @@
             "sadExportName":"commander_grenademama_hud_03",
             "regenerationTimeMinutes":[
                 20,
-                "24",
-                "28",
-                "32",
-                "36",
-                "40",
-                "44",
-                "48"
+                24,
+                28,
+                32,
+                36,
+                40,
+                44,
+                48
             ],
             "housingSpace":null,
             "spawnCount":1,
@@ -62143,13 +62173,13 @@
             "sadExportName":"commander_dino_hud_03",
             "regenerationTimeMinutes":[
                 20,
-                "24",
-                "28",
-                "32",
-                "36",
-                "40",
-                "44",
-                "48"
+                24,
+                28,
+                32,
+                36,
+                40,
+                44,
+                48
             ],
             "housingSpace":null,
             "spawnCount":1,
@@ -62187,13 +62217,13 @@
             "sadExportName":"commander_bear_hud_03",
             "regenerationTimeMinutes":[
                 20,
-                "24",
-                "28",
-                "32",
-                "36",
-                "40",
-                "44",
-                "48"
+                24,
+                28,
+                32,
+                36,
+                40,
+                44,
+                48
             ],
             "housingSpace":null,
             "spawnCount":1,
@@ -62231,13 +62261,13 @@
             "sadExportName":"commander_egg_tank_hud_03",
             "regenerationTimeMinutes":[
                 20,
-                "24",
-                "28",
-                "32",
-                "36",
-                "40",
-                "44",
-                "48"
+                24,
+                28,
+                32,
+                36,
+                40,
+                44,
+                48
             ],
             "housingSpace":null,
             "spawnCount":1,
@@ -62324,16 +62354,13 @@
             "spawnCharacters":"Mine",
             "spawnTileOffsetX":[
                 1,
-                "1"
+                1
             ],
             "spawnTileOffsetY":[
                 1,
-                "5"
+                5
             ],
-            "spawnLevelIndex":[
-                0,
-                "0"
-            ],
+            "spawnLevelIndex":0,
             "maxDeployCount":1,
             "editModeOnly":null,
             "upgradeLevelFrom":null,
@@ -63343,8 +63370,8 @@
             "stringArray":null,
             "numberArray":[
                 50,
-                "75",
-                "100"
+                75,
+                100
             ]
         },
         {
@@ -63439,14 +63466,14 @@
             "stringArray":null,
             "numberArray":[
                 0,
-                "400",
-                "800",
-                "1200",
-                "1600",
-                "2000",
-                "2500",
-                "3000",
-                "3300"
+                400,
+                800,
+                1200,
+                1600,
+                2000,
+                2500,
+                3000,
+                3300
             ]
         },
         {
@@ -63457,14 +63484,14 @@
             "stringArray":null,
             "numberArray":[
                 0,
-                "35",
-                "60",
-                "75",
-                "83",
-                "88",
-                "94",
-                "98",
-                "100"
+                35,
+                60,
+                75,
+                83,
+                88,
+                94,
+                98,
+                100
             ]
         },
         {
@@ -63571,10 +63598,10 @@
             "stringArray":null,
             "numberArray":[
                 50,
-                "25",
-                "12",
-                "10",
-                "3"
+                25,
+                12,
+                10,
+                3
             ]
         },
         {
@@ -63801,28 +63828,28 @@
             "stringArray":null,
             "numberArray":[
                 0,
-                "200",
-                "400",
-                "600",
-                "800",
-                "1000",
-                "1200",
-                "1400",
-                "1600",
-                "1800",
-                "2000",
-                "2200",
-                "2400",
-                "2600",
-                "2800",
-                "3000",
-                "3200",
-                "3400",
-                "3600",
-                "3800",
-                "4000",
-                "4300",
-                "4600"
+                200,
+                400,
+                600,
+                800,
+                1000,
+                1200,
+                1400,
+                1600,
+                1800,
+                2000,
+                2200,
+                2400,
+                2600,
+                2800,
+                3000,
+                3200,
+                3400,
+                3600,
+                3800,
+                4000,
+                4300,
+                4600
             ]
         },
         {
@@ -64148,43 +64175,43 @@
             "stringArray":null,
             "numberArray":[
                 0,
-                "200",
-                "400",
-                "600",
-                "800",
-                "1000",
-                "1100",
-                "1200",
-                "1300",
-                "1400",
-                "1500",
-                "1600",
-                "1700",
-                "1800",
-                "1900",
-                "2000",
-                "2100",
-                "2200",
-                "2300",
-                "2400",
-                "2500",
-                "2600",
-                "2700",
-                "2800",
-                "2900",
-                "3000",
-                "3100",
-                "3200",
-                "3300",
-                "3400",
-                "3500",
-                "3600",
-                "3700",
-                "3800",
-                "3900",
-                "4000",
-                "4100",
-                "4200"
+                200,
+                400,
+                600,
+                800,
+                1000,
+                1100,
+                1200,
+                1300,
+                1400,
+                1500,
+                1600,
+                1700,
+                1800,
+                1900,
+                2000,
+                2100,
+                2200,
+                2300,
+                2400,
+                2500,
+                2600,
+                2700,
+                2800,
+                2900,
+                3000,
+                3100,
+                3200,
+                3300,
+                3400,
+                3500,
+                3600,
+                3700,
+                3800,
+                3900,
+                4000,
+                4100,
+                4200
             ]
         },
         {
@@ -64291,16 +64318,16 @@
             "stringArray":null,
             "numberArray":[
                 100,
-                "150",
-                "200",
-                "275",
-                "350",
-                "425",
-                "500",
-                "600",
-                "750",
-                "900",
-                "1000"
+                150,
+                200,
+                275,
+                350,
+                425,
+                500,
+                600,
+                750,
+                900,
+                1000
             ]
         },
         {
@@ -64318,30 +64345,13 @@
             "textValue":null,
             "stringArray":null,
             "numberArray":[
+                0,
                 2,
-                "0",
-                "0",
-                "0",
-                "2",
-                "0",
-                "0",
-                "2",
-                "0",
-                "0",
-                "0",
-                "4",
-                "0",
-                "0",
-                "0",
-                "2",
-                "0",
-                "0",
-                "2",
-                "2",
-                "0",
-                "0",
-                "0",
-                "0"
+                2,
+                4,
+                2,
+                2,
+                2
             ]
         },
         {
@@ -64630,8 +64640,26 @@
             "tID":"HQ",
             "infoTID":"",
             "fileName":"sc\/home_buildings.sc",
-            "exportName":"b_hq_t1_01",
-            "exportNameShadow":"hq_shadow",
+            "exportName":[
+                "b_hq_t1_01",
+                "b_hq_t2_01",
+                "b_hq_t3_01",
+                "b_hq_t4_01",
+                "b_hq_t5_01",
+                "b_hq_t6_01",
+                "b_hq_t7_01",
+                "b_hq_t8_01"
+            ],
+            "exportNameShadow":[
+                "hq_shadow",
+                "hq_shadow",
+                "hq_shadow",
+                "hq_shadow",
+                "hq_shadow",
+                "hq_shadow",
+                "hq_shadow",
+                "hq_shadow"
+            ],
             "exportNameConstruction":null,
             "onWater":null,
             "width":12,
@@ -64644,7 +64672,16 @@
             "shadowY":null,
             "shadowSkew":null,
             "shadowRotate":null,
-            "maxStoredGold":1000,
+            "maxStoredGold":[
+                1000,
+                2000,
+                10000,
+                40000,
+                80000,
+                120000,
+                200000,
+                300000
+            ],
             "rawTID":"BUILDING_HQ",
             "rawInfoTID":"BUILDING_INFO_HQ"
         },
@@ -64718,25 +64755,25 @@
             "onWater":null,
             "width":[
                 null,
-                "16",
-                "16"
+                16,
+                16
             ],
             "height":11,
             "scale":100,
             "offsetY":[
                 null,
-                "15",
-                "16"
+                15,
+                16
             ],
             "shadowScaleX":[
                 null,
-                "5000",
-                "5000"
+                5000,
+                5000
             ],
             "shadowScaleY":[
                 null,
-                "-105",
-                "-105"
+                -105,
+                -105
             ],
             "shadowX":null,
             "shadowY":null,
@@ -94430,10 +94467,91 @@
             "relativeLevel":0,
             "chance":1,
             "goldValue":5,
-            "upgradeCards":2,
-            "upgradeCost":20,
-            "upgradePlayerExp":5,
-            "powerMultiplier":100,
+            "upgradeCards":[
+                2,
+                4,
+                6,
+                10,
+                20,
+                40,
+                60,
+                80,
+                100,
+                150,
+                200,
+                300,
+                400,
+                600,
+                800,
+                1000,
+                2000,
+                3000,
+                4000
+            ],
+            "upgradeCost":[
+                20,
+                40,
+                60,
+                80,
+                100,
+                150,
+                200,
+                300,
+                400,
+                600,
+                800,
+                1000,
+                1500,
+                3000,
+                6000,
+                10000,
+                20000,
+                50000,
+                100000
+            ],
+            "upgradePlayerExp":[
+                5,
+                10,
+                20,
+                30,
+                40,
+                50,
+                60,
+                80,
+                100,
+                150,
+                200,
+                250,
+                300,
+                400,
+                500,
+                600,
+                800,
+                1200,
+                2400
+            ],
+            "powerMultiplier":[
+                100,
+                110,
+                120,
+                130,
+                140,
+                150,
+                160,
+                170,
+                180,
+                190,
+                200,
+                210,
+                220,
+                230,
+                240,
+                250,
+                260,
+                270,
+                280,
+                290
+            ],
             "red":224,
             "green":182,
             "blue":138,
@@ -94449,75 +94567,72 @@
             "goldValue":50,
             "upgradeCards":[
                 2,
-                "4",
-                "6",
-                "10",
-                "20",
-                "40",
-                "60",
-                "80",
-                "100",
-                "150",
-                "200",
-                "300",
-                "400",
-                "600",
-                "800",
-                "0"
+                4,
+                6,
+                10,
+                20,
+                40,
+                60,
+                80,
+                100,
+                150,
+                200,
+                300,
+                400,
+                600,
+                800
             ],
             "upgradeCost":[
                 100,
-                "150",
-                "200",
-                "300",
-                "400",
-                "600",
-                "800",
-                "1000",
-                "1500",
-                "3000",
-                "6000",
-                "10000",
-                "20000",
-                "50000",
-                "100000",
-                "0"
+                150,
+                200,
+                300,
+                400,
+                600,
+                800,
+                1000,
+                1500,
+                3000,
+                6000,
+                10000,
+                20000,
+                50000,
+                100000
             ],
             "upgradePlayerExp":[
                 40,
-                "50",
-                "60",
-                "80",
-                "100",
-                "150",
-                "200",
-                "250",
-                "300",
-                "400",
-                "500",
-                "600",
-                "800",
-                "1200",
-                "2400",
-                "0"
+                50,
+                60,
+                80,
+                100,
+                150,
+                200,
+                250,
+                300,
+                400,
+                500,
+                600,
+                800,
+                1200,
+                2400
             ],
             "powerMultiplier":[
                 100,
-                "110",
-                "120",
-                "130",
-                "140",
-                "150",
-                "160",
-                "170",
-                "180",
-                "190",
-                "200",
-                "210",
-                "220",
-                "230",
-                "240",
-                "250"
+                110,
+                120,
+                130,
+                140,
+                150,
+                160,
+                170,
+                180,
+                190,
+                200,
+                210,
+                220,
+                230,
+                240,
+                250
             ],
             "red":153,
             "green":255,
@@ -94534,59 +94649,56 @@
             "goldValue":1000,
             "upgradeCards":[
                 2,
-                "4",
-                "6",
-                "10",
-                "20",
-                "40",
-                "60",
-                "80",
-                "100",
-                "150",
-                "200",
-                "0"
+                4,
+                6,
+                10,
+                20,
+                40,
+                60,
+                80,
+                100,
+                150,
+                200
             ],
             "upgradeCost":[
                 400,
-                "600",
-                "800",
-                "1000",
-                "1500",
-                "3000",
-                "6000",
-                "10000",
-                "20000",
-                "50000",
-                "100000",
-                "0"
+                600,
+                800,
+                1000,
+                1500,
+                3000,
+                6000,
+                10000,
+                20000,
+                50000,
+                100000
             ],
             "upgradePlayerExp":[
                 100,
-                "150",
-                "200",
-                "250",
-                "300",
-                "400",
-                "500",
-                "600",
-                "800",
-                "1200",
-                "2400",
-                "0"
+                150,
+                200,
+                250,
+                300,
+                400,
+                500,
+                600,
+                800,
+                1200,
+                2400
             ],
             "powerMultiplier":[
                 100,
-                "110",
-                "120",
-                "130",
-                "140",
-                "150",
-                "160",
-                "170",
-                "180",
-                "190",
-                "200",
-                "210"
+                110,
+                120,
+                130,
+                140,
+                150,
+                160,
+                170,
+                180,
+                190,
+                200,
+                210
             ],
             "red":203,
             "green":154,
@@ -94603,43 +94715,40 @@
             "goldValue":20000,
             "upgradeCards":[
                 2,
-                "4",
-                "6",
-                "10",
-                "20",
-                "40",
-                "60",
-                "0"
+                4,
+                6,
+                10,
+                20,
+                40,
+                60
             ],
             "upgradeCost":[
                 1500,
-                "3000",
-                "6000",
-                "10000",
-                "20000",
-                "50000",
-                "100000",
-                "0"
+                3000,
+                6000,
+                10000,
+                20000,
+                50000,
+                100000
             ],
             "upgradePlayerExp":[
                 300,
-                "400",
-                "500",
-                "600",
-                "800",
-                "1200",
-                "2400",
-                "0"
+                400,
+                500,
+                600,
+                800,
+                1200,
+                2400
             ],
             "powerMultiplier":[
                 100,
-                "110",
-                "120",
-                "130",
-                "140",
-                "150",
-                "160",
-                "170"
+                110,
+                120,
+                130,
+                140,
+                150,
+                160,
+                170
             ],
             "red":255,
             "green":255,
@@ -97009,8 +97118,18 @@
             "housingSpace":1,
             "spawnCount":4,
             "spawnCharacters":"Soldier",
-            "spawnTileOffsetX":1,
-            "spawnTileOffsetY":1,
+            "spawnTileOffsetX":[
+                1,
+                1,
+                3,
+                3
+            ],
+            "spawnTileOffsetY":[
+                1,
+                3,
+                1,
+                3
+            ],
             "spawnLevelIndex":0,
             "maxDeployCount":null,
             "editModeOnly":null,
@@ -97057,11 +97176,11 @@
             "spawnCharacters":"Shield",
             "spawnTileOffsetX":[
                 1,
-                "1"
+                1
             ],
             "spawnTileOffsetY":[
                 1,
-                "3"
+                3
             ],
             "spawnLevelIndex":0,
             "maxDeployCount":null,
@@ -97155,11 +97274,11 @@
             "spawnCharacters":"Jetpack",
             "spawnTileOffsetX":[
                 1,
-                "1"
+                1
             ],
             "spawnTileOffsetY":[
                 1,
-                "3"
+                3
             ],
             "spawnLevelIndex":0,
             "maxDeployCount":null,
@@ -97276,23 +97395,23 @@
             "spawnCharacters":"Tazer",
             "spawnTileOffsetX":[
                 1,
-                "1",
-                "1",
-                "1",
-                "3",
-                "3",
-                "3",
-                "3"
+                1,
+                1,
+                1,
+                3,
+                3,
+                3,
+                3
             ],
             "spawnTileOffsetY":[
                 1,
-                "3",
-                "5",
-                "7",
-                "1",
-                "3",
-                "5",
-                "7"
+                3,
+                5,
+                7,
+                1,
+                3,
+                5,
+                7
             ],
             "spawnLevelIndex":0,
             "maxDeployCount":null,
@@ -97386,11 +97505,11 @@
             "spawnCharacters":"KungFu",
             "spawnTileOffsetX":[
                 1,
-                "1"
+                1
             ],
             "spawnTileOffsetY":[
                 1,
-                "3"
+                3
             ],
             "spawnLevelIndex":0,
             "maxDeployCount":null,
