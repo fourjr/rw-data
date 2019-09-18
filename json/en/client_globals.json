@@ -1055,7 +1055,7 @@
     },
     {
         "name":"PHONE_BOOTH_TIPS",
-        "numberValue":29,
+        "numberValue":33,
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
@@ -1081,6 +1081,22 @@
         "name":"APP_RATE_XP_REQUIRED",
         "numberValue":3,
         "booleanValue":null,
+        "textValue":null,
+        "stringArray":null,
+        "numberArray":null
+    },
+    {
+        "name":"SHOW_EXP_THRESHOLD_CHANGE_INFO_POPUP",
+        "numberValue":null,
+        "booleanValue":false,
+        "textValue":null,
+        "stringArray":null,
+        "numberArray":null
+    },
+    {
+        "name":"SEND_APP_RECEIPT_ON_LOGIN",
+        "numberValue":null,
+        "booleanValue":true,
         "textValue":null,
         "stringArray":null,
         "numberArray":null

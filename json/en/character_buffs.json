@@ -633,7 +633,7 @@
         "chainedBuff":null
     },
     {
-        "name":"BerserkRage",
+        "name":"EliteGrenadeBerserk",
         "tID":"RAGE",
         "iconFileName":null,
         "iconExportName":null,

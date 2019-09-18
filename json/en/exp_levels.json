@@ -8,169 +8,344 @@
     },
     {
         "name":2,
-        "expToNextLevel":100,
+        "expToNextLevel":50,
         "maxHQLevel":2,
         "goldReward":0,
         "gemReward":10
     },
     {
         "name":3,
-        "expToNextLevel":200,
+        "expToNextLevel":100,
         "maxHQLevel":2,
         "goldReward":0,
         "gemReward":10
     },
     {
         "name":4,
-        "expToNextLevel":400,
+        "expToNextLevel":200,
         "maxHQLevel":3,
         "goldReward":0,
         "gemReward":10
     },
     {
         "name":5,
-        "expToNextLevel":800,
+        "expToNextLevel":400,
         "maxHQLevel":3,
         "goldReward":0,
         "gemReward":10
     },
     {
         "name":6,
-        "expToNextLevel":2000,
+        "expToNextLevel":800,
         "maxHQLevel":4,
         "goldReward":0,
         "gemReward":10
     },
     {
         "name":7,
-        "expToNextLevel":4000,
+        "expToNextLevel":1000,
         "maxHQLevel":4,
         "goldReward":0,
         "gemReward":10
     },
     {
         "name":8,
-        "expToNextLevel":8000,
+        "expToNextLevel":2000,
         "maxHQLevel":5,
         "goldReward":0,
         "gemReward":10
     },
     {
         "name":9,
-        "expToNextLevel":12000,
+        "expToNextLevel":4000,
         "maxHQLevel":5,
         "goldReward":0,
         "gemReward":10
     },
     {
         "name":10,
-        "expToNextLevel":16000,
+        "expToNextLevel":5000,
         "maxHQLevel":6,
         "goldReward":0,
         "gemReward":20
     },
     {
         "name":11,
-        "expToNextLevel":20000,
+        "expToNextLevel":6000,
         "maxHQLevel":6,
         "goldReward":0,
         "gemReward":20
     },
     {
         "name":12,
-        "expToNextLevel":24000,
+        "expToNextLevel":8000,
         "maxHQLevel":7,
         "goldReward":0,
         "gemReward":20
     },
     {
         "name":13,
-        "expToNextLevel":28000,
+        "expToNextLevel":10000,
         "maxHQLevel":7,
         "goldReward":0,
         "gemReward":20
     },
     {
         "name":14,
-        "expToNextLevel":32000,
+        "expToNextLevel":12000,
         "maxHQLevel":8,
         "goldReward":0,
         "gemReward":20
     },
     {
         "name":15,
-        "expToNextLevel":36000,
+        "expToNextLevel":14000,
         "maxHQLevel":8,
         "goldReward":0,
         "gemReward":20
     },
     {
         "name":16,
-        "expToNextLevel":40000,
-        "maxHQLevel":8,
+        "expToNextLevel":16000,
+        "maxHQLevel":9,
         "goldReward":0,
         "gemReward":20
     },
     {
         "name":17,
-        "expToNextLevel":42000,
-        "maxHQLevel":8,
+        "expToNextLevel":18000,
+        "maxHQLevel":9,
         "goldReward":0,
         "gemReward":20
     },
     {
         "name":18,
-        "expToNextLevel":44000,
-        "maxHQLevel":8,
+        "expToNextLevel":20000,
+        "maxHQLevel":10,
         "goldReward":0,
         "gemReward":20
     },
     {
         "name":19,
-        "expToNextLevel":46000,
-        "maxHQLevel":8,
+        "expToNextLevel":22000,
+        "maxHQLevel":10,
         "goldReward":0,
         "gemReward":20
     },
     {
         "name":20,
-        "expToNextLevel":48000,
-        "maxHQLevel":8,
+        "expToNextLevel":24000,
+        "maxHQLevel":10,
         "goldReward":0,
         "gemReward":20
     },
     {
         "name":21,
-        "expToNextLevel":50000,
-        "maxHQLevel":8,
+        "expToNextLevel":26000,
+        "maxHQLevel":10,
         "goldReward":0,
         "gemReward":20
     },
     {
         "name":22,
-        "expToNextLevel":52000,
-        "maxHQLevel":8,
+        "expToNextLevel":28000,
+        "maxHQLevel":10,
         "goldReward":0,
         "gemReward":20
     },
     {
         "name":23,
-        "expToNextLevel":54000,
-        "maxHQLevel":8,
+        "expToNextLevel":30000,
+        "maxHQLevel":10,
         "goldReward":0,
         "gemReward":20
     },
     {
         "name":24,
-        "expToNextLevel":56000,
-        "maxHQLevel":8,
+        "expToNextLevel":32000,
+        "maxHQLevel":10,
         "goldReward":0,
         "gemReward":20
     },
     {
         "name":25,
+        "expToNextLevel":34000,
+        "maxHQLevel":10,
+        "goldReward":0,
+        "gemReward":20
+    },
+    {
+        "name":26,
+        "expToNextLevel":36000,
+        "maxHQLevel":10,
+        "goldReward":0,
+        "gemReward":20
+    },
+    {
+        "name":27,
+        "expToNextLevel":38000,
+        "maxHQLevel":10,
+        "goldReward":0,
+        "gemReward":20
+    },
+    {
+        "name":28,
+        "expToNextLevel":40000,
+        "maxHQLevel":10,
+        "goldReward":0,
+        "gemReward":20
+    },
+    {
+        "name":29,
+        "expToNextLevel":42000,
+        "maxHQLevel":10,
+        "goldReward":0,
+        "gemReward":20
+    },
+    {
+        "name":30,
+        "expToNextLevel":44000,
+        "maxHQLevel":10,
+        "goldReward":0,
+        "gemReward":20
+    },
+    {
+        "name":31,
+        "expToNextLevel":46000,
+        "maxHQLevel":10,
+        "goldReward":0,
+        "gemReward":20
+    },
+    {
+        "name":32,
+        "expToNextLevel":48000,
+        "maxHQLevel":10,
+        "goldReward":0,
+        "gemReward":20
+    },
+    {
+        "name":33,
+        "expToNextLevel":50000,
+        "maxHQLevel":10,
+        "goldReward":0,
+        "gemReward":20
+    },
+    {
+        "name":34,
+        "expToNextLevel":52000,
+        "maxHQLevel":10,
+        "goldReward":0,
+        "gemReward":20
+    },
+    {
+        "name":35,
+        "expToNextLevel":54000,
+        "maxHQLevel":10,
+        "goldReward":0,
+        "gemReward":20
+    },
+    {
+        "name":36,
+        "expToNextLevel":56000,
+        "maxHQLevel":10,
+        "goldReward":0,
+        "gemReward":20
+    },
+    {
+        "name":37,
+        "expToNextLevel":58000,
+        "maxHQLevel":10,
+        "goldReward":0,
+        "gemReward":20
+    },
+    {
+        "name":38,
+        "expToNextLevel":60000,
+        "maxHQLevel":10,
+        "goldReward":0,
+        "gemReward":20
+    },
+    {
+        "name":39,
+        "expToNextLevel":62000,
+        "maxHQLevel":10,
+        "goldReward":0,
+        "gemReward":20
+    },
+    {
+        "name":40,
+        "expToNextLevel":64000,
+        "maxHQLevel":10,
+        "goldReward":0,
+        "gemReward":20
+    },
+    {
+        "name":41,
+        "expToNextLevel":66000,
+        "maxHQLevel":10,
+        "goldReward":0,
+        "gemReward":20
+    },
+    {
+        "name":42,
+        "expToNextLevel":68000,
+        "maxHQLevel":10,
+        "goldReward":0,
+        "gemReward":20
+    },
+    {
+        "name":43,
+        "expToNextLevel":70000,
+        "maxHQLevel":10,
+        "goldReward":0,
+        "gemReward":20
+    },
+    {
+        "name":44,
+        "expToNextLevel":72000,
+        "maxHQLevel":10,
+        "goldReward":0,
+        "gemReward":20
+    },
+    {
+        "name":45,
+        "expToNextLevel":74000,
+        "maxHQLevel":10,
+        "goldReward":0,
+        "gemReward":20
+    },
+    {
+        "name":46,
+        "expToNextLevel":76000,
+        "maxHQLevel":10,
+        "goldReward":0,
+        "gemReward":20
+    },
+    {
+        "name":47,
+        "expToNextLevel":78000,
+        "maxHQLevel":10,
+        "goldReward":0,
+        "gemReward":20
+    },
+    {
+        "name":48,
+        "expToNextLevel":80000,
+        "maxHQLevel":10,
+        "goldReward":0,
+        "gemReward":20
+    },
+    {
+        "name":49,
+        "expToNextLevel":82000,
+        "maxHQLevel":10,
+        "goldReward":0,
+        "gemReward":20
+    },
+    {
+        "name":50,
         "expToNextLevel":0,
-        "maxHQLevel":8,
+        "maxHQLevel":10,
         "goldReward":0,
         "gemReward":20
     }

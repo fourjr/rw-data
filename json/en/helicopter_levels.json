@@ -12,7 +12,7 @@
     {
         "name":2,
         "tID":"CHOPPER \u2013 LEVEL 2",
-        "upgradeGold":500,
+        "upgradeGold":250,
         "attackHousing":5,
         "airdropHousing":1,
         "defenceHousing":5,
@@ -22,7 +22,7 @@
     {
         "name":3,
         "tID":"CHOPPER \u2013 LEVEL 3",
-        "upgradeGold":5000,
+        "upgradeGold":2500,
         "attackHousing":6,
         "airdropHousing":1,
         "defenceHousing":7,
@@ -35,7 +35,7 @@
     {
         "name":4,
         "tID":"CHOPPER \u2013 LEVEL 4",
-        "upgradeGold":20000,
+        "upgradeGold":5000,
         "attackHousing":6,
         "airdropHousing":1,
         "defenceHousing":9,
@@ -48,7 +48,7 @@
     {
         "name":5,
         "tID":"CHOPPER \u2013 LEVEL 5",
-        "upgradeGold":40000,
+        "upgradeGold":10000,
         "attackHousing":7,
         "airdropHousing":2,
         "defenceHousing":10,
@@ -61,7 +61,7 @@
     {
         "name":6,
         "tID":"CHOPPER \u2013 LEVEL 6",
-        "upgradeGold":60000,
+        "upgradeGold":20000,
         "attackHousing":8,
         "airdropHousing":2,
         "defenceHousing":11,
@@ -75,7 +75,7 @@
     {
         "name":7,
         "tID":"CHOPPER \u2013 LEVEL 7",
-        "upgradeGold":100000,
+        "upgradeGold":50000,
         "attackHousing":9,
         "airdropHousing":2,
         "defenceHousing":12,

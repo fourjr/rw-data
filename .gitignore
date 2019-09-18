@@ -102,4 +102,7 @@ ENV/
 # custom
 .vscode/
 config.yml
+
+# locations
 imagegen.py
+export/

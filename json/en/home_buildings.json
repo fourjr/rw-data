@@ -12,9 +12,13 @@
             "b_hq_t5_01",
             "b_hq_t6_01",
             "b_hq_t7_01",
-            "b_hq_t8_01"
+            "b_hq_t8_01",
+            "b_hq_t9_01",
+            "b_hq_t10_01"
         ],
         "exportNameShadow":[
+            "hq_shadow",
+            "hq_shadow",
             "hq_shadow",
             "hq_shadow",
             "hq_shadow",
@@ -37,14 +41,16 @@
         "shadowSkew":null,
         "shadowRotate":null,
         "maxStoredGold":[
-            1000,
             2000,
-            10000,
+            5000,
+            20000,
             40000,
             80000,
             120000,
             200000,
-            300000
+            300000,
+            400000,
+            500000
         ],
         "rawTID":"BUILDING_HQ",
         "rawInfoTID":"BUILDING_INFO_HQ"
@@ -103,9 +109,13 @@
             "b_researchcenter_t5_01",
             "b_researchcenter_t6_01",
             "b_researchcenter_t7_01",
+            "b_researchcenter_t8_01",
+            "b_researchcenter_t8_01",
             "b_researchcenter_t8_01"
         ],
         "exportNameShadow":[
+            "researchcenter_shadow",
+            "researchcenter_shadow",
             "researchcenter_shadow",
             "researchcenter_shadow",
             "researchcenter_shadow",
@@ -117,28 +127,12 @@
         ],
         "exportNameConstruction":null,
         "onWater":null,
-        "width":[
-            null,
-            16,
-            16
-        ],
+        "width":9,
         "height":11,
         "scale":100,
-        "offsetY":[
-            null,
-            15,
-            16
-        ],
-        "shadowScaleX":[
-            null,
-            5000,
-            5000
-        ],
-        "shadowScaleY":[
-            null,
-            -105,
-            -105
-        ],
+        "offsetY":15,
+        "shadowScaleX":100,
+        "shadowScaleY":-105,
         "shadowX":null,
         "shadowY":null,
         "shadowSkew":null,

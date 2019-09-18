@@ -67,7 +67,7 @@
         "name":"Forest_7",
         "fileName":"locations\/forest_7.loc.json",
         "environment":"Forest",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -83,7 +83,7 @@
         "name":"Forest_9",
         "fileName":"locations\/forest_9.loc.json",
         "environment":"Forest",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -91,7 +91,7 @@
         "name":"Forest_10",
         "fileName":"locations\/forest_10.loc.json",
         "environment":"Forest",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -355,7 +355,7 @@
         "name":"Megacity_03",
         "fileName":"locations\/megacity_03.loc.json",
         "environment":"Megacity",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -467,7 +467,7 @@
         "name":"Desert_7",
         "fileName":"locations\/desert_7.loc.json",
         "environment":"Desert",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -483,7 +483,7 @@
         "name":"Desert_9",
         "fileName":"locations\/desert_9.loc.json",
         "environment":"Desert",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -515,7 +515,7 @@
         "name":"Megacity_06",
         "fileName":"locations\/megacity_06.loc.json",
         "environment":"Megacity",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -538,6 +538,86 @@
     {
         "name":"Megacity_09",
         "fileName":"locations\/megacity_09.loc.json",
+        "environment":"Megacity",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Megacity_17",
+        "fileName":"locations\/megacity_17.loc.json",
+        "environment":"Megacity",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Megacity_18",
+        "fileName":"locations\/megacity_18.loc.json",
+        "environment":"Megacity",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Megacity_19",
+        "fileName":"locations\/megacity_19.loc.json",
+        "environment":"Megacity",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Forest_37",
+        "fileName":"locations\/forest_37.loc.json",
+        "environment":"Forest",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Forest_39",
+        "fileName":"locations\/forest_39.loc.json",
+        "environment":"Forest",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Forest_40",
+        "fileName":"locations\/forest_40.loc.json",
+        "environment":"Forest",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Desert_27",
+        "fileName":"locations\/desert_27.loc.json",
+        "environment":"Desert",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Desert_29",
+        "fileName":"locations\/desert_29.loc.json",
+        "environment":"Desert",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Megacity_23",
+        "fileName":"locations\/megacity_23.loc.json",
+        "environment":"Megacity",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Megacity_26",
+        "fileName":"locations\/megacity_26.loc.json",
         "environment":"Megacity",
         "canCapture":true,
         "domination":null,

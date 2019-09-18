@@ -248,5 +248,50 @@
         "name":"LootLimitCounter",
         "value":null,
         "scId":7000049
+    },
+    {
+        "name":"Version",
+        "value":null,
+        "scId":7000050
+    },
+    {
+        "name":"CardResetsSinceChest",
+        "value":null,
+        "scId":7000051
+    },
+    {
+        "name":"NewUnitsPending",
+        "value":null,
+        "scId":7000052
+    },
+    {
+        "name":"CardN",
+        "value":null,
+        "scId":7000053
+    },
+    {
+        "name":"FREE_SLOT_0",
+        "value":null,
+        "scId":7000054
+    },
+    {
+        "name":"OutpostNeedsConfirm",
+        "value":null,
+        "scId":7000055
+    },
+    {
+        "name":"OutpostRerolls",
+        "value":null,
+        "scId":7000056
+    },
+    {
+        "name":"NewUnitsChestCounter",
+        "value":null,
+        "scId":7000057
+    },
+    {
+        "name":"NewDefenceUnitsPending",
+        "value":null,
+        "scId":7000058
     }
 ]

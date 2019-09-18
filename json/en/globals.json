@@ -168,14 +168,6 @@
         "numberArray":null
     },
     {
-        "name":"BATTLE_TIME_SECONDS",
-        "numberValue":120,
-        "booleanValue":null,
-        "textValue":null,
-        "stringArray":null,
-        "numberArray":null
-    },
-    {
         "name":"TUTORIAL_NPC_LEVEL_COUNT",
         "numberValue":4,
         "booleanValue":null,
@@ -284,14 +276,22 @@
         "numberArray":null
     },
     {
+        "name":"SHOP_DAILY_DEALS_ENABLED",
+        "numberValue":null,
+        "booleanValue":false,
+        "textValue":null,
+        "stringArray":null,
+        "numberArray":null
+    },
+    {
         "name":"SHOP_DAILY_PACKS",
         "numberValue":null,
         "booleanValue":null,
         "textValue":null,
         "stringArray":[
-            "ShopPack1",
-            "ShopPack2",
-            "ShopPack3"
+            "Shop_Pack1",
+            "Shop_Pack2",
+            "Shop_Pack3"
         ],
         "numberArray":null
     },
@@ -564,14 +564,6 @@
     {
         "name":"EXTRA_SIGHT_RANGE_TO_BUILDING",
         "numberValue":0,
-        "booleanValue":null,
-        "textValue":null,
-        "stringArray":null,
-        "numberArray":null
-    },
-    {
-        "name":"MAX_BATTLE_REWARDS_PER_DAY",
-        "numberValue":20,
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
@@ -957,30 +949,6 @@
         "numberArray":null
     },
     {
-        "name":"LOOT_LIMIT_COOLDOWN_HOURS",
-        "numberValue":4,
-        "booleanValue":null,
-        "textValue":null,
-        "stringArray":null,
-        "numberArray":null
-    },
-    {
-        "name":"LOOT_LIMIT_WINS_PER_DAY",
-        "numberValue":10,
-        "booleanValue":null,
-        "textValue":null,
-        "stringArray":null,
-        "numberArray":null
-    },
-    {
-        "name":"DEFENCE_REWARD_PER_STAR",
-        "numberValue":10,
-        "booleanValue":null,
-        "textValue":null,
-        "stringArray":null,
-        "numberArray":null
-    },
-    {
         "name":"KEY_GENERATION_TIME_MINS",
         "numberValue":60,
         "booleanValue":null,
@@ -1077,7 +1045,7 @@
     },
     {
         "name":"CLAN_RESEARCH_GOAL",
-        "numberValue":10,
+        "numberValue":20,
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
@@ -1101,6 +1069,22 @@
     },
     {
         "name":"CLAN_RESEARCH_MINIMUM_CLAN_SIZE",
+        "numberValue":5,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":null,
+        "numberArray":null
+    },
+    {
+        "name":"CARD_N0",
+        "numberValue":2,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":null,
+        "numberArray":null
+    },
+    {
+        "name":"CARD_N1",
         "numberValue":5,
         "booleanValue":null,
         "textValue":null,
@@ -1313,7 +1297,7 @@
     },
     {
         "name":"GAINED_BATTLE_LOOT_TIME_MINS",
-        "numberValue":360,
+        "numberValue":1440,
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
@@ -1321,7 +1305,7 @@
     },
     {
         "name":"AVAILABLE_BATTLE_LOOT_TIMES",
-        "numberValue":100,
+        "numberValue":200,
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
@@ -1330,7 +1314,7 @@
     {
         "name":"USE_BATTLE_LOOT_LIMIT",
         "numberValue":null,
-        "booleanValue":false,
+        "booleanValue":true,
         "textValue":null,
         "stringArray":null,
         "numberArray":null
@@ -1363,6 +1347,125 @@
         "name":"REFRESH_LEAGUE_ON_GET",
         "numberValue":null,
         "booleanValue":true,
+        "textValue":null,
+        "stringArray":null,
+        "numberArray":null
+    },
+    {
+        "name":"TRAINABLE_UNIT_COUNT",
+        "numberValue":5,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":null,
+        "numberArray":null
+    },
+    {
+        "name":"TRAINABLE_ABILITY_COUNT",
+        "numberValue":3,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":null,
+        "numberArray":null
+    },
+    {
+        "name":"REFRESH_TROOPS_COST",
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":null,
+        "numberArray":[
+            25,
+            50,
+            75,
+            100,
+            150,
+            200,
+            250,
+            300,
+            400,
+            500
+        ]
+    },
+    {
+        "name":"OUTPOST_REFRESH_COST",
+        "numberValue":null,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":null,
+        "numberArray":[
+            100,
+            200,
+            300,
+            500,
+            750,
+            1000,
+            1250,
+            1500,
+            1750,
+            2000,
+            2500
+        ]
+    },
+    {
+        "name":"STEALING_ENABLED",
+        "numberValue":null,
+        "booleanValue":false,
+        "textValue":null,
+        "stringArray":null,
+        "numberArray":null
+    },
+    {
+        "name":"NEW_UNITS_CHEST_GOAL",
+        "numberValue":3,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":null,
+        "numberArray":null
+    },
+    {
+        "name":"ASK_TO_CONFIRM_BASE_EXP",
+        "numberValue":4,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":null,
+        "numberArray":null
+    },
+    {
+        "name":"DEFENCE_TROOP_COUNT",
+        "numberValue":4,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":null,
+        "numberArray":null
+    },
+    {
+        "name":"DEFENCE_BUILDING_COUNT",
+        "numberValue":4,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":null,
+        "numberArray":null
+    },
+    {
+        "name":"CHECKSUM_RAND",
+        "numberValue":null,
+        "booleanValue":true,
+        "textValue":null,
+        "stringArray":null,
+        "numberArray":null
+    },
+    {
+        "name":"EXTRA_GOLD_PER_TROOP_HOUSING",
+        "numberValue":10,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":null,
+        "numberArray":null
+    },
+    {
+        "name":"EXTRA_GOLD_PER_AIRDROP_HOUSING",
+        "numberValue":20,
+        "booleanValue":null,
         "textValue":null,
         "stringArray":null,
         "numberArray":null
