@@ -97756,7 +97756,7 @@
             "shadowFixedAtTargetPos":null,
             "dropDirectly":null,
             "scale":null,
-            "homing":null,
+            "homing":true,
             "splinePath":null,
             "splinePathDuration":null,
             "disableRotate":null,
