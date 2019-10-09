@@ -40,6 +40,7 @@
         "abilityIconExportName":"icon_ability_marine",
         "previewTriggerTime":8500,
         "scId":48000000,
+        "url":"https:\/\/www.rushstats.com\/assets\/commander\/Coach.png",
         "rawTID":"COMMNADER_CARD_SOLDIER",
         "rawInfoTID":"COMMNADER_CARD_INFO_SOLDIER"
     },
@@ -84,6 +85,7 @@
         "abilityIconExportName":"icon_ability_grenade_mama",
         "previewTriggerTime":3000,
         "scId":48000008,
+        "url":"https:\/\/www.rushstats.com\/assets\/commander\/Lady-Grenade.png",
         "rawTID":"COMMANDER_CARD_GRENADE",
         "rawInfoTID":"COMMANDER_CARD_INFO_GRENADE"
     },
@@ -128,6 +130,7 @@
         "abilityIconExportName":"icon_ability_dino",
         "previewTriggerTime":12000,
         "scId":48000016,
+        "url":"https:\/\/www.rushstats.com\/assets\/commander\/B.I.G..png",
         "rawTID":"COMMNADER_CARD_DINO",
         "rawInfoTID":"COMMNADER_CARD_INFO_DINO"
     },
@@ -172,6 +175,7 @@
         "abilityIconExportName":"icon_ability_bear",
         "previewTriggerTime":2000,
         "scId":48000024,
+        "url":"https:\/\/www.rushstats.com\/assets\/commander\/Bearman.png",
         "rawTID":"COMMNADER_CARD_BEARMAN",
         "rawInfoTID":"COMMNADER_CARD_INFO_BEARMAN"
     },
@@ -216,6 +220,7 @@
         "abilityIconExportName":"icon_ability_eggtank",
         "previewTriggerTime":1000,
         "scId":48000032,
+        "url":"https:\/\/www.rushstats.com\/assets\/commander\/Mother.png",
         "rawTID":"COMMNADER_CARD_EGGMACHINE",
         "rawInfoTID":"COMMNADER_CARD_INFO_EGGMACHINE"
     }

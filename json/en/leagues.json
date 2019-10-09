@@ -14,6 +14,10 @@
         "seasonReset":null,
         "starEXP":1,
         "hqLimit":1,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/No-League.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/No-League.png"
+        ],
         "rawTID":"NO_LEAGUE"
     },
     {
@@ -31,6 +35,10 @@
         "seasonReset":null,
         "starEXP":1,
         "hqLimit":1,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Rookie.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/1.png"
+        ],
         "rawTID":"LEAGUE1_1"
     },
     {
@@ -48,6 +56,10 @@
         "seasonReset":null,
         "starEXP":1,
         "hqLimit":1,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Rookie.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/2.png"
+        ],
         "rawTID":"LEAGUE1_2"
     },
     {
@@ -65,6 +77,10 @@
         "seasonReset":null,
         "starEXP":1,
         "hqLimit":1,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Rookie.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/3.png"
+        ],
         "rawTID":"LEAGUE1_3"
     },
     {
@@ -82,6 +98,10 @@
         "seasonReset":null,
         "starEXP":2,
         "hqLimit":1,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Bronze.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/1.png"
+        ],
         "rawTID":"LEAGUE2_1"
     },
     {
@@ -99,6 +119,10 @@
         "seasonReset":null,
         "starEXP":2,
         "hqLimit":1,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Bronze.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/2.png"
+        ],
         "rawTID":"LEAGUE2_2"
     },
     {
@@ -116,6 +140,10 @@
         "seasonReset":null,
         "starEXP":2,
         "hqLimit":1,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Bronze.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/3.png"
+        ],
         "rawTID":"LEAGUE2_3"
     },
     {
@@ -133,6 +161,10 @@
         "seasonReset":null,
         "starEXP":3,
         "hqLimit":1,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Silver.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/1.png"
+        ],
         "rawTID":"LEAGUE3_1"
     },
     {
@@ -150,6 +182,10 @@
         "seasonReset":null,
         "starEXP":3,
         "hqLimit":1,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Silver.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/2.png"
+        ],
         "rawTID":"LEAGUE3_2"
     },
     {
@@ -167,6 +203,10 @@
         "seasonReset":null,
         "starEXP":3,
         "hqLimit":1,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Silver.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/3.png"
+        ],
         "rawTID":"LEAGUE3_3"
     },
     {
@@ -184,6 +224,10 @@
         "seasonReset":null,
         "starEXP":4,
         "hqLimit":2,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Gold.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/1.png"
+        ],
         "rawTID":"LEAGUE4_1"
     },
     {
@@ -201,6 +245,10 @@
         "seasonReset":null,
         "starEXP":4,
         "hqLimit":2,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Gold.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/2.png"
+        ],
         "rawTID":"LEAGUE4_2"
     },
     {
@@ -218,6 +266,10 @@
         "seasonReset":null,
         "starEXP":4,
         "hqLimit":2,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Gold.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/3.png"
+        ],
         "rawTID":"LEAGUE4_3"
     },
     {
@@ -235,6 +287,10 @@
         "seasonReset":null,
         "starEXP":5,
         "hqLimit":2,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Specialist.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/1.png"
+        ],
         "rawTID":"LEAGUE5_1"
     },
     {
@@ -252,6 +308,10 @@
         "seasonReset":null,
         "starEXP":5,
         "hqLimit":2,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Specialist.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/2.png"
+        ],
         "rawTID":"LEAGUE5_2"
     },
     {
@@ -269,6 +329,10 @@
         "seasonReset":null,
         "starEXP":5,
         "hqLimit":2,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Specialist.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/3.png"
+        ],
         "rawTID":"LEAGUE5_3"
     },
     {
@@ -286,6 +350,10 @@
         "seasonReset":null,
         "starEXP":6,
         "hqLimit":3,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Ninja.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/1.png"
+        ],
         "rawTID":"LEAGUE6_1"
     },
     {
@@ -303,6 +371,10 @@
         "seasonReset":null,
         "starEXP":6,
         "hqLimit":3,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Ninja.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/2.png"
+        ],
         "rawTID":"LEAGUE6_2"
     },
     {
@@ -320,11 +392,15 @@
         "seasonReset":null,
         "starEXP":6,
         "hqLimit":3,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Ninja.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/3.png"
+        ],
         "rawTID":"LEAGUE6_3"
     },
     {
         "name":"League7_1",
-        "tID":"DESTROYER",
+        "tID":"CHALLENGER",
         "limitLow":3000,
         "limitHigh":3300,
         "iconSWF":"sc\/ui.sc",
@@ -337,11 +413,15 @@
         "seasonReset":50,
         "starEXP":7,
         "hqLimit":3,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Challenger.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/1.png"
+        ],
         "rawTID":"LEAGUE7_1"
     },
     {
         "name":"League7_2",
-        "tID":"DESTROYER",
+        "tID":"CHALLENGER",
         "limitLow":3300,
         "limitHigh":3600,
         "iconSWF":"sc\/ui.sc",
@@ -354,11 +434,15 @@
         "seasonReset":50,
         "starEXP":7,
         "hqLimit":3,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Challenger.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/2.png"
+        ],
         "rawTID":"LEAGUE7_2"
     },
     {
         "name":"League7_3",
-        "tID":"DESTROYER",
+        "tID":"CHALLENGER",
         "limitLow":3600,
         "limitHigh":4000,
         "iconSWF":"sc\/ui.sc",
@@ -371,6 +455,10 @@
         "seasonReset":50,
         "starEXP":7,
         "hqLimit":3,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Challenger.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/3.png"
+        ],
         "rawTID":"LEAGUE7_3"
     },
     {
@@ -388,6 +476,10 @@
         "seasonReset":50,
         "starEXP":8,
         "hqLimit":4,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Champion.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/1.png"
+        ],
         "rawTID":"LEAGUE8_1"
     },
     {
@@ -405,6 +497,10 @@
         "seasonReset":50,
         "starEXP":8,
         "hqLimit":4,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Champion.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/2.png"
+        ],
         "rawTID":"LEAGUE8_2"
     },
     {
@@ -422,11 +518,15 @@
         "seasonReset":50,
         "starEXP":8,
         "hqLimit":4,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Champion.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/3.png"
+        ],
         "rawTID":"LEAGUE8_3"
     },
     {
         "name":"League9_1",
-        "tID":"LEGEND",
+        "tID":"HERO",
         "limitLow":5200,
         "limitHigh":5600,
         "iconSWF":"sc\/ui.sc",
@@ -439,11 +539,15 @@
         "seasonReset":50,
         "starEXP":9,
         "hqLimit":5,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Hero.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/1.png"
+        ],
         "rawTID":"LEAGUE9_1"
     },
     {
         "name":"League9_2",
-        "tID":"LEGEND",
+        "tID":"HERO",
         "limitLow":5600,
         "limitHigh":6000,
         "iconSWF":"sc\/ui.sc",
@@ -456,11 +560,15 @@
         "seasonReset":50,
         "starEXP":9,
         "hqLimit":5,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Hero.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/2.png"
+        ],
         "rawTID":"LEAGUE9_2"
     },
     {
         "name":"League9_3",
-        "tID":"LEGEND",
+        "tID":"HERO",
         "limitLow":6000,
         "limitHigh":6500,
         "iconSWF":"sc\/ui.sc",
@@ -473,11 +581,15 @@
         "seasonReset":50,
         "starEXP":9,
         "hqLimit":5,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Hero.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/3.png"
+        ],
         "rawTID":"LEAGUE9_3"
     },
     {
         "name":"League10_1",
-        "tID":"SUPREME",
+        "tID":"LEGEND",
         "limitLow":6500,
         "limitHigh":7000,
         "iconSWF":"sc\/ui.sc",
@@ -490,11 +602,15 @@
         "seasonReset":50,
         "starEXP":10,
         "hqLimit":7,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Legend.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/1.png"
+        ],
         "rawTID":"LEAGUE10_1"
     },
     {
         "name":"League10_2",
-        "tID":"SUPREME",
+        "tID":"LEGEND",
         "limitLow":7000,
         "limitHigh":7500,
         "iconSWF":"sc\/ui.sc",
@@ -507,11 +623,15 @@
         "seasonReset":50,
         "starEXP":10,
         "hqLimit":7,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Legend.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/2.png"
+        ],
         "rawTID":"LEAGUE10_2"
     },
     {
         "name":"League10_3",
-        "tID":"SUPREME",
+        "tID":"LEGEND",
         "limitLow":7500,
         "limitHigh":8000,
         "iconSWF":"sc\/ui.sc",
@@ -524,6 +644,10 @@
         "seasonReset":50,
         "starEXP":10,
         "hqLimit":7,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Legend.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/3.png"
+        ],
         "rawTID":"LEAGUE10_3"
     },
     {
@@ -541,6 +665,10 @@
         "seasonReset":50,
         "starEXP":11,
         "hqLimit":10,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Superstar.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/1.png"
+        ],
         "rawTID":"LEAGUE11_1"
     },
     {
@@ -558,6 +686,10 @@
         "seasonReset":50,
         "starEXP":11,
         "hqLimit":10,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Superstar.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/2.png"
+        ],
         "rawTID":"LEAGUE11_2"
     },
     {
@@ -575,6 +707,10 @@
         "seasonReset":50,
         "starEXP":11,
         "hqLimit":10,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Superstar.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/3.png"
+        ],
         "rawTID":"LEAGUE11_3"
     },
     {
@@ -592,6 +728,10 @@
         "seasonReset":50,
         "starEXP":12,
         "hqLimit":10,
+        "url":[
+            "https:\/\/www.rushstats.com\/assets\/league\/Elite.png",
+            "https:\/\/www.rushstats.com\/assets\/league\/sub\/Elite.png"
+        ],
         "rawTID":"LEAGUE12"
     }
 ]

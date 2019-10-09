@@ -145,7 +145,7 @@
     },
     {
         "name":9,
-        "tID":"TID_HQ_LEVEL_9",
+        "tID":"HQ \u2013 LEVEL 9",
         "upgradeGold":150000,
         "chestMultiplier":300,
         "maxHeliLevel":8,
@@ -163,7 +163,7 @@
     },
     {
         "name":10,
-        "tID":"TID_HQ_LEVEL_10",
+        "tID":"HQ \u2013 LEVEL 10",
         "upgradeGold":0,
         "chestMultiplier":325,
         "maxHeliLevel":8,

@@ -1,7 +1,7 @@
 [
     {
         "name":"Gold1",
-        "tID":"FILL BY 10%",
+        "tID":"FILL BY 25%",
         "resource":"Gold",
         "capacityPercent":25,
         "iconSWF":"sc\/ui_portraits.sc",
@@ -10,7 +10,7 @@
     },
     {
         "name":"Gold2",
-        "tID":"FILL BY HALF",
+        "tID":"FILL BY 50%",
         "resource":"Gold",
         "capacityPercent":50,
         "iconSWF":"sc\/ui_portraits.sc",
@@ -19,7 +19,7 @@
     },
     {
         "name":"Gold3",
-        "tID":"FILL STORAGE",
+        "tID":"FILL TO MAX",
         "resource":"Gold",
         "capacityPercent":100,
         "iconSWF":"sc\/ui_portraits.sc",

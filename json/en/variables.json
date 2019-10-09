@@ -2,296 +2,355 @@
     {
         "name":"HelicopterLevel",
         "value":null,
-        "scId":7000000
+        "scId":7000000,
+        "url":null
     },
     {
         "name":"SinglePlayerLevel",
         "value":null,
-        "scId":7000001
+        "scId":7000001,
+        "url":null
     },
     {
         "name":"CaptureTutorialOutpost",
         "value":null,
-        "scId":7000002
+        "scId":7000002,
+        "url":null
     },
     {
         "name":"ShouldCaptureOutpost",
         "value":null,
-        "scId":7000003
+        "scId":7000003,
+        "url":null
     },
     {
         "name":"AttackCount",
         "value":null,
-        "scId":7000004
+        "scId":7000004,
+        "url":null
     },
     {
         "name":"AttackWinCount",
         "value":null,
-        "scId":7000005
+        "scId":7000005,
+        "url":null
     },
     {
         "name":"AttackLoseCount",
         "value":null,
-        "scId":7000006
+        "scId":7000006,
+        "url":null
     },
     {
         "name":"DefenceWinCount",
         "value":null,
-        "scId":7000007
+        "scId":7000007,
+        "url":null
     },
     {
         "name":"DefenceLoseCount",
         "value":null,
-        "scId":7000008
+        "scId":7000008,
+        "url":null
     },
     {
         "name":"TutorialWinCount",
         "value":null,
-        "scId":7000009
+        "scId":7000009,
+        "url":null
     },
     {
         "name":"DefenceCount1",
         "value":null,
-        "scId":7000010
+        "scId":7000010,
+        "url":null
     },
     {
         "name":"DefenceStarCount1",
         "value":null,
-        "scId":7000011
+        "scId":7000011,
+        "url":null
     },
     {
         "name":"DefenceChestStarCount",
         "value":null,
-        "scId":7000012
+        "scId":7000012,
+        "url":null
     },
     {
         "name":"DefenceValid",
         "value":null,
-        "scId":7000013
+        "scId":7000013,
+        "url":null
     },
     {
         "name":"ChestStarCount",
         "value":null,
-        "scId":7000014
+        "scId":7000014,
+        "url":null
     },
     {
         "name":"CycleOffset",
         "value":null,
-        "scId":7000015
+        "scId":7000015,
+        "url":null
     },
     {
         "name":"MatchmakeCounter",
         "value":null,
-        "scId":7000016
+        "scId":7000016,
+        "url":null
     },
     {
         "name":"OutpostResourceTimerTicks",
         "value":null,
-        "scId":7000017
+        "scId":7000017,
+        "url":null
     },
     {
         "name":"FreeChestCounter",
         "value":null,
-        "scId":7000018
+        "scId":7000018,
+        "url":null
     },
     {
         "name":"AllianceChatFilter",
         "value":null,
-        "scId":7000019
+        "scId":7000019,
+        "url":null
     },
     {
         "name":"FavouriteCard",
         "value":null,
-        "scId":7000020
+        "scId":7000020,
+        "url":null
     },
     {
         "name":"FavouriteTroop",
         "value":null,
-        "scId":7000021
+        "scId":7000021,
+        "url":null
     },
     {
         "name":"FavouriteAirdrop",
         "value":null,
-        "scId":7000022
+        "scId":7000022,
+        "url":null
     },
     {
         "name":"FavouriteCommander",
         "value":null,
-        "scId":7000023
+        "scId":7000023,
+        "url":null
     },
     {
         "name":"TotalAttackStars",
         "value":null,
-        "scId":7000024
+        "scId":7000024,
+        "url":null
     },
     {
         "name":"TotalDefenceStars",
         "value":null,
-        "scId":7000025
+        "scId":7000025,
+        "url":null
     },
     {
         "name":"DominationAttackCount",
         "value":null,
-        "scId":7000026
+        "scId":7000026,
+        "url":null
     },
     {
         "name":"DominationAttackWinCount",
         "value":null,
-        "scId":7000027
+        "scId":7000027,
+        "url":null
     },
     {
         "name":"DominationAttackLoseCount",
         "value":null,
-        "scId":7000028
+        "scId":7000028,
+        "url":null
     },
     {
         "name":"UnclaimedDominationChest",
         "value":null,
-        "scId":7000029
+        "scId":7000029,
+        "url":null
     },
     {
         "name":"UnclaimedDominationGems",
         "value":null,
-        "scId":7000030
+        "scId":7000030,
+        "url":null
     },
     {
         "name":"UnclaimedDominationGold",
         "value":null,
-        "scId":7000031
+        "scId":7000031,
+        "url":null
     },
     {
         "name":"UnclaimedDominationYourStars",
         "value":null,
-        "scId":7000032
+        "scId":7000032,
+        "url":null
     },
     {
         "name":"UnclaimedDominationEnemyStars",
         "value":null,
-        "scId":7000033
+        "scId":7000033,
+        "url":null
     },
     {
         "name":"UnclaimedDominationResult",
         "value":null,
-        "scId":7000034
+        "scId":7000034,
+        "url":null
     },
     {
         "name":"HasBeenToOutpost",
         "value":null,
-        "scId":7000035
+        "scId":7000035,
+        "url":null
     },
     {
         "name":"ChestsSinceNewCard",
         "value":null,
-        "scId":7000036
+        "scId":7000036,
+        "url":null
     },
     {
         "name":"HasSavedOutpost",
         "value":null,
-        "scId":7000037
+        "scId":7000037,
+        "url":null
     },
     {
         "name":"DominationClanWinCount",
         "value":null,
-        "scId":7000038
+        "scId":7000038,
+        "url":null
     },
     {
         "name":"DominationClanLoseCount",
         "value":null,
-        "scId":7000039
+        "scId":7000039,
+        "url":null
     },
     {
         "name":"DominationTotalGoldLoot",
         "value":null,
-        "scId":7000040
+        "scId":7000040,
+        "url":null
     },
     {
         "name":"DominationTotalStarsReceived",
         "value":null,
-        "scId":7000041
+        "scId":7000041,
+        "url":null
     },
     {
         "name":"TotalDonatedGold",
         "value":null,
-        "scId":7000042
+        "scId":7000042,
+        "url":null
     },
     {
         "name":"TotalGoldLootPvp",
         "value":null,
-        "scId":7000043
+        "scId":7000043,
+        "url":null
     },
     {
         "name":"NextLocationEnvironment",
         "value":null,
-        "scId":7000044
+        "scId":7000044,
+        "url":null
     },
     {
         "name":"SeasonPoints",
         "value":null,
-        "scId":7000045
+        "scId":7000045,
+        "url":null
     },
     {
         "name":"ObstacleCounter",
         "value":null,
-        "scId":7000046
+        "scId":7000046,
+        "url":null
     },
     {
         "name":"ClanRulesShownIDhigh",
         "value":null,
-        "scId":7000047
+        "scId":7000047,
+        "url":null
     },
     {
         "name":"ClanRulesShownIDlow",
         "value":null,
-        "scId":7000048
+        "scId":7000048,
+        "url":null
     },
     {
         "name":"LootLimitCounter",
         "value":null,
-        "scId":7000049
+        "scId":7000049,
+        "url":null
     },
     {
         "name":"Version",
         "value":null,
-        "scId":7000050
+        "scId":7000050,
+        "url":null
     },
     {
         "name":"CardResetsSinceChest",
         "value":null,
-        "scId":7000051
+        "scId":7000051,
+        "url":null
     },
     {
         "name":"NewUnitsPending",
         "value":null,
-        "scId":7000052
+        "scId":7000052,
+        "url":null
     },
     {
         "name":"CardN",
         "value":null,
-        "scId":7000053
+        "scId":7000053,
+        "url":null
     },
     {
         "name":"FREE_SLOT_0",
         "value":null,
-        "scId":7000054
+        "scId":7000054,
+        "url":null
     },
     {
         "name":"OutpostNeedsConfirm",
         "value":null,
-        "scId":7000055
+        "scId":7000055,
+        "url":null
     },
     {
         "name":"OutpostRerolls",
         "value":null,
-        "scId":7000056
+        "scId":7000056,
+        "url":null
     },
     {
         "name":"NewUnitsChestCounter",
         "value":null,
-        "scId":7000057
+        "scId":7000057,
+        "url":null
     },
     {
         "name":"NewDefenceUnitsPending",
         "value":null,
-        "scId":7000058
+        "scId":7000058,
+        "url":null
     }
 ]

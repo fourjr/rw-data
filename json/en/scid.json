@@ -28,6 +28,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
             "scId":46000000,
+            "url":"https:\/\/www.rushstats.com\/assets\/airdrop\/Boost.png",
             "rawTID":"ABILITY_RAGE",
             "rawInfoTID":"ABILITY_INFO_RAGE"
         },
@@ -59,6 +60,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
             "scId":46000001,
+            "url":"https:\/\/www.rushstats.com\/assets\/airdrop\/Heal.png",
             "rawTID":"ABILITY_HEAL",
             "rawInfoTID":"ABILITY_INFO_HEAL"
         },
@@ -90,6 +92,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
             "scId":46000002,
+            "url":"https:\/\/www.rushstats.com\/assets\/airdrop\/Arcade.png",
             "rawTID":"ABILITY_BOX_DROP",
             "rawInfoTID":"ABILITY_INFO_BOX_DROP"
         },
@@ -121,6 +124,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
             "scId":46000003,
+            "url":"https:\/\/www.rushstats.com\/assets\/airdrop\/Invisibility.png",
             "rawTID":"ABILITY_INVISIBILITY",
             "rawInfoTID":"ABILITY_INFO_INVISIBILITY"
         },
@@ -152,6 +156,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
             "scId":46000004,
+            "url":"https:\/\/www.rushstats.com\/assets\/airdrop\/Paratroopers.png",
             "rawTID":"ABILITY_PARATROOPER",
             "rawInfoTID":"ABILITY_INFO_PARATROOPER"
         },
@@ -183,6 +188,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
             "scId":46000005,
+            "url":"https:\/\/www.rushstats.com\/assets\/airdrop\/Satellite.png",
             "rawTID":"ABILITY_BOMBARD",
             "rawInfoTID":"ABILITY_INFO_BOMBARD"
         },
@@ -214,6 +220,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
             "scId":46000006,
+            "url":"https:\/\/www.rushstats.com\/assets\/airdrop\/Fridge.png",
             "rawTID":"ABILITY_FRIDGE",
             "rawInfoTID":"ABILITY_INFO_FRIDGE"
         }
@@ -260,6 +267,7 @@
             "abilityIconExportName":"icon_ability_marine",
             "previewTriggerTime":8500,
             "scId":48000000,
+            "url":"https:\/\/www.rushstats.com\/assets\/commander\/Coach.png",
             "rawTID":"COMMNADER_CARD_SOLDIER",
             "rawInfoTID":"COMMNADER_CARD_INFO_SOLDIER"
         },
@@ -304,6 +312,7 @@
             "abilityIconExportName":"icon_ability_grenade_mama",
             "previewTriggerTime":3000,
             "scId":48000008,
+            "url":"https:\/\/www.rushstats.com\/assets\/commander\/Lady-Grenade.png",
             "rawTID":"COMMANDER_CARD_GRENADE",
             "rawInfoTID":"COMMANDER_CARD_INFO_GRENADE"
         },
@@ -348,6 +357,7 @@
             "abilityIconExportName":"icon_ability_dino",
             "previewTriggerTime":12000,
             "scId":48000016,
+            "url":"https:\/\/www.rushstats.com\/assets\/commander\/B.I.G..png",
             "rawTID":"COMMNADER_CARD_DINO",
             "rawInfoTID":"COMMNADER_CARD_INFO_DINO"
         },
@@ -392,6 +402,7 @@
             "abilityIconExportName":"icon_ability_bear",
             "previewTriggerTime":2000,
             "scId":48000024,
+            "url":"https:\/\/www.rushstats.com\/assets\/commander\/Bearman.png",
             "rawTID":"COMMNADER_CARD_BEARMAN",
             "rawInfoTID":"COMMNADER_CARD_INFO_BEARMAN"
         },
@@ -436,6 +447,7 @@
             "abilityIconExportName":"icon_ability_eggtank",
             "previewTriggerTime":1000,
             "scId":48000032,
+            "url":"https:\/\/www.rushstats.com\/assets\/commander\/Mother.png",
             "rawTID":"COMMNADER_CARD_EGGMACHINE",
             "rawInfoTID":"COMMNADER_CARD_INFO_EGGMACHINE"
         }
@@ -464,6 +476,7 @@
             "abilityCooldown":null,
             "abilityOneUse":null,
             "scId":50000000,
+            "url":"https:\/\/www.rushstats.com\/assets\/defense\/Mortar.png",
             "rawTID":"CARD_MORTAR",
             "rawInfoTID":"CARD_INFO_MORTAR"
         },
@@ -496,6 +509,7 @@
             "abilityCooldown":null,
             "abilityOneUse":null,
             "scId":50000001,
+            "url":"https:\/\/www.rushstats.com\/assets\/defense\/Mines.png",
             "rawTID":"CARD_MINE",
             "rawInfoTID":"CARD_INFO_MINE"
         },
@@ -522,6 +536,7 @@
             "abilityCooldown":null,
             "abilityOneUse":null,
             "scId":50000003,
+            "url":"https:\/\/www.rushstats.com\/assets\/defense\/Walls.png",
             "rawTID":"CARD_WALL",
             "rawInfoTID":"CARD_INFO_WALL"
         },
@@ -548,6 +563,7 @@
             "abilityCooldown":null,
             "abilityOneUse":null,
             "scId":50000004,
+            "url":"https:\/\/www.rushstats.com\/assets\/defense\/Walls.png",
             "rawTID":"CARD_WALL",
             "rawInfoTID":"CARD_INFO_WALL"
         },
@@ -574,6 +590,7 @@
             "abilityCooldown":null,
             "abilityOneUse":null,
             "scId":50000005,
+            "url":"https:\/\/www.rushstats.com\/assets\/defense\/Cannon.png",
             "rawTID":"CARD_CANNON",
             "rawInfoTID":"CARD_INFO_CANNON"
         },
@@ -600,6 +617,7 @@
             "abilityCooldown":null,
             "abilityOneUse":null,
             "scId":50000006,
+            "url":"https:\/\/www.rushstats.com\/assets\/defense\/Plumber-Hole.png",
             "rawTID":"CARD_PLUMBER_HUT",
             "rawInfoTID":"CARD_INFO_PLUMBER_HUT"
         },
@@ -652,6 +670,7 @@
             "abilityCooldown":null,
             "abilityOneUse":null,
             "scId":50000007,
+            "url":"https:\/\/www.rushstats.com\/assets\/defense\/Cluster-Cake.png",
             "rawTID":"CARD_CAKE",
             "rawInfoTID":"CARD_INFO_CAKE"
         },
@@ -678,6 +697,7 @@
             "abilityCooldown":null,
             "abilityOneUse":null,
             "scId":50000008,
+            "url":"https:\/\/www.rushstats.com\/assets\/defense\/Gatling.png",
             "rawTID":"CARD_GATLING",
             "rawInfoTID":"CARD_INFO_GATLING"
         },
@@ -704,6 +724,7 @@
             "abilityCooldown":null,
             "abilityOneUse":null,
             "scId":50000009,
+            "url":"https:\/\/www.rushstats.com\/assets\/defense\/Bomb.png",
             "rawTID":"CARD_BOMB",
             "rawInfoTID":"CARD_INFO_BOMB"
         },
@@ -730,6 +751,7 @@
             "abilityCooldown":null,
             "abilityOneUse":null,
             "scId":50000010,
+            "url":"https:\/\/www.rushstats.com\/assets\/defense\/Freeze-Mine.png",
             "rawTID":"CARD_FREEZE_TRAP",
             "rawInfoTID":"CARD_INFO_FREEZE_TRAP"
         },
@@ -782,6 +804,7 @@
             "abilityCooldown":null,
             "abilityOneUse":null,
             "scId":50000011,
+            "url":"https:\/\/www.rushstats.com\/assets\/defense\/Plasmagun.png",
             "rawTID":"CARD_PLASMAGUN",
             "rawInfoTID":"CARD_INFO_PLASMAGUN"
         },
@@ -808,6 +831,7 @@
             "abilityCooldown":null,
             "abilityOneUse":null,
             "scId":50000012,
+            "url":"https:\/\/www.rushstats.com\/assets\/defense\/Box-Ninja.png",
             "rawTID":"CARD_BLACK_NINJA",
             "rawInfoTID":"CARD_INFO_BLACK_NINJA"
         },
@@ -834,6 +858,7 @@
             "abilityCooldown":null,
             "abilityOneUse":null,
             "scId":50000013,
+            "url":"https:\/\/www.rushstats.com\/assets\/defense\/Tesla.png",
             "rawTID":"CARD_TESLA",
             "rawInfoTID":"CARD_INFO_TESLA"
         },
@@ -860,6 +885,7 @@
             "abilityCooldown":null,
             "abilityOneUse":null,
             "scId":50000014,
+            "url":"https:\/\/www.rushstats.com\/assets\/defense\/Rocket-Trap.png",
             "rawTID":"CARD_ROCKET_PLATFORM",
             "rawInfoTID":"CARD_INFO_ROCKET_PLATFORM"
         },
@@ -886,6 +912,7 @@
             "abilityCooldown":null,
             "abilityOneUse":null,
             "scId":50000015,
+            "url":"https:\/\/www.rushstats.com\/assets\/defense\/Dummy.png",
             "rawTID":"CARD_DUMMY",
             "rawInfoTID":"CARD_INFO_DUMMY"
         }
@@ -917,7 +944,8 @@
             "cloudMinAlpha":null,
             "cloudMaxAlpha":null,
             "cloudCount":null,
-            "scId":16000000
+            "scId":16000000,
+            "url":null
         },
         {
             "name":"Forest",
@@ -946,6 +974,7 @@
             "cloudMaxAlpha":null,
             "cloudCount":null,
             "scId":16000001,
+            "url":"https:\/\/www.rushstats.com\/assets\/404-image-not-found-ask-us-on-discord.png",
             "rawTID":"ENVIRONMENT_FOREST"
         },
         {
@@ -974,7 +1003,8 @@
             "cloudMinAlpha":70,
             "cloudMaxAlpha":100,
             "cloudCount":4,
-            "scId":16000002
+            "scId":16000002,
+            "url":null
         },
         {
             "name":"Megacity",
@@ -1003,6 +1033,7 @@
             "cloudMaxAlpha":null,
             "cloudCount":null,
             "scId":16000003,
+            "url":"https:\/\/www.rushstats.com\/assets\/404-image-not-found-ask-us-on-discord.png",
             "rawTID":"ENVIRONMENT_MEGACITY"
         },
         {
@@ -1032,6 +1063,7 @@
             "cloudMaxAlpha":null,
             "cloudCount":null,
             "scId":16000004,
+            "url":"https:\/\/www.rushstats.com\/assets\/404-image-not-found-ask-us-on-discord.png",
             "rawTID":"ENVIRONMENT_DESERT"
         },
         {
@@ -1087,6 +1119,7 @@
             "stealLimitMid":null,
             "stealEffect":null,
             "scId":5000000,
+            "url":"https:\/\/www.rushstats.com\/assets\/404-image-not-found-ask-us-on-discord.png",
             "rawTID":"GEMS",
             "rawPopOverTID":"POP_GEM"
         },
@@ -1112,6 +1145,7 @@
             "stealLimitMid":5,
             "stealEffect":"steal_gold",
             "scId":5000001,
+            "url":"https:\/\/www.rushstats.com\/assets\/404-image-not-found-ask-us-on-discord.png",
             "rawTID":"GOLD",
             "rawCapFullTID":"GOLD_CAP_FULL",
             "rawPopOverTID":"POP_GOLD"
@@ -1138,6 +1172,7 @@
             "stealLimitMid":null,
             "stealEffect":null,
             "scId":5000002,
+            "url":"https:\/\/www.rushstats.com\/assets\/404-image-not-found-ask-us-on-discord.png",
             "rawTID":"GOLD"
         },
         {
@@ -1162,6 +1197,7 @@
             "stealLimitMid":null,
             "stealEffect":null,
             "scId":5000003,
+            "url":"https:\/\/www.rushstats.com\/assets\/404-image-not-found-ask-us-on-discord.png",
             "rawTID":"MINERAL",
             "rawCapFullTID":"MINERAL_CAP_FULL",
             "rawPopOverTID":"POP_MINERAL"
@@ -1188,6 +1224,7 @@
             "stealLimitMid":null,
             "stealEffect":null,
             "scId":5000004,
+            "url":"https:\/\/www.rushstats.com\/assets\/404-image-not-found-ask-us-on-discord.png",
             "rawTID":"MINERAL",
             "rawCapFullTID":"MINERAL_CAP_FULL"
         },
@@ -1213,6 +1250,7 @@
             "stealLimitMid":null,
             "stealEffect":null,
             "scId":5000005,
+            "url":"https:\/\/www.rushstats.com\/assets\/404-image-not-found-ask-us-on-discord.png",
             "rawTID":"CARDS"
         },
         {
@@ -1262,6 +1300,7 @@
             "stealLimitMid":null,
             "stealEffect":null,
             "scId":5000006,
+            "url":"https:\/\/www.rushstats.com\/assets\/404-image-not-found-ask-us-on-discord.png",
             "rawTID":"EXP",
             "rawPopOverTID":"POP_EXP"
         },
@@ -1322,6 +1361,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
             "scId":49000000,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Troopers.png",
             "rawTID":"CARD_SOLDIER",
             "rawInfoTID":"CARD_INFO_SOLDIER"
         },
@@ -1345,6 +1385,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":"BACK",
             "scId":49000004,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Pitcher.png",
             "rawTID":"CARD_GRENADE",
             "rawInfoTID":"CARD_INFO_GRENADE"
         },
@@ -1374,6 +1415,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":"FRONT",
             "scId":49000005,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Shields.png",
             "rawTID":"CARD_SHIELD",
             "rawInfoTID":"CARD_INFO_SHIELD"
         },
@@ -1397,6 +1439,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
             "scId":49000007,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Tank.png",
             "rawTID":"CARD_TANK",
             "rawInfoTID":"CARD_INFO_TANK"
         },
@@ -1420,6 +1463,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":"BACK",
             "scId":49000008,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Bazooka.png",
             "rawTID":"CARD_BAZOOKA",
             "rawInfoTID":"CARD_INFO_BAZOOKA"
         },
@@ -1443,6 +1487,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
             "scId":49000009,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Plumber-Van.png",
             "rawTID":"CARD_PLUMBER_VAN",
             "rawInfoTID":"CARD_INFO_APC"
         },
@@ -1472,6 +1517,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
             "scId":49000010,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Jetpacks.png",
             "rawTID":"CARD_JETPACK",
             "rawInfoTID":"CARD_INFO_JETPACK"
         },
@@ -1495,6 +1541,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":"FRONT",
             "scId":49000012,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Gorilla.png",
             "rawTID":"CARD_GORILLA",
             "rawInfoTID":"CARD_INFO_GORILLA"
         },
@@ -1518,6 +1565,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
             "scId":49000013,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Hotshot.png",
             "rawTID":"CARD_SHOTGUN",
             "rawInfoTID":"CARD_INFO_SHOTGUN"
         },
@@ -1541,6 +1589,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":"BACK",
             "scId":49000014,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Laser.png",
             "rawTID":"CARD_LASER",
             "rawInfoTID":"CARD_INFO_LASER"
         },
@@ -1564,6 +1613,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
             "scId":49000015,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Boxer.png",
             "rawTID":"CARD_BOXER",
             "rawInfoTID":"CARD_INFO_BOXER"
         },
@@ -1601,6 +1651,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
             "scId":49000016,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Henchmen.png",
             "rawTID":"CARD_TAZER",
             "rawInfoTID":"CARD_INFO_TAZER"
         },
@@ -1624,6 +1675,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":"BACK",
             "scId":49000022,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Helipod.png",
             "rawTID":"CARD_HELIPOD",
             "rawInfoTID":"CARD_INFO_HELIPOD"
         },
@@ -1647,6 +1699,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":"BACK",
             "scId":49000023,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Blaze.png",
             "rawTID":"CARD_FLAMETHROWER",
             "rawInfoTID":"CARD_INFO_FLAMETHROWER"
         },
@@ -1670,6 +1723,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":"BACK",
             "scId":49000024,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Rocket-Truck.png",
             "rawTID":"CARD_BOMBARDTANK",
             "rawInfoTID":"CARD_INFO_BOMBARDTANK"
         },
@@ -1699,6 +1753,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":"BACK",
             "scId":49000025,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Kungfu.png",
             "rawTID":"CARD_KUNGFU",
             "rawInfoTID":"CARD_INFO_KUNGFU"
         },
@@ -1722,6 +1777,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
             "scId":49000027,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Sneaky-Ninja.png",
             "rawTID":"CARD_WHITENINJA",
             "rawInfoTID":"CARD_INFO_WHITE_NINJA"
         }
@@ -1730,297 +1786,356 @@
         {
             "name":"HelicopterLevel",
             "value":null,
-            "scId":7000000
+            "scId":7000000,
+            "url":null
         },
         {
             "name":"SinglePlayerLevel",
             "value":null,
-            "scId":7000001
+            "scId":7000001,
+            "url":null
         },
         {
             "name":"CaptureTutorialOutpost",
             "value":null,
-            "scId":7000002
+            "scId":7000002,
+            "url":null
         },
         {
             "name":"ShouldCaptureOutpost",
             "value":null,
-            "scId":7000003
+            "scId":7000003,
+            "url":null
         },
         {
             "name":"AttackCount",
             "value":null,
-            "scId":7000004
+            "scId":7000004,
+            "url":null
         },
         {
             "name":"AttackWinCount",
             "value":null,
-            "scId":7000005
+            "scId":7000005,
+            "url":null
         },
         {
             "name":"AttackLoseCount",
             "value":null,
-            "scId":7000006
+            "scId":7000006,
+            "url":null
         },
         {
             "name":"DefenceWinCount",
             "value":null,
-            "scId":7000007
+            "scId":7000007,
+            "url":null
         },
         {
             "name":"DefenceLoseCount",
             "value":null,
-            "scId":7000008
+            "scId":7000008,
+            "url":null
         },
         {
             "name":"TutorialWinCount",
             "value":null,
-            "scId":7000009
+            "scId":7000009,
+            "url":null
         },
         {
             "name":"DefenceCount1",
             "value":null,
-            "scId":7000010
+            "scId":7000010,
+            "url":null
         },
         {
             "name":"DefenceStarCount1",
             "value":null,
-            "scId":7000011
+            "scId":7000011,
+            "url":null
         },
         {
             "name":"DefenceChestStarCount",
             "value":null,
-            "scId":7000012
+            "scId":7000012,
+            "url":null
         },
         {
             "name":"DefenceValid",
             "value":null,
-            "scId":7000013
+            "scId":7000013,
+            "url":null
         },
         {
             "name":"ChestStarCount",
             "value":null,
-            "scId":7000014
+            "scId":7000014,
+            "url":null
         },
         {
             "name":"CycleOffset",
             "value":null,
-            "scId":7000015
+            "scId":7000015,
+            "url":null
         },
         {
             "name":"MatchmakeCounter",
             "value":null,
-            "scId":7000016
+            "scId":7000016,
+            "url":null
         },
         {
             "name":"OutpostResourceTimerTicks",
             "value":null,
-            "scId":7000017
+            "scId":7000017,
+            "url":null
         },
         {
             "name":"FreeChestCounter",
             "value":null,
-            "scId":7000018
+            "scId":7000018,
+            "url":null
         },
         {
             "name":"AllianceChatFilter",
             "value":null,
-            "scId":7000019
+            "scId":7000019,
+            "url":null
         },
         {
             "name":"FavouriteCard",
             "value":null,
-            "scId":7000020
+            "scId":7000020,
+            "url":null
         },
         {
             "name":"FavouriteTroop",
             "value":null,
-            "scId":7000021
+            "scId":7000021,
+            "url":null
         },
         {
             "name":"FavouriteAirdrop",
             "value":null,
-            "scId":7000022
+            "scId":7000022,
+            "url":null
         },
         {
             "name":"FavouriteCommander",
             "value":null,
-            "scId":7000023
+            "scId":7000023,
+            "url":null
         },
         {
             "name":"TotalAttackStars",
             "value":null,
-            "scId":7000024
+            "scId":7000024,
+            "url":null
         },
         {
             "name":"TotalDefenceStars",
             "value":null,
-            "scId":7000025
+            "scId":7000025,
+            "url":null
         },
         {
             "name":"DominationAttackCount",
             "value":null,
-            "scId":7000026
+            "scId":7000026,
+            "url":null
         },
         {
             "name":"DominationAttackWinCount",
             "value":null,
-            "scId":7000027
+            "scId":7000027,
+            "url":null
         },
         {
             "name":"DominationAttackLoseCount",
             "value":null,
-            "scId":7000028
+            "scId":7000028,
+            "url":null
         },
         {
             "name":"UnclaimedDominationChest",
             "value":null,
-            "scId":7000029
+            "scId":7000029,
+            "url":null
         },
         {
             "name":"UnclaimedDominationGems",
             "value":null,
-            "scId":7000030
+            "scId":7000030,
+            "url":null
         },
         {
             "name":"UnclaimedDominationGold",
             "value":null,
-            "scId":7000031
+            "scId":7000031,
+            "url":null
         },
         {
             "name":"UnclaimedDominationYourStars",
             "value":null,
-            "scId":7000032
+            "scId":7000032,
+            "url":null
         },
         {
             "name":"UnclaimedDominationEnemyStars",
             "value":null,
-            "scId":7000033
+            "scId":7000033,
+            "url":null
         },
         {
             "name":"UnclaimedDominationResult",
             "value":null,
-            "scId":7000034
+            "scId":7000034,
+            "url":null
         },
         {
             "name":"HasBeenToOutpost",
             "value":null,
-            "scId":7000035
+            "scId":7000035,
+            "url":null
         },
         {
             "name":"ChestsSinceNewCard",
             "value":null,
-            "scId":7000036
+            "scId":7000036,
+            "url":null
         },
         {
             "name":"HasSavedOutpost",
             "value":null,
-            "scId":7000037
+            "scId":7000037,
+            "url":null
         },
         {
             "name":"DominationClanWinCount",
             "value":null,
-            "scId":7000038
+            "scId":7000038,
+            "url":null
         },
         {
             "name":"DominationClanLoseCount",
             "value":null,
-            "scId":7000039
+            "scId":7000039,
+            "url":null
         },
         {
             "name":"DominationTotalGoldLoot",
             "value":null,
-            "scId":7000040
+            "scId":7000040,
+            "url":null
         },
         {
             "name":"DominationTotalStarsReceived",
             "value":null,
-            "scId":7000041
+            "scId":7000041,
+            "url":null
         },
         {
             "name":"TotalDonatedGold",
             "value":null,
-            "scId":7000042
+            "scId":7000042,
+            "url":null
         },
         {
             "name":"TotalGoldLootPvp",
             "value":null,
-            "scId":7000043
+            "scId":7000043,
+            "url":null
         },
         {
             "name":"NextLocationEnvironment",
             "value":null,
-            "scId":7000044
+            "scId":7000044,
+            "url":null
         },
         {
             "name":"SeasonPoints",
             "value":null,
-            "scId":7000045
+            "scId":7000045,
+            "url":null
         },
         {
             "name":"ObstacleCounter",
             "value":null,
-            "scId":7000046
+            "scId":7000046,
+            "url":null
         },
         {
             "name":"ClanRulesShownIDhigh",
             "value":null,
-            "scId":7000047
+            "scId":7000047,
+            "url":null
         },
         {
             "name":"ClanRulesShownIDlow",
             "value":null,
-            "scId":7000048
+            "scId":7000048,
+            "url":null
         },
         {
             "name":"LootLimitCounter",
             "value":null,
-            "scId":7000049
+            "scId":7000049,
+            "url":null
         },
         {
             "name":"Version",
             "value":null,
-            "scId":7000050
+            "scId":7000050,
+            "url":null
         },
         {
             "name":"CardResetsSinceChest",
             "value":null,
-            "scId":7000051
+            "scId":7000051,
+            "url":null
         },
         {
             "name":"NewUnitsPending",
             "value":null,
-            "scId":7000052
+            "scId":7000052,
+            "url":null
         },
         {
             "name":"CardN",
             "value":null,
-            "scId":7000053
+            "scId":7000053,
+            "url":null
         },
         {
             "name":"FREE_SLOT_0",
             "value":null,
-            "scId":7000054
+            "scId":7000054,
+            "url":null
         },
         {
             "name":"OutpostNeedsConfirm",
             "value":null,
-            "scId":7000055
+            "scId":7000055,
+            "url":null
         },
         {
             "name":"OutpostRerolls",
             "value":null,
-            "scId":7000056
+            "scId":7000056,
+            "url":null
         },
         {
             "name":"NewUnitsChestCounter",
             "value":null,
-            "scId":7000057
+            "scId":7000057,
+            "url":null
         },
         {
             "name":"NewDefenceUnitsPending",
             "value":null,
-            "scId":7000058
+            "scId":7000058,
+            "url":null
         }
     ]
 }

@@ -21,6 +21,7 @@
         "stealLimitMid":null,
         "stealEffect":null,
         "scId":5000000,
+        "url":"https:\/\/www.rushstats.com\/assets\/404-image-not-found-ask-us-on-discord.png",
         "rawTID":"GEMS",
         "rawPopOverTID":"POP_GEM"
     },
@@ -46,6 +47,7 @@
         "stealLimitMid":5,
         "stealEffect":"steal_gold",
         "scId":5000001,
+        "url":"https:\/\/www.rushstats.com\/assets\/404-image-not-found-ask-us-on-discord.png",
         "rawTID":"GOLD",
         "rawCapFullTID":"GOLD_CAP_FULL",
         "rawPopOverTID":"POP_GOLD"
@@ -72,6 +74,7 @@
         "stealLimitMid":null,
         "stealEffect":null,
         "scId":5000002,
+        "url":"https:\/\/www.rushstats.com\/assets\/404-image-not-found-ask-us-on-discord.png",
         "rawTID":"GOLD"
     },
     {
@@ -96,6 +99,7 @@
         "stealLimitMid":null,
         "stealEffect":null,
         "scId":5000003,
+        "url":"https:\/\/www.rushstats.com\/assets\/404-image-not-found-ask-us-on-discord.png",
         "rawTID":"MINERAL",
         "rawCapFullTID":"MINERAL_CAP_FULL",
         "rawPopOverTID":"POP_MINERAL"
@@ -122,6 +126,7 @@
         "stealLimitMid":null,
         "stealEffect":null,
         "scId":5000004,
+        "url":"https:\/\/www.rushstats.com\/assets\/404-image-not-found-ask-us-on-discord.png",
         "rawTID":"MINERAL",
         "rawCapFullTID":"MINERAL_CAP_FULL"
     },
@@ -147,6 +152,7 @@
         "stealLimitMid":null,
         "stealEffect":null,
         "scId":5000005,
+        "url":"https:\/\/www.rushstats.com\/assets\/404-image-not-found-ask-us-on-discord.png",
         "rawTID":"CARDS"
     },
     {
@@ -196,6 +202,7 @@
         "stealLimitMid":null,
         "stealEffect":null,
         "scId":5000006,
+        "url":"https:\/\/www.rushstats.com\/assets\/404-image-not-found-ask-us-on-discord.png",
         "rawTID":"EXP",
         "rawPopOverTID":"POP_EXP"
     },

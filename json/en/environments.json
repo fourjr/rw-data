@@ -25,7 +25,8 @@
         "cloudMinAlpha":null,
         "cloudMaxAlpha":null,
         "cloudCount":null,
-        "scId":16000000
+        "scId":16000000,
+        "url":null
     },
     {
         "name":"Forest",
@@ -54,6 +55,7 @@
         "cloudMaxAlpha":null,
         "cloudCount":null,
         "scId":16000001,
+        "url":"https:\/\/www.rushstats.com\/assets\/404-image-not-found-ask-us-on-discord.png",
         "rawTID":"ENVIRONMENT_FOREST"
     },
     {
@@ -82,7 +84,8 @@
         "cloudMinAlpha":70,
         "cloudMaxAlpha":100,
         "cloudCount":4,
-        "scId":16000002
+        "scId":16000002,
+        "url":null
     },
     {
         "name":"Megacity",
@@ -111,6 +114,7 @@
         "cloudMaxAlpha":null,
         "cloudCount":null,
         "scId":16000003,
+        "url":"https:\/\/www.rushstats.com\/assets\/404-image-not-found-ask-us-on-discord.png",
         "rawTID":"ENVIRONMENT_MEGACITY"
     },
     {
@@ -140,6 +144,7 @@
         "cloudMaxAlpha":null,
         "cloudCount":null,
         "scId":16000004,
+        "url":"https:\/\/www.rushstats.com\/assets\/404-image-not-found-ask-us-on-discord.png",
         "rawTID":"ENVIRONMENT_DESERT"
     },
     {

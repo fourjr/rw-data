@@ -438,7 +438,7 @@
         "dependency":"ShuffleUnits1",
         "preCondition":"TrainPopOpen",
         "tutorialCharacterExportName":"tutorial_character",
-        "commanderText":"TID_COMMANDER_TEXT_SHUFFLE",
+        "commanderText":"Time to switch things up! Now, every three battle BOXES will give you fresh TROOPS to raid with!",
         "blockInput":null,
         "hilightObject":null,
         "reticleX":null,

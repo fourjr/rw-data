@@ -9538,6 +9538,231 @@
             "rawTID":"ERROR_POP_UP_PURCHASE_FAILED_BUTTON"
         },
         {
+            "tID":"Account Disabled",
+            "eN":"Account Disabled",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"ACCOUNT_DISABLED_TEXT"
+        },
+        {
+            "tID":"This account has been disabled due to a deletion request and can no longer be recovered.",
+            "eN":"This account has been disabled due to a deletion request and can no longer be recovered.",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"ACCOUNT_DELETED_ON_REQUEST_TEXT"
+        },
+        {
+            "tID":"This account has been disabled due to inactivity and can no longer be recovered.",
+            "eN":"This account has been disabled due to inactivity and can no longer be recovered.",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"ACCOUNT_DELETED_DUE_INACTIVITY_TEXT"
+        },
+        {
+            "tID":"Account Deletion Warning",
+            "eN":"Account Deletion Warning",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"ACCOUNT_DELETION_WARNING_TITLE"
+        },
+        {
+            "tID":"Following your request your account will be deleted in <time>. If you have changed your mind contact Help and Support to cancel your deletion request.",
+            "eN":"Following your request your account will be deleted in <time>. If you have changed your mind contact Help and Support to cancel your deletion request.",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"ACCOUNT_DELETION_WARNING_TEXT"
+        },
+        {
+            "tID":"Following your request your account will be deleted soon.",
+            "eN":"Following your request your account will be deleted soon.",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"ACCOUNT_DELETION_SOON_WARNING_TEXT"
+        },
+        {
+            "tID":"You have requested this account to be deleted. You have <time> left to cancel the deletion.",
+            "eN":"You have requested this account to be deleted. You have <time> left to cancel the deletion.",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"ACCOUNT_DELETION_WARNING_CONTACT_PS"
+        },
+        {
+            "tID":"Contact Support",
+            "eN":"Contact Support",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"ERROR_POP_UP_BANNED_CONTACT_US_BUTTON"
+        },
+        {
+            "tID":"Okay",
+            "eN":"Okay",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"CONFIRM_OKAY"
+        },
+        {
             "tID":"Player is on DOMINATION cooldown!",
             "eN":"Player is on DOMINATION cooldown!",
             "fR":null,
@@ -26237,8 +26462,8 @@
             "rawTID":"LEADERBOARD_TIP"
         },
         {
-            "tID":"New League reached!",
-            "eN":"New League reached!",
+            "tID":"New League Reached!",
+            "eN":"New League Reached!",
             "fR":null,
             "dE":null,
             "eS":null,
@@ -27512,8 +27737,8 @@
             "rawTID":"DOMINATION_DRAFT_NOT_FINISHED"
         },
         {
-            "tID":"BONUS!",
-            "eN":"BONUS!",
+            "tID":"BONUS DEFENSE",
+            "eN":"BONUS DEFENSE",
             "fR":null,
             "dE":null,
             "eS":null,
@@ -27860,6 +28085,56 @@
             "fI":null,
             "vI":null,
             "rawTID":"HQ_LEVEL_8"
+        },
+        {
+            "tID":"HQ \u2013 LEVEL 9",
+            "eN":"HQ \u2013 LEVEL 9",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"HQ_LEVEL_9"
+        },
+        {
+            "tID":"HQ \u2013 LEVEL 10",
+            "eN":"HQ \u2013 LEVEL 10",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"HQ_LEVEL_10"
         },
         {
             "tID":"CHOPPER \u2013 LEVEL 1",
@@ -28862,8 +29137,8 @@
             "rawTID":"HELICOPTER_LEVEL_UNLOCKED"
         },
         {
-            "tID":"New XP LEVEL Reached!",
-            "eN":"New XP LEVEL Reached!",
+            "tID":"NEW XP LEVEL REACHED!",
+            "eN":"NEW XP LEVEL REACHED!",
             "fR":null,
             "dE":null,
             "eS":null,
@@ -29362,8 +29637,8 @@
             "rawTID":"LEAGUE6_3"
         },
         {
-            "tID":"DESTROYER",
-            "eN":"DESTROYER",
+            "tID":"CHALLENGER",
+            "eN":"CHALLENGER",
             "fR":null,
             "dE":null,
             "eS":null,
@@ -29387,8 +29662,8 @@
             "rawTID":"LEAGUE7_1"
         },
         {
-            "tID":"DESTROYER",
-            "eN":"DESTROYER",
+            "tID":"CHALLENGER",
+            "eN":"CHALLENGER",
             "fR":null,
             "dE":null,
             "eS":null,
@@ -29412,8 +29687,8 @@
             "rawTID":"LEAGUE7_2"
         },
         {
-            "tID":"DESTROYER",
-            "eN":"DESTROYER",
+            "tID":"CHALLENGER",
+            "eN":"CHALLENGER",
             "fR":null,
             "dE":null,
             "eS":null,
@@ -29512,8 +29787,8 @@
             "rawTID":"LEAGUE8_3"
         },
         {
-            "tID":"LEGEND",
-            "eN":"LEGEND",
+            "tID":"HERO",
+            "eN":"HERO",
             "fR":null,
             "dE":null,
             "eS":null,
@@ -29537,8 +29812,8 @@
             "rawTID":"LEAGUE9_1"
         },
         {
-            "tID":"LEGEND",
-            "eN":"LEGEND",
+            "tID":"HERO",
+            "eN":"HERO",
             "fR":null,
             "dE":null,
             "eS":null,
@@ -29562,8 +29837,8 @@
             "rawTID":"LEAGUE9_2"
         },
         {
-            "tID":"LEGEND",
-            "eN":"LEGEND",
+            "tID":"HERO",
+            "eN":"HERO",
             "fR":null,
             "dE":null,
             "eS":null,
@@ -29587,8 +29862,8 @@
             "rawTID":"LEAGUE9_3"
         },
         {
-            "tID":"SUPREME",
-            "eN":"SUPREME",
+            "tID":"LEGEND",
+            "eN":"LEGEND",
             "fR":null,
             "dE":null,
             "eS":null,
@@ -29612,8 +29887,8 @@
             "rawTID":"LEAGUE10_1"
         },
         {
-            "tID":"SUPREME",
-            "eN":"SUPREME",
+            "tID":"LEGEND",
+            "eN":"LEGEND",
             "fR":null,
             "dE":null,
             "eS":null,
@@ -29637,8 +29912,8 @@
             "rawTID":"LEAGUE10_2"
         },
         {
-            "tID":"SUPREME",
-            "eN":"SUPREME",
+            "tID":"LEGEND",
+            "eN":"LEGEND",
             "fR":null,
             "dE":null,
             "eS":null,
@@ -32412,8 +32687,8 @@
             "rawTID":"HEAL_N_ATTACK"
         },
         {
-            "tID":"ATTACK\\nWITHOUT",
-            "eN":"ATTACK\\nWITHOUT",
+            "tID":"ATTACK WITHOUT",
+            "eN":"ATTACK WITHOUT",
             "fR":null,
             "dE":null,
             "eS":null,
@@ -39612,8 +39887,8 @@
             "rawTID":"DOMINATION_ATTACK_EVENT_BATTLE_STARTED"
         },
         {
-            "tID":"FIRST STAR GAINED",
-            "eN":"FIRST STAR GAINED",
+            "tID":"1 STAR GAINED",
+            "eN":"1 STAR GAINED",
             "fR":null,
             "dE":null,
             "eS":null,
@@ -40035,6 +40310,31 @@
             "fI":null,
             "vI":null,
             "rawTID":"UI_TOP_VIEWERS_TITLE"
+        },
+        {
+            "tID":"BOXES",
+            "eN":"BOXES",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"SHOP_TAB_CHESTS"
         },
         {
             "tID":"DAILY DEALS",
@@ -42087,8 +42387,8 @@
             "rawTID":"DIAMOND_PACK_5"
         },
         {
-            "tID":"FILL BY 10%",
-            "eN":"FILL BY 10%",
+            "tID":"FILL BY 25%",
+            "eN":"FILL BY 25%",
             "fR":null,
             "dE":null,
             "eS":null,
@@ -42112,8 +42412,8 @@
             "rawTID":"RESOURCE_PACK_GOLD_SMALL"
         },
         {
-            "tID":"FILL BY HALF",
-            "eN":"FILL BY HALF",
+            "tID":"FILL BY 50%",
+            "eN":"FILL BY 50%",
             "fR":null,
             "dE":null,
             "eS":null,
@@ -42137,8 +42437,8 @@
             "rawTID":"RESOURCE_PACK_GOLD_MEDIUM"
         },
         {
-            "tID":"FILL STORAGE",
-            "eN":"FILL STORAGE",
+            "tID":"FILL TO MAX",
+            "eN":"FILL TO MAX",
             "fR":null,
             "dE":null,
             "eS":null,
@@ -45912,8 +46212,8 @@
             "rawTID":"CLAN_RESEARCH_TOOLTIP"
         },
         {
-            "tID":"A League Season lasts 2 weeks.\\n\\nAt the end of each League Season you lose 50% of your Stars above 3000.\\n\\nThroughout the League Season you can collect all rewards above 3000 again!",
-            "eN":"A League Season lasts 2 weeks.\\n\\nAt the end of each League Season you lose 50% of your Stars above 3000.\\n\\nThroughout the League Season you can collect all rewards above 3000 again!",
+            "tID":"At the end of each League Season you lose 50% of your Stars above 3000.\\n\\nDuring each League Season you can collect all rewards above 3000 Stars again!",
+            "eN":"At the end of each League Season you lose 50% of your Stars above 3000.\\n\\nDuring each League Season you can collect all rewards above 3000 Stars again!",
             "fR":null,
             "dE":null,
             "eS":null,
@@ -48312,8 +48612,8 @@
             "rawTID":"TIP25"
         },
         {
-            "tID":"You can store a second bonus defense, ready to be placed, while you still have one active in your Gold Mine.",
-            "eN":"You can store a second bonus defense, ready to be placed, while you still have one active in your Gold Mine.",
+            "tID":"Each Star you earn in battle gives you a bit of XP.",
+            "eN":"Each Star you earn in battle gives you a bit of XP.",
             "fR":null,
             "dE":null,
             "eS":null,
@@ -48410,6 +48710,106 @@
             "fI":null,
             "vI":null,
             "rawTID":"TIP29"
+        },
+        {
+            "tID":"Gain XP Levels by upgrading your cards. Higher XP Levels are required to upgrade your HQ.",
+            "eN":"Gain XP Levels by upgrading your cards. Higher XP Levels are required to upgrade your HQ.",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"TIP30"
+        },
+        {
+            "tID":"Upgrade your HQ to get better Free Boxes!",
+            "eN":"Upgrade your HQ to get better Free Boxes!",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"TIP31"
+        },
+        {
+            "tID":"You get assigned new attack cards every 3 battle boxes!",
+            "eN":"You get assigned new attack cards every 3 battle boxes!",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"TIP32"
+        },
+        {
+            "tID":"Every time you find a new Gold Mine, you get assigned new defense cards!",
+            "eN":"Every time you find a new Gold Mine, you get assigned new defense cards!",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"TIP33"
         },
         {
             "tID":"In-App Purchases",
@@ -49310,6 +49710,956 @@
             "fI":null,
             "vI":null,
             "rawTID":"FREE_SUPPLY_NOT_UNLOCKED"
+        },
+        {
+            "tID":"Refresh Cards",
+            "eN":"Refresh Cards",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"CONFIRM_REROLL_TITLE"
+        },
+        {
+            "tID":"Refresh ATTACK CARDS?",
+            "eN":"Refresh ATTACK CARDS?",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"CONFIRM_REROLL_TEXT"
+        },
+        {
+            "tID":"Refresh Cards",
+            "eN":"Refresh Cards",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"REFRESH_CARDS"
+        },
+        {
+            "tID":"Assigning new\\nattack cards!",
+            "eN":"Assigning new\\nattack cards!",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"ASSIGNING_NEW_ATTACK_CARDS"
+        },
+        {
+            "tID":"ATTACK CARDS REFRESH IN:",
+            "eN":"ATTACK CARDS REFRESH IN:",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"TROOP_REFRESH_TXT_BATTLE_END_3"
+        },
+        {
+            "tID":"ATTACK CARDS REFRESHED",
+            "eN":"ATTACK CARDS REFRESHED",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"TROOP_REFRESH_TXT_BATTLE_END_2"
+        },
+        {
+            "tID":"YOU FOUND A GOLD MINE!",
+            "eN":"YOU FOUND A GOLD MINE!",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"YOU_FOUND_GOLDMINE_3"
+        },
+        {
+            "tID":"FIND A NEW ONE",
+            "eN":"FIND A NEW ONE",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"FIND_NEW_GOLDMINE"
+        },
+        {
+            "tID":"KEEP THIS ONE",
+            "eN":"KEEP THIS ONE",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"BUTTON_I_TAKE_IT"
+        },
+        {
+            "tID":"XP Levels Changed!",
+            "eN":"XP Levels Changed!",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"EXP_LEVEL_CHANGE_POPUP_TITLE"
+        },
+        {
+            "tID":"XP Levels will increase for most of the players \u2013 all levels with all of it's rewards awarded normally, no XP is lost!",
+            "eN":"XP Levels will increase for most of the players \u2013 all levels with all of it's rewards awarded normally, no XP is lost!",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"EXP_LEVEL_CHANGE_POPUP_TEXT"
+        },
+        {
+            "tID":"Advance further to see the units!",
+            "eN":"Advance further to see the units!",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"CANT_SHOW_UNITS_ON_THIS_NODE"
+        },
+        {
+            "tID":"Scout available when your Team has advanced further on the map!",
+            "eN":"Scout available when your Team has advanced further on the map!",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"DOMINATION_CANT_SCOUT"
+        },
+        {
+            "tID":"FIND NEW GOLD MINE",
+            "eN":"FIND NEW GOLD MINE",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"CONFIRM_CHANGE_LOCATION_TITLE"
+        },
+        {
+            "tID":"Find a new GOLD MINE and refresh your DEFENSE CARDS?",
+            "eN":"Find a new GOLD MINE and refresh your DEFENSE CARDS?",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"CONFIRM_CHANGE_LOCATION_TEXT"
+        },
+        {
+            "tID":"Team Full",
+            "eN":"Team Full",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"CONFIRM_CLAN_FULL_TITLE"
+        },
+        {
+            "tID":"Unable to join <clan>. The Team is full!",
+            "eN":"Unable to join <clan>. The Team is full!",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"CONFIRM_CLAN_FULL"
+        },
+        {
+            "tID":"Assigning new defense cards!",
+            "eN":"Assigning new defense cards!",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"ASSIGNING_DEFENCE_CARDS"
+        },
+        {
+            "tID":"GOLD LOOT CAP REACHED!",
+            "eN":"GOLD LOOT CAP REACHED!",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"MAX_LOOT_REACHED"
+        },
+        {
+            "tID":"RETRAIN\\nLAST\\nSQUAD",
+            "eN":"RETRAIN\\nLAST\\nSQUAD",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"RETRAIN_LAST_SQUAD"
+        },
+        {
+            "tID":"Refreshing ATTACK CARDS, please be patient...",
+            "eN":"Refreshing ATTACK CARDS, please be patient...",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"REFRESHING_CARDS_BE_PATIENT"
+        },
+        {
+            "tID":"Finding new GOLD MINE, please be patient...",
+            "eN":"Finding new GOLD MINE, please be patient...",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"FINDING_NEW_GOLD_MINE_BE_PATIENT"
+        },
+        {
+            "tID":"NEW MESSAGES",
+            "eN":"NEW MESSAGES",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"NEW_MESSAGES"
+        },
+        {
+            "tID":"NEW CARD\\nUNLOCKED!",
+            "eN":"NEW CARD\\nUNLOCKED!",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"CHEST_NEW_CARD_UNLOCKED"
+        },
+        {
+            "tID":"NICE!",
+            "eN":"NICE!",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"NICE"
+        },
+        {
+            "tID":"Rares",
+            "eN":"Rares",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"SHOP_CARDS_RARES"
+        },
+        {
+            "tID":"Epics",
+            "eN":"Epics",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"SHOP_CARDS_EPICS"
+        },
+        {
+            "tID":"Commanders",
+            "eN":"Commanders",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"SHOP_CARDS_COMMANDERS"
+        },
+        {
+            "tID":"CARDS",
+            "eN":"CARDS",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"SHOP_BOX_CONTAINS_CARDS"
+        },
+        {
+            "tID":"ATTACK <name>",
+            "eN":"ATTACK <name>",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"DOMINATION_ATTACK_TITLE"
+        },
+        {
+            "tID":"CARDS REFRESH IN:",
+            "eN":"CARDS REFRESH IN:",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"CARDS_REFRESH_IN"
+        },
+        {
+            "tID":"FULL!",
+            "eN":"FULL!",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"GOLDMINE_FULL"
+        },
+        {
+            "tID":"CHANCE OF",
+            "eN":"CHANCE OF",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"CHANCE_OF"
+        },
+        {
+            "tID":"1 in <num> BOXES CONTAIN AN <name> CARD!",
+            "eN":"1 in <num> BOXES CONTAIN AN <name> CARD!",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"CHANCE_1_IN_X_BOXES"
+        },
+        {
+            "tID":"Time to switch things up! Now, every three battle BOXES will give you fresh TROOPS to raid with!",
+            "eN":"Time to switch things up! Now, every three battle BOXES will give you fresh TROOPS to raid with!",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"COMMANDER_TEXT_SHUFFLE"
+        },
+        {
+            "tID":"Data no longer available",
+            "eN":"Data no longer available",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"WAR_DATA_ERROR_NO_LONGER_AVAILABLE"
+        },
+        {
+            "tID":"Data not available \u2013 Internal error",
+            "eN":"Data not available \u2013 Internal error",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"WAR_DATA_ERROR_INTERNAL"
+        },
+        {
+            "tID":"Data not available \u2013 Invalid war",
+            "eN":"Data not available \u2013 Invalid war",
+            "fR":null,
+            "dE":null,
+            "eS":null,
+            "iT":null,
+            "nL":null,
+            "nO":null,
+            "tR":null,
+            "jP":null,
+            "kR":null,
+            "rU":null,
+            "aR":null,
+            "pT":null,
+            "cN":null,
+            "cNT":null,
+            "fA":null,
+            "iD":null,
+            "mS":null,
+            "tH":null,
+            "fI":null,
+            "vI":null,
+            "rawTID":"WAR_DATA_ERROR_INVALID_WAR"
         }
     ],
     "texts_patch":[
@@ -49393,6 +50743,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
             "scId":46000000,
+            "url":"https:\/\/www.rushstats.com\/assets\/airdrop\/Boost.png",
             "rawTID":"ABILITY_RAGE",
             "rawInfoTID":"ABILITY_INFO_RAGE"
         },
@@ -49424,6 +50775,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
             "scId":46000001,
+            "url":"https:\/\/www.rushstats.com\/assets\/airdrop\/Heal.png",
             "rawTID":"ABILITY_HEAL",
             "rawInfoTID":"ABILITY_INFO_HEAL"
         },
@@ -49455,6 +50807,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
             "scId":46000002,
+            "url":"https:\/\/www.rushstats.com\/assets\/airdrop\/Arcade.png",
             "rawTID":"ABILITY_BOX_DROP",
             "rawInfoTID":"ABILITY_INFO_BOX_DROP"
         },
@@ -49486,6 +50839,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
             "scId":46000003,
+            "url":"https:\/\/www.rushstats.com\/assets\/airdrop\/Invisibility.png",
             "rawTID":"ABILITY_INVISIBILITY",
             "rawInfoTID":"ABILITY_INFO_INVISIBILITY"
         },
@@ -49517,6 +50871,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
             "scId":46000004,
+            "url":"https:\/\/www.rushstats.com\/assets\/airdrop\/Paratroopers.png",
             "rawTID":"ABILITY_PARATROOPER",
             "rawInfoTID":"ABILITY_INFO_PARATROOPER"
         },
@@ -49548,6 +50903,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
             "scId":46000005,
+            "url":"https:\/\/www.rushstats.com\/assets\/airdrop\/Satellite.png",
             "rawTID":"ABILITY_BOMBARD",
             "rawInfoTID":"ABILITY_INFO_BOMBARD"
         },
@@ -49579,6 +50935,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
             "scId":46000006,
+            "url":"https:\/\/www.rushstats.com\/assets\/airdrop\/Fridge.png",
             "rawTID":"ABILITY_FRIDGE",
             "rawInfoTID":"ABILITY_INFO_FRIDGE"
         }
@@ -62455,6 +63812,7 @@
             "abilityIconExportName":"icon_ability_marine",
             "previewTriggerTime":8500,
             "scId":48000000,
+            "url":"https:\/\/www.rushstats.com\/assets\/commander\/Coach.png",
             "rawTID":"COMMNADER_CARD_SOLDIER",
             "rawInfoTID":"COMMNADER_CARD_INFO_SOLDIER"
         },
@@ -62499,6 +63857,7 @@
             "abilityIconExportName":"icon_ability_grenade_mama",
             "previewTriggerTime":3000,
             "scId":48000008,
+            "url":"https:\/\/www.rushstats.com\/assets\/commander\/Lady-Grenade.png",
             "rawTID":"COMMANDER_CARD_GRENADE",
             "rawInfoTID":"COMMANDER_CARD_INFO_GRENADE"
         },
@@ -62543,6 +63902,7 @@
             "abilityIconExportName":"icon_ability_dino",
             "previewTriggerTime":12000,
             "scId":48000016,
+            "url":"https:\/\/www.rushstats.com\/assets\/commander\/B.I.G..png",
             "rawTID":"COMMNADER_CARD_DINO",
             "rawInfoTID":"COMMNADER_CARD_INFO_DINO"
         },
@@ -62587,6 +63947,7 @@
             "abilityIconExportName":"icon_ability_bear",
             "previewTriggerTime":2000,
             "scId":48000024,
+            "url":"https:\/\/www.rushstats.com\/assets\/commander\/Bearman.png",
             "rawTID":"COMMNADER_CARD_BEARMAN",
             "rawInfoTID":"COMMNADER_CARD_INFO_BEARMAN"
         },
@@ -62631,6 +63992,7 @@
             "abilityIconExportName":"icon_ability_eggtank",
             "previewTriggerTime":1000,
             "scId":48000032,
+            "url":"https:\/\/www.rushstats.com\/assets\/commander\/Mother.png",
             "rawTID":"COMMNADER_CARD_EGGMACHINE",
             "rawInfoTID":"COMMNADER_CARD_INFO_EGGMACHINE"
         }
@@ -62681,6 +64043,7 @@
             "abilityCooldown":null,
             "abilityOneUse":null,
             "scId":50000000,
+            "url":"https:\/\/www.rushstats.com\/assets\/defense\/Mortar.png",
             "rawTID":"CARD_MORTAR",
             "rawInfoTID":"CARD_INFO_MORTAR"
         },
@@ -62713,6 +64076,7 @@
             "abilityCooldown":null,
             "abilityOneUse":null,
             "scId":50000001,
+            "url":"https:\/\/www.rushstats.com\/assets\/defense\/Mines.png",
             "rawTID":"CARD_MINE",
             "rawInfoTID":"CARD_INFO_MINE"
         },
@@ -62739,6 +64103,7 @@
             "abilityCooldown":null,
             "abilityOneUse":null,
             "scId":50000003,
+            "url":"https:\/\/www.rushstats.com\/assets\/defense\/Walls.png",
             "rawTID":"CARD_WALL",
             "rawInfoTID":"CARD_INFO_WALL"
         },
@@ -62765,6 +64130,7 @@
             "abilityCooldown":null,
             "abilityOneUse":null,
             "scId":50000004,
+            "url":"https:\/\/www.rushstats.com\/assets\/defense\/Walls.png",
             "rawTID":"CARD_WALL",
             "rawInfoTID":"CARD_INFO_WALL"
         },
@@ -62791,6 +64157,7 @@
             "abilityCooldown":null,
             "abilityOneUse":null,
             "scId":50000005,
+            "url":"https:\/\/www.rushstats.com\/assets\/defense\/Cannon.png",
             "rawTID":"CARD_CANNON",
             "rawInfoTID":"CARD_INFO_CANNON"
         },
@@ -62817,6 +64184,7 @@
             "abilityCooldown":null,
             "abilityOneUse":null,
             "scId":50000006,
+            "url":"https:\/\/www.rushstats.com\/assets\/defense\/Plumber-Hole.png",
             "rawTID":"CARD_PLUMBER_HUT",
             "rawInfoTID":"CARD_INFO_PLUMBER_HUT"
         },
@@ -62869,6 +64237,7 @@
             "abilityCooldown":null,
             "abilityOneUse":null,
             "scId":50000007,
+            "url":"https:\/\/www.rushstats.com\/assets\/defense\/Cluster-Cake.png",
             "rawTID":"CARD_CAKE",
             "rawInfoTID":"CARD_INFO_CAKE"
         },
@@ -62895,6 +64264,7 @@
             "abilityCooldown":null,
             "abilityOneUse":null,
             "scId":50000008,
+            "url":"https:\/\/www.rushstats.com\/assets\/defense\/Gatling.png",
             "rawTID":"CARD_GATLING",
             "rawInfoTID":"CARD_INFO_GATLING"
         },
@@ -62921,6 +64291,7 @@
             "abilityCooldown":null,
             "abilityOneUse":null,
             "scId":50000009,
+            "url":"https:\/\/www.rushstats.com\/assets\/defense\/Bomb.png",
             "rawTID":"CARD_BOMB",
             "rawInfoTID":"CARD_INFO_BOMB"
         },
@@ -62947,6 +64318,7 @@
             "abilityCooldown":null,
             "abilityOneUse":null,
             "scId":50000010,
+            "url":"https:\/\/www.rushstats.com\/assets\/defense\/Freeze-Mine.png",
             "rawTID":"CARD_FREEZE_TRAP",
             "rawInfoTID":"CARD_INFO_FREEZE_TRAP"
         },
@@ -62999,6 +64371,7 @@
             "abilityCooldown":null,
             "abilityOneUse":null,
             "scId":50000011,
+            "url":"https:\/\/www.rushstats.com\/assets\/defense\/Plasmagun.png",
             "rawTID":"CARD_PLASMAGUN",
             "rawInfoTID":"CARD_INFO_PLASMAGUN"
         },
@@ -63025,6 +64398,7 @@
             "abilityCooldown":null,
             "abilityOneUse":null,
             "scId":50000012,
+            "url":"https:\/\/www.rushstats.com\/assets\/defense\/Box-Ninja.png",
             "rawTID":"CARD_BLACK_NINJA",
             "rawInfoTID":"CARD_INFO_BLACK_NINJA"
         },
@@ -63051,6 +64425,7 @@
             "abilityCooldown":null,
             "abilityOneUse":null,
             "scId":50000013,
+            "url":"https:\/\/www.rushstats.com\/assets\/defense\/Tesla.png",
             "rawTID":"CARD_TESLA",
             "rawInfoTID":"CARD_INFO_TESLA"
         },
@@ -63077,6 +64452,7 @@
             "abilityCooldown":null,
             "abilityOneUse":null,
             "scId":50000014,
+            "url":"https:\/\/www.rushstats.com\/assets\/defense\/Rocket-Trap.png",
             "rawTID":"CARD_ROCKET_PLATFORM",
             "rawInfoTID":"CARD_INFO_ROCKET_PLATFORM"
         },
@@ -63103,6 +64479,7 @@
             "abilityCooldown":null,
             "abilityOneUse":null,
             "scId":50000015,
+            "url":"https:\/\/www.rushstats.com\/assets\/defense\/Dummy.png",
             "rawTID":"CARD_DUMMY",
             "rawInfoTID":"CARD_INFO_DUMMY"
         }
@@ -63178,7 +64555,8 @@
             "cloudMinAlpha":null,
             "cloudMaxAlpha":null,
             "cloudCount":null,
-            "scId":16000000
+            "scId":16000000,
+            "url":null
         },
         {
             "name":"Forest",
@@ -63207,6 +64585,7 @@
             "cloudMaxAlpha":null,
             "cloudCount":null,
             "scId":16000001,
+            "url":"https:\/\/www.rushstats.com\/assets\/404-image-not-found-ask-us-on-discord.png",
             "rawTID":"ENVIRONMENT_FOREST"
         },
         {
@@ -63235,7 +64614,8 @@
             "cloudMinAlpha":70,
             "cloudMaxAlpha":100,
             "cloudCount":4,
-            "scId":16000002
+            "scId":16000002,
+            "url":null
         },
         {
             "name":"Megacity",
@@ -63264,6 +64644,7 @@
             "cloudMaxAlpha":null,
             "cloudCount":null,
             "scId":16000003,
+            "url":"https:\/\/www.rushstats.com\/assets\/404-image-not-found-ask-us-on-discord.png",
             "rawTID":"ENVIRONMENT_MEGACITY"
         },
         {
@@ -63293,6 +64674,7 @@
             "cloudMaxAlpha":null,
             "cloudCount":null,
             "scId":16000004,
+            "url":"https:\/\/www.rushstats.com\/assets\/404-image-not-found-ask-us-on-discord.png",
             "rawTID":"ENVIRONMENT_DESERT"
         },
         {
@@ -66593,7 +67975,7 @@
         },
         {
             "name":9,
-            "tID":"TID_HQ_LEVEL_9",
+            "tID":"HQ \u2013 LEVEL 9",
             "upgradeGold":150000,
             "chestMultiplier":300,
             "maxHeliLevel":8,
@@ -66611,7 +67993,7 @@
         },
         {
             "name":10,
-            "tID":"TID_HQ_LEVEL_10",
+            "tID":"HQ \u2013 LEVEL 10",
             "upgradeGold":0,
             "chestMultiplier":325,
             "maxHeliLevel":8,
@@ -66644,6 +68026,10 @@
             "seasonReset":null,
             "starEXP":1,
             "hqLimit":1,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/No-League.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/No-League.png"
+            ],
             "rawTID":"NO_LEAGUE"
         },
         {
@@ -66661,6 +68047,10 @@
             "seasonReset":null,
             "starEXP":1,
             "hqLimit":1,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Rookie.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/1.png"
+            ],
             "rawTID":"LEAGUE1_1"
         },
         {
@@ -66678,6 +68068,10 @@
             "seasonReset":null,
             "starEXP":1,
             "hqLimit":1,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Rookie.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/2.png"
+            ],
             "rawTID":"LEAGUE1_2"
         },
         {
@@ -66695,6 +68089,10 @@
             "seasonReset":null,
             "starEXP":1,
             "hqLimit":1,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Rookie.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/3.png"
+            ],
             "rawTID":"LEAGUE1_3"
         },
         {
@@ -66712,6 +68110,10 @@
             "seasonReset":null,
             "starEXP":2,
             "hqLimit":1,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Bronze.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/1.png"
+            ],
             "rawTID":"LEAGUE2_1"
         },
         {
@@ -66729,6 +68131,10 @@
             "seasonReset":null,
             "starEXP":2,
             "hqLimit":1,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Bronze.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/2.png"
+            ],
             "rawTID":"LEAGUE2_2"
         },
         {
@@ -66746,6 +68152,10 @@
             "seasonReset":null,
             "starEXP":2,
             "hqLimit":1,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Bronze.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/3.png"
+            ],
             "rawTID":"LEAGUE2_3"
         },
         {
@@ -66763,6 +68173,10 @@
             "seasonReset":null,
             "starEXP":3,
             "hqLimit":1,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Silver.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/1.png"
+            ],
             "rawTID":"LEAGUE3_1"
         },
         {
@@ -66780,6 +68194,10 @@
             "seasonReset":null,
             "starEXP":3,
             "hqLimit":1,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Silver.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/2.png"
+            ],
             "rawTID":"LEAGUE3_2"
         },
         {
@@ -66797,6 +68215,10 @@
             "seasonReset":null,
             "starEXP":3,
             "hqLimit":1,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Silver.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/3.png"
+            ],
             "rawTID":"LEAGUE3_3"
         },
         {
@@ -66814,6 +68236,10 @@
             "seasonReset":null,
             "starEXP":4,
             "hqLimit":2,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Gold.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/1.png"
+            ],
             "rawTID":"LEAGUE4_1"
         },
         {
@@ -66831,6 +68257,10 @@
             "seasonReset":null,
             "starEXP":4,
             "hqLimit":2,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Gold.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/2.png"
+            ],
             "rawTID":"LEAGUE4_2"
         },
         {
@@ -66848,6 +68278,10 @@
             "seasonReset":null,
             "starEXP":4,
             "hqLimit":2,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Gold.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/3.png"
+            ],
             "rawTID":"LEAGUE4_3"
         },
         {
@@ -66865,6 +68299,10 @@
             "seasonReset":null,
             "starEXP":5,
             "hqLimit":2,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Specialist.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/1.png"
+            ],
             "rawTID":"LEAGUE5_1"
         },
         {
@@ -66882,6 +68320,10 @@
             "seasonReset":null,
             "starEXP":5,
             "hqLimit":2,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Specialist.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/2.png"
+            ],
             "rawTID":"LEAGUE5_2"
         },
         {
@@ -66899,6 +68341,10 @@
             "seasonReset":null,
             "starEXP":5,
             "hqLimit":2,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Specialist.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/3.png"
+            ],
             "rawTID":"LEAGUE5_3"
         },
         {
@@ -66916,6 +68362,10 @@
             "seasonReset":null,
             "starEXP":6,
             "hqLimit":3,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Ninja.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/1.png"
+            ],
             "rawTID":"LEAGUE6_1"
         },
         {
@@ -66933,6 +68383,10 @@
             "seasonReset":null,
             "starEXP":6,
             "hqLimit":3,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Ninja.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/2.png"
+            ],
             "rawTID":"LEAGUE6_2"
         },
         {
@@ -66950,11 +68404,15 @@
             "seasonReset":null,
             "starEXP":6,
             "hqLimit":3,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Ninja.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/3.png"
+            ],
             "rawTID":"LEAGUE6_3"
         },
         {
             "name":"League7_1",
-            "tID":"DESTROYER",
+            "tID":"CHALLENGER",
             "limitLow":3000,
             "limitHigh":3300,
             "iconSWF":"sc\/ui.sc",
@@ -66967,11 +68425,15 @@
             "seasonReset":50,
             "starEXP":7,
             "hqLimit":3,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Challenger.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/1.png"
+            ],
             "rawTID":"LEAGUE7_1"
         },
         {
             "name":"League7_2",
-            "tID":"DESTROYER",
+            "tID":"CHALLENGER",
             "limitLow":3300,
             "limitHigh":3600,
             "iconSWF":"sc\/ui.sc",
@@ -66984,11 +68446,15 @@
             "seasonReset":50,
             "starEXP":7,
             "hqLimit":3,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Challenger.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/2.png"
+            ],
             "rawTID":"LEAGUE7_2"
         },
         {
             "name":"League7_3",
-            "tID":"DESTROYER",
+            "tID":"CHALLENGER",
             "limitLow":3600,
             "limitHigh":4000,
             "iconSWF":"sc\/ui.sc",
@@ -67001,6 +68467,10 @@
             "seasonReset":50,
             "starEXP":7,
             "hqLimit":3,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Challenger.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/3.png"
+            ],
             "rawTID":"LEAGUE7_3"
         },
         {
@@ -67018,6 +68488,10 @@
             "seasonReset":50,
             "starEXP":8,
             "hqLimit":4,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Champion.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/1.png"
+            ],
             "rawTID":"LEAGUE8_1"
         },
         {
@@ -67035,6 +68509,10 @@
             "seasonReset":50,
             "starEXP":8,
             "hqLimit":4,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Champion.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/2.png"
+            ],
             "rawTID":"LEAGUE8_2"
         },
         {
@@ -67052,11 +68530,15 @@
             "seasonReset":50,
             "starEXP":8,
             "hqLimit":4,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Champion.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/3.png"
+            ],
             "rawTID":"LEAGUE8_3"
         },
         {
             "name":"League9_1",
-            "tID":"LEGEND",
+            "tID":"HERO",
             "limitLow":5200,
             "limitHigh":5600,
             "iconSWF":"sc\/ui.sc",
@@ -67069,11 +68551,15 @@
             "seasonReset":50,
             "starEXP":9,
             "hqLimit":5,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Hero.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/1.png"
+            ],
             "rawTID":"LEAGUE9_1"
         },
         {
             "name":"League9_2",
-            "tID":"LEGEND",
+            "tID":"HERO",
             "limitLow":5600,
             "limitHigh":6000,
             "iconSWF":"sc\/ui.sc",
@@ -67086,11 +68572,15 @@
             "seasonReset":50,
             "starEXP":9,
             "hqLimit":5,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Hero.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/2.png"
+            ],
             "rawTID":"LEAGUE9_2"
         },
         {
             "name":"League9_3",
-            "tID":"LEGEND",
+            "tID":"HERO",
             "limitLow":6000,
             "limitHigh":6500,
             "iconSWF":"sc\/ui.sc",
@@ -67103,11 +68593,15 @@
             "seasonReset":50,
             "starEXP":9,
             "hqLimit":5,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Hero.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/3.png"
+            ],
             "rawTID":"LEAGUE9_3"
         },
         {
             "name":"League10_1",
-            "tID":"SUPREME",
+            "tID":"LEGEND",
             "limitLow":6500,
             "limitHigh":7000,
             "iconSWF":"sc\/ui.sc",
@@ -67120,11 +68614,15 @@
             "seasonReset":50,
             "starEXP":10,
             "hqLimit":7,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Legend.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/1.png"
+            ],
             "rawTID":"LEAGUE10_1"
         },
         {
             "name":"League10_2",
-            "tID":"SUPREME",
+            "tID":"LEGEND",
             "limitLow":7000,
             "limitHigh":7500,
             "iconSWF":"sc\/ui.sc",
@@ -67137,11 +68635,15 @@
             "seasonReset":50,
             "starEXP":10,
             "hqLimit":7,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Legend.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/2.png"
+            ],
             "rawTID":"LEAGUE10_2"
         },
         {
             "name":"League10_3",
-            "tID":"SUPREME",
+            "tID":"LEGEND",
             "limitLow":7500,
             "limitHigh":8000,
             "iconSWF":"sc\/ui.sc",
@@ -67154,6 +68656,10 @@
             "seasonReset":50,
             "starEXP":10,
             "hqLimit":7,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Legend.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/3.png"
+            ],
             "rawTID":"LEAGUE10_3"
         },
         {
@@ -67171,6 +68677,10 @@
             "seasonReset":50,
             "starEXP":11,
             "hqLimit":10,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Superstar.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/1.png"
+            ],
             "rawTID":"LEAGUE11_1"
         },
         {
@@ -67188,6 +68698,10 @@
             "seasonReset":50,
             "starEXP":11,
             "hqLimit":10,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Superstar.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/2.png"
+            ],
             "rawTID":"LEAGUE11_2"
         },
         {
@@ -67205,6 +68719,10 @@
             "seasonReset":50,
             "starEXP":11,
             "hqLimit":10,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Superstar.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/3.png"
+            ],
             "rawTID":"LEAGUE11_3"
         },
         {
@@ -67222,6 +68740,10 @@
             "seasonReset":50,
             "starEXP":12,
             "hqLimit":10,
+            "url":[
+                "https:\/\/www.rushstats.com\/assets\/league\/Elite.png",
+                "https:\/\/www.rushstats.com\/assets\/league\/sub\/Elite.png"
+            ],
             "rawTID":"LEAGUE12"
         }
     ],
@@ -99861,6 +101383,7 @@
             "stealLimitMid":null,
             "stealEffect":null,
             "scId":5000000,
+            "url":"https:\/\/www.rushstats.com\/assets\/404-image-not-found-ask-us-on-discord.png",
             "rawTID":"GEMS",
             "rawPopOverTID":"POP_GEM"
         },
@@ -99886,6 +101409,7 @@
             "stealLimitMid":5,
             "stealEffect":"steal_gold",
             "scId":5000001,
+            "url":"https:\/\/www.rushstats.com\/assets\/404-image-not-found-ask-us-on-discord.png",
             "rawTID":"GOLD",
             "rawCapFullTID":"GOLD_CAP_FULL",
             "rawPopOverTID":"POP_GOLD"
@@ -99912,6 +101436,7 @@
             "stealLimitMid":null,
             "stealEffect":null,
             "scId":5000002,
+            "url":"https:\/\/www.rushstats.com\/assets\/404-image-not-found-ask-us-on-discord.png",
             "rawTID":"GOLD"
         },
         {
@@ -99936,6 +101461,7 @@
             "stealLimitMid":null,
             "stealEffect":null,
             "scId":5000003,
+            "url":"https:\/\/www.rushstats.com\/assets\/404-image-not-found-ask-us-on-discord.png",
             "rawTID":"MINERAL",
             "rawCapFullTID":"MINERAL_CAP_FULL",
             "rawPopOverTID":"POP_MINERAL"
@@ -99962,6 +101488,7 @@
             "stealLimitMid":null,
             "stealEffect":null,
             "scId":5000004,
+            "url":"https:\/\/www.rushstats.com\/assets\/404-image-not-found-ask-us-on-discord.png",
             "rawTID":"MINERAL",
             "rawCapFullTID":"MINERAL_CAP_FULL"
         },
@@ -99987,6 +101514,7 @@
             "stealLimitMid":null,
             "stealEffect":null,
             "scId":5000005,
+            "url":"https:\/\/www.rushstats.com\/assets\/404-image-not-found-ask-us-on-discord.png",
             "rawTID":"CARDS"
         },
         {
@@ -100036,6 +101564,7 @@
             "stealLimitMid":null,
             "stealEffect":null,
             "scId":5000006,
+            "url":"https:\/\/www.rushstats.com\/assets\/404-image-not-found-ask-us-on-discord.png",
             "rawTID":"EXP",
             "rawPopOverTID":"POP_EXP"
         },
@@ -100068,7 +101597,7 @@
     "resource_packs":[
         {
             "name":"Gold1",
-            "tID":"FILL BY 10%",
+            "tID":"FILL BY 25%",
             "resource":"Gold",
             "capacityPercent":25,
             "iconSWF":"sc\/ui_portraits.sc",
@@ -100077,7 +101606,7 @@
         },
         {
             "name":"Gold2",
-            "tID":"FILL BY HALF",
+            "tID":"FILL BY 50%",
             "resource":"Gold",
             "capacityPercent":50,
             "iconSWF":"sc\/ui_portraits.sc",
@@ -100086,7 +101615,7 @@
         },
         {
             "name":"Gold3",
-            "tID":"FILL STORAGE",
+            "tID":"FILL TO MAX",
             "resource":"Gold",
             "capacityPercent":100,
             "iconSWF":"sc\/ui_portraits.sc",
@@ -100128,6 +101657,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
             "scId":49000000,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Troopers.png",
             "rawTID":"CARD_SOLDIER",
             "rawInfoTID":"CARD_INFO_SOLDIER"
         },
@@ -100151,6 +101681,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":"BACK",
             "scId":49000004,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Pitcher.png",
             "rawTID":"CARD_GRENADE",
             "rawInfoTID":"CARD_INFO_GRENADE"
         },
@@ -100180,6 +101711,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":"FRONT",
             "scId":49000005,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Shields.png",
             "rawTID":"CARD_SHIELD",
             "rawInfoTID":"CARD_INFO_SHIELD"
         },
@@ -100203,6 +101735,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
             "scId":49000007,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Tank.png",
             "rawTID":"CARD_TANK",
             "rawInfoTID":"CARD_INFO_TANK"
         },
@@ -100226,6 +101759,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":"BACK",
             "scId":49000008,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Bazooka.png",
             "rawTID":"CARD_BAZOOKA",
             "rawInfoTID":"CARD_INFO_BAZOOKA"
         },
@@ -100249,6 +101783,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
             "scId":49000009,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Plumber-Van.png",
             "rawTID":"CARD_PLUMBER_VAN",
             "rawInfoTID":"CARD_INFO_APC"
         },
@@ -100278,6 +101813,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
             "scId":49000010,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Jetpacks.png",
             "rawTID":"CARD_JETPACK",
             "rawInfoTID":"CARD_INFO_JETPACK"
         },
@@ -100301,6 +101837,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":"FRONT",
             "scId":49000012,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Gorilla.png",
             "rawTID":"CARD_GORILLA",
             "rawInfoTID":"CARD_INFO_GORILLA"
         },
@@ -100324,6 +101861,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
             "scId":49000013,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Hotshot.png",
             "rawTID":"CARD_SHOTGUN",
             "rawInfoTID":"CARD_INFO_SHOTGUN"
         },
@@ -100347,6 +101885,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":"BACK",
             "scId":49000014,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Laser.png",
             "rawTID":"CARD_LASER",
             "rawInfoTID":"CARD_INFO_LASER"
         },
@@ -100370,6 +101909,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
             "scId":49000015,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Boxer.png",
             "rawTID":"CARD_BOXER",
             "rawInfoTID":"CARD_INFO_BOXER"
         },
@@ -100407,6 +101947,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
             "scId":49000016,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Henchmen.png",
             "rawTID":"CARD_TAZER",
             "rawInfoTID":"CARD_INFO_TAZER"
         },
@@ -100430,6 +101971,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":"BACK",
             "scId":49000022,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Helipod.png",
             "rawTID":"CARD_HELIPOD",
             "rawInfoTID":"CARD_INFO_HELIPOD"
         },
@@ -100453,6 +101995,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":"BACK",
             "scId":49000023,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Blaze.png",
             "rawTID":"CARD_FLAMETHROWER",
             "rawInfoTID":"CARD_INFO_FLAMETHROWER"
         },
@@ -100476,6 +102019,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":"BACK",
             "scId":49000024,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Rocket-Truck.png",
             "rawTID":"CARD_BOMBARDTANK",
             "rawInfoTID":"CARD_INFO_BOMBARDTANK"
         },
@@ -100505,6 +102049,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":"BACK",
             "scId":49000025,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Kungfu.png",
             "rawTID":"CARD_KUNGFU",
             "rawInfoTID":"CARD_INFO_KUNGFU"
         },
@@ -100528,6 +102073,7 @@
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
             "scId":49000027,
+            "url":"https:\/\/www.rushstats.com\/assets\/troop\/Sneaky-Ninja.png",
             "rawTID":"CARD_WHITENINJA",
             "rawInfoTID":"CARD_INFO_WHITE_NINJA"
         }
@@ -100972,7 +102518,7 @@
             "dependency":"ShuffleUnits1",
             "preCondition":"TrainPopOpen",
             "tutorialCharacterExportName":"tutorial_character",
-            "commanderText":"TID_COMMANDER_TEXT_SHUFFLE",
+            "commanderText":"Time to switch things up! Now, every three battle BOXES will give you fresh TROOPS to raid with!",
             "blockInput":null,
             "hilightObject":null,
             "reticleX":null,
@@ -101211,297 +102757,356 @@
         {
             "name":"HelicopterLevel",
             "value":null,
-            "scId":7000000
+            "scId":7000000,
+            "url":null
         },
         {
             "name":"SinglePlayerLevel",
             "value":null,
-            "scId":7000001
+            "scId":7000001,
+            "url":null
         },
         {
             "name":"CaptureTutorialOutpost",
             "value":null,
-            "scId":7000002
+            "scId":7000002,
+            "url":null
         },
         {
             "name":"ShouldCaptureOutpost",
             "value":null,
-            "scId":7000003
+            "scId":7000003,
+            "url":null
         },
         {
             "name":"AttackCount",
             "value":null,
-            "scId":7000004
+            "scId":7000004,
+            "url":null
         },
         {
             "name":"AttackWinCount",
             "value":null,
-            "scId":7000005
+            "scId":7000005,
+            "url":null
         },
         {
             "name":"AttackLoseCount",
             "value":null,
-            "scId":7000006
+            "scId":7000006,
+            "url":null
         },
         {
             "name":"DefenceWinCount",
             "value":null,
-            "scId":7000007
+            "scId":7000007,
+            "url":null
         },
         {
             "name":"DefenceLoseCount",
             "value":null,
-            "scId":7000008
+            "scId":7000008,
+            "url":null
         },
         {
             "name":"TutorialWinCount",
             "value":null,
-            "scId":7000009
+            "scId":7000009,
+            "url":null
         },
         {
             "name":"DefenceCount1",
             "value":null,
-            "scId":7000010
+            "scId":7000010,
+            "url":null
         },
         {
             "name":"DefenceStarCount1",
             "value":null,
-            "scId":7000011
+            "scId":7000011,
+            "url":null
         },
         {
             "name":"DefenceChestStarCount",
             "value":null,
-            "scId":7000012
+            "scId":7000012,
+            "url":null
         },
         {
             "name":"DefenceValid",
             "value":null,
-            "scId":7000013
+            "scId":7000013,
+            "url":null
         },
         {
             "name":"ChestStarCount",
             "value":null,
-            "scId":7000014
+            "scId":7000014,
+            "url":null
         },
         {
             "name":"CycleOffset",
             "value":null,
-            "scId":7000015
+            "scId":7000015,
+            "url":null
         },
         {
             "name":"MatchmakeCounter",
             "value":null,
-            "scId":7000016
+            "scId":7000016,
+            "url":null
         },
         {
             "name":"OutpostResourceTimerTicks",
             "value":null,
-            "scId":7000017
+            "scId":7000017,
+            "url":null
         },
         {
             "name":"FreeChestCounter",
             "value":null,
-            "scId":7000018
+            "scId":7000018,
+            "url":null
         },
         {
             "name":"AllianceChatFilter",
             "value":null,
-            "scId":7000019
+            "scId":7000019,
+            "url":null
         },
         {
             "name":"FavouriteCard",
             "value":null,
-            "scId":7000020
+            "scId":7000020,
+            "url":null
         },
         {
             "name":"FavouriteTroop",
             "value":null,
-            "scId":7000021
+            "scId":7000021,
+            "url":null
         },
         {
             "name":"FavouriteAirdrop",
             "value":null,
-            "scId":7000022
+            "scId":7000022,
+            "url":null
         },
         {
             "name":"FavouriteCommander",
             "value":null,
-            "scId":7000023
+            "scId":7000023,
+            "url":null
         },
         {
             "name":"TotalAttackStars",
             "value":null,
-            "scId":7000024
+            "scId":7000024,
+            "url":null
         },
         {
             "name":"TotalDefenceStars",
             "value":null,
-            "scId":7000025
+            "scId":7000025,
+            "url":null
         },
         {
             "name":"DominationAttackCount",
             "value":null,
-            "scId":7000026
+            "scId":7000026,
+            "url":null
         },
         {
             "name":"DominationAttackWinCount",
             "value":null,
-            "scId":7000027
+            "scId":7000027,
+            "url":null
         },
         {
             "name":"DominationAttackLoseCount",
             "value":null,
-            "scId":7000028
+            "scId":7000028,
+            "url":null
         },
         {
             "name":"UnclaimedDominationChest",
             "value":null,
-            "scId":7000029
+            "scId":7000029,
+            "url":null
         },
         {
             "name":"UnclaimedDominationGems",
             "value":null,
-            "scId":7000030
+            "scId":7000030,
+            "url":null
         },
         {
             "name":"UnclaimedDominationGold",
             "value":null,
-            "scId":7000031
+            "scId":7000031,
+            "url":null
         },
         {
             "name":"UnclaimedDominationYourStars",
             "value":null,
-            "scId":7000032
+            "scId":7000032,
+            "url":null
         },
         {
             "name":"UnclaimedDominationEnemyStars",
             "value":null,
-            "scId":7000033
+            "scId":7000033,
+            "url":null
         },
         {
             "name":"UnclaimedDominationResult",
             "value":null,
-            "scId":7000034
+            "scId":7000034,
+            "url":null
         },
         {
             "name":"HasBeenToOutpost",
             "value":null,
-            "scId":7000035
+            "scId":7000035,
+            "url":null
         },
         {
             "name":"ChestsSinceNewCard",
             "value":null,
-            "scId":7000036
+            "scId":7000036,
+            "url":null
         },
         {
             "name":"HasSavedOutpost",
             "value":null,
-            "scId":7000037
+            "scId":7000037,
+            "url":null
         },
         {
             "name":"DominationClanWinCount",
             "value":null,
-            "scId":7000038
+            "scId":7000038,
+            "url":null
         },
         {
             "name":"DominationClanLoseCount",
             "value":null,
-            "scId":7000039
+            "scId":7000039,
+            "url":null
         },
         {
             "name":"DominationTotalGoldLoot",
             "value":null,
-            "scId":7000040
+            "scId":7000040,
+            "url":null
         },
         {
             "name":"DominationTotalStarsReceived",
             "value":null,
-            "scId":7000041
+            "scId":7000041,
+            "url":null
         },
         {
             "name":"TotalDonatedGold",
             "value":null,
-            "scId":7000042
+            "scId":7000042,
+            "url":null
         },
         {
             "name":"TotalGoldLootPvp",
             "value":null,
-            "scId":7000043
+            "scId":7000043,
+            "url":null
         },
         {
             "name":"NextLocationEnvironment",
             "value":null,
-            "scId":7000044
+            "scId":7000044,
+            "url":null
         },
         {
             "name":"SeasonPoints",
             "value":null,
-            "scId":7000045
+            "scId":7000045,
+            "url":null
         },
         {
             "name":"ObstacleCounter",
             "value":null,
-            "scId":7000046
+            "scId":7000046,
+            "url":null
         },
         {
             "name":"ClanRulesShownIDhigh",
             "value":null,
-            "scId":7000047
+            "scId":7000047,
+            "url":null
         },
         {
             "name":"ClanRulesShownIDlow",
             "value":null,
-            "scId":7000048
+            "scId":7000048,
+            "url":null
         },
         {
             "name":"LootLimitCounter",
             "value":null,
-            "scId":7000049
+            "scId":7000049,
+            "url":null
         },
         {
             "name":"Version",
             "value":null,
-            "scId":7000050
+            "scId":7000050,
+            "url":null
         },
         {
             "name":"CardResetsSinceChest",
             "value":null,
-            "scId":7000051
+            "scId":7000051,
+            "url":null
         },
         {
             "name":"NewUnitsPending",
             "value":null,
-            "scId":7000052
+            "scId":7000052,
+            "url":null
         },
         {
             "name":"CardN",
             "value":null,
-            "scId":7000053
+            "scId":7000053,
+            "url":null
         },
         {
             "name":"FREE_SLOT_0",
             "value":null,
-            "scId":7000054
+            "scId":7000054,
+            "url":null
         },
         {
             "name":"OutpostNeedsConfirm",
             "value":null,
-            "scId":7000055
+            "scId":7000055,
+            "url":null
         },
         {
             "name":"OutpostRerolls",
             "value":null,
-            "scId":7000056
+            "scId":7000056,
+            "url":null
         },
         {
             "name":"NewUnitsChestCounter",
             "value":null,
-            "scId":7000057
+            "scId":7000057,
+            "url":null
         },
         {
             "name":"NewDefenceUnitsPending",
             "value":null,
-            "scId":7000058
+            "scId":7000058,
+            "url":null
         }
     ],
     "tid":{
@@ -101577,6 +103182,15 @@
         "ERROR_POP_UP_PURCHASE_FAILED_TITLE":"Purchase failed",
         "ERROR_POP_UP_PURCHASE_FAILED":"Billing server not responding. Please try again later.",
         "ERROR_POP_UP_PURCHASE_FAILED_BUTTON":"Ok",
+        "ACCOUNT_DISABLED_TEXT":"Account Disabled",
+        "ACCOUNT_DELETED_ON_REQUEST_TEXT":"This account has been disabled due to a deletion request and can no longer be recovered.",
+        "ACCOUNT_DELETED_DUE_INACTIVITY_TEXT":"This account has been disabled due to inactivity and can no longer be recovered.",
+        "ACCOUNT_DELETION_WARNING_TITLE":"Account Deletion Warning",
+        "ACCOUNT_DELETION_WARNING_TEXT":"Following your request your account will be deleted in <time>. If you have changed your mind contact Help and Support to cancel your deletion request.",
+        "ACCOUNT_DELETION_SOON_WARNING_TEXT":"Following your request your account will be deleted soon.",
+        "ACCOUNT_DELETION_WARNING_CONTACT_PS":"You have requested this account to be deleted. You have <time> left to cancel the deletion.",
+        "ERROR_POP_UP_BANNED_CONTACT_US_BUTTON":"Contact Support",
+        "CONFIRM_OKAY":"Okay",
         "PLAYER_IS_UNDER_COOLDOWN":"Player is on DOMINATION cooldown!",
         "TRAIN":"USE AGAIN",
         "TRAINING":"Get TROOPS",
@@ -102245,7 +103859,7 @@
         "SEASON_ENDS_IN":"Season ends in: 24d 20h 35min",
         "YOU":"YOU ",
         "LEADERBOARD_TIP":"TODO: Implement me",
-        "NEW_LEAGUE_REACHED":"New League reached!",
+        "NEW_LEAGUE_REACHED":"New League Reached!",
         "NEW_LEAGUE_LEVEL":"League: <name>",
         "CHEST_INCREASE_INFO":"Chest sizes increase by 50 percent!",
         "LEVEL_UP":"LEVEL UP!",
@@ -102296,7 +103910,7 @@
         "DOMINATION_COMPLETED":"DOMINATION COMPLETED!",
         "DOMINATION_COMPLETED_NEXT_IN":"NEXT IN",
         "DOMINATION_DRAFT_NOT_FINISHED":"DRAFT AWAITS",
-        "BONUS_DEFENSE":"BONUS!",
+        "BONUS_DEFENSE":"BONUS DEFENSE",
         "BONUS_DEFENSE_LONG":"BONUS DEFENSE",
         "CLAN_RESEARCH_WARNING_SELECT_ITEM":"Choose defense to build first!",
         "CLAIM":"CLAIM",
@@ -102310,6 +103924,8 @@
         "HQ_LEVEL_6":"HQ \u2013 LEVEL 6",
         "HQ_LEVEL_7":"HQ \u2013 LEVEL 7",
         "HQ_LEVEL_8":"HQ \u2013 LEVEL 8",
+        "HQ_LEVEL_9":"HQ \u2013 LEVEL 9",
+        "HQ_LEVEL_10":"HQ \u2013 LEVEL 10",
         "HELICOPTER_LEVEL_1":"CHOPPER \u2013 LEVEL 1",
         "HELICOPTER_LEVEL_2":"CHOPPER \u2013 LEVEL 2",
         "HELICOPTER_LEVEL_3":"CHOPPER \u2013 LEVEL 3",
@@ -102350,7 +103966,7 @@
         "CLANS_UNLOCKED":"JOINING TEAMS NOW AVAILABLE!",
         "HQ_LEVEL_UNLOCKED":"HQ \u2013 LEVEL <num> Unlocked!",
         "HELICOPTER_LEVEL_UNLOCKED":"CHOPPER \u2013 LEVEL <num> Unlocked!",
-        "XP_LEVEL_REACHED":"New XP LEVEL Reached!",
+        "XP_LEVEL_REACHED":"NEW XP LEVEL REACHED!",
         "NO_LEAGUE":"NO LEAGUE",
         "LEAGUE1_1":"ROOKIE",
         "LEAGUE1_2":"ROOKIE",
@@ -102370,18 +103986,18 @@
         "LEAGUE6_1":"NINJA",
         "LEAGUE6_2":"NINJA",
         "LEAGUE6_3":"NINJA",
-        "LEAGUE7_1":"DESTROYER",
-        "LEAGUE7_2":"DESTROYER",
-        "LEAGUE7_3":"DESTROYER",
+        "LEAGUE7_1":"CHALLENGER",
+        "LEAGUE7_2":"CHALLENGER",
+        "LEAGUE7_3":"CHALLENGER",
         "LEAGUE8_1":"CHAMPION",
         "LEAGUE8_2":"CHAMPION",
         "LEAGUE8_3":"CHAMPION",
-        "LEAGUE9_1":"LEGEND",
-        "LEAGUE9_2":"LEGEND",
-        "LEAGUE9_3":"LEGEND",
-        "LEAGUE10_1":"SUPREME",
-        "LEAGUE10_2":"SUPREME",
-        "LEAGUE10_3":"SUPREME",
+        "LEAGUE9_1":"HERO",
+        "LEAGUE9_2":"HERO",
+        "LEAGUE9_3":"HERO",
+        "LEAGUE10_1":"LEGEND",
+        "LEAGUE10_2":"LEGEND",
+        "LEAGUE10_3":"LEGEND",
         "LEAGUE11_1":"SUPERSTAR",
         "LEAGUE11_2":"SUPERSTAR",
         "LEAGUE11_3":"SUPERSTAR",
@@ -102492,7 +104108,7 @@
         "BUTTON_GO_HOME":"GO HOME",
         "HEAL_COMMANDER":"HEAL COMMANDER?",
         "HEAL_N_ATTACK":"HEAL & ATTACK",
-        "ATTACK_WITHOUT":"ATTACK\\nWITHOUT",
+        "ATTACK_WITHOUT":"ATTACK WITHOUT",
         "CLAN_LOCATION_UNKNOWN":"NOT SET",
         "EUROPE":"Europe",
         "NORTH_AMERICA":"North America",
@@ -102780,7 +104396,7 @@
         "OWN_MAP":"OWN\\nMAP",
         "TROOPS_IN_USE":"TROOPS",
         "DOMINATION_ATTACK_EVENT_BATTLE_STARTED":"ATTACK STARTED",
-        "DOMINATION_ATTACK_EVENT_ONE_STAR_RECEIVED":"FIRST STAR GAINED",
+        "DOMINATION_ATTACK_EVENT_ONE_STAR_RECEIVED":"1 STAR GAINED",
         "DOMINATION_ATTACK_EVENT_TWO_STARS_RECEIVED":"2 STARS GAINED",
         "DOMINATION_ATTACK_EVENT_THREE_STARS_RECEIVED":"3 STARS GAINED",
         "DOMINATION_UNDER_ATTACK_BY":"<name> vs",
@@ -102797,6 +104413,7 @@
         "CAN_NOT_SCOUT_PLAYER":"Get at least 1 Star on previous bases first",
         "WATCH_LIVE":"Watch Live",
         "UI_TOP_VIEWERS_TITLE":"SPECTATORS",
+        "SHOP_TAB_CHESTS":"BOXES",
         "SHOP_TAB_CARDS":"DAILY DEALS",
         "SHOP_TAB_RESOURCES":"GOLD",
         "SHOP_TAB_BILLING_PACKAGES":"GEMS",
@@ -102879,9 +104496,9 @@
         "DIAMOND_PACK_3":"BARREL OF GEMS",
         "DIAMOND_PACK_4":"TRUCK OF GEMS",
         "DIAMOND_PACK_5":"ALL THE GEMS",
-        "RESOURCE_PACK_GOLD_SMALL":"FILL BY 10%",
-        "RESOURCE_PACK_GOLD_MEDIUM":"FILL BY HALF",
-        "RESOURCE_PACK_GOLD_BIG":"FILL STORAGE",
+        "RESOURCE_PACK_GOLD_SMALL":"FILL BY 25%",
+        "RESOURCE_PACK_GOLD_MEDIUM":"FILL BY 50%",
+        "RESOURCE_PACK_GOLD_BIG":"FILL TO MAX",
         "DOMINATION_MATCHMAKE_CANCEL_FAILED_NEED_TO_BE_LEADER":"Canceling matchmake failed. Only team leader can cancel matchmake",
         "DOMINATION_MATCHMAKE_CANCEL_FAILED_GENERIC":"Canceling matchmake failed.",
         "DOMINATION_MATCHMAKE_CANCEL_FAILED_NOT_IN_ALLIANCE":"Canceling matchmake failed. Not in a Team",
@@ -103032,7 +104649,7 @@
         "DOMINATION_REWARD_CHEST_TOOLTIP":"The more Stars your Team earns, the better this box gets!\\n\\nThis box also gets better as you upgrade your HQ.",
         "DEFENCE_LOG_TOOLTIP":"Collect 100 Stars to receive a DEFENSE BOX!",
         "CLAN_RESEARCH_TOOLTIP":"Donate gold to help research a bonus defense. Once complete, everyone who donated can place the bonus defense in their GOLD MINE!",
-        "SEASON_INFO_TOOLTIP":"A League Season lasts 2 weeks.\\n\\nAt the end of each League Season you lose 50% of your Stars above 3000.\\n\\nThroughout the League Season you can collect all rewards above 3000 again!",
+        "SEASON_INFO_TOOLTIP":"At the end of each League Season you lose 50% of your Stars above 3000.\\n\\nDuring each League Season you can collect all rewards above 3000 Stars again!",
         "CAN_BE_FOUND_LATER":"Can be found at HQ <num>",
         "CARD_NOT_FOUND_YET":"Not found yet!",
         "INBOX_EMPTY_TITLE":"You have no new messages.",
@@ -103128,10 +104745,14 @@
         "TIP23":"In Team Domination you can attack as many times as you have troops left to use!",
         "TIP24":"In Team Domination, the key to victory is being efficient with how many troops you use per attack.",
         "TIP25":"Get to the Chopper!",
-        "TIP26":"You can store a second bonus defense, ready to be placed, while you still have one active in your Gold Mine.",
+        "TIP26":"Each Star you earn in battle gives you a bit of XP.",
         "TIP27":"Every bit of damage you deal to a Star Building adds to the gold you get at the end of the battle!",
         "TIP28":"You can remove obstacles, such as exploding barrels, from your Gold Mine and Domination bases.",
         "TIP29":"When removing obstacles from your Gold Mine or Domination bases, sometimes you'll find Gems!",
+        "TIP30":"Gain XP Levels by upgrading your cards. Higher XP Levels are required to upgrade your HQ.",
+        "TIP31":"Upgrade your HQ to get better Free Boxes!",
+        "TIP32":"You get assigned new attack cards every 3 battle boxes!",
+        "TIP33":"Every time you find a new Gold Mine, you get assigned new defense cards!",
         "INFO_POP_UP_IAP_NOTE_TITLE":"In-App Purchases",
         "INFO_POP_UP_IAP_NOTE":"Rush Wars is free to play, but you can speed up your progress with in-app purchases. If desired, purchases can be disabled in your device's settings. You must also be 13+ to play.",
         "INFO_POP_UP_IAP_NOTE_ANDROID":"Rush Wars is free to play, but you can speed up your progress with in-app purchases. To disable this, set up password protection for purchases in your Google Play Store app settings. You must also be 13+ to play.",
@@ -103167,6 +104788,44 @@
         "REMOVE_FRIEND_CONFIRMATION":"Remove <name> from your friends list?",
         "SHOP_GOLD_STORAGE_FULL":"GOLD STORAGE FULL!",
         "JOIN_REQUEST_NO_MESSAGE":"I'd like to join your awesome Team please!",
-        "FREE_SUPPLY_NOT_UNLOCKED":"FREE BOX delivery coming soon!"
+        "FREE_SUPPLY_NOT_UNLOCKED":"FREE BOX delivery coming soon!",
+        "CONFIRM_REROLL_TITLE":"Refresh Cards",
+        "CONFIRM_REROLL_TEXT":"Refresh ATTACK CARDS?",
+        "REFRESH_CARDS":"Refresh Cards",
+        "ASSIGNING_NEW_ATTACK_CARDS":"Assigning new\\nattack cards!",
+        "TROOP_REFRESH_TXT_BATTLE_END_3":"ATTACK CARDS REFRESH IN:",
+        "TROOP_REFRESH_TXT_BATTLE_END_2":"ATTACK CARDS REFRESHED",
+        "YOU_FOUND_GOLDMINE_3":"YOU FOUND A GOLD MINE!",
+        "FIND_NEW_GOLDMINE":"FIND A NEW ONE",
+        "BUTTON_I_TAKE_IT":"KEEP THIS ONE",
+        "EXP_LEVEL_CHANGE_POPUP_TITLE":"XP Levels Changed!",
+        "EXP_LEVEL_CHANGE_POPUP_TEXT":"XP Levels will increase for most of the players \u2013 all levels with all of it's rewards awarded normally, no XP is lost!",
+        "CANT_SHOW_UNITS_ON_THIS_NODE":"Advance further to see the units!",
+        "DOMINATION_CANT_SCOUT":"Scout available when your Team has advanced further on the map!",
+        "CONFIRM_CHANGE_LOCATION_TITLE":"FIND NEW GOLD MINE",
+        "CONFIRM_CHANGE_LOCATION_TEXT":"Find a new GOLD MINE and refresh your DEFENSE CARDS?",
+        "CONFIRM_CLAN_FULL_TITLE":"Team Full",
+        "CONFIRM_CLAN_FULL":"Unable to join <clan>. The Team is full!",
+        "ASSIGNING_DEFENCE_CARDS":"Assigning new defense cards!",
+        "MAX_LOOT_REACHED":"GOLD LOOT CAP REACHED!",
+        "RETRAIN_LAST_SQUAD":"RETRAIN\\nLAST\\nSQUAD",
+        "REFRESHING_CARDS_BE_PATIENT":"Refreshing ATTACK CARDS, please be patient...",
+        "FINDING_NEW_GOLD_MINE_BE_PATIENT":"Finding new GOLD MINE, please be patient...",
+        "NEW_MESSAGES":"NEW MESSAGES",
+        "CHEST_NEW_CARD_UNLOCKED":"NEW CARD\\nUNLOCKED!",
+        "NICE":"NICE!",
+        "SHOP_CARDS_RARES":"Rares",
+        "SHOP_CARDS_EPICS":"Epics",
+        "SHOP_CARDS_COMMANDERS":"Commanders",
+        "SHOP_BOX_CONTAINS_CARDS":"CARDS",
+        "DOMINATION_ATTACK_TITLE":"ATTACK <name>",
+        "CARDS_REFRESH_IN":"CARDS REFRESH IN:",
+        "GOLDMINE_FULL":"FULL!",
+        "CHANCE_OF":"CHANCE OF",
+        "CHANCE_1_IN_X_BOXES":"1 in <num> BOXES CONTAIN AN <name> CARD!",
+        "COMMANDER_TEXT_SHUFFLE":"Time to switch things up! Now, every three battle BOXES will give you fresh TROOPS to raid with!",
+        "WAR_DATA_ERROR_NO_LONGER_AVAILABLE":"Data no longer available",
+        "WAR_DATA_ERROR_INTERNAL":"Data not available \u2013 Internal error",
+        "WAR_DATA_ERROR_INVALID_WAR":"Data not available \u2013 Invalid war"
     }
 }

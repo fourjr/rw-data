@@ -24,6 +24,49 @@ parser.add_argument('-f', '--files', nargs='*', dest='files')
 args = parser.parse_args()
 
 
+def get_image_url(scId, data):
+    base = 'https://www.rushstats.com/assets'
+    if not data.get('tID'):
+        return
+    name = TID['en'][data['tID']].title().replace(' ', '-')
+
+    if isinstance(scId, int):
+        if scId >= 50000000:
+            return base + "/defense/" + name + ".png"
+        elif scId >= 49000000:
+            return base + "/troop/" + name + ".png"
+        elif scId >= 48000000:
+            return base + "/commander/" + name + ".png"
+        elif scId >= 46000000:
+            return base + "/airdrop/" + name + ".png"
+        elif scId < 1000000:
+            # team badgeId
+            return base + "/team/" + name + ".png"
+        else:
+            return base + "/404-image-not-found-ask-us-on-discord.png"
+
+    elif isinstance(scId, str):
+        ids = data['name'].strip('League').split('_')
+        if len(ids) > 1:
+            id2 = ids[1]
+
+        if name == 'No-League':
+            return [
+                base + "/league/No-League.png",
+                base + "/league/No-League.png"
+            ]
+        elif name == "Elite":
+            return [
+                base + "/league/" + name + ".png",
+                base + "/league/sub/" + name + ".png",
+            ]
+        else:
+            return [
+                base + "/league/" + name + ".png",
+                base + "/league/sub/" + id2 + ".png",
+            ]
+
+
 def cleanup(value):
     if isinstance(value, str):
         # Typing
@@ -128,9 +171,13 @@ if __name__ == '__main__':
                 if fn in config['scId']:
                     if not i.get('tID') or TID['en'].get(i['tID']):
                         i['scId'] = config['scId'][fn] + sc_id_index
+                        i['url'] = get_image_url(i['scId'], i)
                         sc_id_index += 1
                     else:
                         i['scId'] = 0
+
+                if fn == 'leagues.csv':
+                    i['url'] = get_image_url('league', i)
 
                 for j in i_keys:
                     i[j] = cleanup(i[j])
