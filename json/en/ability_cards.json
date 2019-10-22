@@ -71,7 +71,7 @@
         "trainingCost":null,
         "unlockLevel":1,
         "cardFileName":"sc\/ui_portraits.sc",
-        "cardExportName":"portrait_airdrop_arcade",
+        "cardExportName":"portrait_airdrop_arcade_coffin",
         "housingSpace":1,
         "type":"PROJECTILE",
         "endBattleWhenInHand":null,

@@ -195,5 +195,26 @@
         "maxStoredGold":null,
         "rawTID":"BUILDING_HELIBASE",
         "rawInfoTID":"BUILDING_INFO_HELIBASE"
+    },
+    {
+        "name":"HOME_ChestConveyor",
+        "tID":null,
+        "infoTID":null,
+        "fileName":"sc\/home_buildings.sc",
+        "exportName":"env_home_conveyor_01",
+        "exportNameShadow":null,
+        "exportNameConstruction":null,
+        "onWater":null,
+        "width":4,
+        "height":10,
+        "scale":100,
+        "offsetY":null,
+        "shadowScaleX":100,
+        "shadowScaleY":100,
+        "shadowX":null,
+        "shadowY":null,
+        "shadowSkew":null,
+        "shadowRotate":null,
+        "maxStoredGold":null
     }
 ]

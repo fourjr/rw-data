@@ -36,9 +36,9 @@
         "name":4,
         "tID":"CHOPPER \u2013 LEVEL 4",
         "upgradeGold":5000,
-        "attackHousing":6,
+        "attackHousing":7,
         "airdropHousing":1,
-        "defenceHousing":9,
+        "defenceHousing":8,
         "locations":[
             "Forest",
             "Megacity"

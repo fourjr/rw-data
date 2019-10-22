@@ -19,7 +19,7 @@
         "name":"Forest_1",
         "fileName":"locations\/forest_1.loc.json",
         "environment":"Forest",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -27,7 +27,7 @@
         "name":"Forest_2",
         "fileName":"locations\/forest_2.loc.json",
         "environment":"Forest",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -35,7 +35,7 @@
         "name":"Forest_3",
         "fileName":"locations\/forest_3.loc.json",
         "environment":"Forest",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -43,7 +43,7 @@
         "name":"Forest_4",
         "fileName":"locations\/forest_4.loc.json",
         "environment":"Forest",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -51,7 +51,7 @@
         "name":"Forest_5",
         "fileName":"locations\/forest_5.loc.json",
         "environment":"Forest",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -59,7 +59,7 @@
         "name":"Forest_6",
         "fileName":"locations\/forest_6.loc.json",
         "environment":"Forest",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -75,7 +75,7 @@
         "name":"Forest_8",
         "fileName":"locations\/forest_8.loc.json",
         "environment":"Forest",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -107,7 +107,7 @@
         "name":"Forest_12",
         "fileName":"locations\/forest_12.loc.json",
         "environment":"Forest",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -115,7 +115,7 @@
         "name":"Forest_13",
         "fileName":"locations\/forest_13.loc.json",
         "environment":"Forest",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -123,7 +123,7 @@
         "name":"Forest_14",
         "fileName":"locations\/forest_14.loc.json",
         "environment":"Forest",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -131,7 +131,7 @@
         "name":"Forest_15",
         "fileName":"locations\/forest_15.loc.json",
         "environment":"Forest",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -139,7 +139,7 @@
         "name":"Forest_16",
         "fileName":"locations\/forest_16.loc.json",
         "environment":"Forest",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -147,7 +147,7 @@
         "name":"Forest_17",
         "fileName":"locations\/forest_17.loc.json",
         "environment":"Forest",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -163,7 +163,7 @@
         "name":"Forest_19",
         "fileName":"locations\/forest_19.loc.json",
         "environment":"Forest",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -339,7 +339,7 @@
         "name":"Megacity_01",
         "fileName":"locations\/megacity_01.loc.json",
         "environment":"Megacity",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -379,7 +379,7 @@
         "name":"Desert_3",
         "fileName":"locations\/desert_3.loc.json",
         "environment":"Desert",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -387,7 +387,7 @@
         "name":"Megacity_11",
         "fileName":"locations\/megacity_11.loc.json",
         "environment":"Megacity",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -395,7 +395,7 @@
         "name":"Megacity_12",
         "fileName":"locations\/megacity_12.loc.json",
         "environment":"Megacity",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -403,7 +403,7 @@
         "name":"Megacity_13",
         "fileName":"locations\/megacity_13.loc.json",
         "environment":"Megacity",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -411,7 +411,7 @@
         "name":"Desert_4",
         "fileName":"locations\/desert_4.loc.json",
         "environment":"Desert",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -427,7 +427,7 @@
         "name":"Megacity_14",
         "fileName":"locations\/megacity_14.loc.json",
         "environment":"Megacity",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -435,7 +435,7 @@
         "name":"Megacity_15",
         "fileName":"locations\/megacity_15.loc.json",
         "environment":"Megacity",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -443,7 +443,7 @@
         "name":"Megacity_16",
         "fileName":"locations\/megacity_16.loc.json",
         "environment":"Megacity",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -451,7 +451,7 @@
         "name":"Desert_11",
         "fileName":"locations\/desert_11.loc.json",
         "environment":"Desert",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -459,7 +459,7 @@
         "name":"Desert_6",
         "fileName":"locations\/desert_6.loc.json",
         "environment":"Desert",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -475,7 +475,7 @@
         "name":"Megacity_04",
         "fileName":"locations\/megacity_04.loc.json",
         "environment":"Megacity",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -491,7 +491,7 @@
         "name":"Desert_12",
         "fileName":"locations\/desert_12.loc.json",
         "environment":"Desert",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -499,7 +499,7 @@
         "name":"Desert_8",
         "fileName":"locations\/desert_8.loc.json",
         "environment":"Desert",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -507,7 +507,7 @@
         "name":"Megacity_05",
         "fileName":"locations\/megacity_05.loc.json",
         "environment":"Megacity",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -531,7 +531,7 @@
         "name":"Megacity_08",
         "fileName":"locations\/megacity_08.loc.json",
         "environment":"Megacity",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -539,7 +539,7 @@
         "name":"Megacity_09",
         "fileName":"locations\/megacity_09.loc.json",
         "environment":"Megacity",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -547,7 +547,7 @@
         "name":"Megacity_17",
         "fileName":"locations\/megacity_17.loc.json",
         "environment":"Megacity",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -555,7 +555,7 @@
         "name":"Megacity_18",
         "fileName":"locations\/megacity_18.loc.json",
         "environment":"Megacity",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -563,7 +563,7 @@
         "name":"Megacity_19",
         "fileName":"locations\/megacity_19.loc.json",
         "environment":"Megacity",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -579,7 +579,7 @@
         "name":"Forest_39",
         "fileName":"locations\/forest_39.loc.json",
         "environment":"Forest",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -595,7 +595,7 @@
         "name":"Desert_27",
         "fileName":"locations\/desert_27.loc.json",
         "environment":"Desert",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -603,7 +603,7 @@
         "name":"Desert_29",
         "fileName":"locations\/desert_29.loc.json",
         "environment":"Desert",
-        "canCapture":true,
+        "canCapture":null,
         "domination":null,
         "unlockHQLevel":null
     },
@@ -619,6 +619,342 @@
         "name":"Megacity_26",
         "fileName":"locations\/megacity_26.loc.json",
         "environment":"Megacity",
+        "canCapture":null,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Megacity_01_a",
+        "fileName":"locations\/megacity_01_a.loc.json",
+        "environment":"Megacity",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Megacity_04_a",
+        "fileName":"locations\/megacity_04_a.loc.json",
+        "environment":"Megacity",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Megacity_05_a",
+        "fileName":"locations\/megacity_05_a.loc.json",
+        "environment":"Megacity",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Megacity_08_a",
+        "fileName":"locations\/megacity_08_a.loc.json",
+        "environment":"Megacity",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Megacity_09_a",
+        "fileName":"locations\/megacity_09_a.loc.json",
+        "environment":"Megacity",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Megacity_10_a",
+        "fileName":"locations\/megacity_10_a.loc.json",
+        "environment":"Megacity",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Megacity_11_a",
+        "fileName":"locations\/megacity_11_a.loc.json",
+        "environment":"Megacity",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Megacity_12_a",
+        "fileName":"locations\/megacity_12_a.loc.json",
+        "environment":"Megacity",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Megacity_13_a",
+        "fileName":"locations\/megacity_13_a.loc.json",
+        "environment":"Megacity",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Megacity_14_a",
+        "fileName":"locations\/megacity_14_a.loc.json",
+        "environment":"Megacity",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Megacity_15_a",
+        "fileName":"locations\/megacity_15_a.loc.json",
+        "environment":"Megacity",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Megacity_16_a",
+        "fileName":"locations\/megacity_16_a.loc.json",
+        "environment":"Megacity",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Megacity_17_a",
+        "fileName":"locations\/megacity_17_a.loc.json",
+        "environment":"Megacity",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Megacity_18_a",
+        "fileName":"locations\/megacity_18_a.loc.json",
+        "environment":"Megacity",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Megacity_26_a",
+        "fileName":"locations\/megacity_26_a.loc.json",
+        "environment":"Megacity",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Desert_3_a",
+        "fileName":"locations\/desert_3_a.loc.json",
+        "environment":"Desert",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Desert_4_a",
+        "fileName":"locations\/desert_4_a.loc.json",
+        "environment":"Desert",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Desert_6_a",
+        "fileName":"locations\/desert_6_a.loc.json",
+        "environment":"Desert",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Desert_7_a",
+        "fileName":"locations\/desert_7_a.loc.json",
+        "environment":"Desert",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Desert_8_a",
+        "fileName":"locations\/desert_8_a.loc.json",
+        "environment":"Desert",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Desert_9_a",
+        "fileName":"locations\/desert_9_a.loc.json",
+        "environment":"Desert",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Desert_11_a",
+        "fileName":"locations\/desert_11_a.loc.json",
+        "environment":"Desert",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Desert_12_a",
+        "fileName":"locations\/desert_12_a.loc.json",
+        "environment":"Desert",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Desert_27_a",
+        "fileName":"locations\/desert_27_a.loc.json",
+        "environment":"Desert",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Desert_29_a",
+        "fileName":"locations\/desert_29_a.loc.json",
+        "environment":"Desert",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Forest_1_a",
+        "fileName":"locations\/forest_1_a.loc.json",
+        "environment":"Forest",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Forest_2_a",
+        "fileName":"locations\/forest_2_a.loc.json",
+        "environment":"Forest",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Forest_3_a",
+        "fileName":"locations\/forest_3_a.loc.json",
+        "environment":"Forest",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Forest_4_a",
+        "fileName":"locations\/forest_4_a.loc.json",
+        "environment":"Forest",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Forest_5_a",
+        "fileName":"locations\/forest_5_a.loc.json",
+        "environment":"Forest",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Forest_6_a",
+        "fileName":"locations\/forest_6_a.loc.json",
+        "environment":"Forest",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Forest_7_a",
+        "fileName":"locations\/forest_7_a.loc.json",
+        "environment":"Forest",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Forest_8_a",
+        "fileName":"locations\/forest_8_a.loc.json",
+        "environment":"Forest",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Forest_9_a",
+        "fileName":"locations\/forest_9_a.loc.json",
+        "environment":"Forest",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Forest_12_a",
+        "fileName":"locations\/forest_12_a.loc.json",
+        "environment":"Forest",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Forest_13_a",
+        "fileName":"locations\/forest_13_a.loc.json",
+        "environment":"Forest",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Forest_14_a",
+        "fileName":"locations\/forest_14_a.loc.json",
+        "environment":"Forest",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Forest_15_a",
+        "fileName":"locations\/forest_15_a.loc.json",
+        "environment":"Forest",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Forest_16_a",
+        "fileName":"locations\/forest_16_a.loc.json",
+        "environment":"Forest",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Forest_17_a",
+        "fileName":"locations\/forest_17_a.loc.json",
+        "environment":"Forest",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Forest_19_a",
+        "fileName":"locations\/forest_19_a.loc.json",
+        "environment":"Forest",
+        "canCapture":true,
+        "domination":null,
+        "unlockHQLevel":null
+    },
+    {
+        "name":"Forest_39_a",
+        "fileName":"locations\/forest_39_a.loc.json",
+        "environment":"Forest",
         "canCapture":true,
         "domination":null,
         "unlockHQLevel":null

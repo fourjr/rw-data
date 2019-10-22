@@ -148,7 +148,7 @@
         "trainingCost":null,
         "unlockLevel":2,
         "cardFileName":"sc\/ui_portraits.sc",
-        "cardExportName":"portrait_defense_manhole",
+        "cardExportName":"portrait_defense_manhole_skulls",
         "housingSpace":2,
         "spawnCount":1,
         "spawnCharacters":"PlumberHut",

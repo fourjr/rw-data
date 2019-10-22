@@ -25,5 +25,14 @@
         "iconSWF":"sc\/ui_portraits.sc",
         "iconExportName":"shop_currency_gold_03_large",
         "rawTID":"RESOURCE_PACK_GOLD_BIG"
+    },
+    {
+        "name":"Gold0",
+        "tID":"FILL BY 10%",
+        "resource":"Gold",
+        "capacityPercent":10,
+        "iconSWF":"sc\/ui_portraits.sc",
+        "iconExportName":"shop_currency_gold_00_large",
+        "rawTID":"RESOURCE_PACK_GOLD_XSMALL"
     }
 ]

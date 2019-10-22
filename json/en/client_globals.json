@@ -1100,5 +1100,21 @@
         "textValue":null,
         "stringArray":null,
         "numberArray":null
+    },
+    {
+        "name":"USE_DOMINATION_NUDGE",
+        "numberValue":null,
+        "booleanValue":true,
+        "textValue":null,
+        "stringArray":null,
+        "numberArray":null
+    },
+    {
+        "name":"CONFIRM_COMMANDER_HEALING",
+        "numberValue":null,
+        "booleanValue":true,
+        "textValue":null,
+        "stringArray":null,
+        "numberArray":null
     }
 ]

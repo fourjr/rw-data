@@ -112,6 +112,14 @@
         "numberArray":null
     },
     {
+        "name":"REFILL_LIFE_COST_1_HOUR",
+        "numberValue":6,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":null,
+        "numberArray":null
+    },
+    {
         "name":"TRAINING_TROOP_SLOTS",
         "numberValue":-1,
         "booleanValue":null,
@@ -205,7 +213,7 @@
     },
     {
         "name":"ALLIANCE_CREATE_COST",
-        "numberValue":50,
+        "numberValue":1000,
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
@@ -1305,7 +1313,7 @@
     },
     {
         "name":"AVAILABLE_BATTLE_LOOT_TIMES",
-        "numberValue":200,
+        "numberValue":100,
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
@@ -1432,7 +1440,7 @@
     },
     {
         "name":"DEFENCE_TROOP_COUNT",
-        "numberValue":4,
+        "numberValue":5,
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
@@ -1440,7 +1448,7 @@
     },
     {
         "name":"DEFENCE_BUILDING_COUNT",
-        "numberValue":4,
+        "numberValue":5,
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,
@@ -1465,6 +1473,14 @@
     {
         "name":"EXTRA_GOLD_PER_AIRDROP_HOUSING",
         "numberValue":20,
+        "booleanValue":null,
+        "textValue":null,
+        "stringArray":null,
+        "numberArray":null
+    },
+    {
+        "name":"TEAM_JOIN_BONUS",
+        "numberValue":25,
         "booleanValue":null,
         "textValue":null,
         "stringArray":null,

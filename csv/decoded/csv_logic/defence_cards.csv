@@ -6,7 +6,7 @@
 "Wall","TID_CARD_WALL","TID_CARD_INFO_WALL","Common",,4,"sc/ui_portraits.sc","portrait_defense_wall",1,1,"Wall",1,1,0,10,,,"NOT_AVAILABLE",,,
 "Wall_H","TID_CARD_WALL","TID_CARD_INFO_WALL","Common",,-1,"sc/ui_portraits.sc","portrait_defense_wall",1,1,"Wall",1,1,0,10,,,"NOT_AVAILABLE",,,
 "Cannon","TID_CARD_CANNON","TID_CARD_INFO_CANNON","Common",,2,"sc/ui_portraits.sc","portrait_defense_canon",2,1,"Cannon",3,3,0,1,,,"BACK",,,
-"PlumberHut","TID_CARD_PLUMBER_HUT","TID_CARD_INFO_PLUMBER_HUT","Rare",,2,"sc/ui_portraits.sc","portrait_defense_manhole",2,1,"PlumberHut",3,3,0,1,,,,,,
+"PlumberHut","TID_CARD_PLUMBER_HUT","TID_CARD_INFO_PLUMBER_HUT","Rare",,2,"sc/ui_portraits.sc","portrait_defense_manhole_skulls",2,1,"PlumberHut",3,3,0,1,,,,,,
 "RandomUnit","TID_CARD_RANDOM","TID_CARD_INFO_RANDOM","Common",,-1,"sc/ui_portraits.sc","character_image_random_unit",1,1,"RandomUnit",3,3,0,,"true",,,,,
 "Cake","TID_CARD_CAKE","TID_CARD_INFO_CAKE","Rare",,4,"sc/ui_portraits.sc","portrait_defense_cluster_mine",1,1,"Cake",1,1,0,1,,,,,,
 "Gatling","TID_CARD_GATLING","TID_CARD_INFO_GATLING","Rare",,4,"sc/ui_portraits.sc","portrait_defense_gattling_gun",2,1,"Gatling",3,3,0,1,,,"BACK",,,

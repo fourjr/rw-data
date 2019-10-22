@@ -352,5 +352,11 @@
         "value":null,
         "scId":7000058,
         "url":null
+    },
+    {
+        "name":"HasReceivedJoinReward",
+        "value":null,
+        "scId":7000059,
+        "url":null
     }
 ]

@@ -72,7 +72,7 @@
             "trainingCost":null,
             "unlockLevel":1,
             "cardFileName":"sc\/ui_portraits.sc",
-            "cardExportName":"portrait_airdrop_arcade",
+            "cardExportName":"portrait_airdrop_arcade_coffin",
             "housingSpace":1,
             "type":"PROJECTILE",
             "endBattleWhenInHand":null,
@@ -239,15 +239,25 @@
             "idleExportName":"commander_marine_hud_01",
             "happyExportName":"commander_marine_hud_02",
             "sadExportName":"commander_marine_hud_03",
+            "lives":[
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3
+            ],
             "regenerationTimeMinutes":[
-                20,
-                24,
-                28,
-                32,
-                36,
-                40,
-                44,
-                48
+                60,
+                60,
+                60,
+                60,
+                60,
+                60,
+                60,
+                60
             ],
             "housingSpace":null,
             "spawnCount":1,
@@ -284,15 +294,25 @@
             "idleExportName":"commander_grenademama_hud_01",
             "happyExportName":"commander_grenademama_hud_02",
             "sadExportName":"commander_grenademama_hud_03",
+            "lives":[
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3
+            ],
             "regenerationTimeMinutes":[
-                20,
-                24,
-                28,
-                32,
-                36,
-                40,
-                44,
-                48
+                60,
+                60,
+                60,
+                60,
+                60,
+                60,
+                60,
+                60
             ],
             "housingSpace":null,
             "spawnCount":1,
@@ -329,15 +349,25 @@
             "idleExportName":"commander_dino_hud_01",
             "happyExportName":"commander_dino_hud_02",
             "sadExportName":"commander_dino_hud_03",
+            "lives":[
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3
+            ],
             "regenerationTimeMinutes":[
-                20,
-                24,
-                28,
-                32,
-                36,
-                40,
-                44,
-                48
+                60,
+                60,
+                60,
+                60,
+                60,
+                60,
+                60,
+                60
             ],
             "housingSpace":null,
             "spawnCount":1,
@@ -374,15 +404,25 @@
             "idleExportName":"commander_bear_hud_01",
             "happyExportName":"commander_bear_hud_02",
             "sadExportName":"commander_bear_hud_03",
+            "lives":[
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3
+            ],
             "regenerationTimeMinutes":[
-                20,
-                24,
-                28,
-                32,
-                36,
-                40,
-                44,
-                48
+                60,
+                60,
+                60,
+                60,
+                60,
+                60,
+                60,
+                60
             ],
             "housingSpace":null,
             "spawnCount":1,
@@ -419,15 +459,25 @@
             "idleExportName":"commander_egg_tank_hud_01",
             "happyExportName":"commander_egg_tank_hud_02",
             "sadExportName":"commander_egg_tank_hud_03",
+            "lives":[
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3
+            ],
             "regenerationTimeMinutes":[
-                20,
-                24,
-                28,
-                32,
-                36,
-                40,
-                44,
-                48
+                60,
+                60,
+                60,
+                60,
+                60,
+                60,
+                60,
+                60
             ],
             "housingSpace":null,
             "spawnCount":1,
@@ -602,7 +652,7 @@
             "trainingCost":null,
             "unlockLevel":2,
             "cardFileName":"sc\/ui_portraits.sc",
-            "cardExportName":"portrait_defense_manhole",
+            "cardExportName":"portrait_defense_manhole_skulls",
             "housingSpace":2,
             "spawnCount":1,
             "spawnCharacters":"PlumberHut",
@@ -1341,19 +1391,17 @@
             "cardFileName":"sc\/ui_portraits.sc",
             "cardExportName":"portrait_troop_infantry",
             "housingSpace":1,
-            "spawnCount":4,
+            "spawnCount":3,
             "spawnCharacters":"Soldier",
             "spawnTileOffsetX":[
                 1,
                 1,
-                3,
                 3
             ],
             "spawnTileOffsetY":[
                 1,
                 3,
-                1,
-                3
+                2
             ],
             "spawnLevelIndex":0,
             "maxDeployCount":null,
@@ -1384,7 +1432,7 @@
             "editModeOnly":null,
             "upgradeLevelFrom":null,
             "levelGenGuide":"BACK",
-            "scId":49000004,
+            "scId":49000003,
             "url":"https:\/\/www.rushstats.com\/assets\/troop\/Pitcher.png",
             "rawTID":"CARD_GRENADE",
             "rawInfoTID":"CARD_INFO_GRENADE"
@@ -1414,7 +1462,7 @@
             "editModeOnly":null,
             "upgradeLevelFrom":null,
             "levelGenGuide":"FRONT",
-            "scId":49000005,
+            "scId":49000004,
             "url":"https:\/\/www.rushstats.com\/assets\/troop\/Shields.png",
             "rawTID":"CARD_SHIELD",
             "rawInfoTID":"CARD_INFO_SHIELD"
@@ -1438,7 +1486,7 @@
             "editModeOnly":null,
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
-            "scId":49000007,
+            "scId":49000006,
             "url":"https:\/\/www.rushstats.com\/assets\/troop\/Tank.png",
             "rawTID":"CARD_TANK",
             "rawInfoTID":"CARD_INFO_TANK"
@@ -1462,7 +1510,7 @@
             "editModeOnly":null,
             "upgradeLevelFrom":null,
             "levelGenGuide":"BACK",
-            "scId":49000008,
+            "scId":49000007,
             "url":"https:\/\/www.rushstats.com\/assets\/troop\/Bazooka.png",
             "rawTID":"CARD_BAZOOKA",
             "rawInfoTID":"CARD_INFO_BAZOOKA"
@@ -1475,7 +1523,7 @@
             "trainingCost":0,
             "unlockLevel":4,
             "cardFileName":"sc\/ui_portraits.sc",
-            "cardExportName":"portrait_troop_apc",
+            "cardExportName":"portrait_troop_apc_skulls",
             "housingSpace":2,
             "spawnCount":1,
             "spawnCharacters":"PlumberVan",
@@ -1486,7 +1534,7 @@
             "editModeOnly":null,
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
-            "scId":49000009,
+            "scId":49000008,
             "url":"https:\/\/www.rushstats.com\/assets\/troop\/Plumber-Van.png",
             "rawTID":"CARD_PLUMBER_VAN",
             "rawInfoTID":"CARD_INFO_APC"
@@ -1516,7 +1564,7 @@
             "editModeOnly":null,
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
-            "scId":49000010,
+            "scId":49000009,
             "url":"https:\/\/www.rushstats.com\/assets\/troop\/Jetpacks.png",
             "rawTID":"CARD_JETPACK",
             "rawInfoTID":"CARD_INFO_JETPACK"
@@ -1540,7 +1588,7 @@
             "editModeOnly":null,
             "upgradeLevelFrom":null,
             "levelGenGuide":"FRONT",
-            "scId":49000012,
+            "scId":49000011,
             "url":"https:\/\/www.rushstats.com\/assets\/troop\/Gorilla.png",
             "rawTID":"CARD_GORILLA",
             "rawInfoTID":"CARD_INFO_GORILLA"
@@ -1564,7 +1612,7 @@
             "editModeOnly":null,
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
-            "scId":49000013,
+            "scId":49000012,
             "url":"https:\/\/www.rushstats.com\/assets\/troop\/Hotshot.png",
             "rawTID":"CARD_SHOTGUN",
             "rawInfoTID":"CARD_INFO_SHOTGUN"
@@ -1588,7 +1636,7 @@
             "editModeOnly":null,
             "upgradeLevelFrom":null,
             "levelGenGuide":"BACK",
-            "scId":49000014,
+            "scId":49000013,
             "url":"https:\/\/www.rushstats.com\/assets\/troop\/Laser.png",
             "rawTID":"CARD_LASER",
             "rawInfoTID":"CARD_INFO_LASER"
@@ -1612,7 +1660,7 @@
             "editModeOnly":null,
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
-            "scId":49000015,
+            "scId":49000014,
             "url":"https:\/\/www.rushstats.com\/assets\/troop\/Boxer.png",
             "rawTID":"CARD_BOXER",
             "rawInfoTID":"CARD_INFO_BOXER"
@@ -1650,7 +1698,7 @@
             "editModeOnly":null,
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
-            "scId":49000016,
+            "scId":49000015,
             "url":"https:\/\/www.rushstats.com\/assets\/troop\/Henchmen.png",
             "rawTID":"CARD_TAZER",
             "rawInfoTID":"CARD_INFO_TAZER"
@@ -1674,7 +1722,7 @@
             "editModeOnly":null,
             "upgradeLevelFrom":null,
             "levelGenGuide":"BACK",
-            "scId":49000022,
+            "scId":49000021,
             "url":"https:\/\/www.rushstats.com\/assets\/troop\/Helipod.png",
             "rawTID":"CARD_HELIPOD",
             "rawInfoTID":"CARD_INFO_HELIPOD"
@@ -1698,7 +1746,7 @@
             "editModeOnly":null,
             "upgradeLevelFrom":null,
             "levelGenGuide":"BACK",
-            "scId":49000023,
+            "scId":49000022,
             "url":"https:\/\/www.rushstats.com\/assets\/troop\/Blaze.png",
             "rawTID":"CARD_FLAMETHROWER",
             "rawInfoTID":"CARD_INFO_FLAMETHROWER"
@@ -1722,7 +1770,7 @@
             "editModeOnly":null,
             "upgradeLevelFrom":null,
             "levelGenGuide":"BACK",
-            "scId":49000024,
+            "scId":49000023,
             "url":"https:\/\/www.rushstats.com\/assets\/troop\/Rocket-Truck.png",
             "rawTID":"CARD_BOMBARDTANK",
             "rawInfoTID":"CARD_INFO_BOMBARDTANK"
@@ -1745,14 +1793,14 @@
             ],
             "spawnTileOffsetY":[
                 1,
-                3
+                5
             ],
             "spawnLevelIndex":0,
             "maxDeployCount":null,
             "editModeOnly":null,
             "upgradeLevelFrom":null,
             "levelGenGuide":"BACK",
-            "scId":49000025,
+            "scId":49000024,
             "url":"https:\/\/www.rushstats.com\/assets\/troop\/Kungfu.png",
             "rawTID":"CARD_KUNGFU",
             "rawInfoTID":"CARD_INFO_KUNGFU"
@@ -1776,7 +1824,7 @@
             "editModeOnly":null,
             "upgradeLevelFrom":null,
             "levelGenGuide":null,
-            "scId":49000027,
+            "scId":49000026,
             "url":"https:\/\/www.rushstats.com\/assets\/troop\/Sneaky-Ninja.png",
             "rawTID":"CARD_WHITENINJA",
             "rawInfoTID":"CARD_INFO_WHITE_NINJA"
@@ -2135,6 +2183,12 @@
             "name":"NewDefenceUnitsPending",
             "value":null,
             "scId":7000058,
+            "url":null
+        },
+        {
+            "name":"HasReceivedJoinReward",
+            "value":null,
+            "scId":7000059,
             "url":null
         }
     ]
